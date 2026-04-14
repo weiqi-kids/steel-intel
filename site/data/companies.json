@@ -1,0 +1,564 @@
+{
+  "companies": [
+    {
+      "id": "vale",
+      "name": "Vale S.A.",
+      "short_name": "淡水河谷",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "bhp",
+      "name": "BHP Group",
+      "short_name": "必和必拓",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "x": 0.085,
+      "y": 0.34
+    },
+    {
+      "id": "rio_tinto",
+      "name": "Rio Tinto",
+      "short_name": "力拓",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "x": 0.119,
+      "y": 0.34
+    },
+    {
+      "id": "fortescue",
+      "name": "Fortescue Ltd",
+      "short_name": "FMG",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "x": 0.154,
+      "y": 0.34
+    },
+    {
+      "id": "warrior_met",
+      "name": "Warrior Met Coal",
+      "short_name": "Warrior Met Coal",
+      "position": "upstream",
+      "role": "焦煤",
+      "x": 0.188,
+      "y": 0.34
+    },
+    {
+      "id": "suncoke",
+      "name": "SunCoke Energy",
+      "short_name": "SunCoke Energy",
+      "position": "upstream",
+      "role": "焦炭",
+      "x": 0.223,
+      "y": 0.34
+    },
+    {
+      "id": "cmc",
+      "name": "Commercial Metals",
+      "short_name": "Commercial Metals",
+      "position": "upstream",
+      "role": "廢鋼回收",
+      "x": 0.258,
+      "y": 0.34
+    },
+    {
+      "id": "arcelormittal",
+      "name": "ArcelorMittal",
+      "short_name": "安賽樂米塔爾",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.292,
+      "y": 0.34
+    },
+    {
+      "id": "nippon_steel",
+      "name": "Nippon Steel",
+      "short_name": "日本製鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.327,
+      "y": 0.34
+    },
+    {
+      "id": "jfe",
+      "name": "JFE Holdings",
+      "short_name": "JFE鋼鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.362,
+      "y": 0.34
+    },
+    {
+      "id": "posco",
+      "name": "POSCO Holdings",
+      "short_name": "浦項製鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.396,
+      "y": 0.34
+    },
+    {
+      "id": "tata_steel",
+      "name": "Tata Steel",
+      "short_name": "塔塔鋼鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.431,
+      "y": 0.34
+    },
+    {
+      "id": "nucor",
+      "name": "Nucor",
+      "short_name": "Nucor",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.465,
+      "y": 0.34
+    },
+    {
+      "id": "steel_dynamics",
+      "name": "Steel Dynamics",
+      "short_name": "Steel Dynamics",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "cleveland_cliffs",
+      "name": "Cleveland-Cliffs",
+      "short_name": "Cleveland-Cliffs",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.535,
+      "y": 0.34
+    },
+    {
+      "id": "us_steel",
+      "name": "U.S. Steel",
+      "short_name": "U.S. Steel",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.569,
+      "y": 0.34
+    },
+    {
+      "id": "gerdau",
+      "name": "Gerdau",
+      "short_name": "Gerdau",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.604,
+      "y": 0.34
+    },
+    {
+      "id": "china_steel",
+      "name": "China Steel Corp",
+      "short_name": "中鋼",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.638,
+      "y": 0.34
+    },
+    {
+      "id": "chung_hung",
+      "name": "Chung Hung Steel",
+      "short_name": "中鴻鋼鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.673,
+      "y": 0.34
+    },
+    {
+      "id": "tung_ho",
+      "name": "Tung Ho Steel",
+      "short_name": "東和鋼鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.708,
+      "y": 0.34
+    },
+    {
+      "id": "feng_hsin",
+      "name": "Feng Hsin Steel",
+      "short_name": "豐興鋼鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.742,
+      "y": 0.34
+    },
+    {
+      "id": "baosteel",
+      "name": "Baoshan Steel",
+      "short_name": "寶鋼",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.777,
+      "y": 0.34
+    },
+    {
+      "id": "hyundai_steel",
+      "name": "Hyundai Steel",
+      "short_name": "現代製鐵",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "x": 0.812,
+      "y": 0.34
+    },
+    {
+      "id": "reliance",
+      "name": "Reliance Inc",
+      "short_name": "Reliance Inc",
+      "position": "downstream",
+      "role": "金屬通路",
+      "x": 0.846,
+      "y": 0.34
+    },
+    {
+      "id": "ta_chen",
+      "name": "Ta Chen Stainless",
+      "short_name": "大成鋼",
+      "position": "downstream",
+      "role": "不鏽鋼通路",
+      "x": 0.881,
+      "y": 0.34
+    },
+    {
+      "id": "spring_rain",
+      "name": "Spring Rain",
+      "short_name": "春雨工程",
+      "position": "downstream",
+      "role": "鋼鐵加工",
+      "x": 0.915,
+      "y": 0.34
+    },
+    {
+      "id": "tenaris",
+      "name": "Tenaris",
+      "short_name": "Tenaris",
+      "position": "downstream",
+      "role": "鋼管",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "vale",
+      "target": "arcelormittal",
+      "strength": 2
+    },
+    {
+      "source": "vale",
+      "target": "nippon_steel",
+      "strength": 2
+    },
+    {
+      "source": "vale",
+      "target": "jfe",
+      "strength": 2
+    },
+    {
+      "source": "vale",
+      "target": "posco",
+      "strength": 2
+    },
+    {
+      "source": "vale",
+      "target": "baosteel",
+      "strength": 2
+    },
+    {
+      "source": "vale",
+      "target": "china_steel",
+      "strength": 2
+    },
+    {
+      "source": "vale",
+      "target": "hyundai_steel",
+      "strength": 2
+    },
+    {
+      "source": "bhp",
+      "target": "arcelormittal",
+      "strength": 2
+    },
+    {
+      "source": "bhp",
+      "target": "nippon_steel",
+      "strength": 2
+    },
+    {
+      "source": "bhp",
+      "target": "jfe",
+      "strength": 2
+    },
+    {
+      "source": "bhp",
+      "target": "posco",
+      "strength": 2
+    },
+    {
+      "source": "bhp",
+      "target": "baosteel",
+      "strength": 2
+    },
+    {
+      "source": "bhp",
+      "target": "china_steel",
+      "strength": 2
+    },
+    {
+      "source": "bhp",
+      "target": "hyundai_steel",
+      "strength": 2
+    },
+    {
+      "source": "rio_tinto",
+      "target": "arcelormittal",
+      "strength": 2
+    },
+    {
+      "source": "rio_tinto",
+      "target": "nippon_steel",
+      "strength": 2
+    },
+    {
+      "source": "rio_tinto",
+      "target": "jfe",
+      "strength": 2
+    },
+    {
+      "source": "rio_tinto",
+      "target": "posco",
+      "strength": 2
+    },
+    {
+      "source": "rio_tinto",
+      "target": "baosteel",
+      "strength": 2
+    },
+    {
+      "source": "rio_tinto",
+      "target": "china_steel",
+      "strength": 2
+    },
+    {
+      "source": "rio_tinto",
+      "target": "hyundai_steel",
+      "strength": 2
+    },
+    {
+      "source": "fortescue",
+      "target": "baosteel",
+      "strength": 2
+    },
+    {
+      "source": "fortescue",
+      "target": "china_steel",
+      "strength": 2
+    },
+    {
+      "source": "fortescue",
+      "target": "nippon_steel",
+      "strength": 2
+    },
+    {
+      "source": "fortescue",
+      "target": "posco",
+      "strength": 2
+    },
+    {
+      "source": "warrior_met",
+      "target": "arcelormittal",
+      "strength": 2
+    },
+    {
+      "source": "warrior_met",
+      "target": "nippon_steel",
+      "strength": 2
+    },
+    {
+      "source": "warrior_met",
+      "target": "jfe",
+      "strength": 2
+    },
+    {
+      "source": "warrior_met",
+      "target": "us_steel",
+      "strength": 2
+    },
+    {
+      "source": "warrior_met",
+      "target": "cleveland_cliffs",
+      "strength": 2
+    },
+    {
+      "source": "suncoke",
+      "target": "us_steel",
+      "strength": 2
+    },
+    {
+      "source": "suncoke",
+      "target": "cleveland_cliffs",
+      "strength": 2
+    },
+    {
+      "source": "suncoke",
+      "target": "nucor",
+      "strength": 2
+    },
+    {
+      "source": "cmc",
+      "target": "nucor",
+      "strength": 2
+    },
+    {
+      "source": "cmc",
+      "target": "steel_dynamics",
+      "strength": 2
+    },
+    {
+      "source": "cmc",
+      "target": "gerdau",
+      "strength": 2
+    },
+    {
+      "source": "cmc",
+      "target": "tung_ho",
+      "strength": 2
+    },
+    {
+      "source": "cmc",
+      "target": "feng_hsin",
+      "strength": 2
+    },
+    {
+      "source": "arcelormittal",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "arcelormittal",
+      "target": "tenaris",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "tenaris",
+      "strength": 2
+    },
+    {
+      "source": "jfe",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "jfe",
+      "target": "tenaris",
+      "strength": 2
+    },
+    {
+      "source": "posco",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "posco",
+      "target": "hyundai_steel",
+      "strength": 2
+    },
+    {
+      "source": "tata_steel",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "nucor",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "steel_dynamics",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "cleveland_cliffs",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "us_steel",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "gerdau",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "china_steel",
+      "target": "chung_hung",
+      "strength": 2
+    },
+    {
+      "source": "china_steel",
+      "target": "ta_chen",
+      "strength": 2
+    },
+    {
+      "source": "china_steel",
+      "target": "spring_rain",
+      "strength": 2
+    },
+    {
+      "source": "chung_hung",
+      "target": "ta_chen",
+      "strength": 2
+    },
+    {
+      "source": "chung_hung",
+      "target": "spring_rain",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho",
+      "target": "spring_rain",
+      "strength": 2
+    },
+    {
+      "source": "feng_hsin",
+      "target": "spring_rain",
+      "strength": 2
+    },
+    {
+      "source": "baosteel",
+      "target": "reliance",
+      "strength": 2
+    },
+    {
+      "source": "hyundai_steel",
+      "target": "reliance",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_slx",
+      "name": "VanEck Steel ETF",
+      "ticker": "SLX",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "鋼鐵 ETF，追蹤全球鋼鐵與鐵礦砂公司"
+    }
+  ]
+}
