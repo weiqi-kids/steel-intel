@@ -7,7 +7,7 @@
       "position": "upstream",
       "role": "鐵礦砂",
       "x": 0.05,
-      "y": 0.34
+      "y": 0.04
     },
     {
       "id": "bhp",
@@ -15,8 +15,8 @@
       "short_name": "必和必拓",
       "position": "upstream",
       "role": "鐵礦砂",
-      "x": 0.085,
-      "y": 0.34
+      "x": 0.35,
+      "y": 0.04
     },
     {
       "id": "rio_tinto",
@@ -24,8 +24,8 @@
       "short_name": "力拓",
       "position": "upstream",
       "role": "鐵礦砂",
-      "x": 0.119,
-      "y": 0.34
+      "x": 0.65,
+      "y": 0.04
     },
     {
       "id": "fortescue",
@@ -33,8 +33,8 @@
       "short_name": "FMG",
       "position": "upstream",
       "role": "鐵礦砂",
-      "x": 0.154,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.04
     },
     {
       "id": "warrior_met",
@@ -42,8 +42,8 @@
       "short_name": "Warrior Met Coal",
       "position": "upstream",
       "role": "焦煤",
-      "x": 0.188,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.13
     },
     {
       "id": "suncoke",
@@ -51,8 +51,8 @@
       "short_name": "SunCoke Energy",
       "position": "upstream",
       "role": "焦炭",
-      "x": 0.223,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.21
     },
     {
       "id": "cmc",
@@ -60,8 +60,8 @@
       "short_name": "Commercial Metals",
       "position": "upstream",
       "role": "廢鋼回收",
-      "x": 0.258,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.3
     },
     {
       "id": "arcelormittal",
@@ -69,8 +69,8 @@
       "short_name": "安賽樂米塔爾",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.292,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.5
     },
     {
       "id": "nippon_steel",
@@ -78,8 +78,8 @@
       "short_name": "日本製鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.327,
-      "y": 0.34
+      "x": 0.11,
+      "y": 0.5
     },
     {
       "id": "jfe",
@@ -87,8 +87,8 @@
       "short_name": "JFE鋼鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.362,
-      "y": 0.34
+      "x": 0.17,
+      "y": 0.5
     },
     {
       "id": "posco",
@@ -96,8 +96,8 @@
       "short_name": "浦項製鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.396,
-      "y": 0.34
+      "x": 0.23,
+      "y": 0.5
     },
     {
       "id": "tata_steel",
@@ -105,8 +105,8 @@
       "short_name": "塔塔鋼鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.431,
-      "y": 0.34
+      "x": 0.29,
+      "y": 0.5
     },
     {
       "id": "nucor",
@@ -114,8 +114,8 @@
       "short_name": "Nucor",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.465,
-      "y": 0.34
+      "x": 0.35,
+      "y": 0.5
     },
     {
       "id": "steel_dynamics",
@@ -123,8 +123,8 @@
       "short_name": "Steel Dynamics",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.5,
-      "y": 0.34
+      "x": 0.41,
+      "y": 0.5
     },
     {
       "id": "cleveland_cliffs",
@@ -132,8 +132,8 @@
       "short_name": "Cleveland-Cliffs",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.535,
-      "y": 0.34
+      "x": 0.47,
+      "y": 0.5
     },
     {
       "id": "us_steel",
@@ -141,8 +141,8 @@
       "short_name": "U.S. Steel",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.569,
-      "y": 0.34
+      "x": 0.53,
+      "y": 0.5
     },
     {
       "id": "gerdau",
@@ -150,8 +150,8 @@
       "short_name": "Gerdau",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.604,
-      "y": 0.34
+      "x": 0.59,
+      "y": 0.5
     },
     {
       "id": "china_steel",
@@ -159,8 +159,8 @@
       "short_name": "中鋼",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.638,
-      "y": 0.34
+      "x": 0.65,
+      "y": 0.5
     },
     {
       "id": "chung_hung",
@@ -168,8 +168,8 @@
       "short_name": "中鴻鋼鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.673,
-      "y": 0.34
+      "x": 0.71,
+      "y": 0.5
     },
     {
       "id": "tung_ho",
@@ -177,8 +177,8 @@
       "short_name": "東和鋼鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.708,
-      "y": 0.34
+      "x": 0.77,
+      "y": 0.5
     },
     {
       "id": "feng_hsin",
@@ -186,8 +186,8 @@
       "short_name": "豐興鋼鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.742,
-      "y": 0.34
+      "x": 0.83,
+      "y": 0.5
     },
     {
       "id": "baosteel",
@@ -195,8 +195,8 @@
       "short_name": "寶鋼",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.777,
-      "y": 0.34
+      "x": 0.89,
+      "y": 0.5
     },
     {
       "id": "hyundai_steel",
@@ -204,8 +204,8 @@
       "short_name": "現代製鐵",
       "position": "midstream",
       "role": "鋼鐵製造",
-      "x": 0.812,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.5
     },
     {
       "id": "reliance",
@@ -213,8 +213,8 @@
       "short_name": "Reliance Inc",
       "position": "downstream",
       "role": "金屬通路",
-      "x": 0.846,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "ta_chen",
@@ -222,8 +222,8 @@
       "short_name": "大成鋼",
       "position": "downstream",
       "role": "不鏽鋼通路",
-      "x": 0.881,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.79
     },
     {
       "id": "spring_rain",
@@ -231,8 +231,8 @@
       "short_name": "春雨工程",
       "position": "downstream",
       "role": "鋼鐵加工",
-      "x": 0.915,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.87
     },
     {
       "id": "tenaris",
@@ -240,8 +240,8 @@
       "short_name": "Tenaris",
       "position": "downstream",
       "role": "鋼管",
-      "x": 0.95,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.96
     }
   ],
   "links": [
