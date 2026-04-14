@@ -1,0 +1,151 @@
+{
+  "company_count": 27,
+  "topic_count": 5,
+  "alias_count": 75,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 9,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "vale",
+      "short_name": "Vale S.A.",
+      "tier": ""
+    },
+    {
+      "id": "bhp",
+      "short_name": "BHP Group",
+      "tier": ""
+    },
+    {
+      "id": "rio_tinto",
+      "short_name": "Rio Tinto",
+      "tier": ""
+    },
+    {
+      "id": "fortescue",
+      "short_name": "Fortescue Ltd",
+      "tier": ""
+    },
+    {
+      "id": "warrior_met",
+      "short_name": "Warrior Met Coal",
+      "tier": ""
+    },
+    {
+      "id": "suncoke",
+      "short_name": "SunCoke Energy",
+      "tier": ""
+    },
+    {
+      "id": "cmc",
+      "short_name": "Commercial Metals",
+      "tier": ""
+    },
+    {
+      "id": "arcelormittal",
+      "short_name": "ArcelorMittal",
+      "tier": ""
+    },
+    {
+      "id": "nippon_steel",
+      "short_name": "Nippon Steel",
+      "tier": ""
+    },
+    {
+      "id": "jfe",
+      "short_name": "JFE Holdings",
+      "tier": ""
+    },
+    {
+      "id": "posco",
+      "short_name": "POSCO Holdings",
+      "tier": ""
+    },
+    {
+      "id": "tata_steel",
+      "short_name": "Tata Steel",
+      "tier": ""
+    },
+    {
+      "id": "nucor",
+      "short_name": "Nucor",
+      "tier": ""
+    },
+    {
+      "id": "steel_dynamics",
+      "short_name": "Steel Dynamics",
+      "tier": ""
+    },
+    {
+      "id": "cleveland_cliffs",
+      "short_name": "Cleveland-Cliffs",
+      "tier": ""
+    },
+    {
+      "id": "us_steel",
+      "short_name": "U.S. Steel",
+      "tier": ""
+    },
+    {
+      "id": "gerdau",
+      "short_name": "Gerdau",
+      "tier": ""
+    },
+    {
+      "id": "china_steel",
+      "short_name": "China Steel Corp",
+      "tier": ""
+    },
+    {
+      "id": "chung_hung",
+      "short_name": "Chung Hung Steel",
+      "tier": ""
+    },
+    {
+      "id": "tung_ho",
+      "short_name": "Tung Ho Steel",
+      "tier": ""
+    },
+    {
+      "id": "feng_hsin",
+      "short_name": "Feng Hsin Steel",
+      "tier": ""
+    },
+    {
+      "id": "baosteel",
+      "short_name": "Baoshan Steel",
+      "tier": ""
+    },
+    {
+      "id": "hyundai_steel",
+      "short_name": "Hyundai Steel",
+      "tier": ""
+    },
+    {
+      "id": "reliance",
+      "short_name": "Reliance Inc",
+      "tier": ""
+    },
+    {
+      "id": "ta_chen",
+      "short_name": "Ta Chen Stainless",
+      "tier": ""
+    },
+    {
+      "id": "spring_rain",
+      "short_name": "Spring Rain",
+      "tier": ""
+    },
+    {
+      "id": "tenaris",
+      "short_name": "Tenaris",
+      "tier": ""
+    }
+  ]
+}
