@@ -13,6 +13,7 @@ companies:
   role: 鐵礦砂
   description: 全球最大鐵礦砂生產商
   ir_url: https://www.vale.com/investors
+  rss_url: https://news.google.com/rss/search?q="Vale+S.A."+iron+ore&hl=en&gl=US&ceid=US:en
   downstream:
   - arcelormittal
   - nippon_steel
@@ -33,6 +34,7 @@ companies:
   role: 鐵礦砂
   description: 全球多元化礦業巨頭，鐵礦砂主要供應商
   ir_url: https://www.bhp.com/investors
+  rss_url: https://news.google.com/rss/search?q="BHP+Group"+iron+ore&hl=en&gl=US&ceid=US:en
   downstream:
   - arcelormittal
   - nippon_steel
@@ -52,6 +54,7 @@ companies:
   role: 鐵礦砂
   description: 全球第二大鐵礦砂生產商
   ir_url: https://www.riotinto.com/invest
+  rss_url: https://news.google.com/rss/search?q="Rio+Tinto"&hl=en&gl=US&ceid=US:en
   downstream:
   - arcelormittal
   - nippon_steel
@@ -71,6 +74,7 @@ companies:
   role: 鐵礦砂
   description: 澳洲第三大鐵礦砂生產商
   ir_url: https://www.fortescue.com/investors
+  rss_url: https://news.google.com/rss/search?q="Fortescue+Ltd"&hl=en&gl=US&ceid=US:en
   downstream:
   - baosteel
   - china_steel
@@ -86,6 +90,7 @@ companies:
   role: 焦煤
   description: 美國冶金煤生產商
   ir_url: https://www.warriormetcoal.com/investors
+  rss_url: https://news.google.com/rss/search?q="Warrior+Met+Coal"&hl=en&gl=US&ceid=US:en
   downstream:
   - arcelormittal
   - nippon_steel
@@ -102,6 +107,7 @@ companies:
   role: 焦炭
   description: 美國焦炭生產商
   ir_url: https://investors.suncoke.com/
+  rss_url: https://news.google.com/rss/search?q="SunCoke+Energy"&hl=en&gl=US&ceid=US:en
   downstream:
   - us_steel
   - cleveland_cliffs
@@ -116,6 +122,7 @@ companies:
   role: 廢鋼回收
   description: 廢鋼回收與電弧爐鋼廠
   ir_url: https://www.cmc.com/investors
+  rss_url: https://news.google.com/rss/search?q="Commercial+Metals"&hl=en&gl=US&ceid=US:en
   downstream:
   - nucor
   - steel_dynamics
@@ -133,6 +140,7 @@ companies:
   role: 鋼鐵製造
   description: 全球最大鋼鐵製造商
   ir_url: https://corporate.arcelormittal.com/investors
+  rss_url: https://news.google.com/rss/search?q="ArcelorMittal"&hl=en&gl=US&ceid=US:en
   news_url: https://corporate.arcelormittal.com/media/news
   upstream:
   - vale
@@ -153,6 +161,7 @@ companies:
   role: 鋼鐵製造
   description: 日本最大鋼鐵製造商
   ir_url: https://www.nipponsteel.com/en/ir/
+  rss_url: https://news.google.com/rss/search?q="Nippon+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - vale
   - bhp
@@ -172,6 +181,7 @@ companies:
   role: 鋼鐵製造
   description: 日本第二大鋼鐵集團
   ir_url: https://www.jfe-holdings.co.jp/en/investor/
+  rss_url: https://news.google.com/rss/search?q="JFE+Holdings"&hl=en&gl=US&ceid=US:en
   upstream:
   - vale
   - bhp
@@ -191,6 +201,7 @@ companies:
   role: 鋼鐵製造
   description: 韓國最大鋼鐵製造商
   ir_url: https://www.posco.co.kr/homepage/docs/eng7/jsp/ir/
+  rss_url: https://news.google.com/rss/search?q="POSCO+Holdings"+steel&hl=en&gl=US&ceid=US:en
   upstream:
   - vale
   - bhp
@@ -209,6 +220,7 @@ companies:
   role: 鋼鐵製造
   description: 印度最大鋼鐵製造商
   ir_url: https://www.tatasteel.com/investors/
+  rss_url: https://news.google.com/rss/search?q="Tata+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - vale
   - bhp
@@ -225,6 +237,7 @@ companies:
   role: 鋼鐵製造
   description: 美國最大電弧爐鋼廠
   ir_url: https://www.nucor.com/investors/
+  rss_url: https://news.google.com/rss/search?q="Nucor"+steel&hl=en&gl=US&ceid=US:en
   upstream:
   - cmc
   - suncoke
@@ -255,6 +268,7 @@ companies:
   role: 鋼鐵製造
   description: 美國整合鋼鐵製造商（含鐵礦砂）
   ir_url: https://www.clevelandcliffs.com/investors
+  rss_url: https://news.google.com/rss/search?q="Cleveland-Cliffs"&hl=en&gl=US&ceid=US:en
   upstream:
   - warrior_met
   - suncoke
@@ -270,6 +284,7 @@ companies:
   role: 鋼鐵製造
   description: 美國老牌鋼鐵製造商
   ir_url: https://investors.ussteel.com/
+  rss_url: https://news.google.com/rss/search?q="U.S.+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - warrior_met
   - suncoke
@@ -285,6 +300,7 @@ companies:
   role: 鋼鐵製造
   description: 巴西最大鋼鐵製造商
   ir_url: https://ri.gerdau.com/en/
+  rss_url: https://news.google.com/rss/search?q="Gerdau"+steel&hl=en&gl=US&ceid=US:en
   upstream:
   - cmc
   downstream:
@@ -300,6 +316,7 @@ companies:
   role: 鋼鐵製造
   description: 台灣最大鋼鐵製造商
   ir_url: https://www.csc.com.tw/csc/hr/ir/inv_main.htm
+  rss_url: https://news.google.com/rss/search?q="China+Steel+Corp"&hl=en&gl=US&ceid=US:en
   upstream:
   - vale
   - bhp
@@ -320,6 +337,7 @@ companies:
   role: 鋼鐵製造
   description: 中鋼集團旗下熱軋鋼捲加工廠
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Chung+Hung+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - china_steel
   downstream:
@@ -336,6 +354,7 @@ companies:
   role: 鋼鐵製造
   description: 台灣電弧爐鋼廠，主力產品H型鋼與鋼筋
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Tung+Ho+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - cmc
   downstream:
@@ -351,6 +370,7 @@ companies:
   role: 鋼鐵製造
   description: 台灣電弧爐鋼廠，鋼筋龍頭
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Feng+Hsin+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - cmc
   downstream:
@@ -366,6 +386,7 @@ companies:
   role: 鋼鐵製造
   description: 中國最大鋼鐵製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Baoshan+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - vale
   - bhp
@@ -384,6 +405,7 @@ companies:
   role: 鋼鐵製造
   description: 韓國第二大鋼鐵製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Hyundai+Steel"&hl=en&gl=US&ceid=US:en
   upstream:
   - vale
   - bhp
@@ -400,6 +422,7 @@ companies:
   role: 金屬通路
   description: 北美最大金屬服務中心與通路商
   ir_url: https://investor.reliance.com/
+  rss_url: https://news.google.com/rss/search?q="Reliance+Inc"&hl=en&gl=US&ceid=US:en
   upstream:
   - arcelormittal
   - nippon_steel
@@ -425,6 +448,7 @@ companies:
   role: 不鏽鋼通路
   description: 台灣不鏽鋼通路龍頭
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Ta+Chen+Stainless"&hl=en&gl=US&ceid=US:en
   upstream:
   - china_steel
   - chung_hung
@@ -440,6 +464,7 @@ companies:
   role: 鋼鐵加工
   description: 螺絲螺帽與鋼鐵加工
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Spring+Rain"&hl=en&gl=US&ceid=US:en
   upstream:
   - china_steel
   - chung_hung
