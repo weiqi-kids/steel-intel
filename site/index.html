@@ -1501,9 +1501,9 @@
             svg.selectAll("*").remove();
 
             const layers = [
-                { name: "上游（設備/材料/EDA）", y: 0.0, height: 0.32, color: "rgba(245, 158, 11, 0.06)" },
-                { name: "中游（製造/代工/封測）", y: 0.34, height: 0.34, color: "rgba(59, 130, 246, 0.06)" },
-                { name: "下游（AI晶片/系統/CSP）", y: 0.70, height: 0.30, color: "rgba(16, 185, 129, 0.06)" }
+                { name: "上游（廢鋼回收/焦炭/焦煤/鐵礦砂）", y: 0.00, height: 0.36, color: "rgba(245, 158, 11, 0.06)" },
+                { name: "中游（鋼鐵製造）", y: 0.45, height: 0.10, color: "rgba(59, 130, 246, 0.06)" },
+                { name: "下游（不鏽鋼通路/金屬通路/鋼管/鋼鐵加工）", y: 0.65, height: 0.36, color: "rgba(16, 185, 129, 0.06)" }
             ];
 
             layers.forEach(layer => {
@@ -2185,9 +2185,9 @@
 
             // 按供應鏈分組
             const groups = [
-                { label: '上游（設備/材料/EDA）', position: 'upstream' },
-                { label: '中游（製造/代工/封測）', position: 'midstream' },
-                { label: '下游（AI晶片/系統/CSP）', position: 'downstream' },
+                { label: '上游（廢鋼回收/焦炭/焦煤/鐵礦砂）', position: 'upstream' },
+                { label: '中游（鋼鐵製造）', position: 'midstream' },
+                { label: '下游（不鏽鋼通路/金屬通路/鋼管/鋼鐵加工）', position: 'downstream' },
             ];
 
             // 計算色塊顏色
