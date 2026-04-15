@@ -1,0 +1,44 @@
+# Steel industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: steel_dynamics_ir
+  name: Steel Dynamics Investor News
+  url: https://www.steeldynamics.com/investors/feed/
+  description: Steel Dynamics investor news releases
+
+- id: tenaris_ir
+  name: Tenaris Investor News
+  url: https://ir.tenaris.com/rss/news-releases.xml
+  description: Tenaris press releases (steel pipes)
+
+- id: crh_news
+  name: CRH Corporate News
+  url: https://www.crh.com/feed/
+  description: CRH plc corporate news (building materials, steel downstream)
+
+# --- Industry media feeds ---
+- id: steel_industry_news
+  name: Steel Industry News
+  url: https://steelindustry.news/feed/
+  description: Steel industry breaking news, market analysis, and trends
+
+- id: gmk_center
+  name: GMK Center Steel News
+  url: https://gmk.center/en/feed/
+  description: Steel market news and insights, iron ore and steel pricing
+
+- id: global_cement
+  name: Global Cement News
+  url: https://www.globalcement.com/news?format=feed&type=rss
+  description: Cement and building materials news (steel downstream context)
+
+# --- Google News topic feeds ---
+- id: google_steel_industry
+  name: Google News - Steel Industry
+  url: https://news.google.com/rss/search?q=steel+industry+iron+ore&hl=en-US&gl=US&ceid=US:en
+  description: Google News aggregation for steel and iron ore industry
+
+- id: google_steel_price
+  name: Google News - Steel Prices
+  url: https://news.google.com/rss/search?q=steel+price+HRC+rebar&hl=en-US&gl=US&ceid=US:en
+  description: Google News aggregation for steel pricing

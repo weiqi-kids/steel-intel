@@ -240,6 +240,7 @@ companies:
   role: 鋼鐵製造
   description: 美國電弧爐鋼廠
   ir_url: https://www.steeldynamics.com/investors/
+  rss_url: https://www.steeldynamics.com/investors/feed/
   upstream:
   - cmc
   downstream:
@@ -455,6 +456,7 @@ companies:
   role: 鋼管
   description: 全球最大無縫鋼管製造商
   ir_url: https://ir.tenaris.com/
+  rss_url: https://ir.tenaris.com/rss/news-releases.xml
   upstream:
   - arcelormittal
   - nippon_steel
