@@ -1,8 +1,26 @@
 {
   "date": "2026-04-15",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 4,
+  "by_company": {
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gerdau": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}
