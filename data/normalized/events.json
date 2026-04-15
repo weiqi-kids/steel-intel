@@ -1,1001 +1,1641 @@
 [
   {
-    "id": "rss-74627",
-    "date": "Tue, 14 Ap",
+    "id": "rss-96740",
+    "date": "Wed, 08 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "title": "Announcing Our 2025 Sustainability Performance Report",
+    "summary": "<p>A look at our operational excellence and progress Every day across CRH, we solve real‑world customer challenges &#8211; building stronger, more durable roads and resilient infrastructure that futur",
     "sources": [
       {
         "type": "news",
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/",
-        "fetchedAt": "2026-04-14T22:59:32.276136Z",
-        "excerpt": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/\">The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</"
+        "title": "Announcing Our 2025 Sustainability Performance Report",
+        "url": "https://www.crh.com/media/sustainability-performance-report/",
+        "fetchedAt": "2026-04-15T04:01:44.825079Z",
+        "excerpt": "<p>A look at our operational excellence and progress Every day across CRH, we solve real‑world customer challenges &#8211; building stronger, more durable roads and resilient infrastructure that future-proofs our communities against the effects of growing populations, aging infrastructure and severe weather events. Our newly released 2025 Sustainability Performance Report, Shaping Communities for a Better Tomorrow, [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/sustainability-perfo"
       }
     ]
   },
   {
-    "id": "rss-46874",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">He",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/",
-        "fetchedAt": "2026-04-14T22:59:32.276149Z",
-        "excerpt": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">Heterogeneous NPU Data Movement: What The Execution Flow Shows</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-78708",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Research Bits: Apr. 14",
-    "summary": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. ",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Research Bits: Apr. 14",
-        "url": "https://semiengineering.com/research-bits-apr-14/",
-        "fetchedAt": "2026-04-14T22:59:32.276152Z",
-        "excerpt": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-12443",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/",
-        "fetchedAt": "2026-04-14T22:59:32.276154Z",
-        "excerpt": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated security assertions with LLMs.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/\">Chip Industry Technical Paper Roundup: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-61392",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-    "summary": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers",
-    "sources": [
-      {
-        "type": "news",
-        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/",
-        "fetchedAt": "2026-04-14T22:59:32.276159Z",
-        "excerpt": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers Up Again, But Numbers Are More Nuanced</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-80039",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Startup Funding: Q1 2026",
-    "summary": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Startup Funding: Q1 2026",
-        "url": "https://semiengineering.com/startup-funding-q1-2026/",
-        "fetchedAt": "2026-04-14T22:59:32.276163Z",
-        "excerpt": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-19033",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-    "summary": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitorin",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-        "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/",
-        "fetchedAt": "2026-04-14T22:59:32.276165Z",
-        "excerpt": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/\">Why Hardware Monitoring Needs Infrastructure, Not Just Sensors</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-35022",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowham",
-    "sources": [
-      {
-        "type": "news",
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/",
-        "fetchedAt": "2026-04-14T22:59:32.276170Z",
-        "excerpt": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowhammer attacks can move beyond data corruption to real privilege escalation. By corrupting GPU page tables, an unprivileged CUDA kernel can gain arbitrary GPU memory read/write, and then chain that capability... <a class=\"read_more\" href=\"https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-co"
-      }
-    ]
-  },
-  {
-    "id": "rss-7145",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As L",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/",
-        "fetchedAt": "2026-04-14T22:59:32.276173Z",
-        "excerpt": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As Large Language Models (LLMs) scale in size and complexity, the consequences of failures during training become increasingly severe. A major challenge arises from Silent Data Corruption (SDC): hardware-induced faults that... <a class=\"read_more\" href=\"https://semiengineering.com/silent-data-corruption"
-      }
-    ]
-  },
-  {
-    "id": "rss-60209",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-    "summary": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machi",
-    "sources": [
-      {
-        "type": "news",
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/",
-        "fetchedAt": "2026-04-14T22:59:32.276175Z",
-        "excerpt": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explicit programs, agents, which act over external execution environments, and... <a class=\"read_more\" href=\"https://semiengineering.com/an-engineering-roadmap-toward-completely"
-      }
-    ]
-  },
-  {
-    "id": "rss-80170",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-        "url": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-        "fetchedAt": "2026-04-14T22:59:33.833763Z",
-        "excerpt": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-59586",
-    "date": "Fri, 03 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-        "fetchedAt": "2026-04-14T22:59:33.833770Z",
-        "excerpt": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-12371",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-    "summary": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-        "url": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
-        "fetchedAt": "2026-04-14T22:59:33.833773Z",
-        "excerpt": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-61637",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-        "url": "https://www.tomshardware.com/pc-components/ram/corsairs-limited-time-memory-sale-brings-25-percent-savings-but-persistent-ddr5-price-hikes-paint-a-grim-outlook-for-buyers",
-        "fetchedAt": "2026-04-14T22:59:33.833775Z",
-        "excerpt": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-17683",
-    "date": "Wed, 18 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-        "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-        "fetchedAt": "2026-04-14T22:59:33.833776Z",
-        "excerpt": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-36819",
-    "date": "Wed, 11 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-    "summary": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-        "url": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-        "fetchedAt": "2026-04-14T22:59:33.833778Z",
-        "excerpt": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-94590",
-    "date": "Sun, 08 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-    "summary": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-        "url": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
-        "fetchedAt": "2026-04-14T22:59:33.833780Z",
-        "excerpt": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-1905",
-    "date": "Fri, 06 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-    "summary": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-        "url": "https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option",
-        "fetchedAt": "2026-04-14T22:59:33.833782Z",
-        "excerpt": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-46410",
-    "date": "Thu, 05 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-    "summary": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
-        "fetchedAt": "2026-04-14T22:59:33.833783Z",
-        "excerpt": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-64336",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
-        "fetchedAt": "2026-04-14T22:59:33.833785Z",
-        "excerpt": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-38375",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-    "summary": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-        "url": "https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade",
-        "fetchedAt": "2026-04-14T22:59:33.833787Z",
-        "excerpt": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-29178",
-    "date": "Mon, 02 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-    "summary": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-        "url": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
-        "fetchedAt": "2026-04-14T22:59:33.833788Z",
-        "excerpt": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-62075",
-    "date": "Sun, 22 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-    "summary": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machine",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-        "url": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
-        "fetchedAt": "2026-04-14T22:59:33.833790Z",
-        "excerpt": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-39740",
-    "date": "Mon, 16 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-    "summary": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-        "fetchedAt": "2026-04-14T22:59:33.833791Z",
-        "excerpt": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-30351",
-    "date": "Sun, 15 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-    "summary": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
-        "fetchedAt": "2026-04-14T22:59:33.833793Z",
-        "excerpt": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing order lead times to more than a month. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-67160",
-    "date": "Sat, 14 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-    "summary": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-        "url": "https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive",
-        "fetchedAt": "2026-04-14T22:59:33.833794Z",
-        "excerpt": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-94101",
-    "date": "Fri, 13 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-        "url": "https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers",
-        "fetchedAt": "2026-04-14T22:59:33.833796Z",
-        "excerpt": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible to the weighted average of its costs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-76345",
-    "date": "Wed, 11 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-    "summary": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-shorten-memory-contracts-as-pricing-power-shifts-back-to-suppliers",
-        "fetchedAt": "2026-04-14T22:59:33.833798Z",
-        "excerpt": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-44958",
-    "date": "Thu, 05 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-        "url": "https://www.tomshardware.com/pc-components/dram/leading-pc-manufacturers-considering-using-chinese-memory-chips-report-claims-hp-and-dell-qualifying-cxmt-dram-acer-and-asus-asking-chinese-partners-to-source-locally-made-memory-chips",
-        "fetchedAt": "2026-04-14T22:59:33.833799Z",
-        "excerpt": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoing memory chip shortage is forcing even big companies to look for alternative sources to Micron, Samsung, and SK hynix. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-26509",
-    "date": "Mon, 02 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-        "url": "https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs",
-        "fetchedAt": "2026-04-14T22:59:33.833801Z",
-        "excerpt": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leverage. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-36596",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
-    "sources": [
-      {
-        "type": "news",
-        "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-        "fetchedAt": "2026-04-14T22:59:33.870571Z",
-        "excerpt": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-38530",
-    "date": "Sat, 11 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-    "summary": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as medi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-        "url": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
-        "fetchedAt": "2026-04-14T22:59:33.870577Z",
-        "excerpt": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-17891",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-        "fetchedAt": "2026-04-14T22:59:33.870579Z",
-        "excerpt": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-10368",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-    "summary": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                        ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-        "url": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-        "fetchedAt": "2026-04-14T22:59:33.870584Z",
-        "excerpt": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-11894",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-    "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-        "url": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-        "fetchedAt": "2026-04-14T22:59:33.870586Z",
-        "excerpt": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-41528",
-    "date": "Tue, 07 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-    "summary": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Ex",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-        "url": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
-        "fetchedAt": "2026-04-14T22:59:33.870588Z",
-        "excerpt": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-88484",
-    "date": "Mon, 06 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-    "summary": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-        "url": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
-        "fetchedAt": "2026-04-14T22:59:33.870590Z",
-        "excerpt": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-90369",
-    "date": "Sat, 04 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-    "summary": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive packa",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-        "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-        "fetchedAt": "2026-04-14T22:59:33.870591Z",
-        "excerpt": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-6552",
+    "id": "rss-11928",
     "date": "Thu, 02 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-    "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "title": "Americans Call for Better Roads & Bridges",
+    "summary": "<p>The post <a href=\"https://www.crh.com/news-and-insights/americans-call-for-better-roads-bridges/\">Americans Call for Better Roads &#038; Bridges</a> appeared first on <a href=\"https://www.crh.com\">",
     "sources": [
       {
         "type": "news",
-        "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T22:59:33.870593Z",
-        "excerpt": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package. \n                                                                                                            "
+        "title": "Americans Call for Better Roads & Bridges",
+        "url": "https://www.crh.com/news-and-insights/americans-call-for-better-roads-bridges/",
+        "fetchedAt": "2026-04-15T04:01:44.825107Z",
+        "excerpt": "<p>The post <a href=\"https://www.crh.com/news-and-insights/americans-call-for-better-roads-bridges/\">Americans Call for Better Roads &#038; Bridges</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-4717",
-    "date": "Tue, 31 Ma",
+    "id": "rss-96545",
+    "date": "Tue, 24 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-    "summary": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                           ",
+    "title": "Innovating Toward Water-Resilient Communities",
+    "summary": "<p>Water is essential to life, to thriving communities and to resilient economies. Yet aging infrastructure, population growth and increasing demands are putting unprecedented pressure on how water is",
     "sources": [
       {
         "type": "news",
-        "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
-        "fetchedAt": "2026-04-14T22:59:33.870595Z",
-        "excerpt": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                                                                            "
+        "title": "Innovating Toward Water-Resilient Communities",
+        "url": "https://www.crh.com/media/innovating-toward-water-resilient-communities/",
+        "fetchedAt": "2026-04-15T04:01:44.825118Z",
+        "excerpt": "<p>Water is essential to life, to thriving communities and to resilient economies. Yet aging infrastructure, population growth and increasing demands are putting unprecedented pressure on how water is managed, protected and returned to the environment. We focus on smarter, more resilient water solutions that protect people and property, support economic growth, safeguard ecosystems and ensure [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/innovating-toward-water-resilient-communiti"
       }
     ]
   },
   {
-    "id": "rss-4797",
-    "date": "Tue, 31 Ma",
+    "id": "rss-10555",
+    "date": "Fri, 13 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-    "summary": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                       ",
+    "title": "CRH Announces Intention to Delist from the LSE and Cancel Preference Shares",
+    "summary": "<p>This document contains inside information NEW YORK – Mar. 13, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announces its intention to delist from the London Stock Excha",
     "sources": [
       {
         "type": "news",
-        "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-        "url": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
-        "fetchedAt": "2026-04-14T22:59:33.870596Z",
-        "excerpt": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                                            "
+        "title": "CRH Announces Intention to Delist from the LSE and Cancel Preference Shares",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-announces-intention-to-delist-from-the-lse-and-cancel-preference-shares/",
+        "fetchedAt": "2026-04-15T04:01:44.825126Z",
+        "excerpt": "<p>This document contains inside information NEW YORK – Mar. 13, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announces its intention to delist from the London Stock Exchange (LSE) its ordinary shares and 7% preference shares (the “LSE Delisting”) and, subject to shareholder approval, to cancel CRH’s 5% and 7% preference [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-announces-intention-to-delist-from-the-lse-and-cancel-preferenc"
       }
     ]
   },
   {
-    "id": "rss-64932",
-    "date": "Tue, 31 Ma",
+    "id": "rss-70139",
+    "date": "Fri, 06 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-    "summary": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n          ",
+    "title": "CRH CEO Jim Mintern speaks to Bloomberg about 2025 results",
+    "summary": "<p>Jim discussed how our teams delivered another record performance last year, along with the outlook for CRH in the year ahead. Watch the full interview below.</p>\n<p>The post <a href=\"https://www.cr",
     "sources": [
       {
         "type": "news",
-        "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-        "url": "https://www.tomshardware.com/pc-components/storage/grab-an-ssd-or-hdd-upgrade-for-world-backup-day-2026-to-keep-your-files-safe-with-1tb-drives-starting-from-usd109-beat-the-ai-fueled-storage-price-hikes-with-these-savings-on-internal-and-external-drives-enclosures-and-accessories",
-        "fetchedAt": "2026-04-14T22:59:33.870598Z",
-        "excerpt": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n                                                                                                            "
+        "title": "CRH CEO Jim Mintern speaks to Bloomberg about 2025 results",
+        "url": "https://www.crh.com/news-and-insights/crh-ceo-jim-mintern-speaks-to-bloomberg-about-2025-results/",
+        "fetchedAt": "2026-04-15T04:01:44.825133Z",
+        "excerpt": "<p>Jim discussed how our teams delivered another record performance last year, along with the outlook for CRH in the year ahead. Watch the full interview below.</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/crh-ceo-jim-mintern-speaks-to-bloomberg-about-2025-results/\">CRH CEO Jim Mintern speaks to Bloomberg about 2025 results</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-116",
-    "date": "Tue, 31 Ma",
+    "id": "rss-53661",
+    "date": "Tue, 24 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
+    "title": "Proud to Sponsor The Great American Road Trip",
+    "summary": "<p>From highways to driveways, our work enables the journeys that shape daily life across America.</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/proud-to-sponsor-the-great-american-ro",
     "sources": [
       {
         "type": "news",
-        "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-        "url": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
-        "fetchedAt": "2026-04-14T22:59:33.870599Z",
-        "excerpt": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk. \n                                                                                                            "
+        "title": "Proud to Sponsor The Great American Road Trip",
+        "url": "https://www.crh.com/news-and-insights/proud-to-sponsor-the-great-american-road-trip/",
+        "fetchedAt": "2026-04-15T04:01:44.825138Z",
+        "excerpt": "<p>From highways to driveways, our work enables the journeys that shape daily life across America.</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/proud-to-sponsor-the-great-american-road-trip/\">Proud to Sponsor The Great American Road Trip</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-9230",
-    "date": "Sat, 28 Ma",
+    "id": "rss-63334",
+    "date": "Wed, 18 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
+    "title": "CRH Declares Quarterly Dividend",
+    "summary": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announced that in line with its policy of consistent long-term dividend growth, its Board of Directors ",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-        "fetchedAt": "2026-04-14T22:59:33.870601Z",
-        "excerpt": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n                                                                                                            "
+        "title": "CRH Declares Quarterly Dividend",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-declares-quarterly-dividend-2/",
+        "fetchedAt": "2026-04-15T04:01:44.825145Z",
+        "excerpt": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announced that in line with its policy of consistent long-term dividend growth, its Board of Directors has declared a quarterly dividend of $0.39 per Ordinary Share to be paid on Apr. 8, 2026. This represents an increase of [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-declares-quarterly-dividend-2/\">CRH Declares Quarterly Dividend</a> appeared first on <a href="
       }
     ]
   },
   {
-    "id": "rss-63771",
-    "date": "Sat, 28 Ma",
+    "id": "rss-13556",
+    "date": "Wed, 18 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
+    "title": "CRH Continues Share Buyback Program",
+    "summary": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, is pleased to announce that it has completed the latest phase of its share buyback program, returning a furth",
     "sources": [
       {
         "type": "news",
-        "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-        "url": "https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan",
-        "fetchedAt": "2026-04-14T22:59:33.870602Z",
-        "excerpt": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                                                                                                            "
+        "title": "CRH Continues Share Buyback Program",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-continues-share-buyback-program-6/",
+        "fetchedAt": "2026-04-15T04:01:44.825152Z",
+        "excerpt": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, is pleased to announce that it has completed the latest phase of its share buyback program, returning a further $0.3 billion of cash to shareholders. Between Nov. 6, 2025 and Feb. 17, 2026, 2.2 million ordinary shares listed on [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-continues-share-buyback-program-6/\">CRH Continues Share Buyback Program</a> appeared first on <a"
       }
     ]
   },
   {
-    "id": "rss-99481",
-    "date": "Fri, 27 Ma",
+    "id": "rss-93510",
+    "date": "Wed, 18 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "title": "CRH Reports Q4 and FY 2025 Results",
+    "summary": "<p>Strong Q4 and FY 2025; continued year‑over‑year growth in Net income (FY 25: +8%) and Adjusted EBITDA* (FY 25: +11%) Record financial performance backed by our Growth Algorithm and the CRH Winning ",
     "sources": [
       {
         "type": "news",
-        "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
-        "fetchedAt": "2026-04-14T22:59:33.870604Z",
-        "excerpt": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                                                                                            "
+        "title": "CRH Reports Q4 and FY 2025 Results",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-reports-q4-and-fy-2025-results/",
+        "fetchedAt": "2026-04-15T04:01:44.825158Z",
+        "excerpt": "<p>Strong Q4 and FY 2025; continued year‑over‑year growth in Net income (FY 25: +8%) and Adjusted EBITDA* (FY 25: +11%) Record financial performance backed by our Growth Algorithm and the CRH Winning Way Inclusion in the S&#38;P 500 Index, a powerful recognition of our Unmatched Scale and Market Leadership $4.1bn invested in 38 value-accretive acquisitions; [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-reports-q4-and-fy-2025-results/\">CRH Reports Q4 and FY "
       }
     ]
   },
   {
-    "id": "rss-80965",
+    "id": "rss-39535",
+    "date": "Wed, 11 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Real Foundation of Data Centers",
+    "summary": "<p>America is in the early stages of the largest infrastructure buildout since the Interstate Highway System. </p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/the-real-foundation-of-dat",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Real Foundation of Data Centers",
+        "url": "https://www.crh.com/news-and-insights/the-real-foundation-of-data-centers/",
+        "fetchedAt": "2026-04-15T04:01:44.825164Z",
+        "excerpt": "<p>America is in the early stages of the largest infrastructure buildout since the Interstate Highway System. </p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/the-real-foundation-of-data-centers/\">The Real Foundation of Data Centers</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-48957",
+    "date": "Thu, 05 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "CRH Announces Date for Q4 and Full Year 2025 Results Conference Call",
+    "summary": "<p>NEW YORK – Feb. 5, 2026 – CRH (NYSE: CRH), the leading provider of building materials, will publish its fourth quarter and full year 2025 financial results after market close on Wednesday, Feb. 18,",
+    "sources": [
+      {
+        "type": "news",
+        "title": "CRH Announces Date for Q4 and Full Year 2025 Results Conference Call",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-announces-date-for-q4-and-full-year-2025-results-conference-call/",
+        "fetchedAt": "2026-04-15T04:01:44.825170Z",
+        "excerpt": "<p>NEW YORK – Feb. 5, 2026 – CRH (NYSE: CRH), the leading provider of building materials, will publish its fourth quarter and full year 2025 financial results after market close on Wednesday, Feb. 18, 2026 followed by a conference call and webcast presentation at 8:00 a.m. (EST) on Thursday, Feb. 19, 2026. CRH&#8217;s results and [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-announces-date-for-q4-and-full-year-2025-results-conference-call/\">CRH Announces Da"
+      }
+    ]
+  },
+  {
+    "id": "rss-15509",
+    "date": "Sun, 01 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Our UNICEF Partnership: Two Years On",
+    "summary": "<p>In 2024, CRH embarked on a five-year partnership with UNICEF, committing to an investment of $15 million. The partnership focuses on vaccine procurement and delivery as well as addressing vaccine h",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Our UNICEF Partnership: Two Years On",
+        "url": "https://www.crh.com/news-and-insights/news-and-insights-3/two-years-on-protecting-children-in-partnership-with-unicef-2/",
+        "fetchedAt": "2026-04-15T04:01:44.825176Z",
+        "excerpt": "<p>In 2024, CRH embarked on a five-year partnership with UNICEF, committing to an investment of $15 million. The partnership focuses on vaccine procurement and delivery as well as addressing vaccine hesitancy through education and immunization awareness programs. Our funding is helping prevent outbreaks of deadly diseases in vulnerable communities. CRH is equipping clinics with cold [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/news-and-insights-3/two-years-on-protecti"
+      }
+    ]
+  },
+  {
+    "id": "rss-89253",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "HRC Hits $1045, Raw Materials Rise, Manufacturing Employment Strengthens, Section 232 Adjustments: What It Means For Steel Buyers",
+    "summary": "<p>An in-depth discussion on HRC pricing trends, raw material cost dynamics, and what Section 232 changes mean for domestic buyers heading into mid-year</p>\n<p>The post <a href=\"https://steelindustry.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "HRC Hits $1045, Raw Materials Rise, Manufacturing Employment Strengthens, Section 232 Adjustments: What It Means For Steel Buyers",
+        "url": "https://steelindustry.news/hrc-hits-1045-raw-materials-rise-manufacturing-employment-strengthens-section-232-adjustments-what-it-means-for-steel-buyers/",
+        "fetchedAt": "2026-04-15T04:01:52.925576Z",
+        "excerpt": "<p>An in-depth discussion on HRC pricing trends, raw material cost dynamics, and what Section 232 changes mean for domestic buyers heading into mid-year</p>\n<p>The post <a href=\"https://steelindustry.news/hrc-hits-1045-raw-materials-rise-manufacturing-employment-strengthens-section-232-adjustments-what-it-means-for-steel-buyers/\">HRC Hits $1045, Raw Materials Rise, Manufacturing Employment Strengthens, Section 232 Adjustments: What It Means For Steel Buyers</a> appeared on <a href=\"https://steel"
+      }
+    ]
+  },
+  {
+    "id": "rss-64943",
+    "date": "Wed, 08 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Diesel Up 50%, Freight at 4‐Year High – How Autonomous Trucking Is Reshaping Steel Logistics",
+    "summary": "<p> discussion of how diesel price shocks, Middle East geopolitical risk, and the commercial deployment of Aurora, Kodiak, and Gatik are accelerating autonomous freight adoption across U.S. steel mill",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Diesel Up 50%, Freight at 4‐Year High – How Autonomous Trucking Is Reshaping Steel Logistics",
+        "url": "https://steelindustry.news/the-future-of-steel-trucking-and-logistics-in-the-u-s-how-autonomous-freight-fuel-volatility-and-smart-networks-are-rewriting-the-supply-chain/",
+        "fetchedAt": "2026-04-15T04:01:52.925600Z",
+        "excerpt": "<p> discussion of how diesel price shocks, Middle East geopolitical risk, and the commercial deployment of Aurora, Kodiak, and Gatik are accelerating autonomous freight adoption across U.S. steel mills, carriers, and service centers.</p>\n<p>The post <a href=\"https://steelindustry.news/the-future-of-steel-trucking-and-logistics-in-the-u-s-how-autonomous-freight-fuel-volatility-and-smart-networks-are-rewriting-the-supply-chain/\">Diesel Up 50%, Freight at 4‐Year High &#8211; How Autonomous Trucking"
+      }
+    ]
+  },
+  {
+    "id": "rss-73041",
+    "date": "Mon, 06 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel Market at a Crossroads: HRC Clears $1,040, Raw Material Costs Surge, and Sweeping Section 232 Revisions Reshape the Trade Landscape",
+    "summary": "<p>Domestic mill pricing firms at HRC $1,040 as raw materials surge and Section 232 tariffs reshape imports. Input costs rise, trade barriers tighten - what buyers need to know.</p>\n<p>The post <a hre",
+    "sources": [
+      {
+        "type": "news",
+        "title": "U.S. Steel Market at a Crossroads: HRC Clears $1,040, Raw Material Costs Surge, and Sweeping Section 232 Revisions Reshape the Trade Landscape",
+        "url": "https://steelindustry.news/u-s-steel-market-at-a-crossroads-hrc-clears-1040-raw-material-costs-surge-and-sweeping-section-232-revisions-reshape-the-trade-landscape/",
+        "fetchedAt": "2026-04-15T04:01:52.925608Z",
+        "excerpt": "<p>Domestic mill pricing firms at HRC $1,040 as raw materials surge and Section 232 tariffs reshape imports. Input costs rise, trade barriers tighten - what buyers need to know.</p>\n<p>The post <a href=\"https://steelindustry.news/u-s-steel-market-at-a-crossroads-hrc-clears-1040-raw-material-costs-surge-and-sweeping-section-232-revisions-reshape-the-trade-landscape/\">U.S. Steel Market at a Crossroads: HRC Clears $1,040, Raw Material Costs Surge, and Sweeping Section 232 Revisions Reshape the Trad"
+      }
+    ]
+  },
+  {
+    "id": "rss-68516",
+    "date": "Wed, 01 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "What You Should Know: Steel Demand for Second Half 2026",
+    "summary": "<p>how to read the current steel market, position inventory strategy, and assess policy risk heading into mid-2026.</p>\n<p>The post <a href=\"https://steelindustry.news/what-you-should-know-steel-deman",
+    "sources": [
+      {
+        "type": "news",
+        "title": "What You Should Know: Steel Demand for Second Half 2026",
+        "url": "https://steelindustry.news/what-you-should-know-steel-demand-for-second-half-2026/",
+        "fetchedAt": "2026-04-15T04:01:52.925615Z",
+        "excerpt": "<p>how to read the current steel market, position inventory strategy, and assess policy risk heading into mid-2026.</p>\n<p>The post <a href=\"https://steelindustry.news/what-you-should-know-steel-demand-for-second-half-2026/\">What You Should Know: Steel Demand for Second Half 2026</a> appeared on <a href=\"https://steelindustry.news\">Steel Industry News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-7552",
+    "date": "Mon, 30 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nucor Continues Steel Price Hikes: A Steel Market Under Pressure",
+    "summary": "<p>Examining domestic mill pricing decisions, input cost volatility, and the geopolitical forces reshaping global steel trade. </p>\n<p>The post <a href=\"https://steelindustry.news/nucors-continues-ste",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nucor Continues Steel Price Hikes: A Steel Market Under Pressure",
+        "url": "https://steelindustry.news/nucors-continues-steel-price-hikes-a-steel-market-under-pressure/",
+        "fetchedAt": "2026-04-15T04:01:52.925622Z",
+        "excerpt": "<p>Examining domestic mill pricing decisions, input cost volatility, and the geopolitical forces reshaping global steel trade. </p>\n<p>The post <a href=\"https://steelindustry.news/nucors-continues-steel-price-hikes-a-steel-market-under-pressure/\">Nucor Continues Steel Price Hikes: A Steel Market Under Pressure</a> appeared on <a href=\"https://steelindustry.news\">Steel Industry News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-20157",
     "date": "Wed, 25 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "title": "The Robotics Revolution: How Automation Is Reshaping Mills, Distribution, and the Workforce",
+    "summary": "<p> we examine the transformative power of robotics and AI in US steel production.</p>\n<p>The post <a href=\"https://steelindustry.news/the-robotics-revolution-how-automation-is-reshaping-mills-distrib",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
-        "fetchedAt": "2026-04-14T22:59:33.870606Z",
-        "excerpt": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                                                            "
+        "title": "The Robotics Revolution: How Automation Is Reshaping Mills, Distribution, and the Workforce",
+        "url": "https://steelindustry.news/the-robotics-revolution-how-automation-is-reshaping-mills-distribution-and-the-workforce/",
+        "fetchedAt": "2026-04-15T04:01:52.925628Z",
+        "excerpt": "<p> we examine the transformative power of robotics and AI in US steel production.</p>\n<p>The post <a href=\"https://steelindustry.news/the-robotics-revolution-how-automation-is-reshaping-mills-distribution-and-the-workforce/\">The Robotics Revolution: How Automation Is Reshaping Mills, Distribution, and the Workforce</a> appeared on <a href=\"https://steelindustry.news\">Steel Industry News</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-90240",
-    "date": "Wed, 25 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-    "summary": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery s",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T22:59:33.870608Z",
-        "excerpt": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-10766",
+    "id": "rss-65968",
     "date": "Mon, 23 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-    "summary": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                 ",
+    "title": "Nucor’s Raises Price $10/ton: What the March 2026 CSP Move Means for US Steel Buyers",
+    "summary": "<p>Nucor's Consumer Spot Price for hot rolled coil has climbed steadily with Nucor now announcing a $10/ton increase effective March 23rd 2026</p>\n<p>The post <a href=\"https://steelindustry.news/nucor",
     "sources": [
       {
         "type": "news",
-        "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-        "url": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
-        "fetchedAt": "2026-04-14T22:59:33.870609Z",
-        "excerpt": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                                            "
+        "title": "Nucor’s Raises Price $10/ton: What the March 2026 CSP Move Means for US Steel Buyers",
+        "url": "https://steelindustry.news/nucors-raises-price-10-ton-what-the-march-2026-csp-move-means-for-us-steel-buyers/",
+        "fetchedAt": "2026-04-15T04:01:52.925635Z",
+        "excerpt": "<p>Nucor's Consumer Spot Price for hot rolled coil has climbed steadily with Nucor now announcing a $10/ton increase effective March 23rd 2026</p>\n<p>The post <a href=\"https://steelindustry.news/nucors-raises-price-10-ton-what-the-march-2026-csp-move-means-for-us-steel-buyers/\">Nucor&#8217;s Raises Price $10/ton: What the March 2026 CSP Move Means for US Steel Buyers</a> appeared on <a href=\"https://steelindustry.news\">Steel Industry News</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-72770",
-    "date": "Sun, 22 Ma",
+    "id": "rss-88173",
+    "date": "Mon, 23 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-    "summary": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                   ",
+    "title": "Major 3-Day Auction to Offer Complete 2,000,000 Sq. Ft. SBQ Steel Mill in Alton, Illinois, USA",
+    "summary": "<p>A rare opportunity is coming to the industrial marketplace as a complete Special Bar Quality (SBQ) steel mill facility in Alton, Illinois prepares to be sold through a major three-day online auctio",
     "sources": [
       {
         "type": "news",
-        "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-        "url": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-        "fetchedAt": "2026-04-14T22:59:33.870611Z",
-        "excerpt": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                                                                            "
+        "title": "Major 3-Day Auction to Offer Complete 2,000,000 Sq. Ft. SBQ Steel Mill in Alton, Illinois, USA",
+        "url": "https://steelindustry.news/major-3-day-auction-to-offer-complete-2000000-sq-ft-sbq-steel-mill-in-alton-illinois-usa/",
+        "fetchedAt": "2026-04-15T04:01:52.925641Z",
+        "excerpt": "<p>A rare opportunity is coming to the industrial marketplace as a complete Special Bar Quality (SBQ) steel mill facility in Alton, Illinois prepares to be sold through a major three-day online auction. </p>\n<p>The post <a href=\"https://steelindustry.news/major-3-day-auction-to-offer-complete-2000000-sq-ft-sbq-steel-mill-in-alton-illinois-usa/\">Major 3-Day Auction to Offer Complete 2,000,000 Sq. Ft. SBQ Steel Mill in Alton, Illinois, USA</a> appeared on <a href=\"https://steelindustry.news\">Steel"
+      }
+    ]
+  },
+  {
+    "id": "rss-20857",
+    "date": "Wed, 18 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Steel Consuming Market Outlook March 2026: Construction, Housing, and HVAC Trends",
+    "summary": "<p>Construction planning, tracked by the Dodge Momentum Index, is cooling in early 2026 but remains at historically high levels, pointing to slower near-term activity yet a solid pipeline for future s",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Steel Consuming Market Outlook March 2026: Construction, Housing, and HVAC Trends",
+        "url": "https://steelindustry.news/steel-consuming-market-outlook-march-2026-construction-housing-and-hvac-trends/",
+        "fetchedAt": "2026-04-15T04:01:52.925652Z",
+        "excerpt": "<p>Construction planning, tracked by the Dodge Momentum Index, is cooling in early 2026 but remains at historically high levels, pointing to slower near-term activity yet a solid pipeline for future steel demand.</p>\n<p>The post <a href=\"https://steelindustry.news/steel-consuming-market-outlook-march-2026-construction-housing-and-hvac-trends/\">Steel Consuming Market Outlook March 2026: Construction, Housing, and HVAC Trends</a> appeared on <a href=\"https://steelindustry.news\">Steel Industry News"
+      }
+    ]
+  },
+  {
+    "id": "rss-15300",
+    "date": "Mon, 16 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nucor Raises Steel Price: What the Latest CSP HRC Move Means for the Market",
+    "summary": "<p>This article explores how Nucor’s latest hot rolled coil announcement is reshaping the U.S. steel market, tying together mill pricing strategy, tightening supply, and shifting trade policy. </p>\n<p",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nucor Raises Steel Price: What the Latest CSP HRC Move Means for the Market",
+        "url": "https://steelindustry.news/nucor-raises-steel-price-what-the-latest-csp-hrc-move-means-for-the-market/",
+        "fetchedAt": "2026-04-15T04:01:52.925659Z",
+        "excerpt": "<p>This article explores how Nucor’s latest hot rolled coil announcement is reshaping the U.S. steel market, tying together mill pricing strategy, tightening supply, and shifting trade policy. </p>\n<p>The post <a href=\"https://steelindustry.news/nucor-raises-steel-price-what-the-latest-csp-hrc-move-means-for-the-market/\">Nucor Raises Steel Price: What the Latest CSP HRC Move Means for the Market</a> appeared on <a href=\"https://steelindustry.news\">Steel Industry News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-25241",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Stegra has secured €1.4 billion in financing to complete construction of its plant",
+    "summary": "<p>Swedish startup Stegra has secured €1.4 billion in funding from new and existing investors, ensuring the completion of its flagship green steel plant in Boden. This was announced in a company state",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Stegra has secured €1.4 billion in financing to complete construction of its plant",
+        "url": "https://gmk.center/en/news/stegra-has-secured-e1-4-billion-in-financing-to-complete-construction-of-its-plant/",
+        "fetchedAt": "2026-04-15T04:01:53.455140Z",
+        "excerpt": "<p>Swedish startup Stegra has secured €1.4 billion in funding from new and existing investors, ensuring the completion of its flagship green steel plant in Boden. This was announced in a company statement. The funding round is led by Wallenberg Investments, which has formed a consortium of investors (including Temasek and IMAS)—thanks to this deal, it [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/stegra-has-secured-e1-4-billion-in-financing-to-complete-construction-of-its-plant/\""
+      }
+    ]
+  },
+  {
+    "id": "rss-78869",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global steel demand is expected to grow by 0.3% in 2026 – Worldsteel",
+    "summary": "<p>The World Steel Association (Worldsteel) forecasts that global steel demand will grow by 0.3% this year, reaching 1.72 billion tons. This is stated in the association’s April short-term outlook. In",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global steel demand is expected to grow by 0.3% in 2026 – Worldsteel",
+        "url": "https://gmk.center/en/news/global-steel-demand-is-expected-to-grow-by-0-3-in-2026-worldsteel/",
+        "fetchedAt": "2026-04-15T04:01:53.455159Z",
+        "excerpt": "<p>The World Steel Association (Worldsteel) forecasts that global steel demand will grow by 0.3% this year, reaching 1.72 billion tons. This is stated in the association’s April short-term outlook. In 2027, accelerated growth of 2.2% is expected, reaching 1.76 billion tons. Steel demand in China is expected to decline by 1.5% in 2026 as the [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/global-steel-demand-is-expected-to-grow-by-0-3-in-2026-worldsteel/\" data-wpel-link=\"internal\">G"
+      }
+    ]
+  },
+  {
+    "id": "rss-68898",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "India increased its iron ore production by 7% y/y in the FY2025/2026",
+    "summary": "<p>In the 2025/2026 fiscal year (ending March 31), India increased its iron ore production by 7% yy/y – to 310 million tons, according to SteelOrbis. Total production, according to government data, re",
+    "sources": [
+      {
+        "type": "news",
+        "title": "India increased its iron ore production by 7% y/y in the FY2025/2026",
+        "url": "https://gmk.center/en/news/india-increased-its-iron-ore-production-by-7-y-y-in-the-fy2025-2026/",
+        "fetchedAt": "2026-04-15T04:01:53.455167Z",
+        "excerpt": "<p>In the 2025/2026 fiscal year (ending March 31), India increased its iron ore production by 7% yy/y – to 310 million tons, according to SteelOrbis. Total production, according to government data, reached record levels during the year. The growth was driven by strong performance from major companies, but it remained concentrated among a limited group [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/india-increased-its-iron-ore-production-by-7-y-y-in-the-fy2025-2026/\" data-wpel-link"
+      }
+    ]
+  },
+  {
+    "id": "rss-37257",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Materials Services is expanding its presence in North America",
+    "summary": "<p>Thyssenkrupp Materials Services (a division of the Thyssenkrupp Group) has announced the acquisition of a controlling stake in the Mexican company Aceroteca Trading, a flat-rolled carbon steel proc",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Thyssenkrupp Materials Services is expanding its presence in North America",
+        "url": "https://gmk.center/en/news/thyssenkrupp-materials-services-is-expanding-its-presence-in-north-america/",
+        "fetchedAt": "2026-04-15T04:01:53.455175Z",
+        "excerpt": "<p>Thyssenkrupp Materials Services (a division of the Thyssenkrupp Group) has announced the acquisition of a controlling stake in the Mexican company Aceroteca Trading, a flat-rolled carbon steel processing and service center. As noted, this transaction is an important step in strengthening Thyssenkrupp Materials Services’ integrated presence in North America and supports customers’ growing localization and [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/thyssenkrupp-materials-serv"
+      }
+    ]
+  },
+  {
+    "id": "rss-35281",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The EU has reached an agreement on new protective measures for steel",
+    "summary": "<p>Negotiators from the European Parliament and the European Council have reached a political agreement on new safeguard measures regarding steel imports to counter the negative effects of global over",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The EU has reached an agreement on new protective measures for steel",
+        "url": "https://gmk.center/en/news/the-eu-has-reached-an-agreement-on-new-protective-measures-for-steel/",
+        "fetchedAt": "2026-04-15T04:01:53.455182Z",
+        "excerpt": "<p>Negotiators from the European Parliament and the European Council have reached a political agreement on new safeguard measures regarding steel imports to counter the negative effects of global overcapacity. This is stated in a press release from the European Parliament. The preliminary agreement provides for: the introduction of lower steel import quotas—limiting duty-free steel imports [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/the-eu-has-reached-an-agreement-on-new-protec"
+      }
+    ]
+  },
+  {
+    "id": "rss-22883",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Romania has approved the sale of ArcelorMittal Hunedoara to UMB Steel",
+    "summary": "<p>In April of this year, the Romanian Competition Council approved the sale of ArcelorMittal Hunedoara to UMB Steel, a subsidiary of the UMB Group. This was announced in a statement by the regulator.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Romania has approved the sale of ArcelorMittal Hunedoara to UMB Steel",
+        "url": "https://gmk.center/en/news/romania-has-approved-the-sale-of-arcelormittal-hunedoara-to-umb-steel/",
+        "fetchedAt": "2026-04-15T04:01:53.455189Z",
+        "excerpt": "<p>In April of this year, the Romanian Competition Council approved the sale of ArcelorMittal Hunedoara to UMB Steel, a subsidiary of the UMB Group. This was announced in a statement by the regulator. The assets of ArcelorMittal Hunedoara covered by the agreement consist primarily of production equipment and facilities, materials and inventory, as well as [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/romania-has-approved-the-sale-of-arcelormittal-hunedoara-to-umb-steel/\" data-wpe"
+      }
+    ]
+  },
+  {
+    "id": "rss-14164",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Issues with the application of the CBAM regulation and default values for the EAF, and the negative impact on exports to the EU",
+    "summary": "<p>Andriy Ostapets, Director of Environmental and Industrial Safety at Interpipe, discussed these and other challenges related to the full implementation of the Carbon Border Adjustment Mechanism (CBA",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Issues with the application of the CBAM regulation and default values for the EAF, and the negative impact on exports to the EU",
+        "url": "https://gmk.center/en/opinion/issues-with-the-application-of-the-cbam-regulation-and-default-values-for-the-eaf-and-the-negative-impact-on-exports-to-the-eu/",
+        "fetchedAt": "2026-04-15T04:01:53.455196Z",
+        "excerpt": "<p>Andriy Ostapets, Director of Environmental and Industrial Safety at Interpipe, discussed these and other challenges related to the full implementation of the Carbon Border Adjustment Mechanism (CBAM) during the roundtable discussion “The impact of CBAM on Ukraine’s economy and mining and steel sector, 2026–2030.” GMK Center presents the key points of his speech. Incomplete default [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/opinion/issues-with-the-application-of-the-cbam-regulati"
+      }
+    ]
+  },
+  {
+    "id": "rss-27096",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "China will ease restrictions on certain shipments of BHP iron ore",
+    "summary": "<p>China Mineral Resources Group (CMRG), a state-owned Chinese iron ore buyer, has informed several of the country’s steel mills that, starting April 14, they may purchase certain shipments of BHP iro",
+    "sources": [
+      {
+        "type": "news",
+        "title": "China will ease restrictions on certain shipments of BHP iron ore",
+        "url": "https://gmk.center/en/news/china-will-ease-restrictions-on-certain-shipments-of-bhp-iron-ore/",
+        "fetchedAt": "2026-04-15T04:01:53.455203Z",
+        "excerpt": "<p>China Mineral Resources Group (CMRG), a state-owned Chinese iron ore buyer, has informed several of the country’s steel mills that, starting April 14, they may purchase certain shipments of BHP iron ore denominated in U.S. dollars, according to Bloomberg. This is a clear concession in the months-long commercial dispute with the mining company, the agency [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/china-will-ease-restrictions-on-certain-shipments-of-bhp-iron-ore/\" data-wpel-"
+      }
+    ]
+  },
+  {
+    "id": "rss-27356",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine increased exports of pig iron by 0.6% y/y in January–March",
+    "summary": "<p>According to data for January–March 2026, Ukraine’s steelmakers increased exports of merchant pig iron by 0.6% compared to the same period in 2025, reaching 456,630 metric tons. Compared to the pre",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Ukraine increased exports of pig iron by 0.6% y/y in January–March",
+        "url": "https://gmk.center/en/news/ukraine-increased-exports-of-pig-iron-by-0-6-y-y-in-january-march/",
+        "fetchedAt": "2026-04-15T04:01:53.455209Z",
+        "excerpt": "<p>According to data for January–March 2026, Ukraine’s steelmakers increased exports of merchant pig iron by 0.6% compared to the same period in 2025, reaching 456,630 metric tons. Compared to the previous quarter, volumes fell by 21.2%. This is evidenced by calculations by the GMK Center based on data from the State Customs Service. During the [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/ukraine-increased-exports-of-pig-iron-by-0-6-y-y-in-january-march/\" data-wpel-link=\"interna"
+      }
+    ]
+  },
+  {
+    "id": "rss-46158",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue plans to phase out fossil fuels at its mines by 2028",
+    "summary": "<p>Australian mining company Fortescue is accelerating the rollout of an autonomous green energy system to completely phase out fossil fuels, particularly diesel, at its iron ore operations, Reuters r",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Fortescue plans to phase out fossil fuels at its mines by 2028",
+        "url": "https://gmk.center/en/news/fortescue-plans-to-phase-out-fossil-fuels-at-its-mines-by-2028/",
+        "fetchedAt": "2026-04-15T04:01:53.455216Z",
+        "excerpt": "<p>Australian mining company Fortescue is accelerating the rollout of an autonomous green energy system to completely phase out fossil fuels, particularly diesel, at its iron ore operations, Reuters reports. This will help the company cut costs amid rising energy prices caused by the war in Iran. Fortescue expects to save $100 million in fossil fuel [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/fortescue-plans-to-phase-out-fossil-fuels-at-its-mines-by-2028/\" data-wpel-link=\"inter"
+      }
+    ]
+  },
+  {
+    "id": "rss-98563",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Vale has ordered its first ethanol-powered ocean-going bulk carriers from Shandong Shipping",
+    "summary": "<p>Brazilian mining company Vale has signed a 25-year charter agreement with China’s Shandong Shipping Corporation for the construction of the world’s first two ocean-going ethanol-powered vessels. Th",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Vale has ordered its first ethanol-powered ocean-going bulk carriers from Shandong Shipping",
+        "url": "https://gmk.center/en/news/vale-has-ordered-its-first-ethanol-powered-ocean-going-bulk-carriers-from-shandong-shipping/",
+        "fetchedAt": "2026-04-15T04:01:53.455222Z",
+        "excerpt": "<p>Brazilian mining company Vale has signed a 25-year charter agreement with China’s Shandong Shipping Corporation for the construction of the world’s first two ocean-going ethanol-powered vessels. The new Guaibamax-class bulk carriers, each capable of carrying up to 325,000 tons of iron ore, are scheduled to be delivered to the customer starting in 2029, according to [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/vale-has-ordered-its-first-ethanol-powered-ocean-going-bulk-carrier"
+      }
+    ]
+  },
+  {
+    "id": "rss-43209",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Pig iron imports to the EU: trends for 2010-2025",
+    "summary": "<p>Pig iron imports into the EU rose to 2.51 million tons in 2025, a 16.2% year-on-year increase. Following a relatively weaker 2024, this indicates a partial recovery in purchases, although in the lo",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Pig iron imports to the EU: trends for 2010-2025",
+        "url": "https://gmk.center/en/infographic/pig-iron-imports-to-the-eu-trends-for-2010-2025/",
+        "fetchedAt": "2026-04-15T04:01:53.455228Z",
+        "excerpt": "<p>Pig iron imports into the EU rose to 2.51 million tons in 2025, a 16.2% year-on-year increase. Following a relatively weaker 2024, this indicates a partial recovery in purchases, although in the longer term the market still remains below the peak levels of the mid-2010s. Specifically, compared to 2010, imports increased by only 6.8%, and [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/infographic/pig-iron-imports-to-the-eu-trends-for-2010-2025/\" data-wpel-link=\"internal\">Pig iron imp"
+      }
+    ]
+  },
+  {
+    "id": "rss-62060",
+    "date": "Sun, 12 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Prices for Turkish welded pipes rose by $60 per ton in March",
+    "summary": "<p>Regional pipe markets are showing mixed trends, reflecting the specific characteristics of pipe products. As of the end of March, prices for welded pipes in Turkey, which are largely intended for c",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Prices for Turkish welded pipes rose by $60 per ton in March",
+        "url": "https://gmk.center/en/news/prices-for-turkish-welded-pipes-rose-by-60-per-ton-in-march/",
+        "fetchedAt": "2026-04-15T04:01:53.455234Z",
+        "excerpt": "<p>Regional pipe markets are showing mixed trends, reflecting the specific characteristics of pipe products. As of the end of March, prices for welded pipes in Turkey, which are largely intended for construction, rose by $60/t to $655/t, while prices for oil and gas OCTG pipes in the U.S. remained stable. Global market conditions According to [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/prices-for-turkish-welded-pipes-rose-by-60-per-ton-in-march/\" data-wpel-link=\"internal\">Price"
+      }
+    ]
+  },
+  {
+    "id": "rss-77972",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The European Commission has closed a loophole in the import quotas for rebar",
+    "summary": "<p>The European Commission has published an implementing regulation clarifying the classification of fittings under the current steel safeguard regime. This is stated in a press release from the insti",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The European Commission has closed a loophole in the import quotas for rebar",
+        "url": "https://gmk.center/en/news/the-european-commission-has-closed-a-loophole-in-the-import-quotas-for-rebar/",
+        "fetchedAt": "2026-04-15T04:01:53.455240Z",
+        "excerpt": "<p>The European Commission has published an implementing regulation clarifying the classification of fittings under the current steel safeguard regime. This is stated in a press release from the institution. The document includes changes to the classification of products under the tariff quota (TRQ) system applied to imports of certain steel products into the EU. Under [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/the-european-commission-has-closed-a-loophole-in-the-import-quotas"
+      }
+    ]
+  },
+  {
+    "id": "rss-64974",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Consumption of steel products in Ukraine rose by 3.4% y/y in Q1",
+    "summary": "<p>According to data from the Ukrmetallurgprom State Enterprise, Ukraine’s consumption of steel products (rolled steel and semi-finished products) increased by 3.4% year-on-year in the January–March 2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Consumption of steel products in Ukraine rose by 3.4% y/y in Q1",
+        "url": "https://gmk.center/en/news/consumption-of-steel-products-in-ukraine-rose-by-3-4-y-y-in-q1/",
+        "fetchedAt": "2026-04-15T04:01:53.455246Z",
+        "excerpt": "<p>According to data from the Ukrmetallurgprom State Enterprise, Ukraine’s consumption of steel products (rolled steel and semi-finished products) increased by 3.4% year-on-year in the January–March 2026 period, reaching 892,400 metric tons. During this period, the country imported 371,400 tons of steel products, which is 10.5% more year-on-year. Imports accounted for 41.61% of the domestic market. [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/consumption-of-steel-products-in-ukr"
+      }
+    ]
+  },
+  {
+    "id": "rss-78825",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Germany exported 560,000 tons of scrap in January",
+    "summary": "<p>In January 2026, Germany reduced its exports of ferrous metal scrap by 1% year-over-year, to 560,000 metric tons. This was reported by Kallanish, citing data from the country’s Federal Statistical ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Germany exported 560,000 tons of scrap in January",
+        "url": "https://gmk.center/en/news/germany-exported-560-000-tons-of-scrap-in-january/",
+        "fetchedAt": "2026-04-15T04:01:53.455253Z",
+        "excerpt": "<p>In January 2026, Germany reduced its exports of ferrous metal scrap by 1% year-over-year, to 560,000 metric tons. This was reported by Kallanish, citing data from the country’s Federal Statistical Office (Destatis). The value of these exports for the period amounted to €248 million. Scrap import volumes in January of this year fell by 15% [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/germany-exported-560-000-tons-of-scrap-in-january/\" data-wpel-link=\"internal\">Germany exported"
+      }
+    ]
+  },
+  {
+    "id": "rss-40324",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "India plans to reach a steel production capacity of 400 million tons by the 2035/2036 fiscal year",
+    "summary": "<p>India aims to expand its steel production capacity to 400 million tons by the 2035/2036 fiscal year. This is outlined in the proposed National Steel Policy 2025, according to Reuters. According to ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "India plans to reach a steel production capacity of 400 million tons by the 2035/2036 fiscal year",
+        "url": "https://gmk.center/en/news/india-plans-to-reach-a-steel-production-capacity-of-400-million-tons-by-the-2035-2036-fiscal-year/",
+        "fetchedAt": "2026-04-15T04:01:53.455259Z",
+        "excerpt": "<p>India aims to expand its steel production capacity to 400 million tons by the 2035/2036 fiscal year. This is outlined in the proposed National Steel Policy 2025, according to Reuters. According to a draft government memo from March, which the agency reviewed, India will need capital investments of about 17 trillion rupees ($183.41 billion) to [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/india-plans-to-reach-a-steel-production-capacity-of-400-million-tons-by-the-2035-2036-fisc"
+      }
+    ]
+  },
+  {
+    "id": "rss-52419",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Australia&#8217;s coking coal exports fell by 2% y/y in Q1",
+    "summary": "<p>In January–March 2026, Australia reduced its coking coal exports by 2% year-on-year – to approximately 33.38 million tons, according to data from BigMint. In March, the figure rose by 3.6% compared",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Australia&#8217;s coking coal exports fell by 2% y/y in Q1",
+        "url": "https://gmk.center/en/news/australia-s-coking-coal-exports-fell-by-2-y-y-in-q1/",
+        "fetchedAt": "2026-04-15T04:01:53.455265Z",
+        "excerpt": "<p>In January–March 2026, Australia reduced its coking coal exports by 2% year-on-year – to approximately 33.38 million tons, according to data from BigMint. In March, the figure rose by 3.6% compared to the previous month—to 11.28 million tons—largely supported by improved port operations and the easing of earlier weather and logistical disruptions that had a [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/australia-s-coking-coal-exports-fell-by-2-y-y-in-q1/\" data-wpel-link=\"inter"
+      }
+    ]
+  },
+  {
+    "id": "rss-20079",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Losses in iron ore exports due to attacks on logistics amounted to $150 million in Q4 – NBU",
+    "summary": "<p>The most significant negative impact of shelling on ports and railways on Ukrainian exports was recorded in the fourth quarter of 2025. This was reported by NBU Deputy Governor Volodymyr Lepushynsk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Losses in iron ore exports due to attacks on logistics amounted to $150 million in Q4 – NBU",
+        "url": "https://gmk.center/en/news/losses-in-iron-ore-exports-due-to-attacks-on-logistics-amounted-to-150-million-in-q4-nbu/",
+        "fetchedAt": "2026-04-15T04:01:53.455272Z",
+        "excerpt": "<p>The most significant negative impact of shelling on ports and railways on Ukrainian exports was recorded in the fourth quarter of 2025. This was reported by NBU Deputy Governor Volodymyr Lepushynskyi in an interview with Interfax-Ukraine Specifically, the National Bank estimated losses in iron ore exports due to this factor at approximately $150 million in [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/losses-in-iron-ore-exports-due-to-attacks-on-logistics-amounted-to-150-milli"
+      }
+    ]
+  },
+  {
+    "id": "rss-74437",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Interpipe has joined the construction of an offshore wind farm off the coast of the United Kingdom",
+    "summary": "<p>The Ukrainian industrial company Interpipe has joined another European renewable energy project—an offshore wind farm off the coast of the United Kingdom. This was announced in a company statement.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Interpipe has joined the construction of an offshore wind farm off the coast of the United Kingdom",
+        "url": "https://gmk.center/en/news/interpipe-has-joined-the-construction-of-an-offshore-wind-farm-off-the-coast-of-the-united-kingdom/",
+        "fetchedAt": "2026-04-15T04:01:53.455279Z",
+        "excerpt": "<p>The Ukrainian industrial company Interpipe has joined another European renewable energy project—an offshore wind farm off the coast of the United Kingdom. This was announced in a company statement. Construction of this wind farm, located in the North Sea, 69 km off the coast of Suffolk, is in its final stage—the installation of turbines. The [&#8230;]</p>\n<p>The post <a href=\"https://gmk.center/en/news/interpipe-has-joined-the-construction-of-an-offshore-wind-farm-off-the-coast-of-the-united-"
+      }
+    ]
+  },
+  {
+    "id": "rss-35178",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Multi-country hydrogen-based iron-ore-to-green-steel breakthrough in Namibia - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGpPR0l3a3oxdmZGb0ladXRjd1dRUnBiSnpGMTdSOV8yTnJxNndSOUpJOHhpc19BMHlKeGNkYXpqYm5mOC1raVcxdVdWbHlSVkhNVDNURDlNNDZSa2FrZ3pyVnBUYXhHdS14SHNfX3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Multi-country hydrogen-based iron-ore-to-green-steel breakthrough in Namibia - Mining Weekly",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGpPR0l3a3oxdmZGb0ladXRjd1dRUnBiSnpGMTdSOV8yTnJxNndSOUpJOHhpc19BMHlKeGNkYXpqYm5mOC1raVcxdVdWbHlSVkhNVDNURDlNNDZSa2FrZ3pyVnBUYXhHdS14SHNfX3BKVDJsZFZ5TGRZTDN0bnZudjJTM2dyMHk0ZDV4N3ZoWmdLa0wybTE5cUhPM2xQV0cxNzlQTHZnUEVGNXo1eHU0c2pOZjIyd2RUdS1wb0FGdVY?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332316Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGpPR0l3a3oxdmZGb0ladXRjd1dRUnBiSnpGMTdSOV8yTnJxNndSOUpJOHhpc19BMHlKeGNkYXpqYm5mOC1raVcxdVdWbHlSVkhNVDNURDlNNDZSa2FrZ3pyVnBUYXhHdS14SHNfX3BKVDJsZFZ5TGRZTDN0bnZudjJTM2dyMHk0ZDV4N3ZoWmdLa0wybTE5cUhPM2xQV0cxNzlQTHZnUEVGNXo1eHU0c2pOZjIyd2RUdS1wb0FGdVY?oc=5\" target=\"_blank\">Multi-country hydrogen-based iron-ore-to-green-steel breakthrough in Namibia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mining Weekly</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-66755",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iron Ore Rises as China Steel Production Resumes - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWVFUEZ6X2NkTWJMWWhjdFVkZVRqWGhKZ0JQaFNkNHVRU091VklkeDBPbFU0a1VsbEFXR1l0LTNzSk92eHNTOGduUGRDSDJPRlVjR0ZaR1htTzlaRFlUQUVmRzVEdk1GdFc4ZDl2RE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iron Ore Rises as China Steel Production Resumes - TradingView — Track All Markets",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWVFUEZ6X2NkTWJMWWhjdFVkZVRqWGhKZ0JQaFNkNHVRU091VklkeDBPbFU0a1VsbEFXR1l0LTNzSk92eHNTOGduUGRDSDJPRlVjR0ZaR1htTzlaRFlUQUVmRzVEdk1GdFc4ZDl2RENiNzA0T1V4ajd4MDBhZ0hzbmd1MUM4OHNXTUVZU3lQZHBxUElsdU5LRmd3YXVRVDdu?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332334Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWVFUEZ6X2NkTWJMWWhjdFVkZVRqWGhKZ0JQaFNkNHVRU091VklkeDBPbFU0a1VsbEFXR1l0LTNzSk92eHNTOGduUGRDSDJPRlVjR0ZaR1htTzlaRFlUQUVmRzVEdk1GdFc4ZDl2RENiNzA0T1V4ajd4MDBhZ0hzbmd1MUM4OHNXTUVZU3lQZHBxUElsdU5LRmd3YXVRVDdu?oc=5\" target=\"_blank\">Iron Ore Rises as China Steel Production Resumes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView — Track All Markets</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-60696",
+    "date": "Tue, 03 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Aligning Africa's iron ore boom with a steelmaking boost - The World Economic Forum",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVp1bGZKaGlCbkhZOFpkeDF4YWh2RHh3amRSQ3lLQXIxLWRGRkFHek9LNHAtQWJ2UlBVZjBFR3l5RU9mcnduZm9Oc0NHVlVIcFgyb0RrQzlodEFjYXVMbTVySXlFMk5Gc1JIeml5Tj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Aligning Africa's iron ore boom with a steelmaking boost - The World Economic Forum",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVp1bGZKaGlCbkhZOFpkeDF4YWh2RHh3amRSQ3lLQXIxLWRGRkFHek9LNHAtQWJ2UlBVZjBFR3l5RU9mcnduZm9Oc0NHVlVIcFgyb0RrQzlodEFjYXVMbTVySXlFMk5Gc1JIeml5TjBVSjhpSGNfakRQNWdOb1V2SE1LVDJRZXRhSUE?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332340Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVp1bGZKaGlCbkhZOFpkeDF4YWh2RHh3amRSQ3lLQXIxLWRGRkFHek9LNHAtQWJ2UlBVZjBFR3l5RU9mcnduZm9Oc0NHVlVIcFgyb0RrQzlodEFjYXVMbTVySXlFMk5Gc1JIeml5TjBVSjhpSGNfakRQNWdOb1V2SE1LVDJRZXRhSUE?oc=5\" target=\"_blank\">Aligning Africa's iron ore boom with a steelmaking boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-2295",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "DryFlow Magnetics expedites ‘game-changing’ waterless technology - Mining.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXRDbi1wWVdac1lkTklVa1BVZjA4bXdwMmtDZnVzOHdfd3ltWmJoY3JOSk1mLVhQNmhYenFHN3dlWTl0Z290c2xCVmVLRmtOMHFyQndIUWt3WVVkbWgxMks0NUZBOTIyakJfbXFPNz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "DryFlow Magnetics expedites ‘game-changing’ waterless technology - Mining.com.au",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXRDbi1wWVdac1lkTklVa1BVZjA4bXdwMmtDZnVzOHdfd3ltWmJoY3JOSk1mLVhQNmhYenFHN3dlWTl0Z290c2xCVmVLRmtOMHFyQndIUWt3WVVkbWgxMks0NUZBOTIyakJfbXFPNzBvRFpYajA1ZHFEbm1UZkdNaFZwdmIzT2wzTlNSaUlR?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332347Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXRDbi1wWVdac1lkTklVa1BVZjA4bXdwMmtDZnVzOHdfd3ltWmJoY3JOSk1mLVhQNmhYenFHN3dlWTl0Z290c2xCVmVLRmtOMHFyQndIUWt3WVVkbWgxMks0NUZBOTIyakJfbXFPNzBvRFpYajA1ZHFEbm1UZkdNaFZwdmIzT2wzTlNSaUlR?oc=5\" target=\"_blank\">DryFlow Magnetics expedites ‘game-changing’ waterless technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mining.com.au</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-64533",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "India increased its iron ore production by 7% y/y in the FY2025/2026 - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFMweWRhaVFaZU04RlF4Uk80cUhpUmcweTF6RWh3ejhjY0JfWF92ZkFNUUhMV3RFQ3lTZ3hhOHozbmdfc2tZcC16bWFXejVWTzM0UmNuYlg1SDZsUFV1RHRtamQ3UDlhQWRrUi1PdE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "India increased its iron ore production by 7% y/y in the FY2025/2026 - GMK Center",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFMweWRhaVFaZU04RlF4Uk80cUhpUmcweTF6RWh3ejhjY0JfWF92ZkFNUUhMV3RFQ3lTZ3hhOHozbmdfc2tZcC16bWFXejVWTzM0UmNuYlg1SDZsUFV1RHRtamQ3UDlhQWRrUi1PdE1zeWVWeDUyeVd6eEh1YWt2MDRieTVRbk43SGxzZHNzLWhLRFRoNGdseTRiMNIBoAFBVV95cUxQTVRFVFRYZDhJWVZEc3JlTFFhZlJCcktXdGdKZTBBblJOMFVrOGZJTzVuMEdQRkRXY1pRNm1kLUtFSi13Zy12ZWhfOENRTWNucHdIcTV0T0NCdGJIU3hROVlSNFRHeWhVT2dJTEZfLU5VenpKNVFZWXdaeDFzSGhLdEFSSW1fb01tR2JmRFpDWlFvaF91OUxadC1qeG81UVJx?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332358Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFMweWRhaVFaZU04RlF4Uk80cUhpUmcweTF6RWh3ejhjY0JfWF92ZkFNUUhMV3RFQ3lTZ3hhOHozbmdfc2tZcC16bWFXejVWTzM0UmNuYlg1SDZsUFV1RHRtamQ3UDlhQWRrUi1PdE1zeWVWeDUyeVd6eEh1YWt2MDRieTVRbk43SGxzZHNzLWhLRFRoNGdseTRiMNIBoAFBVV95cUxQTVRFVFRYZDhJWVZEc3JlTFFhZlJCcktXdGdKZTBBblJOMFVrOGZJTzVuMEdQRkRXY1pRNm1kLUtFSi13Zy12ZWhfOENRTWNucHdIcTV0T0NCdGJIU3hROVlSNFRHeWhVT2dJTEZfLU5VenpKNVFZWXdaeDFzSGhLdEFSSW1fb01tR2JmRFpDWlFvaF91OUxadC1qeG81UVJx?oc=5\" target=\"_blank\""
+      }
+    ]
+  },
+  {
+    "id": "rss-13720",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "DryFlow pilot targets high-purity iron for green steel - Australian Mining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWpibDZBMEV2RHI2NGViOERTNGdjbV9VR25RcTg1Vk9IMDdlTTVfT0ozVTdCTzVZN3FudHZ4bVdDZUNqcjhnb0pJTzllQmRoci0tcG8yTTNLZms2cmF4M1lIYTdnT3RxOW5wV1psRW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "DryFlow pilot targets high-purity iron for green steel - Australian Mining",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWpibDZBMEV2RHI2NGViOERTNGdjbV9VR25RcTg1Vk9IMDdlTTVfT0ozVTdCTzVZN3FudHZ4bVdDZUNqcjhnb0pJTzllQmRoci0tcG8yTTNLZms2cmF4M1lIYTdnT3RxOW5wV1psRWd0SlBrNFdWc2FBdFhBTEE3YlJQc09rZHJGWTRwS1V6S0h1ZmQydlE?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332364Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWpibDZBMEV2RHI2NGViOERTNGdjbV9VR25RcTg1Vk9IMDdlTTVfT0ozVTdCTzVZN3FudHZ4bVdDZUNqcjhnb0pJTzllQmRoci0tcG8yTTNLZms2cmF4M1lIYTdnT3RxOW5wV1psRWd0SlBrNFdWc2FBdFhBTEE3YlJQc09rZHJGWTRwS1V6S0h1ZmQydlE?oc=5\" target=\"_blank\">DryFlow pilot targets high-purity iron for green steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Mining</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-79473",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "China Lifts BHP Iron Ore Restrictions After 7 Months - Discovery Alert",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9SV3Y2TG1sTFJpa2ZKY1RGVV9WM1NzaTBIZWN4cVlUNk5GOWdmV2U3bnI0bU9vVEptQjRwWFVTWkVIUHpMS25lZ3NPbUt5LVF5QzZWVDRMaHlFbUNub25hY2lpY3B6LUdDTHNkTUFVOH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "China Lifts BHP Iron Ore Restrictions After 7 Months - Discovery Alert",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SV3Y2TG1sTFJpa2ZKY1RGVV9WM1NzaTBIZWN4cVlUNk5GOWdmV2U3bnI0bU9vVEptQjRwWFVTWkVIUHpMS25lZ3NPbUt5LVF5QzZWVDRMaHlFbUNub25hY2lpY3B6LUdDTHNkTUFVOHA5OVhkcGFGc3VOaw?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332369Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9SV3Y2TG1sTFJpa2ZKY1RGVV9WM1NzaTBIZWN4cVlUNk5GOWdmV2U3bnI0bU9vVEptQjRwWFVTWkVIUHpMS25lZ3NPbUt5LVF5QzZWVDRMaHlFbUNub25hY2lpY3B6LUdDTHNkTUFVOHA5OVhkcGFGc3VOaw?oc=5\" target=\"_blank\">China Lifts BHP Iron Ore Restrictions After 7 Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Discovery Alert</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-58801",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Centre tweaks iron ore pricing to unlock low-grade reserves, aid steel sector - The Financial Express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQOUgyZ3ZOWkZadE1NeGwtUndGcUpBd1liTkFSTnpzZzM2YXBVSFpjbFlRUjZTWmVlc21Na1A1WnhxcHI4ZXluaWhiZ0JHMHYyTGJZSlQ5QzRIWmJUbE9UT2d0NDFhc2RtWF81ZWlrMm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Centre tweaks iron ore pricing to unlock low-grade reserves, aid steel sector - The Financial Express",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOUgyZ3ZOWkZadE1NeGwtUndGcUpBd1liTkFSTnpzZzM2YXBVSFpjbFlRUjZTWmVlc21Na1A1WnhxcHI4ZXluaWhiZ0JHMHYyTGJZSlQ5QzRIWmJUbE9UT2d0NDFhc2RtWF81ZWlrMmgtVzBCX2NvQ1BjREhBdHo2a3J4a0FsUFNLVmFpc0RvRXplNjFVbXc2LWEtUVZ5WXNFQU5hUGdpZFl6dXpkRnQ5dFpLV2pVdnB2X09oT056V2ZCekMyMFF4cFpqODPSAdMBQVVfeXFMTWFnRm5aSGJRcjJEbjRIbGNQRHJ3Zl9UZFZSSF9MZm1lTVJBYkd3M3VMVjFkOUNwdktNbkRRX3pkUU9xUklHR2lYM0FJZzdMb1g4VmJKZk55OW51WDNEZkRYeEpnNHh6MHRoT3VSOWZRazc4Q1V4MENiaUpINVRwRllGcW9RX1B3dTNSMi1NYnM5NlQ1b2p3eVMtNUdERFFQUEVwTlVZazlfNXZkOVpqZ09tNlgxc2NwUlByLUd4a1U3MGtlSmtVSHhvT09FczJuWlEtSQ?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332375Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQOUgyZ3ZOWkZadE1NeGwtUndGcUpBd1liTkFSTnpzZzM2YXBVSFpjbFlRUjZTWmVlc21Na1A1WnhxcHI4ZXluaWhiZ0JHMHYyTGJZSlQ5QzRIWmJUbE9UT2d0NDFhc2RtWF81ZWlrMmgtVzBCX2NvQ1BjREhBdHo2a3J4a0FsUFNLVmFpc0RvRXplNjFVbXc2LWEtUVZ5WXNFQU5hUGdpZFl6dXpkRnQ5dFpLV2pVdnB2X09oT056V2ZCekMyMFF4cFpqODPSAdMBQVVfeXFMTWFnRm5aSGJRcjJEbjRIbGNQRHJ3Zl9UZFZSSF9MZm1lTVJBYkd3M3VMVjFkOUNwdktNbkRRX3pkUU9xUklHR2lYM0FJZzdMb1g4VmJKZk55OW51WDNEZkRYeEpnNHh6MHRoT3VSOWZRazc4Q1V4MENiaUpINVRwRl"
+      }
+    ]
+  },
+  {
+    "id": "rss-34143",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Brazil’s iron business reaching limit: Brazil Iron exec - Kallanish Commodities",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFpSaXM2TXVYT3Z2VG1OZFZFVF91MlA0cDlzSWprdW9tcG5YQ3VxWGVrY1VuYzdWOXg1SURQRUhJTl9feTg4eXpXd25ZYXNoelJ3STZibWhBLXotcWpySUhPMEZjeWtKZ0lwbGZjRk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Brazil’s iron business reaching limit: Brazil Iron exec - Kallanish Commodities",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFpSaXM2TXVYT3Z2VG1OZFZFVF91MlA0cDlzSWprdW9tcG5YQ3VxWGVrY1VuYzdWOXg1SURQRUhJTl9feTg4eXpXd25ZYXNoelJ3STZibWhBLXotcWpySUhPMEZjeWtKZ0lwbGZjRkYtY20yWXNfU1Nrc1Q4bGRZQjRyQjRxeHNxV0F0dWNTR280ZTNwbnhsX0UtMWN5Q1RlY0dPZHh1SXFMSDBySDlLVnFFQ0RaZHA2ZWZzU1A2RjJieGtQWHpPQ1k0RmFTcWFmeVZfY0FUNUtodw?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332381Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFpSaXM2TXVYT3Z2VG1OZFZFVF91MlA0cDlzSWprdW9tcG5YQ3VxWGVrY1VuYzdWOXg1SURQRUhJTl9feTg4eXpXd25ZYXNoelJ3STZibWhBLXotcWpySUhPMEZjeWtKZ0lwbGZjRkYtY20yWXNfU1Nrc1Q4bGRZQjRyQjRxeHNxV0F0dWNTR280ZTNwbnhsX0UtMWN5Q1RlY0dPZHh1SXFMSDBySDlLVnFFQ0RaZHA2ZWZzU1A2RjJieGtQWHpPQ1k0RmFTcWFmeVZfY0FUNUtodw?oc=5\" target=\"_blank\">Brazil’s iron business reaching limit: Brazil Iron exec</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kallanish Commodities</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-49241",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "[SMM Iron Ore Imports Analysis] Iron ore imports grew in March, and are expected to continue growing in April due to the impact of geopolitical conflicts - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcDF6YVpoQzB1WmpsaW1QM3FTZUt0b21EX1UxdGxFSFEtc1dDWlN2VmZPeUZRVll3TGNfRDhrQVdyT1RIOFRUNHVFUkY5MkxRdXFwNWYtVjh3VGd0NVNSQmNxYXFmWWlsZjA4TWVUNm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "[SMM Iron Ore Imports Analysis] Iron ore imports grew in March, and are expected to continue growing in April due to the impact of geopolitical conflicts - Shanghai Metals Market",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcDF6YVpoQzB1WmpsaW1QM3FTZUt0b21EX1UxdGxFSFEtc1dDWlN2VmZPeUZRVll3TGNfRDhrQVdyT1RIOFRUNHVFUkY5MkxRdXFwNWYtVjh3VGd0NVNSQmNxYXFmWWlsZjA4TWVUNmpoTkxZSkxNZjVUM0ZDTzRfQ3JoWnM5cE16RTlxSEdHRVM5UFZoSURaOUs4TThnbjdTQjByMVJudExCbW1VUzZ6SzZQdDNQZVdJSjh3MlhHUEl6UlprMnFSUVZjMi0xbjV4MmhuZG13TEtBRHBYSkZwbzFzQ1ZrMDJEdldJZG9hUkNJeXdSNzdFeUwyVHU?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332386Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcDF6YVpoQzB1WmpsaW1QM3FTZUt0b21EX1UxdGxFSFEtc1dDWlN2VmZPeUZRVll3TGNfRDhrQVdyT1RIOFRUNHVFUkY5MkxRdXFwNWYtVjh3VGd0NVNSQmNxYXFmWWlsZjA4TWVUNmpoTkxZSkxNZjVUM0ZDTzRfQ3JoWnM5cE16RTlxSEdHRVM5UFZoSURaOUs4TThnbjdTQjByMVJudExCbW1VUzZ6SzZQdDNQZVdJSjh3MlhHUEl6UlprMnFSUVZjMi0xbjV4MmhuZG13TEtBRHBYSkZwbzFzQ1ZrMDJEdldJZG9hUkNJeXdSNzdFeUwyVHU?oc=5\" target=\"_blank\">[SMM Iron Ore Imports Analysis] Iron ore imports grew in March, and are expected to cont"
+      }
+    ]
+  },
+  {
+    "id": "rss-16954",
+    "date": "Thu, 19 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "China's robust iron ore imports are going into storage, not steel - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWtsR0I3ZkgtbGM3MEFEaWN1TzJYaDcyZkR1RjJtNG5NYUV6NFE0NU1XYWlnOUVtUkdFRmcyZ2x2aHB2VkdFM2g5RVR6MWYxWEVDZ2ttQ0haUDUyUERGeUtwUWhjdzliMlBUaVM2dj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "China's robust iron ore imports are going into storage, not steel - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWtsR0I3ZkgtbGM3MEFEaWN1TzJYaDcyZkR1RjJtNG5NYUV6NFE0NU1XYWlnOUVtUkdFRmcyZ2x2aHB2VkdFM2g5RVR6MWYxWEVDZ2ttQ0haUDUyUERGeUtwUWhjdzliMlBUaVM2djg1RHotbHAzUzJOT3BHRHFLRno1YU1UWk4yYTZhaWhYSlJmaE9MOW50TjVRa0pBakQwajJMS2dhLUxDTWI2TFdvTWxBaDhySUtiOVhv?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332391Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWtsR0I3ZkgtbGM3MEFEaWN1TzJYaDcyZkR1RjJtNG5NYUV6NFE0NU1XYWlnOUVtUkdFRmcyZ2x2aHB2VkdFM2g5RVR6MWYxWEVDZ2ttQ0haUDUyUERGeUtwUWhjdzliMlBUaVM2djg1RHotbHAzUzJOT3BHRHFLRno1YU1UWk4yYTZhaWhYSlJmaE9MOW50TjVRa0pBakQwajJMS2dhLUxDTWI2TFdvTWxBaDhySUtiOVhv?oc=5\" target=\"_blank\">China's robust iron ore imports are going into storage, not steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-74856",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Baogang Wins Approval to Draft New National Standard for Rare Earth Detection in Iron Ore - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGZCUVZZeVo0NGtNRUpNTGpCUnMwWl90YlNxUEQzbnNLUW5vaGl6dVNsLTVuMjBCSWtCZXh3SWMxM0tDZkt4VVZGMVphTFEwSWdPZmxpbHc0dUVnNlkzTFJPMHdCOFA3OFVDRWhpSl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Baogang Wins Approval to Draft New National Standard for Rare Earth Detection in Iron Ore - Rare Earth Exchanges",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGZCUVZZeVo0NGtNRUpNTGpCUnMwWl90YlNxUEQzbnNLUW5vaGl6dVNsLTVuMjBCSWtCZXh3SWMxM0tDZkt4VVZGMVphTFEwSWdPZmxpbHc0dUVnNlkzTFJPMHdCOFA3OFVDRWhpSlkyMEZ6aF9oRVZsVFBFVmY2X3FfM19YNjFIbklOWU5qV2JzS2xpdW0zSVRpZUljQlFxa0ViYW93bU5vb2ZwSV82UTdscUJ2cGl6UGdQTW1RSHRfWDdy?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332396Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGZCUVZZeVo0NGtNRUpNTGpCUnMwWl90YlNxUEQzbnNLUW5vaGl6dVNsLTVuMjBCSWtCZXh3SWMxM0tDZkt4VVZGMVphTFEwSWdPZmxpbHc0dUVnNlkzTFJPMHdCOFA3OFVDRWhpSlkyMEZ6aF9oRVZsVFBFVmY2X3FfM19YNjFIbklOWU5qV2JzS2xpdW0zSVRpZUljQlFxa0ViYW93bU5vb2ZwSV82UTdscUJ2cGl6UGdQTW1RSHRfWDdy?oc=5\" target=\"_blank\">Baogang Wins Approval to Draft New National Standard for Rare Earth Detection in Iron Ore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rare Earth Exchanges</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-38939",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Govt amends pricing norms for low-grade iron ore to check wastage, boost steel supply - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOME9nc21jZGpLVW9JUVFjVVQtNUtzVkUzV2ZjMWtWUXp0RUVZV21UUDhMYnlGSVR0aWhiYlNCRFozdTFTeC1iMDZyYVFGWEtTbV94bFRfVC1pSmJUOE5DbURwQU1rLVAzQnROVFVnbW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Govt amends pricing norms for low-grade iron ore to check wastage, boost steel supply - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOME9nc21jZGpLVW9JUVFjVVQtNUtzVkUzV2ZjMWtWUXp0RUVZV21UUDhMYnlGSVR0aWhiYlNCRFozdTFTeC1iMDZyYVFGWEtTbV94bFRfVC1pSmJUOE5DbURwQU1rLVAzQnROVFVnbW1mWkYzeHRfYi03Q0p0TVdwM1BMTmNJSTVVUGJpTk8tYVdDTHNoZjJzcG1GZHhwcWg0Z1JYTlEyYkdXcXpKQ0o4b2FhWmptRnF4TWtiSndZaW5IWVNLdjNEOGhiaGlFb3lJZXh3eG9uUVcxYlp0d1FmOHo3WkNJSG93MGhNN1huY2ZwS1BXM056U3lyLXJNQUs4bXE3dnVDRdIBjAJBVV95cUxObUdXSDd6N25iYlRDajlxQl9XRWVsUUNsdHJfaGt0eTJrWHd6OXNRTVhpbDZVWGhRUU5qcmthMmtjVVk2ZEZRQkRQMUpva216eG55bW5BMGdDajNiUzB6S0xERk5IWUhIc1RGYzJCX3dRSE85aERtb2F4RlJ4djU3cFBncWF2OWo4QlhoWXVJOXBRRmVmdTVLa29ybGZacnRvQXpzcjZsTDBWQTNWS0l3ODVMckhwa3c4dVlhWWkxaVJHSWhidGlIcXh0UEQxc2ZoUm44aFFFdDNzejQzZXpzNVJ1VFhKT3dsYnh2c3JKeWE4T2ExTks2ckgwNkJuTS1wQnNuMkFPU25rallD?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332405Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOME9nc21jZGpLVW9JUVFjVVQtNUtzVkUzV2ZjMWtWUXp0RUVZV21UUDhMYnlGSVR0aWhiYlNCRFozdTFTeC1iMDZyYVFGWEtTbV94bFRfVC1pSmJUOE5DbURwQU1rLVAzQnROVFVnbW1mWkYzeHRfYi03Q0p0TVdwM1BMTmNJSTVVUGJpTk8tYVdDTHNoZjJzcG1GZHhwcWg0Z1JYTlEyYkdXcXpKQ0o4b2FhWmptRnF4TWtiSndZaW5IWVNLdjNEOGhiaGlFb3lJZXh3eG9uUVcxYlp0d1FmOHo3WkNJSG93MGhNN1huY2ZwS1BXM056U3lyLXJNQUs4bXE3dnVDRdIBjAJBVV95cUxObUdXSDd6N25iYlRDajlxQl9XRWVsUUNsdHJfaGt0eTJrWHd6OXNRTVhpbDZVWGhRUU5qcmthMmtjVVk2ZE"
+      }
+    ]
+  },
+  {
+    "id": "rss-11768",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Govt amends low-grade iron ore pricing norms to boost steel supply - MillenniumPost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2NxTlZkN1dMbzlWOXN0T3lWOHdLVUlCT1puZW9aTEozWjVQdDlwMS1WWnA2MVIxc3FSQTk5N0JTWkZvLWFSdy1Vc2tLb2poTlFfLWIwYlhodm9ZdXpfVWpVWk1RZ0FFSHA4eFJKV3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Govt amends low-grade iron ore pricing norms to boost steel supply - MillenniumPost",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2NxTlZkN1dMbzlWOXN0T3lWOHdLVUlCT1puZW9aTEozWjVQdDlwMS1WWnA2MVIxc3FSQTk5N0JTWkZvLWFSdy1Vc2tLb2poTlFfLWIwYlhodm9ZdXpfVWpVWk1RZ0FFSHA4eFJKV3NEQjduMkZKZUN4X0M5VGRTS2JIcjNRRmxETUtCQjN0VzRqQ004NlY5Q19WSDhwUHQydVNvVUN2c2RWQ0YxN2VGR2J30gG3AUFVX3lxTE1PcW00R3hOTk4wMmJvb3FOdVFCRGhvdDBzU281S1BMSTNCSDRsWGtYYk1SM19VeUlYV0ZvNlVLN3daWTRUaVpPdDhGelM5YlNuMnNuREFXQVo0Ynh2OTVGdWhGVnE5TjhtdHRtcmx2bWZVRkxiQmk3WGRjbE5TTGFQMVcwQXV2QmxzYnFqYlhfYlFhVDZfVDMzYzYtTXcxMzRxMkVkRXdCNWhUMlJJbkZkWUVrQ0U5RQ?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332411Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2NxTlZkN1dMbzlWOXN0T3lWOHdLVUlCT1puZW9aTEozWjVQdDlwMS1WWnA2MVIxc3FSQTk5N0JTWkZvLWFSdy1Vc2tLb2poTlFfLWIwYlhodm9ZdXpfVWpVWk1RZ0FFSHA4eFJKV3NEQjduMkZKZUN4X0M5VGRTS2JIcjNRRmxETUtCQjN0VzRqQ004NlY5Q19WSDhwUHQydVNvVUN2c2RWQ0YxN2VGR2J30gG3AUFVX3lxTE1PcW00R3hOTk4wMmJvb3FOdVFCRGhvdDBzU281S1BMSTNCSDRsWGtYYk1SM19VeUlYV0ZvNlVLN3daWTRUaVpPdDhGelM5YlNuMnNuREFXQVo0Ynh2OTVGdWhGVnE5TjhtdHRtcmx2bWZVRkxiQmk3WGRjbE5TTGFQMVcwQXV2QmxzYnFqYlhfYlFhVDZfVDMzYz"
+      }
+    ]
+  },
+  {
+    "id": "rss-88573",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Govt notifies pricing framework for low-grade iron ore to boost output - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWFQSFhMd29VN1NTTHBuN2VtNXhUckE1dE9aVE01eEFzTnNpSjhUdW5HNFJZSWRRMFBNR0RuVUl1VWhBaF8wcU04Q2VOQ1ptZkR2cEkwQnJkYVZNNlg0ODV3MU90eG13NFF4MEUyWm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Govt notifies pricing framework for low-grade iron ore to boost output - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWFQSFhMd29VN1NTTHBuN2VtNXhUckE1dE9aVE01eEFzTnNpSjhUdW5HNFJZSWRRMFBNR0RuVUl1VWhBaF8wcU04Q2VOQ1ptZkR2cEkwQnJkYVZNNlg0ODV3MU90eG13NFF4MEUyWm1CYTVvRmFicEFZRERwNW9SVWVCRm9ZWWhjUWJhTk5YTk1NS2hiRHBJXzNtMG4yRVhlX1VidFJ1enEwZUlNZzRlMUxFYzJlZGNtNXJiYmQ2ckRWY0hHWEdEY2ZTbUdTRGNR0gHWAUFVX3lxTE9XYVlSRUt4RVNxaGI1WU82dGo5dnBreGtEYmtrU1p1ZmtVSFJGX042SmJzbW9QUE1yeHZDekFrazQ1QV9lbTlER3QxenJYSEN4aWNyRDZvbHp3bkhHYmlpVlRfTTd3NFBFYzJCWEJNd19seWFUOWJWdEw2VW50MEU0M21xMlJLRHljQ04tUnhQdnpGNU93Q0JhamdLSVFNXy1LUGpKX1lNcjdpOFlPc2ZOUWhuZlItc1ZsTERsWUlrdy1JT0k3UnQ2Q3ExWFR3MW44Qm9kOEE?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332416Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWFQSFhMd29VN1NTTHBuN2VtNXhUckE1dE9aVE01eEFzTnNpSjhUdW5HNFJZSWRRMFBNR0RuVUl1VWhBaF8wcU04Q2VOQ1ptZkR2cEkwQnJkYVZNNlg0ODV3MU90eG13NFF4MEUyWm1CYTVvRmFicEFZRERwNW9SVWVCRm9ZWWhjUWJhTk5YTk1NS2hiRHBJXzNtMG4yRVhlX1VidFJ1enEwZUlNZzRlMUxFYzJlZGNtNXJiYmQ2ckRWY0hHWEdEY2ZTbUdTRGNR0gHWAUFVX3lxTE9XYVlSRUt4RVNxaGI1WU82dGo5dnBreGtEYmtrU1p1ZmtVSFJGX042SmJzbW9QUE1yeHZDekFrazQ1QV9lbTlER3QxenJYSEN4aWNyRDZvbHp3bkhHYmlpVlRfTTd3NFBFYzJCWEJNd19seWFUOWJWdEw2VW"
+      }
+    ]
+  },
+  {
+    "id": "rss-28954",
+    "date": "Wed, 04 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iron Ore Rises as Beijing Vows Measures to Support Steel Sector - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPME1lRHRBQXJfUXA0NDh5M1o5ekhUaG5mbzdBZGV1a1Z3aXJFUnQ4V0diaVEzQjRnREdnTjhWSVZiOGN4Q1ZwVVQ1V0h2WDk0Q09INGl4YS0zdW1XQTZSYUlKVVNOaEJWZ0VmaHhvWF",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iron Ore Rises as Beijing Vows Measures to Support Steel Sector - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPME1lRHRBQXJfUXA0NDh5M1o5ekhUaG5mbzdBZGV1a1Z3aXJFUnQ4V0diaVEzQjRnREdnTjhWSVZiOGN4Q1ZwVVQ1V0h2WDk0Q09INGl4YS0zdW1XQTZSYUlKVVNOaEJWZ0VmaHhvWFAwQXZRZDRPSlg2eE9BeGptTHJYd2I3YlVCdVF4bURJTm9nSjFjOGdRU2JKQ1psM1J4N3cyRmRSUUJHd3QwTDFLbFlRS2Q?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332422Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPME1lRHRBQXJfUXA0NDh5M1o5ekhUaG5mbzdBZGV1a1Z3aXJFUnQ4V0diaVEzQjRnREdnTjhWSVZiOGN4Q1ZwVVQ1V0h2WDk0Q09INGl4YS0zdW1XQTZSYUlKVVNOaEJWZ0VmaHhvWFAwQXZRZDRPSlg2eE9BeGptTHJYd2I3YlVCdVF4bURJTm9nSjFjOGdRU2JKQ1psM1J4N3cyRmRSUUJHd3QwTDFLbFlRS2Q?oc=5\" target=\"_blank\">Iron Ore Rises as Beijing Vows Measures to Support Steel Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-81203",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Mines Ministry sets pricing formula for low-grade iron ore - PSU Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXQtUzJIOFE0SF9RX0tWbjJFald2X1QzWGxKRFNGcVdLOElfWE5Dc0ppTU9UM1Q0a1FMT2s1ZEtKQ0hYODVLRlJQaWZHQTFCUS1BalRaU194eWlERkxGYWs4TDdKTDIwQzcwaHdfen",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Mines Ministry sets pricing formula for low-grade iron ore - PSU Watch",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXQtUzJIOFE0SF9RX0tWbjJFald2X1QzWGxKRFNGcVdLOElfWE5Dc0ppTU9UM1Q0a1FMT2s1ZEtKQ0hYODVLRlJQaWZHQTFCUS1BalRaU194eWlERkxGYWs4TDdKTDIwQzcwaHdfenFfM0lPRnA0RUpYeVFyT0JfOFBGRFhxOXhsTGhrSVBHODM0SGxDV0HSAaMBQVVfeXFMUDZ2OFBvWmNsT3hnZjhVNHBTRWd3aTFSM293OVJza2lXQlNhRnBUQ29sUlZXUTR0eWxNZlJydXNjc3RIaUFzemVCanN2aTI4d2t3YmRUY3RzejBDRkFkTy0wNmVrWl9ESHk4akJrR2pFd0h4Z2RLQ0pIYU8xVS00Uk5jek9tdHRlaWE5VDVuUThzRjJVU1U2MTlZZGpyRjE2TmR4Yw?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332428Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXQtUzJIOFE0SF9RX0tWbjJFald2X1QzWGxKRFNGcVdLOElfWE5Dc0ppTU9UM1Q0a1FMT2s1ZEtKQ0hYODVLRlJQaWZHQTFCUS1BalRaU194eWlERkxGYWs4TDdKTDIwQzcwaHdfenFfM0lPRnA0RUpYeVFyT0JfOFBGRFhxOXhsTGhrSVBHODM0SGxDV0HSAaMBQVVfeXFMUDZ2OFBvWmNsT3hnZjhVNHBTRWd3aTFSM293OVJza2lXQlNhRnBUQ29sUlZXUTR0eWxNZlJydXNjc3RIaUFzemVCanN2aTI4d2t3YmRUY3RzejBDRkFkTy0wNmVrWl9ESHk4akJrR2pFd0h4Z2RLQ0pIYU8xVS00Uk5jek9tdHRlaWE5VDVuUThzRjJVU1U2MTlZZGpyRjE2TmR4Yw?oc=5\" target=\"_blank\">M"
+      }
+    ]
+  },
+  {
+    "id": "rss-40446",
+    "date": "Thu, 19 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global race as market for high-grade iron ore grows - Institute for Energy Economics and Financial Analysis (IEEFA)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB6aUhNal9fbHpxSk9tREctUTdyZXE0ZWNUcFpWRnBScHBOak1DMmhEeXg1dmZRZS1pMGV1Z3BxOGZTSmw2R1FlNHVSNVRmcnlMa2RtQUtSWm90c29PMktyMW9xdEpFYllOcHlJSXg0bW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global race as market for high-grade iron ore grows - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6aUhNal9fbHpxSk9tREctUTdyZXE0ZWNUcFpWRnBScHBOak1DMmhEeXg1dmZRZS1pMGV1Z3BxOGZTSmw2R1FlNHVSNVRmcnlMa2RtQUtSWm90c29PMktyMW9xdEpFYllOcHlJSXg0bWhKWm90bjhZQTRiZw?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332433Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB6aUhNal9fbHpxSk9tREctUTdyZXE0ZWNUcFpWRnBScHBOak1DMmhEeXg1dmZRZS1pMGV1Z3BxOGZTSmw2R1FlNHVSNVRmcnlMa2RtQUtSWm90c29PMktyMW9xdEpFYllOcHlJSXg0bWhKWm90bjhZQTRiZw?oc=5\" target=\"_blank\">Global race as market for high-grade iron ore grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for Energy Economics and Financial Analysis (IEEFA)</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-22361",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iran war allows Australia to revive green iron ambitions - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkVRX0VDRy1SR1Q1SFJiNTZrbk5Cbmc2X2NLOUhCMDg5bE5DOUZ4S0Fjd2hjMzJ0emtaWHd4ZTNyc0R3LUp3ZmVUaVdQT2g3RDU4bnNNSy15S2M0QkxvSTBMYkdsNFRQdEw0VGZkN2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iran war allows Australia to revive green iron ambitions - Mining Weekly",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkVRX0VDRy1SR1Q1SFJiNTZrbk5Cbmc2X2NLOUhCMDg5bE5DOUZ4S0Fjd2hjMzJ0emtaWHd4ZTNyc0R3LUp3ZmVUaVdQT2g3RDU4bnNNSy15S2M0QkxvSTBMYkdsNFRQdEw0VGZkN2ROemc2WUhtLVhNaDFFaVpvdnhhTGN6QzN1ZmRXWTUxMEpkSkVsMF9peUdYMkoxOXQ2TUwwQi0ycw?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332438Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkVRX0VDRy1SR1Q1SFJiNTZrbk5Cbmc2X2NLOUhCMDg5bE5DOUZ4S0Fjd2hjMzJ0emtaWHd4ZTNyc0R3LUp3ZmVUaVdQT2g3RDU4bnNNSy15S2M0QkxvSTBMYkdsNFRQdEw0VGZkN2ROemc2WUhtLVhNaDFFaVpvdnhhTGN6QzN1ZmRXWTUxMEpkSkVsMF9peUdYMkoxOXQ2TUwwQi0ycw?oc=5\" target=\"_blank\">Iran war allows Australia to revive green iron ambitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mining Weekly</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-13792",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "According to Thai media reports, Thailand's steel industry, under pres - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWRVUnlIOFJCbFZHM1o3bDRFVk16a24xVU1QdjhsTnlzMk94cXQxNG5xZDdPdTlWSWpYak40bHZDNnlMLVVNYVJpOUxaUFd2cmc2azd1NlNBLWpNbDFTVU82Q282MzdwazVvckVFUT",
+    "sources": [
+      {
+        "type": "news",
+        "title": "According to Thai media reports, Thailand's steel industry, under pres - Shanghai Metals Market",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWRVUnlIOFJCbFZHM1o3bDRFVk16a24xVU1QdjhsTnlzMk94cXQxNG5xZDdPdTlWSWpYak40bHZDNnlMLVVNYVJpOUxaUFd2cmc2azd1NlNBLWpNbDFTVU82Q282MzdwazVvckVFUTNKTnZzc0h0Z1FpakpXZzVSNnNHOTB5MHdkdnlrdUxIdkxLRklNVG5ZRGQzOVB3dHJUVUd6OGtxLW1GRmFoNzdLMWtmdzcyUQ?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.332443Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWRVUnlIOFJCbFZHM1o3bDRFVk16a24xVU1QdjhsTnlzMk94cXQxNG5xZDdPdTlWSWpYak40bHZDNnlMLVVNYVJpOUxaUFd2cmc2azd1NlNBLWpNbDFTVU82Q282MzdwazVvckVFUTNKTnZzc0h0Z1FpakpXZzVSNnNHOTB5MHdkdnlrdUxIdkxLRklNVG5ZRGQzOVB3dHJUVUd6OGtxLW1GRmFoNzdLMWtmdzcyUQ?oc=5\" target=\"_blank\">According to Thai media reports, Thailand's steel industry, under pres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shanghai Metals Market</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-1152",
+    "date": "Thu, 19 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tokyo Steel Raises Prices for April 2026: HRC, Rebar & Sections Up - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHNRdmZtaWh4SGxxM3J6M00wQ2xQOTRmdzNrSC1JTGNyTlZwbGQzSS1vbjJ2X1V4YTZMSjQzUnM1SHFlVDVXSlBXXzdHWmR6VFQwVVBabDROMTFjZDJiNUFxWnpsVzkwWThHZ1k5QV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tokyo Steel Raises Prices for April 2026: HRC, Rebar & Sections Up - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHNRdmZtaWh4SGxxM3J6M00wQ2xQOTRmdzNrSC1JTGNyTlZwbGQzSS1vbjJ2X1V4YTZMSjQzUnM1SHFlVDVXSlBXXzdHWmR6VFQwVVBabDROMTFjZDJiNUFxWnpsVzkwWThHZ1k5QVA5dl9WbHhZbDNKRWFZN254Z0pCZUZlbkVZNVZqT2JaanhfX3Z6bWc?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937765Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHNRdmZtaWh4SGxxM3J6M00wQ2xQOTRmdzNrSC1JTGNyTlZwbGQzSS1vbjJ2X1V4YTZMSjQzUnM1SHFlVDVXSlBXXzdHWmR6VFQwVVBabDROMTFjZDJiNUFxWnpsVzkwWThHZ1k5QVA5dl9WbHhZbDNKRWFZN254Z0pCZUZlbkVZNVZqT2JaanhfX3Z6bWc?oc=5\" target=\"_blank\">Tokyo Steel Raises Prices for April 2026: HRC, Rebar & Sections Up - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-4898",
+    "date": "Thu, 09 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Chinese HRC, rebar prices rise in Mar'26 despite subdued demand - BigMint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQN050X0wtV0lhZzd0cGNVRmFkRUFjc1o1SDA4aC1ubXZWZGJ0bnBpbkJQRDR2Tjh5dElVOGVZMWFPSG1lYk9meUYtRzlfckprbFFMb1B4QkVSVUtQR250NzhRTzBJVG9JRTdralZ6WW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Chinese HRC, rebar prices rise in Mar'26 despite subdued demand - BigMint",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN050X0wtV0lhZzd0cGNVRmFkRUFjc1o1SDA4aC1ubXZWZGJ0bnBpbkJQRDR2Tjh5dElVOGVZMWFPSG1lYk9meUYtRzlfckprbFFMb1B4QkVSVUtQR250NzhRTzBJVG9JRTdralZ6WWN2ZG5yZXl5eDV4TmhmMl9pSHFzNko0MGxmOUdDZ0haQ3c3X2hjQTl4b2p0ZXlvQzA3YjRLa01oMm9NOEUxWU8zSjFMV3FzSU1ZWVJkYVpERkI4bXdETkdQSFdRcFI?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937778Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQN050X0wtV0lhZzd0cGNVRmFkRUFjc1o1SDA4aC1ubXZWZGJ0bnBpbkJQRDR2Tjh5dElVOGVZMWFPSG1lYk9meUYtRzlfckprbFFMb1B4QkVSVUtQR250NzhRTzBJVG9JRTdralZ6WWN2ZG5yZXl5eDV4TmhmMl9pSHFzNko0MGxmOUdDZ0haQ3c3X2hjQTl4b2p0ZXlvQzA3YjRLa01oMm9NOEUxWU8zSjFMV3FzSU1ZWVJkYVpERkI4bXdETkdQSFdRcFI?oc=5\" target=\"_blank\">Chinese HRC, rebar prices rise in Mar'26 despite subdued demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigMint</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-27528",
+    "date": "Wed, 11 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global HRC Prices and Rebar Prices: Market Analysis - Discovery Alert",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWV1ai1rSlFZQllySWVzVnA4aXdtNkw2a3JwMXZ5cUIzWWZ0REQ0dzJWNzVFSGdta1J1Tmhjamt5WjJYOC1PR0hBbGpxU1Judk9BYzdhdEhGZi01RENTcll4MU1KYVlnRXZyYWJyN1",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global HRC Prices and Rebar Prices: Market Analysis - Discovery Alert",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWV1ai1rSlFZQllySWVzVnA4aXdtNkw2a3JwMXZ5cUIzWWZ0REQ0dzJWNzVFSGdta1J1Tmhjamt5WjJYOC1PR0hBbGpxU1Judk9BYzdhdEhGZi01RENTcll4MU1KYVlnRXZyYWJyN1Bja3c4TXN1ckJ3Vm80c0s4UXNR?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937784Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWV1ai1rSlFZQllySWVzVnA4aXdtNkw2a3JwMXZ5cUIzWWZ0REQ0dzJWNzVFSGdta1J1Tmhjamt5WjJYOC1PR0hBbGpxU1Judk9BYzdhdEhGZi01RENTcll4MU1KYVlnRXZyYWJyN1Bja3c4TXN1ckJ3Vm80c0s4UXNR?oc=5\" target=\"_blank\">Global HRC Prices and Rebar Prices: Market Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Discovery Alert</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-30652",
+    "date": "Fri, 24 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Steel prices hit 5-year low! Value drops sharply; top factors for steep fall - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNek9tXzN4ZHRnQlNHak1pemlmMU1aaHpwY3ZQdUhjMVZmYVNmWEEtTnZDTFVaYUJMdl8zdlB3MWRwWkM2RkMyXy1ScGFDNXNJdWM1dVBWZy1oZkRXYzBiTVdVWHhQLUt5bFNyYWxkZG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Steel prices hit 5-year low! Value drops sharply; top factors for steep fall - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNek9tXzN4ZHRnQlNHak1pemlmMU1aaHpwY3ZQdUhjMVZmYVNmWEEtTnZDTFVaYUJMdl8zdlB3MWRwWkM2RkMyXy1ScGFDNXNJdWM1dVBWZy1oZkRXYzBiTVdVWHhQLUt5bFNyYWxkZGlhc0pqZDY3SGQzSFJBeHJnYWhGQndSSjR5RFNtaW9VbmJoUlgzNjJSeTdPSldkb2syZGNINXd6cXZUYzNqV1E4eWFWU0F5cFVCMnRPMHBCS2tsSFdFMWpFTHJsemtYLWlsVTFVOUVfVmFyZjc4cV84YzRPMmdiX19YUXpsdW01dTFmQdIB9wFBVV95cUxNUGtwWGlEdjlnVTdyNC1xeDNsdjZMX3pJbHdiSEVJb3dydjcwTUl2dDg2UGFpWjFsbzF1SzBMV0JmdzVSUXluVjJidnBTY2VNQ0Y0RXhVR3RxRmltZlpCSUpfMnJHU0MxNTR3bE9LVFRuQnROTjlicHJlQmRscnMteUtQOWdnd2VJVjFUY1E0WkoxZDBCV0MzMFZwblZpZFhqNE8zdmVqLVJRSmZrbmFGN2xzMFFRSWhGZG5pckJ1aDI3T1NQQ0NNQ0ZoRkMxdjMwT0VXa1FSa0tQU3JJY1ZmQVB4Y052SGwzWGx3VlZQdm1XV2ZQR2lr?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937790Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNek9tXzN4ZHRnQlNHak1pemlmMU1aaHpwY3ZQdUhjMVZmYVNmWEEtTnZDTFVaYUJMdl8zdlB3MWRwWkM2RkMyXy1ScGFDNXNJdWM1dVBWZy1oZkRXYzBiTVdVWHhQLUt5bFNyYWxkZGlhc0pqZDY3SGQzSFJBeHJnYWhGQndSSjR5RFNtaW9VbmJoUlgzNjJSeTdPSldkb2syZGNINXd6cXZUYzNqV1E4eWFWU0F5cFVCMnRPMHBCS2tsSFdFMWpFTHJsemtYLWlsVTFVOUVfVmFyZjc4cV84YzRPMmdiX19YUXpsdW01dTFmQdIB9wFBVV95cUxNUGtwWGlEdjlnVTdyNC1xeDNsdjZMX3pJbHdiSEVJb3dydjcwTUl2dDg2UGFpWjFsbzF1SzBMV0JmdzVSUXluVjJidnBTY2VNQ0Y0RXhVR3RxRm"
+      }
+    ]
+  },
+  {
+    "id": "rss-73939",
+    "date": "Fri, 27 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Steel HRC prices hit 2-year high at ₹54,000/tonne; how long will the rally last? - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFlIdTZTaEJNbVk2enpDYVZ1akF5WXNzVFJ5dnBYUHhKZG9PNEo3V3RKei0xa1BDdXhob3RlZG8wOF9rbzNhd2VSTmVsYTM0TnFxQUU1bC1RelBfaXpQSlhaY0ZLOG05Ml9mYllNa0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Steel HRC prices hit 2-year high at ₹54,000/tonne; how long will the rally last? - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFlIdTZTaEJNbVk2enpDYVZ1akF5WXNzVFJ5dnBYUHhKZG9PNEo3V3RKei0xa1BDdXhob3RlZG8wOF9rbzNhd2VSTmVsYTM0TnFxQUU1bC1RelBfaXpQSlhaY0ZLOG05Ml9mYllNa0JxRFRYZm4wSm5uQzdkTHktdmNnd2VyMGlLeG1GbEU2NDNWM1hBOUJOMkZPbFBobWJwT1FaZjNkUXBhTFJoLW9HcERJT1U4N0ROVTlUWG1yakdpWHY4T3VzMkZWRWdkNXNvY0U2ZGgtZGQ4cXZJ0gHiAUFVX3lxTFAxVDNWV0tQVW1TbVg1QlNNQzRvRnNSQU1zTXowazNsY3hRS1lJNmI5UnljRGJxeEFzZ3VWaU4td1N6Q0dmSjNKc1RrU1BBNjdnMWZQMnpjTVRhbDZzem9BejF5VzhCQlF0WVlDNDhDc29XYVpjTG5rVTZqb29RY29tREZBejRwY19tOVl1SDVBVXV6c0ZMcVhmT0EwTnN3dDdiV05Ray1aY196X0UxQnYzS2hhemcxM183NDhoWjE4YWxTUU9BTi1rTHBHTlZ4LXhKNTBJUW5xQnZhSkJiY1RwckE?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937797Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFlIdTZTaEJNbVk2enpDYVZ1akF5WXNzVFJ5dnBYUHhKZG9PNEo3V3RKei0xa1BDdXhob3RlZG8wOF9rbzNhd2VSTmVsYTM0TnFxQUU1bC1RelBfaXpQSlhaY0ZLOG05Ml9mYllNa0JxRFRYZm4wSm5uQzdkTHktdmNnd2VyMGlLeG1GbEU2NDNWM1hBOUJOMkZPbFBobWJwT1FaZjNkUXBhTFJoLW9HcERJT1U4N0ROVTlUWG1yakdpWHY4T3VzMkZWRWdkNXNvY0U2ZGgtZGQ4cXZJ0gHiAUFVX3lxTFAxVDNWV0tQVW1TbVg1QlNNQzRvRnNSQU1zTXowazNsY3hRS1lJNmI5UnljRGJxeEFzZ3VWaU4td1N6Q0dmSjNKc1RrU1BBNjdnMWZQMnpjTVRhbDZzem9BejF5VzhCQlF0WVlDNDhDc2"
+      }
+    ]
+  },
+  {
+    "id": "rss-64745",
+    "date": "Tue, 11 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "American steel producers are gradually raising prices for rolled products - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZENFRkFkb0liWGRlcEt5NTRzaDFLQTRYSE1WOXZiZWczUjQzbVZYSlpYWmZIRk8wOFFyaWFJUWZkUTEtMlMwelEyZGZ5RkowZkJmeGc0a3kwbHIwaHBRTkNldG14aDgzTVg1dk40SW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "American steel producers are gradually raising prices for rolled products - GMK Center",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZENFRkFkb0liWGRlcEt5NTRzaDFLQTRYSE1WOXZiZWczUjQzbVZYSlpYWmZIRk8wOFFyaWFJUWZkUTEtMlMwelEyZGZ5RkowZkJmeGc0a3kwbHIwaHBRTkNldG14aDgzTVg1dk40SWMtQ2NmM3B3RDA0SWJHWG05M2pTRjFVbl9RMVU0dHlGd3otNUxTdkU3Wl9MQmFLM0Vfakhj0gGoAUFVX3lxTE8yNHhIMDZUUG1xMXQyWFRDQ2JzdWllel9mbnQ0c1JkYXo3RlF5NnBKNEZwbGJzWmVjMzBUSmtNdlk1OGppemxENnFmLTZYV1Bjb3psaXV1VGQ4YklDNllSOEdwak1rMHA3b3IwR25BZUlHbXNNZG42RzQyZ1dJX2VFS0RzWG5pZ1dEdHMybU5DbU9WOFhoTUVBLUJUZERBQU9xUUFzN3dUdA?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937802Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZENFRkFkb0liWGRlcEt5NTRzaDFLQTRYSE1WOXZiZWczUjQzbVZYSlpYWmZIRk8wOFFyaWFJUWZkUTEtMlMwelEyZGZ5RkowZkJmeGc0a3kwbHIwaHBRTkNldG14aDgzTVg1dk40SWMtQ2NmM3B3RDA0SWJHWG05M2pTRjFVbl9RMVU0dHlGd3otNUxTdkU3Wl9MQmFLM0Vfakhj0gGoAUFVX3lxTE8yNHhIMDZUUG1xMXQyWFRDQ2JzdWllel9mbnQ0c1JkYXo3RlF5NnBKNEZwbGJzWmVjMzBUSmtNdlk1OGppemxENnFmLTZYV1Bjb3psaXV1VGQ4YklDNllSOEdwak1rMHA3b3IwR25BZUlHbXNNZG42RzQyZ1dJX2VFS0RzWG5pZ1dEdHMybU5DbU9WOFhoTUVBLUJUZERBQU9xUUFzN3dUdA"
+      }
+    ]
+  },
+  {
+    "id": "rss-4451",
+    "date": "Thu, 15 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Latin American steel sector expects stronger safeguards, clearer landscape in 2026 - Fastmarkets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeThjYUJfNG5vYWdoTUJMd2Q4QlZHbUNMRFZkRVdFX3FHaXpjbUpOZmlfRmZwVmlGd29Gc3JqREhmUW92OXdJRTVRQWVGTWo5TmxqbGxWbWg4TXRVY3BuRGpaMWRGc0NNa3RrN2FmeH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Latin American steel sector expects stronger safeguards, clearer landscape in 2026 - Fastmarkets",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeThjYUJfNG5vYWdoTUJMd2Q4QlZHbUNMRFZkRVdFX3FHaXpjbUpOZmlfRmZwVmlGd29Gc3JqREhmUW92OXdJRTVRQWVGTWo5TmxqbGxWbWg4TXRVY3BuRGpaMWRGc0NNa3RrN2FmeHhCRm1DcjZNSVhBOGJmd3BnNkV5OGVrbzNQSzd5ZThLX2ZvaDVXejJ6eFhLZVZsVmlaWEJDOEdFQ2tqeC05czhKV0dIamZCcHRKYUFV?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937807Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeThjYUJfNG5vYWdoTUJMd2Q4QlZHbUNMRFZkRVdFX3FHaXpjbUpOZmlfRmZwVmlGd29Gc3JqREhmUW92OXdJRTVRQWVGTWo5TmxqbGxWbWg4TXRVY3BuRGpaMWRGc0NNa3RrN2FmeHhCRm1DcjZNSVhBOGJmd3BnNkV5OGVrbzNQSzd5ZThLX2ZvaDVXejJ6eFhLZVZsVmlaWEJDOEdFQ2tqeC05czhKV0dIamZCcHRKYUFV?oc=5\" target=\"_blank\">Latin American steel sector expects stronger safeguards, clearer landscape in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fastmarkets</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-16832",
+    "date": "Sun, 18 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Indian Steel Sector Witnesses Sequential Price Hikes Amid Strong Domestic Demand - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORHJVZ1UzLVRDczRZZG9WSUZ2aVN2amFqWFNENWduRmYwUjVxVUdkN2hfOFJzdmVGMGN2WG1KYURibG42WG1NZzd1SVhUcXFPOEY3UmRRVTZrRi1YZE80Mkl1TjBxRmxzVEVfZG9BVU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Indian Steel Sector Witnesses Sequential Price Hikes Amid Strong Domestic Demand - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORHJVZ1UzLVRDczRZZG9WSUZ2aVN2amFqWFNENWduRmYwUjVxVUdkN2hfOFJzdmVGMGN2WG1KYURibG42WG1NZzd1SVhUcXFPOEY3UmRRVTZrRi1YZE80Mkl1TjBxRmxzVEVfZG9BVUctUk9BQjJvUGFCM19nWUtUVXJhNzFMaUtYWHBmVkJodDRUWkFmQk9TTkZvTnVWbFRPamVzRG9FTDBQNkhBRloxbXI5b2VBVHZ2bVRlNmxmTHJmZFl4TkZVaVRTRmFxOEo5Ml9aVllR?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937812Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORHJVZ1UzLVRDczRZZG9WSUZ2aVN2amFqWFNENWduRmYwUjVxVUdkN2hfOFJzdmVGMGN2WG1KYURibG42WG1NZzd1SVhUcXFPOEY3UmRRVTZrRi1YZE80Mkl1TjBxRmxzVEVfZG9BVUctUk9BQjJvUGFCM19nWUtUVXJhNzFMaUtYWHBmVkJodDRUWkFmQk9TTkZvTnVWbFRPamVzRG9FTDBQNkhBRloxbXI5b2VBVHZ2bVRlNmxmTHJmZFl4TkZVaVRTRmFxOEo5Ml9aVllR?oc=5\" target=\"_blank\">Indian Steel Sector Witnesses Sequential Price Hikes Amid Strong Domestic Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-69011",
+    "date": "Tue, 03 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "India: HRC-rebar negative spread widens further in Jan'26 but steel prices rally - BigMint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhWR0RSeS1hd25xS21DV2h0S0dJdmZpM3c4WUhJVjJkLXhUMldtdzZSUGI3Y2dzWFhqbFI2bFNmS2xpcGpkUWJzUjlyMktFN2prSzY0M2kydzFKOS1YZFhPY0RZSlJRQ2tIdklDeG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "India: HRC-rebar negative spread widens further in Jan'26 but steel prices rally - BigMint",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhWR0RSeS1hd25xS21DV2h0S0dJdmZpM3c4WUhJVjJkLXhUMldtdzZSUGI3Y2dzWFhqbFI2bFNmS2xpcGpkUWJzUjlyMktFN2prSzY0M2kydzFKOS1YZFhPY0RZSlJRQ2tIdklDeG9GNU9RWHhhQmdiRFB5R3daMVJuN0ltTm5FTEdkaU40YXItNUk3Q19KbkVFN3drbHlLT2V2NTRjRk5IbEpXRUJxWmpkaklYQUo5ZzFENS1PTk1YQQ?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937816Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhWR0RSeS1hd25xS21DV2h0S0dJdmZpM3c4WUhJVjJkLXhUMldtdzZSUGI3Y2dzWFhqbFI2bFNmS2xpcGpkUWJzUjlyMktFN2prSzY0M2kydzFKOS1YZFhPY0RZSlJRQ2tIdklDeG9GNU9RWHhhQmdiRFB5R3daMVJuN0ltTm5FTEdkaU40YXItNUk3Q19KbkVFN3drbHlLT2V2NTRjRk5IbEpXRUJxWmpkaklYQUo5ZzFENS1PTk1YQQ?oc=5\" target=\"_blank\">India: HRC-rebar negative spread widens further in Jan'26 but steel prices rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigMint</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-91916",
+    "date": "Tue, 10 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nucor raises HRC price by $5/st - SteelRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5SVTJ6QnM2aXZqYWN4R2x4dUw4TFcxNXFwajUxZEZ0U3QyRWR4V0dhcF9QbmI2eWIyOS05UC1HVHhnSHR4RUxjV1llcjlhZktvN25qTUx1X1V1bmM3c2I4UDNRUV91MVEwSjQ3NUZGNE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nucor raises HRC price by $5/st - SteelRadar",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SVTJ6QnM2aXZqYWN4R2x4dUw4TFcxNXFwajUxZEZ0U3QyRWR4V0dhcF9QbmI2eWIyOS05UC1HVHhnSHR4RUxjV1llcjlhZktvN25qTUx1X1V1bmM3c2I4UDNRUV91MVEwSjQ3NUZGNENhWVJv?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937821Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5SVTJ6QnM2aXZqYWN4R2x4dUw4TFcxNXFwajUxZEZ0U3QyRWR4V0dhcF9QbmI2eWIyOS05UC1HVHhnSHR4RUxjV1llcjlhZktvN25qTUx1X1V1bmM3c2I4UDNRUV91MVEwSjQ3NUZGNENhWVJv?oc=5\" target=\"_blank\">Nucor raises HRC price by $5/st</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SteelRadar</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56841",
+    "date": "Mon, 15 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Steel spreads analysis: US-China HRC price difference hits historic high - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXJaaUh1S3NmYlhoZmpyd2duNGREeUozTVVKUlpiclZ6amJuODBNWW1nTXhWWEZtbVZVSzU4WmJyckE4V2VEWlBBdno0c1NrTmZaS3Z2Ulg1d2hGQUZleGZaWWI1MmtsUGY0cmtYbX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Steel spreads analysis: US-China HRC price difference hits historic high - S&P Global",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXJaaUh1S3NmYlhoZmpyd2duNGREeUozTVVKUlpiclZ6amJuODBNWW1nTXhWWEZtbVZVSzU4WmJyckE4V2VEWlBBdno0c1NrTmZaS3Z2Ulg1d2hGQUZleGZaWWI1MmtsUGY0cmtYbXRUMC0xaDRESHc3aEdHS0NVczdDelU2T3RFRXF5QTdxazJLQ1dheGxtSURueXVGVm5HMnVETWtXdTNQNzdFVkJ2Xzk4VDJQM0hKdjV2Yks3aVI2MUgxYnBCMlFTdWN3Q09SOG44WEJqSEl2dVJNZDU4?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937826Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXJaaUh1S3NmYlhoZmpyd2duNGREeUozTVVKUlpiclZ6amJuODBNWW1nTXhWWEZtbVZVSzU4WmJyckE4V2VEWlBBdno0c1NrTmZaS3Z2Ulg1d2hGQUZleGZaWWI1MmtsUGY0cmtYbXRUMC0xaDRESHc3aEdHS0NVczdDelU2T3RFRXF5QTdxazJLQ1dheGxtSURueXVGVm5HMnVETWtXdTNQNzdFVkJ2Xzk4VDJQM0hKdjV2Yks3aVI2MUgxYnBCMlFTdWN3Q09SOG44WEJqSEl2dVJNZDU4?oc=5\" target=\"_blank\">Steel spreads analysis: US-China HRC price difference hits historic high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">S&P Global</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-59486",
+    "date": "Thu, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "India's HRC-rebar reverse spread widens again in Mar'25 after 3-month gap - SEAISI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hYjl0VGRmU3JwSDJ5WU9jOUNfR3pyMHVjT3FpUm1WUkJ0LVRRczJ4cHllZ1c0bGxpalZNQjhGNFZwQWxMSFFzNUtWNzNTellWLVlWV0lDRm5QeHZtWWFXLWtR?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "India's HRC-rebar reverse spread widens again in Mar'25 after 3-month gap - SEAISI",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hYjl0VGRmU3JwSDJ5WU9jOUNfR3pyMHVjT3FpUm1WUkJ0LVRRczJ4cHllZ1c0bGxpalZNQjhGNFZwQWxMSFFzNUtWNzNTellWLVlWV0lDRm5QeHZtWWFXLWtR?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937830Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hYjl0VGRmU3JwSDJ5WU9jOUNfR3pyMHVjT3FpUm1WUkJ0LVRRczJ4cHllZ1c0bGxpalZNQjhGNFZwQWxMSFFzNUtWNzNTellWLVlWV0lDRm5QeHZtWWFXLWtR?oc=5\" target=\"_blank\">India's HRC-rebar reverse spread widens again in Mar'25 after 3-month gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SEAISI</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-53488",
+    "date": "Wed, 04 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Ferrous scrap gains as steel prices soar - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFd4aWV6cENBR3F3Z3NMR1F0YS1pUXR0eGdSWHlZakE1OUxSMEd5WXNtcE96emgwcnU0OWFRaHp4ZDUzUVo0Ul91MDJTT2pvS1ZFcVhSak02OUpMandqdmhCdGdsSVVPaGdRRi1vTl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Ferrous scrap gains as steel prices soar - Recycling Today",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFd4aWV6cENBR3F3Z3NMR1F0YS1pUXR0eGdSWHlZakE1OUxSMEd5WXNtcE96emgwcnU0OWFRaHp4ZDUzUVo0Ul91MDJTT2pvS1ZFcVhSak02OUpMandqdmhCdGdsSVVPaGdRRi1vTlNYT1hHV25LOWpXMWJ3TGNDWHB4Zw?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937835Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFd4aWV6cENBR3F3Z3NMR1F0YS1pUXR0eGdSWHlZakE1OUxSMEd5WXNtcE96emgwcnU0OWFRaHp4ZDUzUVo0Ul91MDJTT2pvS1ZFcVhSak02OUpMandqdmhCdGdsSVVPaGdRRi1vTlNYT1hHV25LOWpXMWJ3TGNDWHB4Zw?oc=5\" target=\"_blank\">Ferrous scrap gains as steel prices soar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Recycling Today</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-11404",
+    "date": "Wed, 18 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs increases HRC prices by $50 - SteelRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQR0xtRmFnbFdIMjhlTUFrMzNzMGlOTlZtWU84NF9BTWh0c3A2a2FZTEwxb1N3N2pxOVVZQW56eE1lUmxvbWd2UXE1SHZxLWl1dGxpbUg4aHdxMEtmSDdxc2I5Z2lqVGVqSUhjcC1qZm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Cleveland-Cliffs increases HRC prices by $50 - SteelRadar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR0xtRmFnbFdIMjhlTUFrMzNzMGlOTlZtWU84NF9BTWh0c3A2a2FZTEwxb1N3N2pxOVVZQW56eE1lUmxvbWd2UXE1SHZxLWl1dGxpbUg4aHdxMEtmSDdxc2I5Z2lqVGVqSUhjcC1qZmtZWWFoajVXUnJUTVBxQy1kTGxRUWczMk0?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937839Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQR0xtRmFnbFdIMjhlTUFrMzNzMGlOTlZtWU84NF9BTWh0c3A2a2FZTEwxb1N3N2pxOVVZQW56eE1lUmxvbWd2UXE1SHZxLWl1dGxpbUg4aHdxMEtmSDdxc2I5Z2lqVGVqSUhjcC1qZmtZWWFoajVXUnJUTVBxQy1kTGxRUWczMk0?oc=5\" target=\"_blank\">Cleveland-Cliffs increases HRC prices by $50</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SteelRadar</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-27710",
+    "date": "Tue, 28 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Chinese HRC prices rise on improved trading - Fastmarkets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE80aWdSYmVaSVhFOEMxZzYtMDlPcFB3UXEya3NObFdTREFYWTNXOExXaTh0UTgtLU91bFlOSTFLblpZVjR6YjVBeWJGOHBONG9XcGVsN0l1UW5STVZtcV9NWWRqRDFWaUlsaEMtYkJ4NH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Chinese HRC prices rise on improved trading - Fastmarkets",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80aWdSYmVaSVhFOEMxZzYtMDlPcFB3UXEya3NObFdTREFYWTNXOExXaTh0UTgtLU91bFlOSTFLblpZVjR6YjVBeWJGOHBONG9XcGVsN0l1UW5STVZtcV9NWWRqRDFWaUlsaEMtYkJ4NHFja2ZmZFE?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937843Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE80aWdSYmVaSVhFOEMxZzYtMDlPcFB3UXEya3NObFdTREFYWTNXOExXaTh0UTgtLU91bFlOSTFLblpZVjR6YjVBeWJGOHBONG9XcGVsN0l1UW5STVZtcV9NWWRqRDFWaUlsaEMtYkJ4NHFja2ZmZFE?oc=5\" target=\"_blank\">Chinese HRC prices rise on improved trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fastmarkets</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-39734",
+    "date": "Fri, 25 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Turkish rebar prices declined in the second half of April - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONFRyUjZrRV9qZy12dnRaVkpLTFM0OElvZ2ZyLXRPWlVwTFhSSm5IM0ljSFBvZ3FJSGNaWk4wTzdVNW92Qy1VMmNVU3RxT1IzU0NzSUVzdWlhb0ZIbnFBR2pZZnp4U2t5eXpjSG1aYn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Turkish rebar prices declined in the second half of April - GMK Center",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFRyUjZrRV9qZy12dnRaVkpLTFM0OElvZ2ZyLXRPWlVwTFhSSm5IM0ljSFBvZ3FJSGNaWk4wTzdVNW92Qy1VMmNVU3RxT1IzU0NzSUVzdWlhb0ZIbnFBR2pZZnp4U2t5eXpjSG1aYnZ0UFRvVUVJUjRKTTVRMzlHaTRUbk15bThUV2RBbm1B0gGTAUFVX3lxTFAtSlZGS3l1Nlg3NW1EaFlUaFphV21qVFdPRUIyT0YyMFlCdnVSalktdkV0Wmdxa3RlTldiQzBkbXlyQ0M4M3NQRjg1RlRJQW5id1lBa2dQNW1YNWN0ZEh3U1pqQU5oYXdHSUpTTXdpWWhGdHVremQ4QWwxWDA5SWtWTS1BeWZNbF9fV0l2MGtid242UQ?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937848Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONFRyUjZrRV9qZy12dnRaVkpLTFM0OElvZ2ZyLXRPWlVwTFhSSm5IM0ljSFBvZ3FJSGNaWk4wTzdVNW92Qy1VMmNVU3RxT1IzU0NzSUVzdWlhb0ZIbnFBR2pZZnp4U2t5eXpjSG1aYnZ0UFRvVUVJUjRKTTVRMzlHaTRUbk15bThUV2RBbm1B0gGTAUFVX3lxTFAtSlZGS3l1Nlg3NW1EaFlUaFphV21qVFdPRUIyT0YyMFlCdnVSalktdkV0Wmdxa3RlTldiQzBkbXlyQ0M4M3NQRjg1RlRJQW5id1lBa2dQNW1YNWN0ZEh3U1pqQU5oYXdHSUpTTXdpWWhGdHVremQ4QWwxWDA5SWtWTS1BeWZNbF9fV0l2MGtid242UQ?oc=5\" target=\"_blank\">Turkish rebar prices declined in "
+      }
+    ]
+  },
+  {
+    "id": "rss-11346",
+    "date": "Mon, 12 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Is the India Steel Index edging up week-on-week as domestic prices moderate after a sharp surge? - BigMint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNUFZKME1aLWQtT3VqYjZtZW1nWkFvQ1B5bzZzLUJlRmREVGtyRi1QVHFqWEd1RXBicVdkWlVHR1Mzai1MV3U2QmRIRF9TZXBvTnJYVUJBOXZSN3lCTEthVDJPeERDWVlvUDFGUy1BcV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Is the India Steel Index edging up week-on-week as domestic prices moderate after a sharp surge? - BigMint",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUFZKME1aLWQtT3VqYjZtZW1nWkFvQ1B5bzZzLUJlRmREVGtyRi1QVHFqWEd1RXBicVdkWlVHR1Mzai1MV3U2QmRIRF9TZXBvTnJYVUJBOXZSN3lCTEthVDJPeERDWVlvUDFGUy1BcVhISE1zSC05LU41eVZCRHVlMFN3WUpKV1BnS0w1dGRhNDNrd0RaN0NUVWlTOVJSb0pud1JWUURuVDFpTU53UG92R3l3RDg3clR0YmZNSHRiR2JUNTZ4dngtRGY3LXh3a2tncTNjb0NIclctUXdJM1NCWTdMR200MnRvejhFWVIxb0tWWk1BWmNQX2NxUm01Y2VwWmxB?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937853Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNUFZKME1aLWQtT3VqYjZtZW1nWkFvQ1B5bzZzLUJlRmREVGtyRi1QVHFqWEd1RXBicVdkWlVHR1Mzai1MV3U2QmRIRF9TZXBvTnJYVUJBOXZSN3lCTEthVDJPeERDWVlvUDFGUy1BcVhISE1zSC05LU41eVZCRHVlMFN3WUpKV1BnS0w1dGRhNDNrd0RaN0NUVWlTOVJSb0pud1JWUURuVDFpTU53UG92R3l3RDg3clR0YmZNSHRiR2JUNTZ4dngtRGY3LXh3a2tncTNjb0NIclctUXdJM1NCWTdMR200MnRvejhFWVIxb0tWWk1BWmNQX2NxUm01Y2VwWmxB?oc=5\" target=\"_blank\">Is the India Steel Index edging up week-on-week as domestic prices moderate aft"
+      }
+    ]
+  },
+  {
+    "id": "rss-59818",
+    "date": "Tue, 03 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nucor raised HRC prices by $15/st - SteelRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1hWUhmWGl0MGV2amNhY3hibDdybXNxcGFQWTFvby0tdFh1T2xxWnpGZ3R3UnJhcXY4RHZHNFphYURwemhyc1AtVFBIS3dsZEpjOHd6cEpXYUNXRlpvTXJKeHp5bXIwLXNqbnp5czFGNk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nucor raised HRC prices by $15/st - SteelRadar",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hWUhmWGl0MGV2amNhY3hibDdybXNxcGFQWTFvby0tdFh1T2xxWnpGZ3R3UnJhcXY4RHZHNFphYURwemhyc1AtVFBIS3dsZEpjOHd6cEpXYUNXRlpvTXJKeHp5bXIwLXNqbnp5czFGNks1enItcldR?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937858Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1hWUhmWGl0MGV2amNhY3hibDdybXNxcGFQWTFvby0tdFh1T2xxWnpGZ3R3UnJhcXY4RHZHNFphYURwemhyc1AtVFBIS3dsZEpjOHd6cEpXYUNXRlpvTXJKeHp5bXIwLXNqbnp5czFGNks1enItcldR?oc=5\" target=\"_blank\">Nucor raised HRC prices by $15/st</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SteelRadar</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-44397",
+    "date": "Tue, 08 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Fastmarkets launches green prices for Asia long steel, China HRC as industry eyes sustainable future - Fastmarkets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVBrbFh0dkt1UUktOVBqcDJ0YVhoRjV0ekVDU3hDeGhJSWhkWVY1RDFOWlBjcXRzblZQcXdTWHFhODdYNFhud09ydzFOd09jZjRZSVFSbk5vM3B6QXg4a3phOVVWM3F6cVdfR1dyZ3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Fastmarkets launches green prices for Asia long steel, China HRC as industry eyes sustainable future - Fastmarkets",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVBrbFh0dkt1UUktOVBqcDJ0YVhoRjV0ekVDU3hDeGhJSWhkWVY1RDFOWlBjcXRzblZQcXdTWHFhODdYNFhud09ydzFOd09jZjRZSVFSbk5vM3B6QXg4a3phOVVWM3F6cVdfR1dyZ3FPZC0wb0xqaVo2T0NaUG5ILVl2dnNpY2JEZUxrTm0tQlR1aWxMNjZDVENNUHd2VHlETVcw?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937862Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVBrbFh0dkt1UUktOVBqcDJ0YVhoRjV0ekVDU3hDeGhJSWhkWVY1RDFOWlBjcXRzblZQcXdTWHFhODdYNFhud09ydzFOd09jZjRZSVFSbk5vM3B6QXg4a3phOVVWM3F6cVdfR1dyZ3FPZC0wb0xqaVo2T0NaUG5ILVl2dnNpY2JEZUxrTm0tQlR1aWxMNjZDVENNUHd2VHlETVcw?oc=5\" target=\"_blank\">Fastmarkets launches green prices for Asia long steel, China HRC as industry eyes sustainable future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fastmarkets</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-89675",
+    "date": "Thu, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "India: BigMint's steel index continues steady growth momentum as domestic prices rally - SEAISI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE90VGxXV2YwUklOTENKTHRyNnJSLTltQV9hR3ZpM1h0dVNTcGF6UFA1MVZWcmhaX3RCNUViMFlZdTBzcjVMaHZaMGs4VDlBdmVicDRrTU9SUUFnNDNENTZnXzdR?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "India: BigMint's steel index continues steady growth momentum as domestic prices rally - SEAISI",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90VGxXV2YwUklOTENKTHRyNnJSLTltQV9hR3ZpM1h0dVNTcGF6UFA1MVZWcmhaX3RCNUViMFlZdTBzcjVMaHZaMGs4VDlBdmVicDRrTU9SUUFnNDNENTZnXzdR?oc=5",
+        "fetchedAt": "2026-04-15T04:01:55.937867Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE90VGxXV2YwUklOTENKTHRyNnJSLTltQV9hR3ZpM1h0dVNTcGF6UFA1MVZWcmhaX3RCNUViMFlZdTBzcjVMaHZaMGs4VDlBdmVicDRrTU9SUUFnNDNENTZnXzdR?oc=5\" target=\"_blank\">India: BigMint's steel index continues steady growth momentum as domestic prices rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SEAISI</font>"
       }
     ]
   }
