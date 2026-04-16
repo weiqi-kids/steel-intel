@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T09:11:18.617528Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "warrior_met-2026-04-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal (NYSE:HCC) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "warrior_met-2026-04-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal Inc (HCC) Stock Up 3.5% but GF Value Says Overv - GuruFocus",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_steel-2026-04-16-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mutual Funds Bought HDFC Bank, Suzlon, Groww; Sold Tata Steel, Power Grid, Inox Wind In March - NDTV Profit",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 2
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "coking_coal_scrap",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Warrior Met Coal、塔塔鋼鐵相關動態：「Warrior Met Coal (NYSE:HCC) Given Average Recommendation ...」。主要關注主題為焦煤與廢鋼，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Warrior Met Coal (NYSE:HCC) Given Average Recommendation of \"Moderate Buy\" by...（焦煤與廢鋼）",
+        "level": "green"
+      },
+      {
+        "text": "Warrior Met Coal Inc (HCC) Stock Up 3.5% but GF Value Says Overv - GuruFocus（焦煤與廢鋼）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
