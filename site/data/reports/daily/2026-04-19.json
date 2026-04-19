@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T08:44:45.943065Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "warrior_met-2026-04-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal Inc stock (US93627C1018): Why Google Discover changes matter more now - AD HOC NEWS",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_steel-2026-04-19-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel Vs Hindalco: Macquarie Says Metals Cycle Supportive — Check Target Prices - NDTV Profit",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "spring_rain-2026-04-19-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "More spring rain in coming week’s forecast - Lake County News,California",
+      "companies": [
+        "spring_rain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      },
+      {
+        "id": "spring_rain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Warrior Met Coal、塔塔鋼鐵、春雨工程相關動態：「Warrior Met Coal Inc stock (US93627C1018): Why Google Dis...」。主要關注主題為焦煤與廢鋼，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Warrior Met Coal Inc stock (US93627C1018): Why Google Discover changes matter...（焦煤與廢鋼）",
+        "level": "green"
+      },
+      {
+        "text": "Tata Steel Vs Hindalco: Macquarie Says Metals Cycle Supportive — Check Target...",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
