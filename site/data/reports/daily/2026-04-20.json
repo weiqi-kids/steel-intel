@@ -1,0 +1,164 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T09:51:40.132282Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-04-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto's Billion-Dollar Divestment and Green Push Frame Crucial Earnings - AD HOC NEWS",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-04-20-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nippon Steel Kyushu begins converting blast furnace to electric arc furnace at its plant - megaproject.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_utilization"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nucor-2026-04-20-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Bull Case For Nucor (NUE) Could Change Following Tariff-Backed Earnings Upswing And Analyst Upgrades - simplywall.st",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "feng_hsin-2026-04-20-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Feng Hsin Steel says March revenue down 10.1% Y/Y - marketscreener.com",
+      "companies": [
+        "feng_hsin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      },
+      {
+        "id": "feng_hsin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為力拓、日本製鐵、Nucor相關動態：「Rio Tinto's Billion-Dollar Divestment and Green Push Fram...」。主要關注主題為產能利用率、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rio Tinto's Billion-Dollar Divestment and Green Push Frame Crucial Earnings -...",
+        "level": "green"
+      },
+      {
+        "text": "Nippon Steel Kyushu begins converting blast furnace to electric arc furnace a...（產能利用率）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
