@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T09:14:02.105736Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-04-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Upgrades Copper Guidance, Signs China Iron-Ore Deal - WSJ",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "cleveland_cliffs-2026-04-22-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Compared to Estimates, Cleveland-Cliffs (CLF) Q1 Earnings: A Look at Key Metrics - Yahoo Finance",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "cleveland_cliffs-2026-04-22-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cleveland-Cliffs rebounds with $4.9 billion in Q1 revenue amid steel demand surge - Yieh Corp.",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cleveland_cliffs",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Cleveland-Cliffs、必和必拓相關動態：「BHP Upgrades Copper Guidance, Signs China Iron-Ore Deal -...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "BHP Upgrades Copper Guidance, Signs China Iron-Ore Deal - WSJ",
+        "level": "green"
+      },
+      {
+        "text": "Compared to Estimates, Cleveland-Cliffs (CLF) Q1 Earnings: A Look at Key Metr...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
