@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-23",
+  "total_events": 4,
+  "by_company": {
+    "warrior_met": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "suncoke": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "coking_coal_scrap": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

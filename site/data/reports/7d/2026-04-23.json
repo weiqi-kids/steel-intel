@@ -1,0 +1,161 @@
+{
+  "date": "2026-04-23",
+  "date_range": {
+    "start": "2026-04-17",
+    "end": "2026-04-23"
+  },
+  "generated_at": "2026-04-23T09:20:30.030265Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cleveland_cliffs-2026-04-17-006",
+      "date": "2026-04-17",
+      "title": "Cleveland-Cliffs Likely To Report Narrower Q1 Loss; These Most Accurate Analysts Revise Forecasts Ahead O - Benzinga",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "trade_policy": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.2
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "warrior_met": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 1
+    },
+    "tata_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "spring_rain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "rio_tinto": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 3
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nucor": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cleveland_cliffs": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "bhp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 22,
+        "last": 7,
+        "change_pct": 214.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-17 ~ 2026-04-23）共 22 則事件，重點為「Cleveland-Cliffs Likely To Report Narrower Q1 L...」。事件量較上週增加 214%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Warrior Met Coal",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
