@@ -1,0 +1,146 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:24:38.303769Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fortescue-2026-04-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue spends more on green energy, keeps shipment forecast steady - marketscreener.com",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_steel-2026-04-24-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Steel Company: Revenue up but profit down as FX and raw material costs rise; net debt increases - TradingView",
+      "companies": [
+        "hyundai_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_steel-2026-04-24-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Steel swings to Q1 operating profit on higher sales volume - aju press",
+      "companies": [
+        "hyundai_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_steel-2026-04-24-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Steel returns to profit as revenue rises, eyes rebound on price hikes - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai_steel-2026-04-24-013",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Steel Q1 Operating Profit Falls 63.7% to 15.7 Billion Won - Seoul Economic Daily",
+      "companies": [
+        "hyundai_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai_steel",
+        "count": 5
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "reliance",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為現代製鐵、FMG、Reliance Inc相關動態：「Fortescue spends more on green energy, keeps shipment for...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Fortescue spends more on green energy, keeps shipment forecast steady - marke...",
+        "level": "green"
+      },
+      {
+        "text": "Hyundai Steel Company: Revenue up but profit down as FX and raw material cost...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
