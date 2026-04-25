@@ -1,132 +1,132 @@
 {
   "vale": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "bhp": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "rio_tinto": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "warrior_met": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "suncoke": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "cmc": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "arcelormittal": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "nippon_steel": {
-    "earliest": "2022-08-12",
+    "earliest": "2022-05-16",
     "latest": "2026-04-24",
-    "count": 906
+    "count": 968
   },
   "jfe": {
-    "earliest": "2022-08-12",
+    "earliest": "2022-05-16",
     "latest": "2026-04-24",
-    "count": 906
+    "count": 968
   },
   "posco": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "tata_steel": {
-    "earliest": "2022-08-10",
+    "earliest": "2022-05-12",
     "latest": "2026-04-24",
-    "count": 914
+    "count": 977
   },
   "nucor": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "steel_dynamics": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "cleveland_cliffs": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "gerdau": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "china_steel": {
-    "earliest": "2022-08-11",
+    "earliest": "2022-05-13",
     "latest": "2026-04-24",
-    "count": 894
+    "count": 957
   },
   "chung_hung": {
-    "earliest": "2022-08-11",
+    "earliest": "2022-05-13",
     "latest": "2026-04-24",
-    "count": 894
+    "count": 957
   },
   "tung_ho": {
-    "earliest": "2022-08-11",
+    "earliest": "2022-05-13",
     "latest": "2026-04-24",
-    "count": 894
+    "count": 957
   },
   "feng_hsin": {
-    "earliest": "2022-08-11",
+    "earliest": "2022-05-13",
     "latest": "2026-04-24",
-    "count": 894
+    "count": 957
   },
   "baosteel": {
-    "earliest": "2022-08-09",
+    "earliest": "2022-05-11",
     "latest": "2026-04-24",
-    "count": 898
+    "count": 961
   },
   "hyundai_steel": {
-    "earliest": "2022-08-09",
+    "earliest": "2022-05-11",
     "latest": "2026-04-24",
-    "count": 905
+    "count": 967
   },
   "reliance": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "ta_chen": {
-    "earliest": "2022-08-11",
+    "earliest": "2022-05-13",
     "latest": "2026-04-24",
-    "count": 894
+    "count": 957
   },
   "spring_rain": {
-    "earliest": "2022-08-11",
+    "earliest": "2022-05-13",
     "latest": "2026-04-24",
-    "count": 894
+    "count": 957
   },
   "tenaris": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   },
   "etf_slx": {
-    "earliest": "2022-08-09",
-    "latest": "2026-04-23",
-    "count": 930
+    "earliest": "2022-05-11",
+    "latest": "2026-04-24",
+    "count": 992
   }
 }
