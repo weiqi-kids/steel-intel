@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:52:21.421898Z",
+  "generated_at": "2026-04-26T14:12:10.397723Z",
   "top_events": [
     {
       "rank": 1,
@@ -21,35 +21,141 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQc2hQODIzdjhIb0ctZHlaYTdHTzZJSlgzNkhIOWpja0FSR3J1S2dKNWs4U2dnZXd2VTgtbW9TSnFrM3piRmgxNFVxSWx4NHA3YkwwMFd2RWxJSTVIY2tTR2lGRDhmYnBSeTJNQTJ4NEdFaTRhcTNWOElkVTVTUUFUNEhHQkhWNWllSXdEam5ZLVp4WVhVWHFLeU16T1lkN1B4cWk4UVlPbmFwZTUtQ2NKZ0k2ZnRubXNuM2hVLWpGMmp4dVRBVVpCOWdZVVRaOWl6OW9MalpUVjVVN1pSY3ZCb05uRkFscm9HUVZhbXFJZS14ZHpPazBBcWhyd01iZk5KMWJockZ6bnJ1TEQzc0laZVg2Y3h0TTNZSmVvRkxjSF9zaHJnenk4T1haNmQ1RlZzdDBCOWpMdTZ4SVh2em0teEpuS2NKYXpIV1BudXZfVEpyU1V0Rm1fdzZLMUNEeGJMeVpRMw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP upgrades copper guidance, signs China iron-ore deal - MSN",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWTlnOW42ODlWTjJzTmVveWRfaDZGdlZxcWtSTXpvV19vRUlEbl82V1E2cklJYkV5TENQMS00OW5DcWhEMkVsU1VxRUtjM3J3S2c3SWxocmYxUTZmUWpXV3VSYUY3blVYNmZ1amtJczItU1VwVGRVWUZmckFjX0VfeXlzbEFMemJ5bGR5LXllVC1pUGI0bHVqWUZRUEt4ak9waWtGN0hXYnR2TXlV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Emergence of Steel-Bodied 6070s - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUpSMVlpWWt3bEZYTkdoOXYteG9Nb29ieldPRWdOS0JLT0ZSOFM0R3VDem9ZdHM0eHc2LXVOazhNQ3hhc3NCRUFfdFN1TGd2UF9wZEJWdXRYMXVGeDVOTDM4THRkbGJJNmlybzlRVzZOTGNkYndRcHQ0ckw2V3BlNTdDc2drV2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "reliance-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reliance, Inc. $RS Holdings Cut by Zurcher Kantonalbank Zurich Cantonalbank - MarketBeat",
+      "companies": [
+        "reliance"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0lJd292cFpnUkx1NVBkZmVLalgtekdrc2F2NmJxU0lxTUpBOW5BTGdOVzQwOGpvVThOOHhYNElXemxLbmxlb1VJOG0tWE1wbmUtS0dXd016R3B1STBObmlsaV9fclZIM1d4TW55R250TVIxekRlY2N1QmhjZmJ2QTFhQXhKamJhbmVoT0lEdEFpV1JGTWluSE9TMy1sbENpSVpENkhqUXVPN0ZQNm5pZUVBNlN6LWVSMXdjeWtBNkFpQURORllkMm1lRzZBZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "reliance-2026-04-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teacher Retirement System of Texas Trims Stake in Reliance, Inc. $RS - MarketBeat",
+      "companies": [
+        "reliance"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjhHYzNIb25WN3FsZ2hTR3FwQVktdmNNMTFMcC05TmRuLWltMXpWRnVtYzdZTmlBSTZLWlhXdGNtc1h3RzFReXA3emp3bUpqS1Z2V0w3TFJVZ3V5bDFZcmlqYkF1YXczQ2ZmZ3RLandVUXpic1h5aXIxOTM0aFpHeWFDZXNRVm1vQUljVVRabjNpZjNiV3dnSEFZMmVUcVdkbDRfZDFIZHVPR1JZNFpMZXNyZmVlelZ4V1RZUzZsQWZlWWVV?oc=5"
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 5,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 5,
       "negative": 0
     },
     "top_companies": [
       {
+        "id": "reliance",
+        "count": 2
+      },
+      {
         "id": "nucor",
+        "count": 1
+      },
+      {
+        "id": "bhp",
         "count": 1
       }
     ],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 498,
-    "dup_title": 160,
-    "too_old": 234,
-    "gate1_blocked": 39,
-    "gate2_blocked": 52,
-    "passed": 13,
-    "pass_rate": "3.8%",
-    "gate2_block_rate": "15.4%",
+    "total_raw": 1009,
+    "dup_title": 325,
+    "too_old": 483,
+    "gate1_blocked": 58,
+    "gate2_blocked": 76,
+    "passed": 67,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "11.1%",
     "gate2_samples": [
       "BHP ends iron ore dispute with China, shares rise - MSN",
       "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",
@@ -60,14 +166,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為Nucor相關動態：「Nucor sees stronger Q1 earnings on steel mills unit gains...」。市場情緒中性，暫無明顯方向。",
+    "summary": "今日共 5 則事件，焦點為Reliance Inc、Nucor、必和必拓相關動態：「Nucor sees stronger Q1 earnings on steel mills unit gains...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
     "signals": [
       {
         "text": "Nucor sees stronger Q1 earnings on steel mills unit gains - MSN",
         "level": "green"
       },
       {
-        "text": "Nucor為今日主要關注企業。",
+        "text": "BHP upgrades copper guidance, signs China iron-ore deal - MSN（鋼鐵產業通用）",
         "level": "green"
       }
     ]

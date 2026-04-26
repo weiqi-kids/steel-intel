@@ -1,11 +1,11 @@
 {
-  "total_raw": 498,
-  "dup_title": 160,
+  "total_raw": 1009,
+  "dup_title": 325,
   "no_date": 0,
-  "too_old": 234,
-  "gate1_fail": 39,
-  "gate2_fail": 52,
-  "passed": 13,
+  "too_old": 483,
+  "gate1_fail": 58,
+  "gate2_fail": 76,
+  "passed": 67,
   "gate2_samples": [
     "BHP ends iron ore dispute with China, shares rise - MSN",
     "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",

@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T08:52:21.488275Z",
+  "generated_at": "2026-04-26T14:12:10.461174Z",
   "highlights": [
     {
       "rank": 1,
@@ -40,6 +40,12 @@
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.25
+    },
+    "industry_general": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
     }
   },
   "company_7d_summary": {
@@ -51,7 +57,7 @@
     "nippon_steel": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 8
     },
     "nucor": {
       "event_count": 3,
@@ -61,7 +67,7 @@
     "feng_hsin": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 7
+      "rank": 9
     },
     "warrior_met": {
       "event_count": 4,
@@ -74,19 +80,19 @@
       "rank": 1
     },
     "bhp": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 8
+      "rank": 7
     },
     "suncoke": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 9
+      "rank": 10
     },
     "fortescue": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 10
+      "rank": 11
     },
     "hyundai_steel": {
       "event_count": 5,
@@ -94,17 +100,17 @@
       "rank": 2
     },
     "reliance": {
-      "event_count": 1,
+      "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 11
+      "rank": 6
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 27,
+        "this": 31,
         "last": 11,
-        "change_pct": 145.5
+        "change_pct": 181.8
       }
     }
   },
@@ -141,12 +147,12 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 1,
+      "event_count": 5,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 27 則事件，重點為「Cleveland-Cliffs ‘No Longer in a Hurry’ on POSC...」。事件量較上週增加 146%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 31 則事件，重點為「Cleveland-Cliffs ‘No Longer in a Hurry’ on POSC...」。事件量較上週增加 182%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "力拓",
