@@ -156,6 +156,42 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-24-014",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "trade_policy"
+    ],
+    "impact": "positive",
+    "title": "EU trade chief seeks 'positive traction' on US steel tariffs - Caledonian Record",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaWttM3M0QTVpS2k1eDl5UGNENTNiSXhXYk5BWHlKMFA3RGMtbHJXMFRaVDJxb3NuaEJwSUFhM05KTUJVb19CSks0ZnRyZ2JlQ0h6QWlONXJQdnFJaTB1cmtSUHk5LUJ4RUxFZEdaU1",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaWttM3M0QTVpS2k1eDl5UGNENTNiSXhXYk5BWHlKMFA3RGMtbHJXMFRaVDJxb3NuaEJwSUFhM05KTUJVb19CSks0ZnRyZ2JlQ0h6QWlONXJQdnFJaTB1cmtSUHk5LUJ4RUxFZEdaU1pRRlpoVnlIRjVsU042aG5RNmVHWUtnRkd6VnphbTBzX0o4SnMxektyVnVPdUwyT1hfZlRtQnZNQ05ycjQ5N1h0UE51YVZyYnd1SW5KT29sNGV0LUg1Si1LUzdGS2xsalhlX243X0syY2htdHBaMUxsTjRlZ20yTkVKb0Y4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "EU trade chief seeks 'positive traction' on US steel tariffs - Community Newspaper Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMHZGVDRtcmwxb3Z5bUNBTFpiMnNjek02Y0RlOHBJb0UwYU5EU0ZBSi1qLWN1Sm9OeGVsLXB1dk5OTzZvSGJ2SmFJRTRJOHdWQ1hmUE1nTlpNNExNS1R3RlNGUmFCSEoxVmx6QjE4dz",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMHZGVDRtcmwxb3Z5bUNBTFpiMnNjek02Y0RlOHBJb0UwYU5EU0ZBSi1qLWN1Sm9OeGVsLXB1dk5OTzZvSGJ2SmFJRTRJOHdWQ1hmUE1nTlpNNExNS1R3RlNGUmFCSEoxVmx6QjE4dzB0Nng2WTR2SDJLZkxEYTNJSlpUbDNMQU1FNUVCdVlFb3AtSVhBeFlxQ0xSYXNFNXlOdnk3V085NFJaMG9sSDZyZzNEV2RkdzBwQTZtaWNtdHRQRlVmeHZlcGw3cHl3ZGRZaGg1Ni1wV2JQcjN2RWVTT2s0Nk4zWlhSMllJekd1dkozUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "warrior_met-2026-04-23-004",
     "date": "2026-04-23",
     "companies": [
@@ -306,6 +342,26 @@
     "title": "Q1 2026 Reliance Inc Earnings Call Transcript - GuruFocus",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IRk9wOTBEVkdabnVmcUJ4RjNEeDhTTnYyOUUtMzBkRUh1WnVzTkVPR2FaZ3R1cHRDVkNyTFBCRTBaRUlxSkFSVC1vLWs4aThLaURrT1lPZzdFcmc1TjJxd1RSRGo?oc=5\" target=\"",
     "sources": []
+  },
+  {
+    "id": "bhp-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [
+      "iron_ore_price"
+    ],
+    "impact": "neutral",
+    "title": "BHP adopts new Chinese iron ore price index in deal to end dispute, sources say - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlRvQ3R5ejZ6SWdNME15ZFFRWkZmOGotRGZxdWxBWktHYVgwT09CZGdYUDA0M2F6Q0N4dXFmYzhFRUJMbjZ6X19TU1Z3N2xTUDVlT0hwLTZSUXdXcEluZHU4bkxRcE1seUFZWkJXUU",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlRvQ3R5ejZ6SWdNME15ZFFRWkZmOGotRGZxdWxBWktHYVgwT09CZGdYUDA0M2F6Q0N4dXFmYzhFRUJMbjZ6X19TU1Z3N2xTUDVlT0hwLTZSUXdXcEluZHU4bkxRcE1seUFZWkJXUUhVckgtalFQZmtYbE85M2dHYUFmMkxLRVlxSURsYVQ2LWR3OVRUOEx5WHoxTUk0VlRhdUxQYkpfTmVsc0pUamYwNFhVRFFfdzNaekJ2NDJYMkdnMVZDdnc5TXNuQQ?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "bhp-2026-04-22-001",
@@ -902,6 +958,26 @@
     "title": "Nucor (NUE) Q4 2025 Earnings Call Transcript - The Motley Fool",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUJaYWl3WENoc2VKREpyZ0JwMHlJN1FpOU9RZlJ4OUpud1Uxa3RWQTd0dTZPdk1feVc1OTQxY3h1MHBhSDBoVmZYM3NBQzVEcVg1dE85UFVOanVqeDlfZ1o0eDBOTjk0azM5aG1Id0",
     "sources": []
+  },
+  {
+    "id": "cleveland_cliffs-2026-04-21-024",
+    "date": "2026-04-21",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "steel_price"
+    ],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs CEO says ‘order book is full’ as steel prices rise - Manufacturing Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSW5VM0dyQ3BjY1RZdkxqQzlKYVVnczFrRGFwUUU0SWNBS3Y1NjF0R2NkSVJRS19YSnI5U0YzcTE1NGtVeEVtU1JEMDVGMXFaRGhaTC1VVUgzb19DX3pIdTF0WTVCcUh0Tm9nYnBsUE",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSW5VM0dyQ3BjY1RZdkxqQzlKYVVnczFrRGFwUUU0SWNBS3Y1NjF0R2NkSVJRS19YSnI5U0YzcTE1NGtVeEVtU1JEMDVGMXFaRGhaTC1VVUgzb19DX3pIdTF0WTVCcUh0Tm9nYnBsUEdvb0MtMDcwVGEzcmJmUkEza21GcUJJRjJhMVZ1b2drcjlrTFNYdVg4SkFNckUxQklJVHJ0SjRyWWFnTG9YTGpjVE91eFNXS1BYTEE?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "rio_tinto-2026-04-20-002",
