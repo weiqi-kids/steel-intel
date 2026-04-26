@@ -1,16 +1,16 @@
 {
   "total_raw": 498,
-  "dup_title": 187,
+  "dup_title": 160,
   "no_date": 0,
-  "too_old": 225,
+  "too_old": 234,
   "gate1_fail": 39,
-  "gate2_fail": 47,
-  "passed": 0,
+  "gate2_fail": 52,
+  "passed": 13,
   "gate2_samples": [
+    "BHP ends iron ore dispute with China, shares rise - MSN",
+    "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",
+    "Rio Tinto Shares Overvalued Due to Elevated Iron Ore, Copper, and Aluminum Prices - Morningstar",
     "Rio Tinto copper surge offsets iron ore disruption - Mining.com",
-    "Fortescue commits US$680m to expand Pilbara green energy grid - TipRanks",
-    "Fortescue to Invest $680 Million to Develop Western Australia Green Energy Project - Moomoo",
-    "Fortescue to Invest $680 Million to Develop Western Australia Green Energy Project - marketscreener.",
-    "How The SunCoke Energy (SXC) Narrative Is Shifting After Target Cut And Q4 Mixed Signals - Yahoo Fin"
+    "Fortescue commits US$680m to expand Pilbara green energy grid - TipRanks"
   ]
 }

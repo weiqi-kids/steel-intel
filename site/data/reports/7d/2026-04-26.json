@@ -4,15 +4,15 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:17:46.969335Z",
+  "generated_at": "2026-04-26T08:52:21.488275Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "warrior_met-2026-04-20-008",
+      "event_id": "posco-2026-04-20-026",
       "date": "2026-04-20",
-      "title": "Warrior Met Coal Keeps Quarterly Dividend at $0.08 per Share, Payable May 7 to Holders of Record May 1 - marketscreener.com",
-      "importance_score": 0.65
+      "title": "Cleveland-Cliffs ‘No Longer in a Hurry’ on POSCO Deal - Transport Topics",
+      "importance_score": 0.7
     }
   ],
   "anomalies_7d": [],
@@ -54,8 +54,8 @@
       "rank": 6
     },
     "nucor": {
-      "event_count": 2,
-      "sentiment_avg": 0.25,
+      "event_count": 3,
+      "sentiment_avg": 0.17,
       "rank": 5
     },
     "feng_hsin": {
@@ -102,9 +102,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 26,
+        "this": 27,
         "last": 11,
-        "change_pct": 136.4
+        "change_pct": 145.5
       }
     }
   },
@@ -141,24 +141,24 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 1,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 26 則事件，重點為「Warrior Met Coal Keeps Quarterly Dividend at $0...」。事件量較上週增加 136%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 27 則事件，重點為「Cleveland-Cliffs ‘No Longer in a Hurry’ on POSC...」。事件量較上週增加 146%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "力拓",
         "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
       },
       {
-        "company": "Warrior Met Coal",
-        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+        "company": "Nucor",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
       },
       {
-        "company": "Cleveland-Cliffs",
-        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+        "company": "Warrior Met Coal",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
   },

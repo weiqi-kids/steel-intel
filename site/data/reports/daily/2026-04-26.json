@@ -1,29 +1,73 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:17:46.915181Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T08:52:21.421898Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nucor sees stronger Q1 earnings on steel mills unit gains - MSN",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQc2hQODIzdjhIb0ctZHlaYTdHTzZJSlgzNkhIOWpja0FSR3J1S2dKNWs4U2dnZXd2VTgtbW9TSnFrM3piRmgxNFVxSWx4NHA3YkwwMFd2RWxJSTVIY2tTR2lGRDhmYnBSeTJNQTJ4NEdFaTRhcTNWOElkVTVTUUFUNEhHQkhWNWllSXdEam5ZLVp4WVhVWHFLeU16T1lkN1B4cWk4UVlPbmFwZTUtQ2NKZ0k2ZnRubXNuM2hVLWpGMmp4dVRBVVpCOWdZVVRaOWl6OW9MalpUVjVVN1pSY3ZCb05uRkFscm9HUVZhbXFJZS14ZHpPazBBcWhyd01iZk5KMWJockZ6bnJ1TEQzc0laZVg2Y3h0TTNZSmVvRkxjSF9zaHJnenk4T1haNmQ1RlZzdDBCOWpMdTZ4SVh2em0teEpuS2NKYXpIV1BudXZfVEpyU1V0Rm1fdzZLMUNEeGJMeVpRMw?oc=5"
+    }
+  ],
   "anomalies": [],
   "topic_trends": {},
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 1,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
     "top_topics": []
   },
+  "filter_audit": {
+    "total_raw": 498,
+    "dup_title": 160,
+    "too_old": 234,
+    "gate1_blocked": 39,
+    "gate2_blocked": 52,
+    "passed": 13,
+    "pass_rate": "3.8%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "BHP ends iron ore dispute with China, shares rise - MSN",
+      "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",
+      "Rio Tinto Shares Overvalued Due to Elevated Iron Ore, Copper, and Aluminum Prices - Morningstar",
+      "Rio Tinto copper surge offsets iron ore disruption - Mining.com",
+      "Fortescue commits US$680m to expand Pilbara green energy grid - TipRanks"
+    ],
+    "alert": false
+  },
   "llm_analysis": {
-    "summary": "2026-04-26 無鋼鐵產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 1 則事件，焦點為Nucor相關動態：「Nucor sees stronger Q1 earnings on steel mills unit gains...」。市場情緒中性，暫無明顯方向。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Nucor sees stronger Q1 earnings on steel mills unit gains - MSN",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Nucor為今日主要關注企業。",
         "level": "green"
       }
     ]
