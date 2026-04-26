@@ -110,6 +110,37 @@ topics:
       - 跌價
       - price drop
       - price decline
+  industry_general:
+    display: 鋼鐵產業通用
+    keywords:
+    - steel
+    - iron
+    - iron ore
+    - metal
+    - alloy
+    - ore
+    - coil
+    - plate
+    - scrap
+    - furnace
+    - slab
+    - billet
+    - rebar
+    - stainless
+    - galvaniz
+    - mining
+    - smelting
+    - rolling
+    - 鋼
+    - 鐵
+    - 鋼材
+    - 鋼鐵
+    - 高爐
+    - 鍊鋼
+    - 軋鋼
+    - 礦砂
+    - 廢鋼
+    - 鑄造
   trade_policy:
     display: 貿易政策
     keywords:
