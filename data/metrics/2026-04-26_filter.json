@@ -1,10 +1,16 @@
 {
-  "total_raw": 30,
-  "dup_title": 0,
+  "total_raw": 498,
+  "dup_title": 187,
   "no_date": 0,
-  "too_old": 25,
-  "gate1_fail": 5,
-  "gate2_fail": 0,
+  "too_old": 225,
+  "gate1_fail": 39,
+  "gate2_fail": 47,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "Rio Tinto copper surge offsets iron ore disruption - Mining.com",
+    "Fortescue commits US$680m to expand Pilbara green energy grid - TipRanks",
+    "Fortescue to Invest $680 Million to Develop Western Australia Green Energy Project - Moomoo",
+    "Fortescue to Invest $680 Million to Develop Western Australia Green Energy Project - marketscreener.",
+    "How The SunCoke Energy (SXC) Narrative Is Shifting After Target Cut And Q4 Mixed Signals - Yahoo Fin"
+  ]
 }
