@@ -1,5 +1,3 @@
-# 鋼鐵供應鏈 - 公司清單
-
 companies:
 - id: vale
   name: Vale S.A.
@@ -22,6 +20,7 @@ companies:
   - baosteel
   - china_steel
   - hyundai_steel
+  fetch_mode: http
 - id: bhp
   name: BHP Group
   aliases:
@@ -43,6 +42,7 @@ companies:
   - baosteel
   - china_steel
   - hyundai_steel
+  fetch_mode: http
 - id: rio_tinto
   name: Rio Tinto
   aliases:
@@ -63,6 +63,7 @@ companies:
   - baosteel
   - china_steel
   - hyundai_steel
+  fetch_mode: http
 - id: fortescue
   name: Fortescue Ltd
   aliases:
@@ -80,6 +81,7 @@ companies:
   - china_steel
   - nippon_steel
   - posco
+  fetch_mode: http
 - id: warrior_met
   name: Warrior Met Coal
   aliases: []
@@ -97,6 +99,7 @@ companies:
   - jfe
   - us_steel
   - cleveland_cliffs
+  fetch_mode: http
 - id: suncoke
   name: SunCoke Energy
   aliases: []
@@ -112,6 +115,7 @@ companies:
   - us_steel
   - cleveland_cliffs
   - nucor
+  fetch_mode: http
 - id: cmc
   name: Commercial Metals
   aliases: []
@@ -129,6 +133,7 @@ companies:
   - gerdau
   - tung_ho
   - feng_hsin
+  fetch_mode: http
 - id: arcelormittal
   name: ArcelorMittal
   aliases:
@@ -150,6 +155,7 @@ companies:
   downstream:
   - reliance
   - tenaris
+  fetch_mode: http
 - id: nippon_steel
   name: Nippon Steel
   aliases:
@@ -170,6 +176,7 @@ companies:
   downstream:
   - reliance
   - tenaris
+  fetch_mode: http
 - id: jfe
   name: JFE Holdings
   aliases:
@@ -190,6 +197,7 @@ companies:
   downstream:
   - reliance
   - tenaris
+  fetch_mode: http
 - id: posco
   name: POSCO Holdings
   aliases:
@@ -209,6 +217,7 @@ companies:
   downstream:
   - reliance
   - hyundai_steel
+  fetch_mode: http
 - id: tata_steel
   name: Tata Steel
   aliases:
@@ -227,6 +236,7 @@ companies:
   - rio_tinto
   downstream:
   - reliance
+  fetch_mode: http
 - id: nucor
   name: Nucor
   aliases: []
@@ -243,6 +253,7 @@ companies:
   - suncoke
   downstream:
   - reliance
+  fetch_mode: http
 - id: steel_dynamics
   name: Steel Dynamics
   aliases: []
@@ -258,6 +269,8 @@ companies:
   - cmc
   downstream:
   - reliance
+  ir_rss_url: https://www.steeldynamics.com/feed/
+  fetch_mode: rss
 - id: cleveland_cliffs
   name: Cleveland-Cliffs
   aliases: []
@@ -274,6 +287,7 @@ companies:
   - suncoke
   downstream:
   - reliance
+  fetch_mode: http
 - id: us_steel
   name: U.S. Steel
   aliases: []
@@ -290,6 +304,7 @@ companies:
   - suncoke
   downstream:
   - reliance
+  fetch_mode: http
 - id: gerdau
   name: Gerdau
   aliases: []
@@ -305,6 +320,8 @@ companies:
   - cmc
   downstream:
   - reliance
+  ir_rss_url: https://ri.gerdau.com/feed/
+  fetch_mode: rss
 - id: china_steel
   name: China Steel Corp
   aliases:
@@ -326,6 +343,7 @@ companies:
   - chung_hung
   - ta_chen
   - spring_rain
+  fetch_mode: http
 - id: chung_hung
   name: Chung Hung Steel
   aliases:
@@ -343,6 +361,7 @@ companies:
   downstream:
   - ta_chen
   - spring_rain
+  fetch_mode: http
 - id: tung_ho
   name: Tung Ho Steel
   aliases:
@@ -359,6 +378,7 @@ companies:
   - cmc
   downstream:
   - spring_rain
+  fetch_mode: http
 - id: feng_hsin
   name: Feng Hsin Steel
   aliases:
@@ -375,6 +395,7 @@ companies:
   - cmc
   downstream:
   - spring_rain
+  fetch_mode: http
 - id: baosteel
   name: Baoshan Steel
   aliases:
@@ -394,6 +415,7 @@ companies:
   - fortescue
   downstream:
   - reliance
+  fetch_mode: http
 - id: hyundai_steel
   name: Hyundai Steel
   aliases:
@@ -412,6 +434,7 @@ companies:
   - rio_tinto
   downstream:
   - reliance
+  fetch_mode: http
 - id: reliance
   name: Reliance Inc
   aliases: []
@@ -437,6 +460,7 @@ companies:
   - baosteel
   - hyundai_steel
   downstream: []
+  fetch_mode: http
 - id: ta_chen
   name: Ta Chen Stainless
   aliases:
@@ -453,6 +477,7 @@ companies:
   - china_steel
   - chung_hung
   downstream: []
+  fetch_mode: http
 - id: spring_rain
   name: Spring Rain
   aliases:
@@ -471,6 +496,7 @@ companies:
   - tung_ho
   - feng_hsin
   downstream: []
+  fetch_mode: http
 - id: tenaris
   name: Tenaris
   aliases: []
@@ -487,6 +513,7 @@ companies:
   - nippon_steel
   - jfe
   downstream: []
+  fetch_mode: http
 etfs:
 - id: slx
   name: VanEck Steel ETF
