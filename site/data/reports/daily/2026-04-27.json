@@ -1,29 +1,66 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:36.247196Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T03:37:14.283037Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rain Forecast for Central Regions Tonight Through Tomorrow Afternoon - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTA2QlNmNk1XYWk2VDY5cFk5MmhIakpuX1F4Sk1Id3lQWFhRZkMySDl1N1FOOXVNRjB4NW1oRERZa2Zwa1VUS08tZjZPSXNrUW92MTRpVWs1b2xDMDJsUmU2R2ZSSldnel9QNHI0emhmYWU4NDZuYXZqaWd6dDJDZEN1YjJoUTZm?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 1,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0
     },
     "top_companies": [],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 509,
-    "dup_title": 198,
-    "too_old": 249,
-    "gate1_blocked": 19,
-    "gate2_blocked": 30,
-    "passed": 13,
-    "pass_rate": "4.2%",
-    "gate2_block_rate": "9.6%",
+    "total_raw": 1027,
+    "dup_title": 396,
+    "too_old": 504,
+    "gate1_blocked": 45,
+    "gate2_blocked": 59,
+    "passed": 23,
+    "pass_rate": "3.6%",
+    "gate2_block_rate": "9.4%",
     "gate2_samples": [
       "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",
       "Rio Tinto PLC $RIO Holdings Lifted by Cwm LLC - MarketBeat",
@@ -34,10 +71,10 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無鋼鐵產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 1 則事件，焦點為鋼鐵產業通用相關動態：「Rain Forecast for Central Regions Tonight Through Tomorro...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Rain Forecast for Central Regions Tonight Through Tomorrow Afternoon - 조선일보（鋼鐵產業通用）",
         "level": "green"
       },
       {
