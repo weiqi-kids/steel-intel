@@ -1,9 +1,59 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:14.283037Z",
+  "generated_at": "2026-04-27T10:08:22.062405Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "bhp-2026-04-27-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "After BHP, China’s CMRG Close to Iron Ore Deal With Fortescue - Bloomberg.com",
+      "companies": [
+        "bhp",
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVJBYnNGcU5YQWVXajVBaXNZVEljVDFDRGd4MERtQjI0UWp0ZENyckUxczZ1dGVzVXl4bkZwVVJQdXN3RWdYOHUxUGdSdXJ5RlgtdmdHVWxzSTAzS3d0R24zM1llVmZQbnRYeTB3RzVucjZBQkhtdUJLOXl2NmJINEZFM0J5Nk9XVndHTmdabzE2UDM2cmRMUjYtT1V2OGZCMlV4TkZBNHAzUTN6WFotMg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-04-27-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "After BHP, China's CMRG close to iron ore deal with Fortescue - Bloomberg News - marketscreener.com",
+      "companies": [
+        "bhp",
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdk5lTW1NM1hjZlZnb0toMHNld3BtNWVXbUM1NzR6bTZkWWxrdTVSTTJ5Y05MekFnZVlTZUdWRU1RU2RtZ0xFalc2emU3TVNvc3pMLWo1TWxEdDRkMnFhaTljVXZnRVk3a0ZQM3R0Nkk0TndocGdKRGt5cF9qQ19GWkhjMVBnXzU5dlFnZmVxUXIwSnZVQ3gyS0cydnhra1E0eENPTlJab2JTZ2xJYXRPcFE3WkJ5M3lWc3V6dkU2OUZhdDdXbzY4?oc=5"
+    },
+    {
+      "rank": 3,
       "event_id": "unknown-2026-04-27-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -21,46 +71,119 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTA2QlNmNk1XYWk2VDY5cFk5MmhIakpuX1F4Sk1Id3lQWFhRZkMySDl1N1FOOXVNRjB4NW1oRERZa2Zwa1VUS08tZjZPSXNrUW92MTRpVWs1b2xDMDJsUmU2R2ZSSldnel9QNHI0emhmYWU4NDZuYXZqaWd6dDJDZEN1YjJoUTZm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vale-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale S.A. (VALE) Announces Production and Sales Results for Q1 2026 - Insider Monkey",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWF1bzJhRmFlOF9yWTh2WUhLOVVyMjd1Z0pzNjhsNHoxUHZVREFmcGNtT2ZxQmNJVWlXR3drd1VXNkh1cjJNZ1p6WVpWMXFhaTJkTnNkdjROaW1rU2ZuMHVyWEY1MjNOV0NDdlVqUy03UnFJNS1ObHVIM2NUZXBCY25xVi1BeDVxZmZ6YTlSa2ZtbzZWUTc0bHZyNFNsTl9JWWxCTW5icEsyWEUxSUVibGtfRWfSAbQBQVVfeXFMTUFhdW8yYUZhZThfclk4dllISzlVcjI3dWdKczY4bDR6MVB2VURBZnBjbU9mcUJjSVVpV0d3a3dVVzZIdXIyTWdaellaVjFxYWkyZE5zZHY0Tmlta1NmbjB1clhGNTIzTldDQ3ZValMtN1JxSTUtTmx1SDNjVGVwQmNucVYtQXg1cWZmemE5UmtmbW82VlE3NGx2cjRTbE5fSVlsQk1uYnBLMlhFMUlFYmxrX0Vn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fortescue-2026-04-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue Faces Pressure From Iron Bridge Weakness, Green Energy Shift, Jefferies Says - 富途牛牛",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT0g4endNTUdHNVN5VzhIQ3VmS1ZDMWZJb3FoWk04cjlPaS1lRENpRzktcWFWeUFqbjZ0QlFCcGktSFBtcXB4UE9jdlhxUU5rZEFBd3BBcnpDX00taS1xTFBKMlBxTVJIRHVfUDJlVkxEZmhRbXBWdUNuYzBaTUdjSjVyMGlBbUhuUFdXTU5vY2wxVF9lOF9DUnpSMWZDWU5xdEJfTWhmUVBfVVZxemVj?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 1,
+      "today": 13,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": -0.04,
       "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "bhp",
+      "to": "fortescue",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
   "stats": {
-    "total_events": 1,
+    "total_events": 14,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
-      "negative": 0
+      "neutral": 13,
+      "negative": 1
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "fortescue",
+        "count": 4
+      },
+      {
+        "id": "tata_steel",
+        "count": 3
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "vale",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 1
+        "count": 13
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 1027,
-    "dup_title": 396,
-    "too_old": 504,
-    "gate1_blocked": 45,
-    "gate2_blocked": 59,
-    "passed": 23,
-    "pass_rate": "3.6%",
-    "gate2_block_rate": "9.4%",
+    "total_raw": 1535,
+    "dup_title": 587,
+    "too_old": 739,
+    "gate1_blocked": 72,
+    "gate2_blocked": 94,
+    "passed": 43,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "9.9%",
     "gate2_samples": [
       "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",
       "Rio Tinto PLC $RIO Holdings Lifted by Cwm LLC - MarketBeat",
@@ -71,15 +194,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為鋼鐵產業通用相關動態：「Rain Forecast for Central Regions Tonight Through Tomorro...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "summary": "今日共 14 則事件，焦點為FMG、塔塔鋼鐵、必和必拓相關動態：「After BHP, China’s CMRG Close to Iron Ore Deal With Forte...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
-        "text": "Rain Forecast for Central Regions Tonight Through Tomorrow Afternoon - 조선일보（鋼鐵產業通用）",
-        "level": "green"
+        "text": "After BHP, China’s CMRG Close to Iron Ore Deal With Fortescue - Bloomberg.com（鋼鐵產業通用）",
+        "level": "yellow"
       },
       {
-        "text": "建議持續監控後續發展動態。",
-        "level": "green"
+        "text": "After BHP, China's CMRG close to iron ore deal with Fortescue - Bloomberg New...（鋼鐵產業通用）",
+        "level": "yellow"
       }
     ]
   },

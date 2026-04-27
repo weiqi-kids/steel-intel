@@ -1,11 +1,11 @@
 {
-  "total_raw": 1027,
-  "dup_title": 396,
+  "total_raw": 1535,
+  "dup_title": 587,
   "no_date": 0,
-  "too_old": 504,
-  "gate1_fail": 45,
-  "gate2_fail": 59,
-  "passed": 23,
+  "too_old": 739,
+  "gate1_fail": 72,
+  "gate2_fail": 94,
+  "passed": 43,
   "gate2_samples": [
     "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",
     "Rio Tinto PLC $RIO Holdings Lifted by Cwm LLC - MarketBeat",

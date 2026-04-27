@@ -1,132 +1,132 @@
 {
   "vale": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "bhp": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "rio_tinto": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "warrior_met": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "suncoke": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "cmc": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "arcelormittal": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "nippon_steel": {
-    "earliest": "2021-02-22",
+    "earliest": "2020-11-24",
     "latest": "2026-04-27",
-    "count": 1267
+    "count": 1327
   },
   "jfe": {
-    "earliest": "2021-02-22",
+    "earliest": "2020-11-24",
     "latest": "2026-04-27",
-    "count": 1267
+    "count": 1327
   },
   "posco": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "tata_steel": {
-    "earliest": "2021-02-18",
-    "latest": "2026-04-24",
-    "count": 1279
+    "earliest": "2020-11-20",
+    "latest": "2026-04-27",
+    "count": 1341
   },
   "nucor": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "steel_dynamics": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "cleveland_cliffs": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "gerdau": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "china_steel": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-27",
-    "count": 1257
+    "count": 1313
   },
   "chung_hung": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-27",
-    "count": 1257
+    "count": 1313
   },
   "tung_ho": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-27",
-    "count": 1257
+    "count": 1313
   },
   "feng_hsin": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-27",
-    "count": 1257
+    "count": 1313
   },
   "baosteel": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1258
+    "count": 1316
   },
   "hyundai_steel": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-27",
-    "count": 1268
+    "count": 1327
   },
   "reliance": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "ta_chen": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-27",
-    "count": 1257
+    "count": 1313
   },
   "spring_rain": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-27",
-    "count": 1257
+    "count": 1313
   },
   "tenaris": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "etf_slx": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   }
 }
