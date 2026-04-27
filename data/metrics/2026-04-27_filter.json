@@ -1,0 +1,16 @@
+{
+  "total_raw": 509,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 249,
+  "gate1_fail": 19,
+  "gate2_fail": 30,
+  "passed": 13,
+  "gate2_samples": [
+    "Analysts’ Top Materials Picks: Sherwin-Williams Company (SHW), Rio Tinto Limited (RTNTF) - The Globe",
+    "Rio Tinto PLC $RIO Holdings Lifted by Cwm LLC - MarketBeat",
+    "Rio Tinto Copper Growth And Simandou Milestone Recast Long Term Outlook - simplywall.st",
+    "Fortescue commits US$680m to expand Pilbara green energy grid - TipRanks",
+    "Macquarie Maintains FORTESCUE LTD(FSUMF.US) With Sell Rating, Raises Target Price to $9.77 - 富途牛牛"
+  ]
+}
