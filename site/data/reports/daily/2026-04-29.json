@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T09:58:55.591468Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-04-29-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nucor Corp (NUE) Q1 2026 Earnings Call Highlights: Record Shipme - GuruFocus",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd29GcmFhTDlPejc2eFJRNnhoZWctbzY5ckZMdmc4dDJjbXR5UXNyY2YwTHJET0c3bkM5SUFUOEtNQ0xMZVRBekUzejdsdzJSaWV4by1aajNESWtPN3VPalc4QlhEVkVXN1ZTVl9BclFlLVpRNmdmM3ljY2VPbGJ1eUt1My1hRXJ5ZGNuSXhJNnRWeldfVFM4NXU0WVpaZGJaNl9uWjVsbWlfRnE1X3dIdUdEQmN1VkVoTTF3T3RYYW51Ny1VVE5TVkRDSVQ5YTkxUUw1eDZMdnRzNXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-04-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Iron Ore Advances as Rising Costs Offset BHP-CMRG Resolution - Bloomberg.com",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk4ySGR3d1UwS0J3c2JSekJwUmlHa0hvUUVuN3ZCR1dPREhCS1RLcVVDcG1NS1lPc0FNRzhZZERZcU9rOTR4VmdmNnVKejRob2RSbGFaOC1qM1JRLVdzNjBIYlNscnpaSWxGazNZSDB5WU1XNWtKNHJLTVNfVzJ1ZXMyblhBMDRyZEppTWJIUlF1M194RDN0SVVyWm5ad0dKYlRaMHBreXBMT1l1NzJ6Ug?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-04-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock price forecast: GBX7,550 resistance as RIO trades flat - Traders Union",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmViR2tQNUZfUGtKU0V4aUVIS2U2UnY0UE5ScG5iR1dEQnFtLTZ1dVk2dHgycFlwSU5vY1dsYXdaek11RmNta1NrZHlRSUNydUxrVS1fWVNxQVl6QmF5UzRacExrX2lqNk96WVRkOHYzSEktWG1RMTNSbDNxOHduM1gycU1nV2xicjFnR1NZRUxJekE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-04-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ArcelorMittal’s CEO Highlights Community Relations as Foundation for Safety - FrontPageAfrica",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2JiUGdtWlRfU0ZzWkdRUTFHcGhLUEw0Q2ZjaHNER2tYYm5GWFhOUTVZV1U3VTNkcTFBSUZJbUU0bGViZE1wUFhkZ0otMjMxLXdSU0NuRHJ4SkdHZ1lDMk5RTWtHYjBZdTJVQ2UtYnhwd3M0YU03MGJoNGxSYTZWdFo3TllUcmtBNk8xT0dKcVF3TmllbjNQUkZRbFprb2MxbzlpVTZmWW00dmFuSDd5b082dko?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-04-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Primetals Technologies and ArcelorMittal Complete Converter Modernisation in Eisenhüttenstadt - Machine Maker",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVnRmdmZLcnl5WXZhaDJURXg1d0NlWUlMZHJzcFhpSDJiR3FjMC0xN1Y1NWFpV0VkUHFsUnpvR20xYUVleERaMFRhckFLeFJOV3pJRi02WEtVZnBFUi1ZV0hYT0o2YlhGLUhZalRvN2lQMGVESTVYZ2JDMFItRnVnX3BDV18wd2JEaktoM2FaaUFIM1RiOG15dzhabVdGcjY2TnRIbDg5WDdUVVVTNENUMXpZall0dU5DQm1laUtIVGp2anluZHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 5
+      },
+      {
+        "id": "nucor",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 516,
+    "dup_title": 169,
+    "too_old": 218,
+    "gate1_blocked": 19,
+    "gate2_blocked": 46,
+    "passed": 64,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance",
+      "Energy Resources of Australia Updates Director’s Rio Tinto Shareholdings - TipRanks",
+      "Rio Tinto (RIO) Commits A$100M for Housing Development in Wester - GuruFocus",
+      "Rio Tinto to Invest $71.7 Million to Support Western Australia Government's Housing - Moomoo",
+      "Energy Resources of Australia Reports Small Increase in Director’s Rio Tinto Shareholding - TipRanks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為塔塔鋼鐵、Nucor、安賽樂米塔爾相關動態：「Nucor Corp (NUE) Q1 2026 Earnings Call Highlights: Record...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nucor Corp (NUE) Q1 2026 Earnings Call Highlights: Record Shipme - GuruFocus",
+        "level": "green"
+      },
+      {
+        "text": "Iron Ore Advances as Rising Costs Offset BHP-CMRG Resolution - Bloomberg.com（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

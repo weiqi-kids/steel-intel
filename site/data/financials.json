@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T10:07:50.614535Z",
+  "updated_at": "2026-04-29T09:58:51.575478Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -119,14 +119,14 @@
       "name": "Gerdau",
       "ticker": "GGB",
       "currency": "USD",
-      "ar": 1429324000,
-      "ar_prev": 1905377000,
-      "ar_qoq": "-25%",
-      "inventory": 14731081000,
-      "inv_prev": 15272440000,
-      "inv_qoq": "-4%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 1446233000,
+      "ar_prev": 1429324000,
+      "ar_qoq": "+1%",
+      "inventory": 15190355000,
+      "inv_prev": 14731081000,
+      "inv_qoq": "+3%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "hyundai_steel",
@@ -245,14 +245,14 @@
       "name": "Steel Dynamics",
       "ticker": "STLD",
       "currency": "USD",
-      "ar": 1682660000,
-      "ar_prev": 1761961000,
-      "ar_qoq": "-5%",
-      "inventory": 3738516000,
-      "inv_prev": 3195660000,
-      "inv_qoq": "+17%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 2056434000,
+      "ar_prev": 1682660000,
+      "ar_qoq": "+22%",
+      "inventory": 3908120000,
+      "inv_prev": 3738516000,
+      "inv_qoq": "+5%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "suncoke",

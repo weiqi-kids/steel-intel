@@ -1,0 +1,16 @@
+{
+  "total_raw": 516,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 218,
+  "gate1_fail": 19,
+  "gate2_fail": 46,
+  "passed": 64,
+  "gate2_samples": [
+    "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance",
+    "Energy Resources of Australia Updates Director’s Rio Tinto Shareholdings - TipRanks",
+    "Rio Tinto (RIO) Commits A$100M for Housing Development in Wester - GuruFocus",
+    "Rio Tinto to Invest $71.7 Million to Support Western Australia Government's Housing - Moomoo",
+    "Energy Resources of Australia Reports Small Increase in Director’s Rio Tinto Shareholding - TipRanks"
+  ]
+}
