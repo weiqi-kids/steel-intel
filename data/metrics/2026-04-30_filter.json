@@ -1,0 +1,16 @@
+{
+  "total_raw": 519,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 213,
+  "gate1_fail": 17,
+  "gate2_fail": 50,
+  "passed": 75,
+  "gate2_samples": [
+    "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+    "LCL Resources Secures Rio Tinto Farm-In to Drive PNG Exploration - TipRanks",
+    "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance",
+    "JPMorgan Lifts PT on Rio Tinto Group (RIO) Following Q1 Results - Yahoo Finance",
+    "Rio Tinto’s A$100m boost for essential service worker housing in the Pilbara - Yahoo Finance UK"
+  ]
+}

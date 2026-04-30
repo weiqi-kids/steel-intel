@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T09:58:51.575478Z",
+  "updated_at": "2026-04-30T09:59:52.714558Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -190,12 +190,12 @@
       "ticker": "PKX",
       "currency": "USD",
       "ar": 94226000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": -58829000000,
+      "ar_qoq": "+260%",
       "inventory": 12805223000000,
-      "inv_prev": 12338000000000,
+      "inv_prev": 12337893000000,
       "inv_qoq": "+4%",
-      "alert": false,
+      "alert": true,
       "quarter_date": "2025-09-30"
     },
     {

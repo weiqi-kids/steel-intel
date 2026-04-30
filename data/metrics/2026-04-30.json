@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-30",
+  "total_events": 22,
+  "by_company": {
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "us_steel": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": -0.13
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
