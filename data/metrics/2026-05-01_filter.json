@@ -1,0 +1,16 @@
+{
+  "total_raw": 518,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 19,
+  "gate2_fail": 43,
+  "passed": 91,
+  "gate2_samples": [
+    "Argus Raises its Price Target on BHP Group (BHP) to $95 - Yahoo Finance",
+    "A Look at Rio Tinto PLC (RIO) After 4.1% Gain -- GF Value $68.31 vs Price $100.48 - GuruFocus",
+    "Rio Tinto uncovers Rare 158-carat yellow diamond at Diavik mine - jewelleryworld.net.au",
+    "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+    "LCL Resources Secures Rio Tinto Farm-In to Drive PNG Exploration - TipRanks"
+  ]
+}

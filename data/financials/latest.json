@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T09:59:52.714558Z",
-  "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
+  "updated_at": "2026-05-01T09:27:08.113010Z",
+  "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
       "id": "arcelormittal",
@@ -21,14 +21,14 @@
       "name": "寶鋼",
       "ticker": "600019.SS",
       "currency": "CNY",
-      "ar": 14534372384,
-      "ar_prev": 14951389888,
-      "ar_qoq": "-3%",
-      "inventory": 39951705962,
-      "inv_prev": 40698680461,
-      "inv_qoq": "-2%",
+      "ar": 14465776463,
+      "ar_prev": 13804409438,
+      "ar_qoq": "+5%",
+      "inventory": 40868776730,
+      "inv_prev": 37211846157,
+      "inv_qoq": "+10%",
       "alert": false,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "bhp",
@@ -189,28 +189,28 @@
       "name": "浦項製鐵",
       "ticker": "PKX",
       "currency": "USD",
-      "ar": 94226000000,
-      "ar_prev": -58829000000,
-      "ar_qoq": "+260%",
-      "inventory": 12805223000000,
-      "inv_prev": 12337893000000,
-      "inv_qoq": "+4%",
+      "ar": 206283000000,
+      "ar_prev": 94226000000,
+      "ar_qoq": "+119%",
+      "inventory": 13739362000000,
+      "inv_prev": 12805223000000,
+      "inv_qoq": "+7%",
       "alert": true,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "reliance",
       "name": "Reliance Inc",
       "ticker": "RS",
       "currency": "USD",
-      "ar": 1539900000,
-      "ar_prev": 1674100000,
-      "ar_qoq": "-8%",
-      "inventory": 2187800000,
-      "inv_prev": 2307900000,
-      "inv_qoq": "-5%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 1953500000,
+      "ar_prev": 1539900000,
+      "ar_qoq": "+27%",
+      "inventory": 2234900000,
+      "inv_prev": 2187800000,
+      "inv_qoq": "+2%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "rio_tinto",
@@ -329,14 +329,14 @@
       "name": "淡水河谷",
       "ticker": "VALE",
       "currency": "USD",
-      "ar": 1776000000,
-      "ar_prev": 1771000000,
-      "ar_qoq": "+0%",
-      "inventory": 5937000000,
-      "inv_prev": 5567000000,
-      "inv_qoq": "+7%",
+      "ar": 1947000000,
+      "ar_prev": 1776000000,
+      "ar_qoq": "+10%",
+      "inventory": 6135000000,
+      "inv_prev": 5937000000,
+      "inv_qoq": "+3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "warrior_met",

@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-01",
+  "date_range": {
+    "start": "2026-04-25",
+    "end": "2026-05-01"
+  },
+  "generated_at": "2026-05-01T09:27:11.939444Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arcelormittal-2026-04-26-010",
+      "date": "2026-04-26",
+      "title": "Dilip Oommen to retire as CEO of ArcelorMittal Nippon Steel India; Amit Harlalka appointed new chief - MSN",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "arcelormittal",
+      "company_b": "nippon_steel",
+      "co_mention_count": 7,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "fortescue",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "trade_policy": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": -0.17
+    },
+    "industry_general": {
+      "this_week": 75,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.03
+    },
+    "coking_coal_scrap": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.2
+    },
+    "capacity_utilization": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nucor": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 4
+    },
+    "bhp": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "reliance": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 5
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "tata_steel": {
+      "event_count": 18,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "rio_tinto": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "warrior_met": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 7
+    },
+    "arcelormittal": {
+      "event_count": 17,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 13
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "suncoke": {
+      "event_count": 3,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 349,
+        "last": 272,
+        "change_pct": 28.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-25",
+      "event_count": 18,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 73,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 82,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 61,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 89,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 15,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-25 ~ 2026-05-01）共 349 則事件，重點為「Dilip Oommen to retire as CEO of ArcelorMittal ...」。浦項製鐵、U.S. Steel情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "浦項製鐵",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "U.S. Steel",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

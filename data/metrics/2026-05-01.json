@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-01",
+  "total_events": 15,
+  "by_company": {
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "suncoke": {
+      "count": 3,
+      "sentiment_avg": -0.25
+    },
+    "arcelormittal": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "coking_coal_scrap": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "capacity_utilization": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
