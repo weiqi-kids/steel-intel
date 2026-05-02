@@ -1,0 +1,16 @@
+{
+  "total_raw": 514,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 20,
+  "gate2_fail": 43,
+  "passed": 58,
+  "gate2_samples": [
+    "Argus Raises its Price Target on BHP Group (BHP) to $95 - Yahoo Finance",
+    "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+    "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+    "A Look at Rio Tinto PLC (RIO) After 4.1% Gain -- GF Value $68.31 vs Price $100.48 - GuruFocus",
+    "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "date": "2026-05-02",
+  "date_range": {
+    "start": "2026-04-26",
+    "end": "2026-05-02"
+  },
+  "generated_at": "2026-05-02T08:58:30.479615Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "reliance-2026-05-01-040",
+      "date": "2026-05-01",
+      "title": "Reliance Inc Stock Gains Momentum Following Nucor Financial Report - HarianBasis.co",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "arcelormittal",
+      "company_b": "nippon_steel",
+      "co_mention_count": 9,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "fortescue",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 83,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.02
+    },
+    "coking_coal_scrap": {
+      "this_week": 7,
+      "last_week": 5,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.21
+    },
+    "capacity_utilization": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nucor": {
+      "event_count": 10,
+      "sentiment_avg": 0.15,
+      "rank": 3
+    },
+    "bhp": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "reliance": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 8
+    },
+    "tata_steel": {
+      "event_count": 19,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "rio_tinto": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "warrior_met": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 20,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 13
+    },
+    "us_steel": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 9
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "suncoke": {
+      "event_count": 4,
+      "sentiment_avg": -0.19,
+      "rank": 11
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "hyundai_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 389,
+        "last": 287,
+        "change_pct": 35.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-26",
+      "event_count": 12,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 74,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 85,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 63,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 97,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 44,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 14,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-26 ~ 2026-05-02）共 389 則事件，重點為「Reliance Inc Stock Gains Momentum Following Nuc...」。Cleveland-Cliffs情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Nucor",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

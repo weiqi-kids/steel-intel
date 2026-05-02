@@ -1,0 +1,264 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T08:58:30.407290Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-05-02-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ArcelorMittal Nippon Steel India’s state-of-the-art automotive steel production line inaugurated by Japanese Ambassador - Chennai Patrika",
+      "companies": [
+        "nippon_steel",
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXzlpT2U3SURKM0V5TERuRjU0ZHFCN3VDZ0lyeE1HU3AyZ2hXVmlkQnZQWHloQnphZG1idWJTazlZVVZwUks1d1pMMjAwTVVrV0dHcWtYbF9PeWp3ekplc0JVNVFhQkNmMHM0MmM4WFdiaG43Zm1jVVk5LXFXaGhqQVBheE1teFVIZXdtM2hEYWIxdi1ZU1R2UktrM1kzbHE3aEhfQkJ0dnRsVkhDOWlTQVFRaUQ3cWs1THFueWl2Ny1PY0dRUUpEb2VOdUtSdGhJMUdwajFYM2xUTE5kV3JYUUVEMlM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nucor-2026-05-02-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Gerdau and Nucor Hike U.S. Steel Prices for Merchant Bar and Structural Sections - IndexBox",
+      "companies": [
+        "nucor",
+        "gerdau",
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb185S09ZZXFLVXUzVDkxMVVhVWU5cWZlT2dKNFpYeU5FQjdqLWJNV29VWUdsWnowVklnZTdTRFJTZkVnSHVla05fYUVCWkdUYUNvcllZOUl2T09SRU5QbV9kRkROT2NpSkhRTEQyUFpRa01JdGF4a0libi1LZm16UE52enluX0FMVGgxeHkyMjZpRGpCOWRNOTZrZFd2YS1Id0l6T3REaXh1blFm?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "warrior_met-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Blue Creek Ramp Up Puts Warrior Met Coal Production Story In Focus - Yahoo Finance UK",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3EtUDdPUDRDUWtLYUpjWG5obnl1VUZVMGdPcnNYaENWWXYzaW4xck9MckJuNXE2eGtYSUxRQkwxRjdPcTcyMlhlTVJ1TWRmWnNNaDZkRzhBcU9Lc25JbTc5UGM3OTZndGt2eWdOd21IeENNWWJESXRMNEFxalF5OWNOWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "warrior_met-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal, Inc. 2026 Q1 - Results - Earnings Call Presentation (NYSE:HCC) 2026-05-01 - Seeking Alpha",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVjcUxzZElUbzkzSGpqUHZ0X24wdTFERmVrVFJQa1RhOUxraUt1M0U5U0llUF9CcnNTSWVNZ284VVlOd1BkQWlDOFZsUzBiTjgyRDBZV2Z5TTkzZU03ZUpBODI1SkFhbTVJRVZnblFOMHJqcUczbi1BRUxPc1hRVlF0YVRzWGhibnZEejVTMzd4YXlPY1VWbTFjMFZwOE02LW1EYlhvbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "suncoke-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SunCoke Energy Earnings Call Balances Setbacks and Strength - TipRanks",
+      "companies": [
+        "suncoke"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXE2ZjZBamkzd19RbXRWWWJ5SW1uVGotY0w1S1hDWFltRFBhXzNORklEbWZzRmxfUk5aQXVVaGNpSXFNYTBpVzNPeE11T0dLYjNNTzc5LUN1VXBndWgtWU5GaElKc1hOdkpiLThWOTB6T290dUQyZzBZZXJad0ptUGx3bmxGNzNKaTB3VG5LYnA1dWVxX2dNNlpEeWtndmdMZXRuNkhsVjlUMjJZNWdkWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "warrior_met",
+        "count": 2
+      },
+      {
+        "id": "suncoke",
+        "count": 1
+      },
+      {
+        "id": "cmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 2
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 514,
+    "dup_title": 196,
+    "too_old": 197,
+    "gate1_blocked": 20,
+    "gate2_blocked": 43,
+    "passed": 58,
+    "pass_rate": "18.2%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Argus Raises its Price Target on BHP Group (BHP) to $95 - Yahoo Finance",
+      "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+      "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+      "A Look at Rio Tinto PLC (RIO) After 4.1% Gain -- GF Value $68.31 vs Price $100.48 - GuruFocus",
+      "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為安賽樂米塔爾、Nucor、Warrior Met Coal相關動態：「ArcelorMittal Nippon Steel India’s state-of-the-art autom...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ArcelorMittal Nippon Steel India’s state-of-the-art automotive steel producti...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Gerdau and Nucor Hike U.S. Steel Prices for Merchant Bar and Structural Secti...（鋼品價格、鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
