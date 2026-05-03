@@ -1,0 +1,209 @@
+{
+  "date": "2026-05-03",
+  "date_range": {
+    "start": "2026-04-27",
+    "end": "2026-05-03"
+  },
+  "generated_at": "2026-05-03T09:15:06.618146Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-04-30-101",
+      "date": "2026-04-30",
+      "title": "ArcelorMittal Nippon Steel India Inaugurates Advanced Automotive Steel Mill in Hazira to Boost Self‑Reliance - Indianweb2.com",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "fortescue",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 85,
+      "last_week": 2,
+      "week_over_week_change": "+4150%",
+      "sentiment_this_week": -0.02
+    },
+    "coking_coal_scrap": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.21
+    },
+    "capacity_utilization": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 8,
+      "last_week": 2,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.12
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "bhp": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 8
+    },
+    "tata_steel": {
+      "event_count": 19,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "rio_tinto": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "warrior_met": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 22,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 12
+    },
+    "us_steel": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 9
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "suncoke": {
+      "event_count": 4,
+      "sentiment_avg": -0.19,
+      "rank": 11
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "hyundai_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 406,
+        "last": 292,
+        "change_pct": 39.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-27",
+      "event_count": 74,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 85,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 67,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 101,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 49,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 25,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 5,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-27 ~ 2026-05-03）共 406 則事件，重點為「ArcelorMittal Nippon Steel India Inaugurates Ad...」。Cleveland-Cliffs情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

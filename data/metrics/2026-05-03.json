@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-03",
+  "total_events": 5,
+  "by_company": {
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 514,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 198,
+  "gate1_fail": 19,
+  "gate2_fail": 42,
+  "passed": 29,
+  "gate2_samples": [
+    "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+    "Oppenheimer Asset Management Inc. Has $9.14 Million Position in Rio Tinto PLC $RIO - MarketBeat",
+    "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+    "A Look at Rio Tinto PLC (RIO) After 4.1% Gain -- GF Value $68.31 vs Price $100.48 - GuruFocus",
+    "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance"
+  ]
+}

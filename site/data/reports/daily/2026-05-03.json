@@ -1,0 +1,191 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:15:06.542803Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-05-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ArcelorMittal confirms steel supply for White House ballroom project - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFZzLTA4M2dfR01IcXdEQ0hDektoS2VkMW9oQWFjR1VaeVlyQ1UycjlpcFFCMnczcEp3TDJXNjFSbE01UkR6b3c3dmJfVWpjeTIxRElYeDk4Qmp5U3c3MkhoNHNrRXE5endPTzBPZ19qMFVOeF90MV9saEJKYk12Zk1ILU1BRUZZaTRCRG5yYWMwUXhYY1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ArcelorMittal: Pricing improves, policy ‘structurally resets’ Europe outlook - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLW9WUFc3LVdVYkdlOW9jdEFHajMyZkt5YWp1YnV2bHgwS2xJSGlRdEM5V1J5UWgzVnd5NmdNb0x6U2hlcnBCOHVUajFELTAtLXc4SDlRdFk3Mi1Nb252eFdUOU5IVlM5VmxScDFMZjd3UG5wcXo2ajJtUmdCbDhuUExwREVIbWxHY0lGVXhFeU9vUFlPT2pHMGJCYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Steel Stocks Rebound on Chinese Tariffs, Middle East Demand - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general",
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjlIakxKZm5HSWNqS1lFQmM2UWJLcGhXd0hfUUJRZnlUY01uVUlSSUs5aGV5d0hfZVZ3bE50ZTIzeEhoVjRxZU9LOEU5TlZvRWhUX3RjeTZKRDlDcTd1TFFRWU1wem5XRjNQWUFMNjRGSkYzaVE3SkZXQ05xSkN2RVRrUFRoVEFvb25YQzNB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Automakers are counting on $2.3 billion in US tariff refunds - GMK Center",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnpZOWZYUGM2bWNmTk02djNKVU83MGlTRndZaTlTeE1ZdWluUWRueHliY2NsV2dHQ1c2MjVHc0w2TTlHNnNBVHRFbHFZVWloenZnM2Jlel9zSkFiVjhYN1JpVnNFeGlvR1NYLW8zZjIzVWt4RlBoNE9LaHNaZTZsb0Z0TlhJOXdyLWFNdXcyTUPSAZYBQVVfeXFMTWRIc0ZfT1RSZnVXZjhteXBkWFJOMVFKdlJNTHZsVHhyemJyOGZrS25od2VpOWI0dnB1VDJlRkRYS2lqWVNWMUJnZldMVE5jTHpMV3gxNXVfd0NIYUo0ZmstdjYwS1NscTZCN3NuRk9aZU9JSlVVdmo5UHVBTjNzQ1RDbEtrbE1aUjdEUGFTeXVPZHM5a3hn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SuSteelAG consortium achieves hydrogen-based ore reduction on an industrial scale - Ethical Marketing News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVpJWnByNk00LTB1UExOY1ZWR0R3ZmQ4MHd0cnQtdUROQnZMZlppSG5yYWtEdjk3RVVlYlpLQVhUbU1FbFFKTWpSMzZ0VFJjQ2dVRVFUdk5kOHUtSUlja0lNU3pEMFVZMWx2RFBVbHlTSk10REY0aVRwV1BKQWtlcUo0RUhDblBGRzhkWXJNR0Y0TDNWSmp1SV9Sa1R4Y3pQXzdtc1pzNjdWMmF3dkdQVHlXeW4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 514,
+    "dup_title": 226,
+    "too_old": 198,
+    "gate1_blocked": 19,
+    "gate2_blocked": 42,
+    "passed": 29,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+      "Oppenheimer Asset Management Inc. Has $9.14 Million Position in Rio Tinto PLC $RIO - MarketBeat",
+      "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+      "A Look at Rio Tinto PLC (RIO) After 4.1% Gain -- GF Value $68.31 vs Price $100.48 - GuruFocus",
+      "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為安賽樂米塔爾相關動態：「ArcelorMittal confirms steel supply for White House ballr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ArcelorMittal confirms steel supply for White House ballroom project - EUROMETAL（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "ArcelorMittal: Pricing improves, policy ‘structurally resets’ Europe outlook ...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
