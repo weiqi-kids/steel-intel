@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-18",
+  "generated_at": "2026-05-03T02:45:11.253245Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "reliance-2026-02-18-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reliance Inc (NYSE:RS) Reports Mixed Q4 2025 Results with Revenue Growth but EPS Miss - ChartMill",
+      "companies": [
+        "reliance"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "reliance",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

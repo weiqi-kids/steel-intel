@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-26",
+  "total_events": 2,
+  "by_company": {
+    "cmc": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

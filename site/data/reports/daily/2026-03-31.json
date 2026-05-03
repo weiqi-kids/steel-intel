@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-05-03T02:45:15.916660Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-03-31-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Profit squeezed at POSCO Holdings (NYSE: PKX) as 2025 revenue hits 69.1T KRW - Stock Titan",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "posco",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

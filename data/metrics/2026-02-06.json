@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-06",
+  "total_events": 2,
+  "by_company": {
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

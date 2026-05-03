@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-27",
+  "total_events": 1,
+  "by_company": {
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

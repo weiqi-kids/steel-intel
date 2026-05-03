@@ -1,0 +1,73 @@
+{
+  "date": "2025-10-23",
+  "date_range": {
+    "start": "2025-10-17",
+    "end": "2025-10-23"
+  },
+  "generated_at": "2026-05-03T02:45:06.032278Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "reliance-2025-10-23-079",
+      "date": "2025-10-23",
+      "title": "Reliance Inc (RS) Q3 2025 Earnings Call Highlights: Record Sales and Strategic Growth Amid ... - Yahoo Finance",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.75,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

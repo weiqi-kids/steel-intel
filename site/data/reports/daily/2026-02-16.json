@@ -1,0 +1,126 @@
+{
+  "date": "2026-02-16",
+  "generated_at": "2026-05-03T02:45:10.805965Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "warrior_met-2026-02-16-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Blue Creek Startup Reshapes Warrior Met Coal Valuation And Profitability Questions - Yahoo Finance",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-02-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP profit beats forecasts as copper tops iron ore earnings on AI-driven demand - Reuters",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-02-16-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S., Nippon Steel to reline Gary Works blast furnace this year - Chicago Tribune",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_utilization"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-05-03T02:45:15.698858Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-03-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nucor Continues Steel Price Hikes: A Steel Market Under Pressure",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-06",
+  "generated_at": "2026-05-03T02:45:09.685251Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_steel-2026-02-06-045",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India's Tata Steel beats profit view as higher volumes outweigh weak prices - Reuters",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-02-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ArcelorMittal finishes 2025 with profitable quarter - Recycling Today",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 1
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2024-12-18",
+  "date_range": {
+    "start": "2024-12-12",
+    "end": "2024-12-18"
+  },
+  "generated_at": "2026-05-03T02:45:02.107044Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cleveland_cliffs-2024-12-18-019",
+      "date": "2024-12-18",
+      "title": "Cleveland-Cliffs increases HRC prices by $50 - SteelRadar",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-12-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-12-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-12-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-12-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-12-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-12-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-12-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "2026-02-02",
+  "generated_at": "2026-05-03T02:45:08.790101Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "warrior_met-2026-02-02-019",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Be Wary Of Warrior Met Coal (NYSE:HCC) And Its Returns On Capital - Yahoo Finance",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-02-02-043",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Posco Holdings aims for a profit recovery, targeting sales of 69 trillion KRW in 2025. - SteelRadar",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "posco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  }
+}

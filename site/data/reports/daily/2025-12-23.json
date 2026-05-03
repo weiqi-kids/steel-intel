@@ -1,0 +1,44 @@
+{
+  "date": "2025-12-23",
+  "generated_at": "2026-05-03T02:45:07.672916Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "reliance-2025-12-23-078",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reliance, Inc.'s (NYSE:RS) Earnings Haven't Escaped The Attention Of Investors - simplywall.st",
+      "companies": [
+        "reliance"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "reliance",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

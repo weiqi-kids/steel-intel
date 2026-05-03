@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-06",
+  "generated_at": "2026-05-03T02:45:16.566884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "us_steel-2026-04-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Steel Market at a Crossroads: HRC Clears $1,040, Raw Material Costs Surge, and Sweeping Section 232 Revisions Reshape the Trade Landscape",
+      "companies": [
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "us_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  }
+}

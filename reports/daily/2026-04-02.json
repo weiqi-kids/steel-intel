@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-05-03T02:45:16.132644Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "warrior_met-2026-04-02-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zacks Industry Outlook Highlights Warrior Met Coal, Core Natural Resources and Peabody - Zacks Investment Research",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "cmc-2026-04-02-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Commercial Metals Dividend Increase Highlights Earnings Growth From Precast Acquisitions - Yahoo Finance",
+      "companies": [
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nucor-2026-04-02-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Steel Prices Breach $1,000 Milestone as Nucor Leads Market Hike - FinancialContent",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "cmc",
+        "count": 1
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  }
+}

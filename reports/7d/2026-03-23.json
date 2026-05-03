@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-23",
+  "date_range": {
+    "start": "2026-03-17",
+    "end": "2026-03-23"
+  },
+  "generated_at": "2026-05-03T02:45:14.302962Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-03-19-010",
+      "date": "2026-03-19",
+      "title": "Tokyo Steel raises steel prices for april sales - GMK Center",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "steel_price": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nucor": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 5,
+        "change_pct": -40.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

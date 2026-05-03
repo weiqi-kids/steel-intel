@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-25",
+  "date_range": {
+    "start": "2026-02-19",
+    "end": "2026-02-25"
+  },
+  "generated_at": "2026-05-03T02:45:11.794458Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "jfe-2026-02-19-038",
+      "date": "2026-02-19",
+      "title": "JFE Holdings (TSE:5411) Valuation After Weaker Nine Month Earnings Update - simplywall.st",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 10,
+        "change_pct": -70.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-19",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-25",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2025-11-04",
+  "generated_at": "2026-05-03T02:45:07.001523Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "suncoke-2025-11-04-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SunCoke Energy (SXC): Profit Margin Drop Undermines Hopes for Operating Stability - Yahoo Finance",
+      "companies": [
+        "suncoke"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "suncoke",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2013-08-23",
+  "generated_at": "2026-05-03T02:45:00.354875Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "baosteel-2013-08-23-069",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's Baoshan Steel posts 61 pct drop in H1 profit - Reuters",
+      "companies": [
+        "baosteel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "baosteel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

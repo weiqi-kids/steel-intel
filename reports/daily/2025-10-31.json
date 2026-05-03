@@ -1,0 +1,46 @@
+{
+  "date": "2025-10-31",
+  "generated_at": "2026-05-03T02:45:06.777014Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vale-2025-10-31-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vale SA (VALE) Q3 2025 Earnings Call Highlights: Record Iron Ore Output and Strong Financial ... - Yahoo Finance",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vale",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

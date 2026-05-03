@@ -1,0 +1,190 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-05-03T02:45:18.084969Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HRC Hits $1045, Raw Materials Rise, Manufacturing Employment Strengthens, Section 232 Adjustments: What It Means For Steel Buyers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "warrior_met-2026-04-13-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal $HCC Stock Position Cut by High Ground Investment Management LLP - MarketBeat",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "warrior_met-2026-04-13-018",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal (HCC) Valuation Check After Sector Weakness And Analyst Downgrade - simplywall.st",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "cmc-2026-04-13-031",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Commercial Metals shares slip nearly 4% after earnings miss despite revenue growth - MSN",
+      "companies": [
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-04-13-034",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nippon Steel announced that its stainless steel prices for April will - Shanghai Metals Market",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 3
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 2
+      },
+      {
+        "id": "cmc",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "coking_coal_scrap",
+        "count": 3
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "steel_price",
+        "count": 2
+      }
+    ]
+  }
+}

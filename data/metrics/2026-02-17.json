@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-17",
+  "total_events": 4,
+  "by_company": {
+    "suncoke": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "vale": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "iron_ore_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

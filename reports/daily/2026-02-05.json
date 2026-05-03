@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-05",
+  "generated_at": "2026-05-03T02:45:09.454299Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-02-05-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nippon Steel widens full-year net-loss forecast to $446 million - Reuters",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "jfe-2026-02-05-036",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JFE Holdings Posts Profit Slide in Q3 FY2025 and Lowers Payout Versus Prior Year - The Globe and Mail",
+      "companies": [
+        "jfe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "reliance-2026-02-05-076",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reliance, Inc. to Announce Fourth Quarter and Full Year 2025 Financial Results on February 18, 2026 - Quiver Quantitative",
+      "companies": [
+        "reliance"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jfe",
+        "count": 1
+      },
+      {
+        "id": "reliance",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

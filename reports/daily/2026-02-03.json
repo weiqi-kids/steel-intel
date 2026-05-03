@@ -1,0 +1,80 @@
+{
+  "date": "2026-02-03",
+  "generated_at": "2026-05-03T02:45:09.008635Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-02-03-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India: HRC-rebar negative spread widens further in Jan'26 but steel prices rally - BigMint",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-02-03-042",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "POSCO Holdings posts KRW 69 trillion in 2025 sales, eyes profit rebound with lithium production and overseas steel expansion - 포스코그룹 뉴스룸",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "posco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "date": "2026-01-27",
+  "generated_at": "2026-05-03T02:45:08.345029Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-01-27-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nucor finishes 2025 with 14 percent earnings decline - Recycling Today",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

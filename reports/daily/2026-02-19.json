@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-19",
+  "generated_at": "2026-05-03T02:45:11.477216Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jfe-2026-02-19-038",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JFE Holdings (TSE:5411) Valuation After Weaker Nine Month Earnings Update - simplywall.st",
+      "companies": [
+        "jfe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "reliance-2026-02-19-077",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Earnings call transcript: Reliance Steel & Aluminum beats Q4 2025 forecasts - Investing.com",
+      "companies": [
+        "reliance"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jfe",
+        "count": 1
+      },
+      {
+        "id": "reliance",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

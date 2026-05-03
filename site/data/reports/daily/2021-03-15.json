@@ -1,0 +1,55 @@
+{
+  "date": "2021-03-15",
+  "generated_at": "2026-05-03T02:45:00.729307Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2021-03-15-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Steel spreads analysis: US-China HRC price difference hits historic high - S&P Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  }
+}
