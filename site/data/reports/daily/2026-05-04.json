@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:07:49.019831Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "suncoke-2026-05-04-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SunCoke Energy (SXC) reports Q1 loss, beats revenue estimates - MSN",
+      "companies": [
+        "suncoke"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSXFybklWN19oQnpTX3ZQTlBMNldLWF9lVkZISk8wY0hfMTFVbXRYNjZ3VHAzRVhTZ0t6WFNfR2dNMDFnUFYtUmxta2ZWWmZSamNZWUNmeGdEYVNVY05wVlNHVlBJdVpPQ21GXzRIMGluR083OHptVzJ6Z0R2azB0Vm9TUmNUenh2RmY2SW1MZjQ5WDZIdU1fUmx5aG02aTI3Vzd4eXJ6a0ZmcmN6UEdBNjJ3SkpqV04yU0RScVUyUHBGN0JUa1hIQkJhTUVJN1BqTElPZzRaM21zNU0xY0VlajhQaUs2TlRITXVmc1J5Q1BCWG9oTEUwZHRvVXZNR055UmxEcngtNDdEVVpwM05GVXoxR3VsaDRBR091WF9QX0EwdXZxN3JpcklyWDA4R1RfcWNiU193R0NxMUh3ZDBESWxtaW9TQ0lD?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-05-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock price forecast: GBX 7,550 resistance as RIO holds steady near GBX7,403.00 - Traders Union",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUVtQ2NvbzJLand6TUsyRkFoREFrOUliWno4S3RPU3VhOGc1ZWY1NkZJdGhQS1hMdjF4eUNWbm9XZUd1RVF0NjkxWnhEaXhnaVd3R21YbHVwRi1XcUlPZTVCcTFzaENiQ0J3RUktOXFzQm5lak1FUTFSU2ZuY0FJZ3VfSE5rQ3kzN0pkRl9DYjRRcEk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fortescue-2026-05-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASX 200 Mining Giant’s Big Shift: Is Fortescue Rewriting Its Story? - Kalkine Media",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYV9LcDNqa3ZJZmlVMjR6X3AwUVhqSElzYlQtWW9FRkxGVzBCdUU2dlp5OXhKQzNXclV6U1ExTE1adEpveUZDUVh5Q3BNLU1NY3FyY0RaSWZRNFg5WnhlUjlFbU8wRkhtTWFWU2NvbVlZVEhVclhwWHdRcGp0aExXcDllN3NoTUstS1ZYRGNrWGRaTFFyZDRNZ0VwbTFSNTl4Ump0S00xN0N6UzhmLUNjbzhsdUlUMUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Jefferies Names Top Coal Mining Stocks - Investing.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXRlOWxabkQ4YjR3MkhqakhoNFBqZ01qYmoyY0JJRXlBQlBzWTJVcXFWaXRRdGViYlU2MDJsaml3b2pGZlFrdmYwX1dqSnV5ZVJjVVE4bGMzWFdxcUhwSjZFME1EUzVraHhsamRfbjE0RzFnV1FqdGd1Z0tsaFlWNXNkQnJ2Sldab1UyNGNPM1dhRHVwc21CVU9iUlNRaGlyaGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-05-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Results: ArcelorMittal S.A. Beat Earnings Expectations And Analysts Now Have New Forecasts - simplywall.st",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOVhseGNBSUpmY2I4M24yOVBaOTNzcjdoLW01S1BrU3RNaXR5YmQxbUVYSEhrRDcwaHZmSmdKMmREUHRac2FEYnFwRTVWTmVkVVY0Q3M1VkZibjNZVjljWE9QNWdsdmh1cklFUWh5emZva2pVY0gzNEZZUkxwLUNXWXFOQ19oRFNaNEhfdnY5MjBBWVFVYjF4NDdnN2JQaGdaYXF1QkRGSlhSUUs0Y1RLbWZncWVxcUloQWx2LTJSNzNlQ05rYlA3dDlINzFTNHZC0gHWAUFVX3lxTE1MYkpFYnRrU3ZMQk1NLWdESTVvTzRfT2Jhb25HVGdmVWRNM1RyMUg2U3dZbk1NcFpGUi05QjRieWJiMW9rV1RTc3NXZkVyTnVZMnJaUDJIZ2plSjlWaTlKbllQcS1TWVVZQ09UeVNFQUxCNWdoc1pqeVhQMTh2aVM3ZVZmRVZPN29ic2NjQTBCQjhlSzZtaUx6LVpxaHJXaC1yOWJRamxLLTNjTHlHYzNtSC1oRF85bFZETVJSdVprNjJKdkdpMEllYVBKRzlRN296dXB5X3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 4
+      },
+      {
+        "id": "posco",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "suncoke",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 515,
+    "dup_title": 214,
+    "too_old": 209,
+    "gate1_blocked": 25,
+    "gate2_blocked": 40,
+    "passed": 27,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Argus Raises its Price Target on BHP Group (BHP) to $95 - Yahoo Finance",
+      "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+      "Mass job cuts loom for Rio Tinto’s WA workforce - The West Australian",
+      "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+      "A Look at Rio Tinto PLC (RIO) After 4.1% Gain -- GF Value $68.31 vs Price $100.48 - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為塔塔鋼鐵、浦項製鐵、力拓相關動態：「SunCoke Energy (SXC) reports Q1 loss, beats revenue estim...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SunCoke Energy (SXC) reports Q1 loss, beats revenue estimates - MSN",
+        "level": "green"
+      },
+      {
+        "text": "Rio Tinto stock price forecast: GBX 7,550 resistance as RIO holds steady near...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

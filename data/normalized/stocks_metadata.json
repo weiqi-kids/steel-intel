@@ -1,132 +1,132 @@
 {
   "vale": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "bhp": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "rio_tinto": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "warrior_met": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "suncoke": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "cmc": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "arcelormittal": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "nippon_steel": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1687
+    "count": 1744
   },
   "jfe": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1687
+    "count": 1744
   },
   "posco": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "tata_steel": {
-    "earliest": "2019-06-03",
-    "latest": "2026-04-30",
-    "count": 1709
+    "earliest": "2019-03-05",
+    "latest": "2026-05-04",
+    "count": 1768
   },
   "nucor": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "steel_dynamics": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "cleveland_cliffs": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "gerdau": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "china_steel": {
-    "earliest": "2019-06-04",
-    "latest": "2026-04-30",
-    "count": 1676
+    "earliest": "2019-03-06",
+    "latest": "2026-05-04",
+    "count": 1738
   },
   "chung_hung": {
-    "earliest": "2019-06-04",
-    "latest": "2026-04-30",
-    "count": 1676
+    "earliest": "2019-03-06",
+    "latest": "2026-05-04",
+    "count": 1738
   },
   "tung_ho": {
-    "earliest": "2019-06-04",
-    "latest": "2026-04-30",
-    "count": 1676
+    "earliest": "2019-03-06",
+    "latest": "2026-05-04",
+    "count": 1738
   },
   "feng_hsin": {
-    "earliest": "2019-06-04",
-    "latest": "2026-04-30",
-    "count": 1676
+    "earliest": "2019-03-06",
+    "latest": "2026-05-04",
+    "count": 1738
   },
   "baosteel": {
-    "earliest": "2019-06-03",
+    "earliest": "2019-03-05",
     "latest": "2026-04-30",
-    "count": 1677
+    "count": 1735
   },
   "hyundai_steel": {
-    "earliest": "2019-06-04",
-    "latest": "2026-04-30",
-    "count": 1694
+    "earliest": "2019-03-06",
+    "latest": "2026-05-04",
+    "count": 1757
   },
   "reliance": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "ta_chen": {
-    "earliest": "2019-06-04",
-    "latest": "2026-04-30",
-    "count": 1676
+    "earliest": "2019-03-06",
+    "latest": "2026-05-04",
+    "count": 1738
   },
   "spring_rain": {
-    "earliest": "2019-06-04",
-    "latest": "2026-04-30",
-    "count": 1676
+    "earliest": "2019-03-06",
+    "latest": "2026-05-04",
+    "count": 1738
   },
   "tenaris": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   },
   "etf_slx": {
-    "earliest": "2019-06-05",
+    "earliest": "2019-03-07",
     "latest": "2026-05-01",
-    "count": 1737
+    "count": 1799
   }
 }
