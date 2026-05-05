@@ -1,0 +1,16 @@
+{
+  "total_raw": 517,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 219,
+  "gate1_fail": 21,
+  "gate2_fail": 31,
+  "passed": 38,
+  "gate2_samples": [
+    "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+    "Sodexo to manage Rio Tinto's Pilbara facilities in Australia - marketscreener.com",
+    "Aluminium price surge reignites Australian smelters as Rio Tinto and Alcoa step up - alcircle",
+    "Argus Raises its Price Target on Rio Tinto (RIO) to $120 - Yahoo Finance",
+    "A Look At Rio Tinto (LSE:RIO) Valuation After Recent Share Price Momentum - Yahoo Finance"
+  ]
+}
