@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T08:10:52.299098Z",
+  "generated_at": "2026-05-06T10:10:51.700232Z",
   "top_events": [
     {
       "rank": 1,
@@ -125,13 +125,13 @@
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 9,
+      "today": 18,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.11,
+      "sentiment_today": -0.08,
       "sentiment_7d_avg": null
     }
   },
@@ -147,13 +147,21 @@
     }
   ],
   "stats": {
-    "total_events": 11,
+    "total_events": 23,
     "sentiment_distribution": {
-      "positive": 1,
-      "neutral": 9,
-      "negative": 1
+      "positive": 3,
+      "neutral": 17,
+      "negative": 3
     },
     "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 8
+      },
+      {
+        "id": "tata_steel",
+        "count": 3
+      },
       {
         "id": "steel_dynamics",
         "count": 2
@@ -163,34 +171,26 @@
         "count": 2
       },
       {
-        "id": "rio_tinto",
-        "count": 1
-      },
-      {
         "id": "fortescue",
-        "count": 1
-      },
-      {
-        "id": "tata_steel",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 9
+        "count": 18
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 517,
-    "dup_title": 209,
-    "too_old": 221,
-    "gate1_blocked": 17,
-    "gate2_blocked": 28,
-    "passed": 42,
-    "pass_rate": "13.6%",
-    "gate2_block_rate": "9.1%",
+    "total_raw": 1033,
+    "dup_title": 445,
+    "too_old": 437,
+    "gate1_blocked": 35,
+    "gate2_blocked": 58,
+    "passed": 58,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "9.9%",
     "gate2_samples": [
       "Rio Tinto Publishes AGM Speeches for Dual-Listed Group - TipRanks",
       "Lithium Americas adds Rio Tinto veteran to board - Investing.com",
@@ -201,7 +201,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 11 則事件，焦點為Steel Dynamics、Nucor、力拓相關動態：「Is Steel Dynamics a Better Buy Than Nucor? - Trefis」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "summary": "今日共 23 則事件，焦點為力拓、塔塔鋼鐵、Steel Dynamics相關動態：「Is Steel Dynamics a Better Buy Than Nucor? - Trefis」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
     "signals": [
       {
         "text": "Is Steel Dynamics a Better Buy Than Nucor? - Trefis（鋼鐵產業通用）",

@@ -1,11 +1,11 @@
 {
-  "total_raw": 517,
-  "dup_title": 209,
+  "total_raw": 1033,
+  "dup_title": 445,
   "no_date": 0,
-  "too_old": 221,
-  "gate1_fail": 17,
-  "gate2_fail": 28,
-  "passed": 42,
+  "too_old": 437,
+  "gate1_fail": 35,
+  "gate2_fail": 58,
+  "passed": 58,
   "gate2_samples": [
     "Rio Tinto Publishes AGM Speeches for Dual-Listed Group - TipRanks",
     "Lithium Americas adds Rio Tinto veteran to board - Investing.com",

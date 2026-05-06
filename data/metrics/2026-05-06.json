@@ -1,17 +1,17 @@
 {
   "date": "2026-05-06",
-  "total_events": 11,
+  "total_events": 23,
   "by_company": {
     "rio_tinto": {
-      "count": 1,
-      "sentiment_avg": 0.5
+      "count": 8,
+      "sentiment_avg": 0.06
     },
     "fortescue": {
       "count": 1,
       "sentiment_avg": 0.0
     },
     "tata_steel": {
-      "count": 1,
+      "count": 3,
       "sentiment_avg": 0.0
     },
     "steel_dynamics": {
@@ -41,12 +41,16 @@
     "reliance": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 9,
-      "sentiment_avg": -0.11
+      "count": 18,
+      "sentiment_avg": -0.08
     }
   },
   "baselines_used": {
