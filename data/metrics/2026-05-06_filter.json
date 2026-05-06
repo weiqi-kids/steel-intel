@@ -1,0 +1,16 @@
+{
+  "total_raw": 517,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 221,
+  "gate1_fail": 17,
+  "gate2_fail": 28,
+  "passed": 42,
+  "gate2_samples": [
+    "Rio Tinto Publishes AGM Speeches for Dual-Listed Group - TipRanks",
+    "Lithium Americas adds Rio Tinto veteran to board - Investing.com",
+    "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+    "Rio Tinto Grants Free Shares to Senior Managers Under UK Employee Plan - TipRanks",
+    "Why Newmont, PLS and Fortescue shares are grabbing headlines on Friday - MSN"
+  ]
+}

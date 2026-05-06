@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-06",
+  "total_events": 11,
+  "by_company": {
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "steel_dynamics": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "chung_hung": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "hyundai_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "reliance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": -0.11
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nucor",
+      "to": "steel_dynamics",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

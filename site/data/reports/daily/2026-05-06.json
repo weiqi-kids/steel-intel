@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T08:10:52.299098Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "steel_dynamics-2026-05-06-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Is Steel Dynamics a Better Buy Than Nucor? - Trefis",
+      "companies": [
+        "steel_dynamics",
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQndCZklkaEpYb3NqV1NGeDI4S0lJTmM4d3hHdU10WXdsMnRhQVluUjNaSHFrcUdNZHc5Z3N4cHVYOTRyRk8yNEVRVmJZb3AxWHVwYi1MNUlYNGd0N2FmV2tNT3haUmlva0x3bnFQX2NITE03Z2ZfSmVIS1c4bjFva2RtSVJiekRlVEJGR3cxVXB3dUkwY3RqTG4xU3pDbmQzUEZj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "steel_dynamics-2026-05-06-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Steel Dynamics or Nucor: Which Stock Has More Upside? - Trefis",
+      "companies": [
+        "steel_dynamics",
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGI4RF9EeWRYb1ZyalE4U3lVWVc0ejh4WW9hbWJnMUZmQXIwbzY5OGpTeHRSSlJFSVE0Umw1dWpDWWtINjVCLWJDbTNWdXBlTkplSFltS3NLMmJWczdTVmFtVVM0bkVhX3BxN28zTFdWUlFMdVA2X3d3TGJwb0dwR0plVThIZlN4dFVmQjZ3bzFzRktqc0JtemFSZUo4ZzVsSF9hVjlTbHJyNFhrcktxT3NOLXNsNkRfY1RGcVl3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-05-06-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+      "companies": [
+        "posco",
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3VHRVVrbF92QUlhUUtMa3FRaFBlbXFTdVRjeHlBSG1sWWJwMzFzSXZtLVhFN25kYU96VVJoUlBBZ1BBeThzRE9adnJHMlU2aWF0ZlAyb0RXd1VpMnUxbFJpX21LSURJUkQwc0VuTFB5bnQ5cC1HYmVpWEdYYzZ3MkZTRjZWQThXWGFXSi1WeDdTYlQzNFc5WUhFSHBMU1dRVzNtbXA5ZXRoVEtOcXRsNmtKVV9nWHVjN0lz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "chung_hung-2026-05-06-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Taiwan’s Chung Hung Steel narrows losses with eyes on Q2 profit - Yieh Corp.",
+      "companies": [
+        "chung_hung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQam5fbG1pRzRXbjVSVURrMGQ5S0FLeXJ2ak5pcjNCb3VPWmpSUnJRcnNsdDRvRkVZMGdTZXZ2ZXRFWHFJUmxTRk5aa09GNnM4ZzZlMUFNREZvWkVyUTZ2SHVOWXNRRFI2MlJwZnZOdGxiV1Q2SUgwS0NJRXFPWkFndXNYellVSVJLS2Q2WGktUEN2YzJSNUE1QUp3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-05-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Driving generational growth in the Pilbara - Rio Tinto",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSE9IZl8zcFlYREJkUE1jUlF2eEhhdXhYMnhuMXhtWE1lNDY0SW1GdzNfNkM4VThwcFkxR2xUeUpMOU1iZDY4U0NpOHJwUTA3V0xnUmdMX082OVZpWWxkMXc3MENLd1Q3WkdmalUyZTAyRmxWbF9kZVRwazR1SE1QbkRmbGU0WmFkb0tV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nucor",
+      "to": "steel_dynamics",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "steel_dynamics",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 517,
+    "dup_title": 209,
+    "too_old": 221,
+    "gate1_blocked": 17,
+    "gate2_blocked": 28,
+    "passed": 42,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Rio Tinto Publishes AGM Speeches for Dual-Listed Group - TipRanks",
+      "Lithium Americas adds Rio Tinto veteran to board - Investing.com",
+      "Rio Tinto: Strong Operations, But Priced For Perfection Amid Rising Execution Risk - Seeking Alpha",
+      "Rio Tinto Grants Free Shares to Senior Managers Under UK Employee Plan - TipRanks",
+      "Why Newmont, PLS and Fortescue shares are grabbing headlines on Friday - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Steel Dynamics、Nucor、力拓相關動態：「Is Steel Dynamics a Better Buy Than Nucor? - Trefis」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Steel Dynamics a Better Buy Than Nucor? - Trefis（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Steel Dynamics or Nucor: Which Stock Has More Upside? - Trefis（鋼鐵產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

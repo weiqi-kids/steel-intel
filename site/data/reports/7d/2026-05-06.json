@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-06",
+  "date_range": {
+    "start": "2026-04-30",
+    "end": "2026-05-06"
+  },
+  "generated_at": "2026-05-06T08:10:52.373917Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-04-30-101",
+      "date": "2026-04-30",
+      "title": "ArcelorMittal Nippon Steel India Inaugurates Advanced Automotive Steel Mill in Hazira to Boost Self‑Reliance - Indianweb2.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "coking_coal_scrap": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.25
+    },
+    "industry_general": {
+      "this_week": 56,
+      "last_week": 53,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": -0.04
+    },
+    "trade_policy": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 6,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "arcelormittal": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "posco": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 4
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fortescue": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "suncoke": {
+      "event_count": 5,
+      "sentiment_avg": -0.35,
+      "rank": 6
+    },
+    "tata_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nucor": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "hyundai_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "steel_dynamics": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 16
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 281,
+        "last": 359,
+        "change_pct": -21.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-30",
+      "event_count": 111,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 52,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 27,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 31,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 34,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 11,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 281 則事件，重點為「ArcelorMittal Nippon Steel India Inaugurates Ad...」。SunCoke Energy、中鴻鋼鐵情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "SunCoke Energy",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "中鴻鋼鐵",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
