@@ -1,0 +1,228 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:06:47.678716Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-08-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Copper prices moved closer to record highs on May 8, driving strong ga - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmR4M0NkSWx3cGlBYjFpWktGSmw5dG53S1lVNG9zXzY1bEd4TWN0UDZRTGxmWEt4TGJZSXFoeVExby1KLW1SMUhfYTNZNktraFM1RzlDUkgySHVrODBraG5fR1BYTTZiS2RzckV3MnZpM1AzWjZKdnFXUEZkdjFab2xkRGY2TUhiV3lhYVpNa1hLNFFUbmpwMzFlM29jYkRUMkFITGFEczRtQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vale-2026-05-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale CFO Outlines China Strategy Amid Shifting Iron Ore Outlook - streamlinefeed.co.ke",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1ZnMFJTbDNvTTBTdmFCSklrN1JDdU1ZNmVPRnJWQUNWMldGc2tyMS1oSFU2WjhQTktzZnptT2V5VVRRZ3Qza1V4UE8zOVpjc0lLMExyNmVnUF93OXVFOC1FR25ZODYwcEczUGZ2dkVkaWJDUE11eTExcEJKcG82R0VIbjF1VF83a2FXS2duUkxIbmxwdkFJZ3FDYmhGZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock holds steady amid an extended rally moving into overbought territory - Traders Union",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOREE5Rm1fRVdVbzl2T012NERBeWJKNFY3RXNMNzlFNEVhLU9TdF9wdUVvVUpYV1JyYS1TQlRidjFyZ3BQU1VOTFBpaUptRDVfankyVm52TWdoS1BaNk9KZERrUnJ2VDMxQUFMZ0xKMGhHcVhyRTZUemp2cHc4TXBOeFAxQUoxQUxsLVNVVXdsbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "warrior_met-2026-05-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal Inc (NYSE:HCC) Shows High Growth Momentum with Strong Technical Breakout Setup - ChartMill",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN0JGVUZfZzlHdUV3WjNuaDhnUXZacVBMeDhvYmd4ckdlSWRxMVdGNTkzQ0o4UFp1VU9ncEZJTVZUTnZ6RUdvVDN1dUp5NEg0czhDYWFZVXh1R0pWaFBmNGhXZEpVdEswSDBGQzF2TFctRXppY1N0NFBBZVhIZ3BRa0NvaWVOcEtyNUJieUExTENMaF9PMXd1SjNKWmI4RExNOG93VTRDS3pFRkpuelZaRjJWbUVRUEdOdTczeVJqbmRBZk1SMU0wbktmWGVRYTNyeXBfUFR5cXZ6bTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-05-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EU clears ArcelorMittal's acquisition of AMCLN in Italy - Yieh Corp.",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGRrWDZyS2NmUFA3WFlNM3RLai04b2VvNngzWTVmQ2NTZmVScEFOYWs4b3prT29COUxFWEJ1ZzZtRFZsbHhGbzdZcXdvSnZlWXpDLVlObUJhMmhGam8xVzFqYmtCcXlCVzZMYTRXMFVjM2ZPVmZ3aDI1V1N0SlBiOU9hWXFCdkNiX2hvNE0wWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jfe",
+        "count": 3
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "vale",
+        "count": 1
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "warrior_met",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 511,
+    "dup_title": 210,
+    "too_old": 225,
+    "gate1_blocked": 16,
+    "gate2_blocked": 24,
+    "passed": 36,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Rio Tinto's water use dries sacred waterhole, Aboriginal group says - Yahoo",
+      "Shareholders at Rio Tinto (NYSE: RIO) AGMs back board, buy-backs and growth plan - Stock Titan",
+      "Lithium Americas adds Rio Tinto veteran to board - Investing.com",
+      "Rio Tinto boss pushes cost cuts with jobs in focus - The Northern Miner",
+      "Sacred Aboriginal waterhole dries amid Rio Tinto dispute - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為JFE鋼鐵、安賽樂米塔爾、淡水河谷相關動態：「Copper prices moved closer to record highs on May 8, driv...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Copper prices moved closer to record highs on May 8, driving strong ga - Shan...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Vale CFO Outlines China Strategy Amid Shifting Iron Ore Outlook - streamlinef...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

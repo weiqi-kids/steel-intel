@@ -1,0 +1,16 @@
+{
+  "total_raw": 511,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 225,
+  "gate1_fail": 16,
+  "gate2_fail": 24,
+  "passed": 36,
+  "gate2_samples": [
+    "Rio Tinto's water use dries sacred waterhole, Aboriginal group says - Yahoo",
+    "Shareholders at Rio Tinto (NYSE: RIO) AGMs back board, buy-backs and growth plan - Stock Titan",
+    "Lithium Americas adds Rio Tinto veteran to board - Investing.com",
+    "Rio Tinto boss pushes cost cuts with jobs in focus - The Northern Miner",
+    "Sacred Aboriginal waterhole dries amid Rio Tinto dispute - MSN"
+  ]
+}
