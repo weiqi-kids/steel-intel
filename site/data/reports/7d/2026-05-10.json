@@ -1,0 +1,195 @@
+{
+  "date": "2026-05-10",
+  "date_range": {
+    "start": "2026-05-04",
+    "end": "2026-05-10"
+  },
+  "generated_at": "2026-05-10T09:24:29.088979Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "steel_dynamics-2026-05-06-005",
+      "date": "2026-05-06",
+      "title": "Is Steel Dynamics a Better Buy Than Nucor? - Trefis",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 61,
+      "last_week": 85,
+      "week_over_week_change": "-28%",
+      "sentiment_this_week": 0.01
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 1,
+      "last_week": 7,
+      "week_over_week_change": "-86%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 20,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 12
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tata_steel": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "steel_dynamics": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nucor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 14
+    },
+    "hyundai_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "us_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "spring_rain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "jfe": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "bhp": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 236,
+        "last": 441,
+        "change_pct": -46.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-04",
+      "event_count": 34,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 41,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 53,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 42,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 37,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 23,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 6,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-04 ~ 2026-05-10）共 236 則事件，重點為「Is Steel Dynamics a Better Buy Than Nucor? - Tr...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "SunCoke Energy",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "中鴻鋼鐵",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

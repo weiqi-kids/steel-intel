@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-10",
+  "total_events": 6,
+  "by_company": {
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "rio_tinto": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
