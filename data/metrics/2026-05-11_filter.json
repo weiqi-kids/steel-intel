@@ -1,0 +1,16 @@
+{
+  "total_raw": 515,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 12,
+  "gate2_fail": 23,
+  "passed": 30,
+  "gate2_samples": [
+    "Yindjibarndi Energy Corporation reaches Financial Close on Jinbi Solar Project; signs Power Purchase",
+    "Rio Tinto Enters 30-Year Power Purchase Agreement With Yindjibarndi Energy - Moomoo",
+    "Rio Tinto’s water use dries sacred waterhole, Aboriginal group says - KITCO",
+    "Rio Tinto Eyes A Bigger Slice Of Argentina’s Los Azules Copper - Finimize",
+    "Rio Tinto’s Indigenous Water Dispute And ESG Risks After Share Price Rally - Yahoo Finance"
+  ]
+}
