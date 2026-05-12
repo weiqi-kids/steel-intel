@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-12",
+  "date_range": {
+    "start": "2026-05-06",
+    "end": "2026-05-12"
+  },
+  "generated_at": "2026-05-12T10:25:51.722507Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "steel_dynamics-2026-05-06-005",
+      "date": "2026-05-06",
+      "title": "Is Steel Dynamics a Better Buy Than Nucor? - Trefis",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 73,
+      "last_week": 60,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": 0.01
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 7,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.25
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 25,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tata_steel": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "steel_dynamics": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nucor": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "chung_hung": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 13
+    },
+    "hyundai_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "us_steel": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 9
+    },
+    "spring_rain": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 14
+    },
+    "jfe": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 6
+    },
+    "bhp": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 10
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 235,
+        "last": 361,
+        "change_pct": -34.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-06",
+      "event_count": 55,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 42,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 40,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 45,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 18,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-06 ~ 2026-05-12）共 235 則事件，重點為「Is Steel Dynamics a Better Buy Than Nucor? - Tr...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "中鴻鋼鐵",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "U.S. Steel",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:25:51.653167Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-05-12-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP, Rio Tinto collaborating to drive tailings best practice - International Mining",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmNkS0YtRkcwX2xSbGJFeko1MjExek5zV2g3Q1ZsM3o1Z2xKX2NFaUhxdnhjRjlURFNYVTFWT29SQk9GYXZWTERvOVJIcHZaSl9Obm9YVDlNZE1UdW5UbTN3WjdxSmJJSy0waXRLQmczTkstOFpyUEljYU5yOEg0b2tuZk1KM0NJNjNydkM2RXVhV0NDUGN2MA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-05-12-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nippon Steel stock (JP3381000003): Record $66.7B revenue in FY2026 signals strong momentum - AD HOC NEWS",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXRmdkpobEkyQi1IbjNQYm91T212VnhXTDMwNlcxSVFtb1EyMU1FaTFBWVRDN1RWQlhGVERXN3d0NXpkNVJnMnZndVVsUVdSTklRSmczX3lPWTdJTFVVVkJicEZVTW0xTlNwYkdWQ2RpN2FyUFVEY3pvc3NsdWhobTdOUkhwSmd6VmRidW8tSFg5SkxvYy1jZ2FuZkFLZ2VtZ0RiYnFkaFVUeVVaSGloeWNfSzc4eWJCOXN4X3Mxb3ZXWGU0MGd1VA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "us_steel-2026-05-12-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. Steel Groups Warn Overcapacity Crisis Deepens: Section 301 Urged - News and Statistics - IndexBox",
+      "companies": [
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTlQZlpHbXU3NWJkbGdJYVpzYTUxekhtS0pRU3QyZGhwclBBdDNjX3pmQWJ6QmxfSExWeFpESUxHM1k2TnBxUFRTTWNqcG04NF9UYU83RUFXMmt4c3hSLXdBQXRMbGVaS1pwYllyOXpXWTZlT2gzdDJ3VXlTRkgtbVBGWnhqUUdkN1hPR1N4V2NpdldLaGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-05-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock trades flat as Pilbara solar agreement secures renewable energy - Traders Union",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmlaSktYbkVZTnRKOGdGRHRGbWR2SWRDWlNIZ2U4T3BlV0p1amJZenN0NnRia21jVnNMSFY2bG9ISzJ5THAxcXo5RHMxTHhQOE1QdWYwXy1mSGJJa0dRU3dHRGJlNldWSXJUSWtKeDJldmI0NmVzVjBNWkRDUkt6WlkyMGQxZVktRVcxU1lXbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-05-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At Sodexo (ENXTPA:SW) Valuation After New Long Term Rio Tinto Facilities Management Contract - simplywall.st",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd2Rpc0k0SWtQcnhfUE5COFNBbVA0Y1oyVEI3Z2ZKS1FhT2FTdWFzRWVQM3prSU53ajVDcHU4ckhRaXNnNUZfTFE5Rk91Sk9ZZ3UyeFVYSkdnaENXV0RmR1l0Yy1TUGRiY2lReDlxYXpkOXBVUTQ0aDJMbzU0enVKRks4UHplNWJaTXJ5Vjh2VGZTVVdQRTc4VFJRaVhaQUNMZVYwVDZ0WmE2UGV5UXkySkFnNkNRUUVtdXdmYVE4dDFYSlhBSTE4TDB0ZVRWRzY20gHWAUFVX3lxTFBLMnk1STluU1dtaUttLU9wbC1rMTd5S3Y5OXFTMzN3cGNkVmlEMG5Xa0M4OGE4Q2d4SnNJTDVRZVBUNldBZ0NoNTFOWmRoYWFHLXNuMEpFd3FNOGYyczNZcnl0OE9SNldQQ3VTTWV6eVppcDdrMVpOZU8zLTZlY0N3LUlIMmZRQVdoekZwWDlDNXZvVUJZbk9SOV9VN3Z4ZUdMb0NPSE5jb0NvQTZwYVp6dUZNaXBibVV6TWNiWUEwSmNoc0U2YkFISHV6V3dkdG11THh1UHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 4
+      },
+      {
+        "id": "tata_steel",
+        "count": 4
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 504,
+    "dup_title": 202,
+    "too_old": 212,
+    "gate1_blocked": 14,
+    "gate2_blocked": 27,
+    "passed": 49,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Rio Tinto’s Indigenous Water Dispute And ESG Risks After Share Price Rally - Yahoo Finance",
+      "Yindjibarndi Energy Corporation reaches Financial Close on Jinbi Solar Project; signs Power Purchase",
+      "Rio Tinto accused of drying sacred Aboriginal waterhole - msn.com",
+      "RIO TINTO : RBC reiterates its Neutral rating - marketscreener.com",
+      "Rio Tinto Eyes A Bigger Slice Of Argentina’s Los Azules Copper - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為力拓、塔塔鋼鐵、FMG相關動態：「BHP, Rio Tinto collaborating to drive tailings best pract...」。主要關注主題為鋼鐵產業通用、產能利用率、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BHP, Rio Tinto collaborating to drive tailings best practice - International ...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nippon Steel stock (JP3381000003): Record $66.7B revenue in FY2026 signals st...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
