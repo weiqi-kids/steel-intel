@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-13",
+  "total_events": 30,
+  "by_company": {
+    "rio_tinto": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "fortescue": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "arcelormittal": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "gerdau": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.09
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

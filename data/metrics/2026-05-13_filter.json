@@ -1,0 +1,16 @@
+{
+  "total_raw": 506,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 15,
+  "gate2_fail": 27,
+  "passed": 68,
+  "gate2_samples": [
+    "Vale S.A. stock (BRVALEACNOR0): Lifts 2026 cash flow outlook by $1.5B - AD HOC NEWS",
+    "A Look at Rio Tinto PLC (RIO) After 3.9% Gain -- GF Value $68.59 vs Price $109.50 - GuruFocus",
+    "Rio Tinto Perth Lynx Academy Established to Bolster WNBL Pathway - Ministry of Sport",
+    "Yindjibarndi Energy Corporation reaches Financial Close on Jinbi Solar Project; signs Power Purchase",
+    "Rio Tinto’s Indigenous Water Dispute And ESG Risks After Share Price Rally - Yahoo Finance"
+  ]
+}
