@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:08:28.461846Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "us_steel-2026-05-14-008",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Nippon Steel stock (JP3381000003): FY2025 profit plunges 95% amid U.S. Steel integration - AD HOC NEWS",
+      "companies": [
+        "us_steel",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVBuT2x0WlNoU0FJTjBBb05oV25ueFVERktLVWlHUHp0ckFkdEhMLVdvbjZFR1ZDeFJ3QU1vX09GNU5mUnpCSm5IdTBudE5YSERCbmVZR2xaelNxMjQzQjdxcXR1YkZXaDZEb2lTZFB0dk5MbXZmcU56cC1hZmdySldSQXhIeUxiV1VKdVNSaUI0WkhMTGRqZkVtTHZFWFpUem9DNVNLOEQyV3hFUFpocVNaNUt1ZDFucHR4eHJERnVpM1cxcGpV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "us_steel-2026-05-14-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nippon Steel Reports 95% Profit Fall, Eyes Recovery After U.S. Steel Deal - megaproject.com",
+      "companies": [
+        "us_steel",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1ZVVzAxc19qaE5WQjBZUzFQcnNPQW5UWFJOSnBoUy1mSU5FNGZNS3BZSnd4dHBnZy03UXJPOGtpUlFTUzNzeUZaTGVSYUR3Si1oeTY5eG9aME1lZVA0ajhHMDNBbEhmbmU0S0hDdmpUVkcwOWZiQlNEc1hiVmx3cDFEalR3UGtFM2JJWTZ4M0VwUWNkakFXUEp0Q3lfaUpZcGlxQmpHZHg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-05-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto appoints new chief legal officer - Mining Weekly",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONTNaN25ZWVJYbU82M3JyRURPM09UbW5YaTZGbnVnMndZUXZfdkdPTVdSY1pGbDcwV3BZVFMtai1YM2ZCUEdlWnlweTdMMGxDSmFFTWFaYU5PR2h4c1N5bkFIZmJVXzlNUkRRbWtjeFdIR0dHckpaYVBaaEVMM2s1bENKWFNPaF9KbVNVbHFZSl9oOWdI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "warrior_met-2026-05-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal Inc (HCC) Stock Down 3.6% but Still Overvalued -- GF Score: 82/100 - GuruFocus",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUZadmpkdklqNXpMVVlaX1BSQjlFU2M5emR0RFpEYTZMV3ZFczFuUUdVSXBVNmRaT09VOUhydHRxRkJ0TTdrSE16cjFYZmY3VTdDMGx6cTVEZUtmdnNwYk5LRDFXaU44Z1FkQ2VrUkQ5Q05sMXU1M3VhUTMzMmxBVU9weDl5Smw4N3hyS2x1RmdBZEt6RF9Mb05jekdKaHhwSkJHWFkydVh4dEx3dnc5ZXVDTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cmc-2026-05-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS upgrades Commercial Metals stock rating on easing pricing risks By Investing.com - Investing.com Australia",
+      "companies": [
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGl2YzN3c3dRX3BaR1JPZFI2bVQxZGttWDJJaXJ6OXNHZzI2Z01hTjRSamdUdjVqRFhUcFlidlJFNjhsT2lRTEtueFNCSmRkejRLdy1CWU1IX1AtdnRPUzdPaEE1TFk5SUZfT3lzSG1obmFiaTZKaGxkN2NIVk5aYkR6SEs0ZzZmVWlncjg2RzY2ZklnZTlZUnVkWmk0MnZQbXJyd3NpVlVHYjVoTkxlY2FiQUR6YUNDWFFZMll5WnZGNzRWQnFN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nippon_steel",
+      "to": "us_steel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 6
+      },
+      {
+        "id": "nippon_steel",
+        "count": 4
+      },
+      {
+        "id": "cmc",
+        "count": 2
+      },
+      {
+        "id": "us_steel",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 507,
+    "dup_title": 233,
+    "too_old": 172,
+    "gate1_blocked": 12,
+    "gate2_blocked": 36,
+    "passed": 54,
+    "pass_rate": "19.7%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Vale S.A. stock (BRVALEACNOR0): Lifts 2026 cash flow outlook by $1.5B - AD HOC NEWS",
+      "BHP Group Ltd Stock (BHP) Moved Up by 3.13% on May 13: A Full Analysis - TradingKey",
+      "Rio Tinto appoints new Chief Legal Officer - Yahoo Finance",
+      "Rio Tinto Appoints New Chief Legal Officer - TradingView",
+      "Rio Tinto names Trudi Charles as chief legal officer - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為塔塔鋼鐵、日本製鐵、Commercial Metals相關動態：「Nippon Steel stock (JP3381000003): FY2025 profit plunges ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nippon Steel stock (JP3381000003): FY2025 profit plunges 95% amid U.S. Steel ...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nippon Steel Reports 95% Profit Fall, Eyes Recovery After U.S. Steel Deal - m...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

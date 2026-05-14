@@ -1,0 +1,16 @@
+{
+  "total_raw": 507,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 12,
+  "gate2_fail": 36,
+  "passed": 54,
+  "gate2_samples": [
+    "Vale S.A. stock (BRVALEACNOR0): Lifts 2026 cash flow outlook by $1.5B - AD HOC NEWS",
+    "BHP Group Ltd Stock (BHP) Moved Up by 3.13% on May 13: A Full Analysis - TradingKey",
+    "Rio Tinto appoints new Chief Legal Officer - Yahoo Finance",
+    "Rio Tinto Appoints New Chief Legal Officer - TradingView",
+    "Rio Tinto names Trudi Charles as chief legal officer - Investing.com"
+  ]
+}

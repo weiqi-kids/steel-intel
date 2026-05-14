@@ -1,0 +1,733 @@
+{
+  "companies": [
+    {
+      "id": "vale",
+      "name": "Vale S.A.",
+      "aliases": [
+        "淡水河谷",
+        "Vale"
+      ],
+      "ticker": "VALE",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "description": "全球最大鐵礦砂生產商",
+      "ir_url": "https://www.vale.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Vale+S.A.\"+iron+ore&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "arcelormittal",
+        "nippon_steel",
+        "jfe",
+        "posco",
+        "baosteel",
+        "china_steel",
+        "hyundai_steel"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "bhp",
+      "name": "BHP Group",
+      "aliases": [
+        "必和必拓",
+        "BHP"
+      ],
+      "ticker": "BHP",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "description": "全球多元化礦業巨頭，鐵礦砂主要供應商",
+      "ir_url": "https://www.bhp.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"BHP+Group\"+iron+ore&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "arcelormittal",
+        "nippon_steel",
+        "jfe",
+        "posco",
+        "baosteel",
+        "china_steel",
+        "hyundai_steel"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "rio_tinto",
+      "name": "Rio Tinto",
+      "aliases": [
+        "力拓"
+      ],
+      "ticker": "RIO",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "description": "全球第二大鐵礦砂生產商",
+      "ir_url": "https://www.riotinto.com/invest",
+      "rss_url": "https://news.google.com/rss/search?q=\"Rio+Tinto\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "arcelormittal",
+        "nippon_steel",
+        "jfe",
+        "posco",
+        "baosteel",
+        "china_steel",
+        "hyundai_steel"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "fortescue",
+      "name": "Fortescue Ltd",
+      "aliases": [
+        "FMG"
+      ],
+      "ticker": "FMG",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "upstream",
+      "role": "鐵礦砂",
+      "description": "澳洲第三大鐵礦砂生產商",
+      "ir_url": "https://www.fortescue.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Fortescue+Ltd\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "baosteel",
+        "china_steel",
+        "nippon_steel",
+        "posco"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "warrior_met",
+      "name": "Warrior Met Coal",
+      "aliases": [],
+      "ticker": "HCC",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "焦煤",
+      "description": "美國冶金煤生產商",
+      "ir_url": "https://www.warriormetcoal.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Warrior+Met+Coal\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "arcelormittal",
+        "nippon_steel",
+        "jfe",
+        "us_steel",
+        "cleveland_cliffs"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "suncoke",
+      "name": "SunCoke Energy",
+      "aliases": [],
+      "ticker": "SXC",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "焦炭",
+      "description": "美國焦炭生產商",
+      "ir_url": "https://investors.suncoke.com/",
+      "rss_url": "https://news.google.com/rss/search?q=\"SunCoke+Energy\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "us_steel",
+        "cleveland_cliffs",
+        "nucor"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "cmc",
+      "name": "Commercial Metals",
+      "aliases": [],
+      "ticker": "CMC",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "廢鋼回收",
+      "description": "廢鋼回收與電弧爐鋼廠",
+      "ir_url": "https://www.cmc.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Commercial+Metals\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "nucor",
+        "steel_dynamics",
+        "gerdau",
+        "tung_ho",
+        "feng_hsin"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "arcelormittal",
+      "name": "ArcelorMittal",
+      "aliases": [
+        "安賽樂米塔爾"
+      ],
+      "ticker": "MT",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "全球最大鋼鐵製造商",
+      "ir_url": "https://corporate.arcelormittal.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"ArcelorMittal\"&hl=en&gl=US&ceid=US:en",
+      "news_url": "https://corporate.arcelormittal.com/media/news",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto",
+        "warrior_met"
+      ],
+      "downstream": [
+        "reliance",
+        "tenaris"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "nippon_steel",
+      "name": "Nippon Steel",
+      "aliases": [
+        "日本製鐵"
+      ],
+      "ticker": "5401.T",
+      "market": "TSE",
+      "currency": "JPY",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "日本最大鋼鐵製造商",
+      "ir_url": "https://www.nipponsteel.com/en/ir/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Nippon+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto",
+        "warrior_met"
+      ],
+      "downstream": [
+        "reliance",
+        "tenaris"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "jfe",
+      "name": "JFE Holdings",
+      "aliases": [
+        "JFE鋼鐵"
+      ],
+      "ticker": "5411.T",
+      "market": "TSE",
+      "currency": "JPY",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "日本第二大鋼鐵集團",
+      "ir_url": "https://www.jfe-holdings.co.jp/en/investor/",
+      "rss_url": "https://news.google.com/rss/search?q=\"JFE+Holdings\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto",
+        "warrior_met"
+      ],
+      "downstream": [
+        "reliance",
+        "tenaris"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "posco",
+      "name": "POSCO Holdings",
+      "aliases": [
+        "浦項製鐵"
+      ],
+      "ticker": "PKX",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "韓國最大鋼鐵製造商",
+      "ir_url": "https://www.posco.co.kr/homepage/docs/eng7/jsp/ir/",
+      "rss_url": "https://news.google.com/rss/search?q=\"POSCO+Holdings\"+steel&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto"
+      ],
+      "downstream": [
+        "reliance",
+        "hyundai_steel"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "tata_steel",
+      "name": "Tata Steel",
+      "aliases": [
+        "塔塔鋼鐵"
+      ],
+      "ticker": "TATASTEEL.NS",
+      "market": "NSE",
+      "currency": "INR",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "印度最大鋼鐵製造商",
+      "ir_url": "https://www.tatasteel.com/investors/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Tata+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "nucor",
+      "name": "Nucor",
+      "aliases": [],
+      "ticker": "NUE",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "美國最大電弧爐鋼廠",
+      "ir_url": "https://www.nucor.com/investors/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Nucor\"+steel&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "cmc",
+        "suncoke"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "steel_dynamics",
+      "name": "Steel Dynamics",
+      "aliases": [],
+      "ticker": "STLD",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "美國電弧爐鋼廠",
+      "ir_url": "https://www.steeldynamics.com/investors/",
+      "rss_url": "https://www.steeldynamics.com/investors/feed/",
+      "upstream": [
+        "cmc"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "ir_rss_url": "https://www.steeldynamics.com/feed/",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "cleveland_cliffs",
+      "name": "Cleveland-Cliffs",
+      "aliases": [],
+      "ticker": "CLF",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "美國整合鋼鐵製造商（含鐵礦砂）",
+      "ir_url": "https://www.clevelandcliffs.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Cleveland-Cliffs\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "warrior_met",
+        "suncoke"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "us_steel",
+      "name": "U.S. Steel",
+      "aliases": [],
+      "ticker": "X",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "美國老牌鋼鐵製造商",
+      "ir_url": "https://investors.ussteel.com/",
+      "rss_url": "https://news.google.com/rss/search?q=\"U.S.+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "warrior_met",
+        "suncoke"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "gerdau",
+      "name": "Gerdau",
+      "aliases": [],
+      "ticker": "GGB",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "巴西最大鋼鐵製造商",
+      "ir_url": "https://ri.gerdau.com/en/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Gerdau\"+steel&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "cmc"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "ir_rss_url": "https://ri.gerdau.com/feed/",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "china_steel",
+      "name": "China Steel Corp",
+      "aliases": [
+        "中鋼"
+      ],
+      "ticker": "2002.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "台灣最大鋼鐵製造商",
+      "ir_url": "https://www.csc.com.tw/csc/hr/ir/inv_main.htm",
+      "rss_url": "https://news.google.com/rss/search?q=\"China+Steel+Corp\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto",
+        "fortescue"
+      ],
+      "downstream": [
+        "chung_hung",
+        "ta_chen",
+        "spring_rain"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "chung_hung",
+      "name": "Chung Hung Steel",
+      "aliases": [
+        "中鴻鋼鐵"
+      ],
+      "ticker": "2014.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "中鋼集團旗下熱軋鋼捲加工廠",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Chung+Hung+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "china_steel"
+      ],
+      "downstream": [
+        "ta_chen",
+        "spring_rain"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "tung_ho",
+      "name": "Tung Ho Steel",
+      "aliases": [
+        "東和鋼鐵"
+      ],
+      "ticker": "2006.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "台灣電弧爐鋼廠，主力產品H型鋼與鋼筋",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Tung+Ho+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "cmc"
+      ],
+      "downstream": [
+        "spring_rain"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "feng_hsin",
+      "name": "Feng Hsin Steel",
+      "aliases": [
+        "豐興鋼鐵"
+      ],
+      "ticker": "2015.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "台灣電弧爐鋼廠，鋼筋龍頭",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Feng+Hsin+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "cmc"
+      ],
+      "downstream": [
+        "spring_rain"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "baosteel",
+      "name": "Baoshan Steel",
+      "aliases": [
+        "寶鋼"
+      ],
+      "ticker": "600019.SS",
+      "market": "SSE",
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "中國最大鋼鐵製造商",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Baoshan+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto",
+        "fortescue"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "hyundai_steel",
+      "name": "Hyundai Steel",
+      "aliases": [
+        "現代製鐵"
+      ],
+      "ticker": "004020.KS",
+      "market": "KRX",
+      "currency": "KRW",
+      "position": "midstream",
+      "role": "鋼鐵製造",
+      "description": "韓國第二大鋼鐵製造商",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Hyundai+Steel\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vale",
+        "bhp",
+        "rio_tinto"
+      ],
+      "downstream": [
+        "reliance"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "reliance",
+      "name": "Reliance Inc",
+      "aliases": [],
+      "ticker": "RS",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "金屬通路",
+      "description": "北美最大金屬服務中心與通路商",
+      "ir_url": "https://investor.reliance.com/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Reliance+Inc\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "arcelormittal",
+        "nippon_steel",
+        "jfe",
+        "posco",
+        "tata_steel",
+        "nucor",
+        "steel_dynamics",
+        "cleveland_cliffs",
+        "us_steel",
+        "gerdau",
+        "baosteel",
+        "hyundai_steel"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "ta_chen",
+      "name": "Ta Chen Stainless",
+      "aliases": [
+        "大成鋼"
+      ],
+      "ticker": "2027.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "downstream",
+      "role": "不鏽鋼通路",
+      "description": "台灣不鏽鋼通路龍頭",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Ta+Chen+Stainless\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "china_steel",
+        "chung_hung"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "spring_rain",
+      "name": "Spring Rain",
+      "aliases": [
+        "春雨工程"
+      ],
+      "ticker": "2012.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "downstream",
+      "role": "鋼鐵加工",
+      "description": "螺絲螺帽與鋼鐵加工",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Spring+Rain\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "china_steel",
+        "chung_hung",
+        "tung_ho",
+        "feng_hsin"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "tenaris",
+      "name": "Tenaris",
+      "aliases": [],
+      "ticker": "TS",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "鋼管",
+      "description": "全球最大無縫鋼管製造商",
+      "ir_url": "https://ir.tenaris.com/",
+      "rss_url": "https://ir.tenaris.com/rss/news-releases.xml",
+      "upstream": [
+        "arcelormittal",
+        "nippon_steel",
+        "jfe"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [
+    {
+      "id": "slx",
+      "name": "VanEck Steel ETF",
+      "ticker": "SLX",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "鋼鐵 ETF，追蹤全球鋼鐵與鐵礦砂公司"
+    }
+  ],
+  "supply_chain_positions": {
+    "upstream": [
+      "鐵礦砂",
+      "焦煤",
+      "焦炭",
+      "廢鋼回收"
+    ],
+    "midstream": [
+      "鋼鐵製造"
+    ],
+    "downstream": [
+      "金屬通路",
+      "不鏽鋼通路",
+      "鋼鐵加工",
+      "鋼管"
+    ]
+  },
+  "topics": [
+    {
+      "id": "iron_ore_price",
+      "name": "鐵礦砂價格",
+      "keywords": [
+        "iron ore price",
+        "鐵礦砂價格",
+        "鐵礦砂報價",
+        "iron ore spot",
+        "鐵礦石價格",
+        "62% Fe"
+      ]
+    },
+    {
+      "id": "steel_price",
+      "name": "鋼品價格",
+      "keywords": [
+        "steel price",
+        "鋼價",
+        "HRC price",
+        "熱軋",
+        "CRC price",
+        "冷軋",
+        "rebar price",
+        "鋼筋價格",
+        "H型鋼",
+        "鋼捲"
+      ]
+    },
+    {
+      "id": "capacity_utilization",
+      "name": "產能利用率",
+      "keywords": [
+        "capacity utilization",
+        "產能利用率",
+        "crude steel output",
+        "粗鋼產量",
+        "blast furnace",
+        "高爐",
+        "開工率"
+      ]
+    },
+    {
+      "id": "coking_coal_scrap",
+      "name": "焦煤與廢鋼",
+      "keywords": [
+        "coking coal",
+        "焦煤",
+        "met coal",
+        "冶金煤",
+        "scrap price",
+        "廢鋼",
+        "scrap metal",
+        "ferrous scrap"
+      ]
+    },
+    {
+      "id": "trade_policy",
+      "name": "貿易政策",
+      "keywords": [
+        "tariff",
+        "關稅",
+        "anti-dumping",
+        "反傾銷",
+        "CBAM",
+        "碳邊境",
+        "trade policy",
+        "Section 232",
+        "countervailing duty",
+        "平衡稅"
+      ]
+    }
+  ]
+}

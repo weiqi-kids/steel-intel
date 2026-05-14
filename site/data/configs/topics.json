@@ -1,0 +1,185 @@
+{
+  "topics": {
+    "iron_ore_price": {
+      "display": "鐵礦砂價格",
+      "keywords": [
+        "iron ore price",
+        "鐵礦砂價格",
+        "鐵礦砂報價",
+        "iron ore spot",
+        "鐵礦石價格",
+        "62% Fe",
+        "iron ore futures",
+        "鐵礦砂期貨",
+        "Platts IODEX",
+        "iron ore index"
+      ],
+      "sentiment_keywords": {
+        "positive": [
+          "上漲",
+          "漲價",
+          "price rally",
+          "price surge",
+          "iron ore gains"
+        ],
+        "negative": [
+          "下跌",
+          "跌價",
+          "price drop",
+          "iron ore falls",
+          "iron ore slump"
+        ]
+      }
+    },
+    "steel_price": {
+      "display": "鋼品價格",
+      "keywords": [
+        "steel price",
+        "鋼價",
+        "HRC price",
+        "hot rolled coil",
+        "熱軋鋼捲",
+        "CRC price",
+        "cold rolled coil",
+        "冷軋鋼捲",
+        "rebar price",
+        "鋼筋價格",
+        "鋼筋報價",
+        "H型鋼",
+        "H-beam",
+        "鋼板",
+        "steel plate",
+        "galvanized steel",
+        "鍍鋅鋼捲",
+        "不鏽鋼價格",
+        "stainless steel price"
+      ],
+      "sentiment_keywords": {
+        "positive": [
+          "鋼價上漲",
+          "漲價",
+          "調漲",
+          "price hike",
+          "price increase",
+          "steel rally"
+        ],
+        "negative": [
+          "鋼價下跌",
+          "跌價",
+          "降價",
+          "price cut",
+          "steel price falls",
+          "steel slump"
+        ]
+      }
+    },
+    "capacity_utilization": {
+      "display": "產能利用率",
+      "keywords": [
+        "capacity utilization",
+        "產能利用率",
+        "crude steel output",
+        "粗鋼產量",
+        "blast furnace",
+        "高爐",
+        "開工率",
+        "blast furnace utilization",
+        "electric arc furnace",
+        "電弧爐",
+        "steel output",
+        "production cut",
+        "減產",
+        "限產",
+        "復產"
+      ]
+    },
+    "coking_coal_scrap": {
+      "display": "焦煤與廢鋼",
+      "keywords": [
+        "coking coal",
+        "焦煤",
+        "焦煤價格",
+        "met coal",
+        "metallurgical coal",
+        "冶金煤",
+        "scrap price",
+        "廢鋼",
+        "廢鋼價格",
+        "scrap metal",
+        "ferrous scrap",
+        "coke price",
+        "焦炭價格",
+        "HMS scrap"
+      ],
+      "sentiment_keywords": {
+        "positive": [
+          "上漲",
+          "漲價",
+          "price rally",
+          "price surge"
+        ],
+        "negative": [
+          "下跌",
+          "跌價",
+          "price drop",
+          "price decline"
+        ]
+      }
+    },
+    "industry_general": {
+      "display": "鋼鐵產業通用",
+      "keywords": [
+        "steel",
+        "iron",
+        "iron ore",
+        "metal",
+        "alloy",
+        "ore",
+        "coil",
+        "plate",
+        "scrap",
+        "furnace",
+        "slab",
+        "billet",
+        "rebar",
+        "stainless",
+        "galvaniz",
+        "mining",
+        "smelting",
+        "rolling",
+        "鋼",
+        "鐵",
+        "鋼材",
+        "鋼鐵",
+        "高爐",
+        "鍊鋼",
+        "軋鋼",
+        "礦砂",
+        "廢鋼",
+        "鑄造"
+      ]
+    },
+    "trade_policy": {
+      "display": "貿易政策",
+      "keywords": [
+        "tariff",
+        "關稅",
+        "anti-dumping",
+        "反傾銷",
+        "CBAM",
+        "碳邊境調整機制",
+        "Carbon Border Adjustment",
+        "trade policy",
+        "Section 232",
+        "countervailing duty",
+        "平衡稅",
+        "trade war",
+        "貿易戰",
+        "import quota",
+        "進口配額",
+        "safeguard",
+        "防衛措施"
+      ]
+    }
+  }
+}
