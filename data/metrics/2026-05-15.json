@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-15",
+  "total_events": 24,
+  "by_company": {
+    "rio_tinto": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "cmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "tata_steel": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": -0.02
+    },
+    "coking_coal_scrap": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

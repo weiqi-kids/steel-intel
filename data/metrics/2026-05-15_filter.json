@@ -1,0 +1,16 @@
+{
+  "total_raw": 500,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 18,
+  "gate2_fail": 34,
+  "passed": 60,
+  "gate2_samples": [
+    "Vale S.A. stock (BRVALEACNOR0): Lifts 2026 cash flow outlook by $1.5B - AD HOC NEWS",
+    "Rio Tinto (RIO) appoints Trudi Charles as new Chief Legal Officer - Stock Titan",
+    "Rio Tinto: Growth projects are ramping up at an interesting juncture - marketscreener.com",
+    "BP Deputy General Counsel To Join Rio Tinto As CLO - Law360",
+    "Rio Tinto appoints new Chief Legal Officer - Carroll County Mirror-Democrat"
+  ]
+}
