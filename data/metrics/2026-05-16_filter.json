@@ -1,0 +1,16 @@
+{
+  "total_raw": 506,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 18,
+  "gate2_fail": 40,
+  "passed": 49,
+  "gate2_samples": [
+    "Vale S.A. stock (BRVALEACNOR0): Lifts 2026 cash flow outlook by $1.5B - AD HOC NEWS",
+    "BHP Group Ltd Stock (BHP) Moved Down by 5.38% on May 15: Facts Behind the Movement - TradingKey",
+    "A Look At Rio Tinto Group’s Valuation After Recent Share Price Momentum - Yahoo Finance",
+    "A Look at Rio Tinto PLC (RIO) After 5.4% Decline -- GF Value $65.48 vs Price $103.69 - GuruFocus",
+    "Rio Tinto Got A Fresh Price Target Lift From AlphaValue - Finimize"
+  ]
+}
