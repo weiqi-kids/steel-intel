@@ -1,0 +1,140 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:29:19.602212Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cmc-2026-05-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Commercial Metals (CMC) Price Still Attractive After Strong Multi Year Share Gains - Yahoo Finance",
+      "companies": [
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWVoZkFET3JkUTRmRS1DNDhQbWpZVkVlQktWM1ItcWZoRGl2SkoyTzMzQVVKbV9UV0xEQnFGZG44eGFwTzJiUnNvV0c0dFh2MWJCMXNScDE2TkcyQWstcTNRblZ2Uk13TTZnN2M2dmNZWjNybE5TWmFUQ0xURWRGWDh2OGpkSkR2OVRXOWtpSjNCTVZidUFfcWNLVDFDOEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_steel-2026-05-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel Q4 net more than doubles on India strength, Europe recovery - The Economic Times",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFJnN2lwQ0V5dFFVdjRrc1paY1lpMWM1b1Ftbm1YVGR2V05HVHRDdk52VDQ2VHRVLTBCaFFwNUs2cjEtaWtZOU5hYVVMN0dwdzhHUWZ5aEpkN3YzUVB3cnR3ZXNlUUxzUHlKZTBidjlKY21mdmJIcEFVT2c5OTJRMHBCT3BvUjBETGN1dnpaR3RpT0xjU19YQXJmd2s3RVE1N2JDRkNfVG9EbkZBSVlvQ1l1Y1U0RFhRV2Ffdk56dWo0b2FrV0JDTFBNdThRSzVoR0xPcUkwZVVPWFU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Southeast Asia’s largest iron ore mine set for $3 bln revival after 15 years in limbo - Theinvestor",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNallPREg2bFZpNVFMN3VnOEZ2eXItRTBnTl9raXdsS3hQejItOVRJVEdvYXVrcks2RjRZVFhaZWkzS2tEbDNyelo0NGF2alY2eXA3d1R4Y01vcF9CcC1MYTJDU0dvYjBjeTFVdlhwSThlVFBFeV9ORkdEZnZVVXZndlVCaGtubmFjQ3VqLWV5LV8tRWJKYWtCWlZhanEzVG5OSmdlUm1fVHJBYTZzeUN2ZTdiUzNreXhRbXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cmc",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 507,
+    "dup_title": 261,
+    "too_old": 176,
+    "gate1_blocked": 19,
+    "gate2_blocked": 31,
+    "passed": 20,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "A Look At Rio Tinto Group’s Valuation After Recent Share Price Momentum - Yahoo Finance",
+      "Rio Tinto names Trudi Charles as chief legal officer - Investing.com",
+      "A Look at Rio Tinto PLC (RIO) After 5.4% Decline -- GF Value $65.48 vs Price $103.69 - GuruFocus",
+      "Why Rio Tinto Shares Are Sinking So Suddenly - TipRanks",
+      "Rio Tinto Appoints New Chief Legal Officer - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Commercial Metals、塔塔鋼鐵相關動態：「Is Commercial Metals (CMC) Price Still Attractive After S...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Commercial Metals (CMC) Price Still Attractive After Strong Multi Year Sha...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tata Steel Q4 net more than doubles on India strength, Europe recovery - The ...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

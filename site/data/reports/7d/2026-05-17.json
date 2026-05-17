@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-17",
+  "date_range": {
+    "start": "2026-05-11",
+    "end": "2026-05-17"
+  },
+  "generated_at": "2026-05-17T09:29:19.735512Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-05-13-069",
+      "date": "2026-05-13",
+      "title": "Nippon Steel Profits Plunge Despite Higher Revenue as It Consolidates U.S. Steel and Eyes 2027 Rebound - TipRanks",
+      "importance_score": 0.85
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nippon_steel",
+      "company_b": "us_steel",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 95,
+      "last_week": 61,
+      "week_over_week_change": "+56%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.12
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "warrior_met": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    },
+    "arcelormittal": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "jfe": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    },
+    "tata_steel": {
+      "event_count": 31,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "spring_rain": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "bhp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "fortescue": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 5
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nippon_steel": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "hyundai_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "cmc": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "china_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 310,
+        "last": 256,
+        "change_pct": 21.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-11",
+      "event_count": 52,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 56,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 72,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 55,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 56,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-11 ~ 2026-05-17）共 310 則事件，重點為「Nippon Steel Profits Plunge Despite Higher Reve...」。U.S. Steel、JFE鋼鐵情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "JFE鋼鐵",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "U.S. Steel",
+        "reason": "本週情緒偏負面（-0.5），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
