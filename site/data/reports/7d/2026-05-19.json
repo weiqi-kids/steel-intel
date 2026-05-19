@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-19",
+  "date_range": {
+    "start": "2026-05-13",
+    "end": "2026-05-19"
+  },
+  "generated_at": "2026-05-19T10:55:04.313787Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-05-13-069",
+      "date": "2026-05-13",
+      "title": "Nippon Steel Profits Plunge Despite Higher Revenue as It Consolidates U.S. Steel and Eyes 2027 Rebound - TipRanks",
+      "importance_score": 0.85
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nippon_steel",
+      "company_b": "us_steel",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 120,
+      "last_week": 73,
+      "week_over_week_change": "+64%",
+      "sentiment_this_week": 0.01
+    },
+    "coking_coal_scrap": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.1
+    },
+    "trade_policy": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "fortescue": {
+      "event_count": 8,
+      "sentiment_avg": 0.13,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "nippon_steel": {
+      "event_count": 18,
+      "sentiment_avg": -0.11,
+      "rank": 2
+    },
+    "tata_steel": {
+      "event_count": 50,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "posco": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 7
+    },
+    "warrior_met": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 8
+    },
+    "cmc": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "us_steel": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 12
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "china_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "spring_rain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 316,
+        "last": 284,
+        "change_pct": 11.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-13",
+      "event_count": 73,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 56,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 64,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 17,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 50,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 38,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-13 ~ 2026-05-19）共 316 則事件，重點為「Nippon Steel Profits Plunge Despite Higher Reve...」。U.S. Steel情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "U.S. Steel",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

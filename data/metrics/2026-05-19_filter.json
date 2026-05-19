@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 16,
+  "gate2_fail": 39,
+  "passed": 65,
+  "gate2_samples": [
+    "Rio Tinto Hits Rival BP for Next Legal Head - Law.com",
+    "A Look At Rio Tinto Group’s Valuation After Recent Share Price Momentum - Yahoo Finance",
+    "Rio Tinto Appoints Matthew Whyte As Group Company Secretary - TradingView",
+    "Rio Tinto brings automation, Copilot to its finance function - iTnews",
+    "Rio Tinto Names New Group Company Secretary in Governance Transition - TipRanks"
+  ]
+}
