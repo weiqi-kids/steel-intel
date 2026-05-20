@@ -1,0 +1,16 @@
+{
+  "total_raw": 507,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 21,
+  "gate2_fail": 32,
+  "passed": 69,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Moved Down by 3.28% on May 19: What Investors Need To Know - TradingKey",
+    "Rio Tinto Appoints Matthew Whyte As Group Company Secretary - TradingView",
+    "Rio Tinto brings automation, Copilot to its finance function - iTnews",
+    "Rio Tinto Names New Group Company Secretary in Governance Transition - TipRanks",
+    "Rio Tinto appoints new Chief Legal Officer - Yahoo Finance"
+  ]
+}

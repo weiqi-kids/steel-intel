@@ -1,0 +1,240 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:43:59.612104Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-20-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Eagle Materials reports record revenue amid stronger cement sales",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.globalcement.com/news/20786-eagle-materials-reports-record-revenue-amid-stronger-cement-sales"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-20-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iron ore extends losses as China unveils stricter steel capacity control - ET Infra",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSndLZ3p0OFE5d2RRUi04eTljYTVTdkVGX2RJT1kwanpzZzlsNTN5ZGVPaVhqcy1pUVhwdTRlcWJtaTVKV3F4U3E4QlZwelRvc29Nd09jUUdVQXlPYlk2ZHlKWE5fbkxudnNxQ0NIMmttM3hRLUdUXzNTMDBIOFpZZGszQl9EbVc0R1lYNC1yMUV0RXUtQ3hwTVAxZFJLRDBxYng1azhxdDgxRE1yWmgxVC1Lc2dQOWFrZXV5RkEzYmVyWWVqQkpWYkFmOGE0YnI4Z2NYSUJJR1FpVlBOWGpUVnhPWXVpQlprd01paTBfaGVQX2NCcHdlcG5rNGIwSzdiQk1HdnpNZXpKRUNTZThadmNB0gHbAUFVX3lxTE9aRTdiejNpM3pOWk1UR05JVUEzTVNIUks0Vk5KZno3RThhTzRQekZEMnlvNVM3QUs1YnMzN25IczE2YkYxTXZMZDRmckozZ093ZVJXZEZicWluSDR4b3BmYU05UGE2X2V0NmowZG9VR0FDZVVoT0ZjeTh5V2JVTG9iZ2R1LWhUTzV2UF8tNUdHT2c2V0JQSGRWVFNYSHlQVUNkbDRxdzhhUHY5YS1qOUNPUkhuVS1obVpZSm9DUy1rTmRpUzJVekIzYk40MENKVEpfMFdBcjluUk8tNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vale-2026-05-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale S.A. stock (BRVALEACNOR0): Q1 2026 results and dividend update draw investor focus - AD HOC NEWS",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORnF2SUpBVkxQRUVqQnVueEFWNkhwTjE1UUc3aTFSdTM2anlZcUxybS13bTVJQl9qS3dNellrM0wwWXNIVENUejF5dTk1Z1BkTXNZX3pjc05Obm1pc1N3dUhNZW93bWZKNUVyZDhsRnhpeWhDUWFIbU5iTENMTTVUT0NaZGNxOWlab1pZRGRORlhielExVEhZNnZZOUZ1SjVITXJlQ2F6RDBjSDYzb3Z3UExhaktNVU5DdUp0MHljU0FuMFJjQmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-05-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group Ltd stock (AU000000BHP4): iron ore giant updates investors on March 2025 quarter - AD HOC NEWS",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0FSVUU3ZDJyV2lzc1pPUVAxUEJremJGUXJIY0hGUGJtSzJ4bkdqSGFiZktqeVhFcVRBZ1dwVGVIOUlqR09CcEs4R0FwcUVYaThVQ3A4THpsaEVhNUE1d0NzY1czdEZEMVFJVm9BWVZSazlhV1pIaTBCZVQwZUpZZGh1SHNkaHpJZXo2VU44OUJyaUdyUFJIV01Od3c2RUlIaDZyX29hZ0N2WDliQ2tJNVY2YXVqMTFyQ01lX1JMNWFLTzdpU3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-05-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Edify reaches fin close on Rio Tinto-contracted solar-BESS parks - Renewables Now",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRzVGWHdPOGw2NXFEb2F1RHR5X041QUlsY1VfMmZkVHRtdl9qbFZON3gtN3EtdkRDTjRMV1UxRXlVUU16TEFCSFkydmdVSEFZRDBIaVlPaU40NHV5OWZZanlsTUFhcVpkdlY1TnFMNGNkcnZNNFJReUswRDhDLTZ1R2ZJU0xxRndHandNM3lVV2x1Z2tocUJxT0tFRVMxR2VvMm83WDBQQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 27,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 7
+      },
+      {
+        "id": "tata_steel",
+        "count": 6
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "vale",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 507,
+    "dup_title": 225,
+    "too_old": 160,
+    "gate1_blocked": 21,
+    "gate2_blocked": 32,
+    "passed": 69,
+    "pass_rate": "24.5%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "BHP Group Ltd Stock (BHP) Moved Down by 3.28% on May 19: What Investors Need To Know - TradingKey",
+      "Rio Tinto Appoints Matthew Whyte As Group Company Secretary - TradingView",
+      "Rio Tinto brings automation, Copilot to its finance function - iTnews",
+      "Rio Tinto Names New Group Company Secretary in Governance Transition - TipRanks",
+      "Rio Tinto appoints new Chief Legal Officer - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為力拓、塔塔鋼鐵、FMG相關動態：「Eagle Materials reports record revenue amid stronger ceme...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eagle Materials reports record revenue amid stronger cement sales（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Iron ore extends losses as China unveils stricter steel capacity control - ET...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

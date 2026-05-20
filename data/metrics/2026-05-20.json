@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-20",
+  "total_events": 31,
+  "by_company": {
+    "vale": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rio_tinto": {
+      "count": 7,
+      "sentiment_avg": 0.07
+    },
+    "fortescue": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "jfe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gerdau": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "spring_rain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.02
+    },
+    "capacity_utilization": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "steel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T10:54:59.313772Z",
+  "updated_at": "2026-05-20T10:43:54.276401Z",
   "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -301,14 +301,14 @@
       "name": "Tenaris",
       "ticker": "TS",
       "currency": "USD",
-      "ar": 89607000,
-      "ar_prev": 161429000,
-      "ar_qoq": "-44%",
-      "inventory": 3602058000,
-      "inv_prev": 3506607000,
-      "inv_qoq": "+3%",
+      "ar": 135715000,
+      "ar_prev": 89607000,
+      "ar_qoq": "+51%",
+      "inventory": 3606922000,
+      "inv_prev": 3602058000,
+      "inv_qoq": "+0%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "tung_ho",
