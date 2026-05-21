@@ -1,0 +1,16 @@
+{
+  "total_raw": 511,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 15,
+  "gate2_fail": 38,
+  "passed": 51,
+  "gate2_samples": [
+    "Rio Tinto Appoints Matthew Whyte As Group Company Secretary - TradingView",
+    "A Look At Rio Tinto Group’s Valuation After Recent Share Price Momentum - Yahoo Finance",
+    "Bidders line up for early look at Rio Tinto’s infrastructure sale - AFR",
+    "Rio Tinto brings automation, Copilot to its finance function - iTnews",
+    "Rio Tinto Wildcats Academy News | 21 May - Perth Wildcats Official Website"
+  ]
+}
