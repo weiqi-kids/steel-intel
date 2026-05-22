@@ -1,0 +1,16 @@
+{
+  "total_raw": 508,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 14,
+  "gate2_fail": 33,
+  "passed": 39,
+  "gate2_samples": [
+    "BofA downgrades Rio Tinto stock rating on valuation concerns - Investing.com",
+    "The Copper Rally Is Changing Everything For Rio Tinto - Trefis",
+    "RIO TINTO : Barclays remains Neutral - marketscreener.com",
+    "Is Rio Tinto (LSE:RIO) Overvalued After Its Strong Recent Share Price Performance - simplywall.st",
+    "Rio Tinto reaches 8 billion tons in Pilbara - Inspenet"
+  ]
+}

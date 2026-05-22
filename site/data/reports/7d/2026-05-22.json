@@ -1,0 +1,198 @@
+{
+  "date": "2026-05-22",
+  "date_range": {
+    "start": "2026-05-16",
+    "end": "2026-05-22"
+  },
+  "generated_at": "2026-05-22T10:43:24.894468Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_steel-2026-05-18-048",
+      "date": "2026-05-18",
+      "title": "Entergy signs with Hyundai Steel-Posco as part of recent metals deals - Manufacturing Dive",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 116,
+      "last_week": 92,
+      "week_over_week_change": "+26%",
+      "sentiment_this_week": 0.03
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 7
+    },
+    "arcelormittal": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 8
+    },
+    "jfe": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "posco": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 6
+    },
+    "tata_steel": {
+      "event_count": 42,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "spring_rain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "cmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "rio_tinto": {
+      "event_count": 14,
+      "sentiment_avg": -0.0,
+      "rank": 3
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "nucor": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 4
+    },
+    "gerdau": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "vale": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "bhp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 282,
+        "last": 340,
+        "change_pct": -17.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-16",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 19,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 58,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 71,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 65,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 34,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 17,
+      "sentiment_avg": 0.18
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-16 ~ 2026-05-22）共 282 則事件，重點為「Entergy signs with Hyundai Steel-Posco as part ...」。鋼鐵產業通用、鋼品價格、貿易政策為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "FMG",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "日本製鐵",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

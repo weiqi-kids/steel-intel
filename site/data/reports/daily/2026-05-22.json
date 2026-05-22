@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:43:24.760364Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-05-22-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nucor Corporation stock (US6703461052): dividend yield stays low as steel leader trades near record - AD HOC NEWS",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVmY1bkhKX0lqclY0TC1lajlYQ3RLYWhYcVJiM1N0MkhaRjU3bGQxMGZtQ05HSjlHaWdhODVNOHJHS2k4Y0pMOC03UHl5TWFlWGlhVW0wWkdLbmVSWUsxMVEteHQzU05ZdzlESlR6T192ZS1jMkx0Z2JBei1ibk5SS2JNbFdPcVVveFhwVzM5c1hWbW5vVlU4NVhYZl8zUHdnUFlOWTlsSm9fcTE2a3VoLUlVTFl3OFA0aE9xR29sREI3ZWFYaGdueA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vale-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale’s SWOT analysis: stock faces iron ore headwinds, base metals strength - Investing.com",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFExQlA3V3ROU0FSekhyYWhva01fLWN4SnI0YVZ2LUdWR1dLT09TR1FZT05jTzEtZ182eE1qY0RpS2FiWUQwbW1jYXlVWHZ6eS1Nb3hsSTFNRDR0d0ZuQzVuUnllWl9mcEpKS3ZuNkF3MkJoSHI1YlJvbm5TRnYzNlJtNlhWX2l5RjNab08zejNjM1hlem5kZEVhbXZoZjRQVUlvbzg5bnRYMVpXbDNzUTY2LVJrT2wxN3B6Y0Jza3dITVVyNnBBNHR0Z0huMTFwUzJz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fortescue-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue Ltd stock (AU000000FMG4): iron ore producer in focus after substantial holder change - AD HOC NEWS",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjBac05ydTdKZjMyY3FfSkFoLWFWSXdrcWIyRGR4RlZ2Znd2WURtWTlvSUU4a2J4UGZITUx5NElPTWZXczNWeUZETm5OZUNZR1h5QnlRNk0tbzdMSk1qdktaZ09zdXh0eE9YemhYeEk0RVd3MjM5clpYcVBWUXVXS21oMFJjNDlCaEtiLVFwUkh5SmRWRkZyemVqSXJoZkctU1hXQ3VPOUZ6alAtZF9IWndFdy15WjllWDJ4c2RCZVJSQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cmc-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays initiates Commercial Metals stock with Equalweight rating - Investing.com",
+      "companies": [
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVW5pUEdLVVZGRjN5V01TdUxpNmNXcjcxRHo5VWhsVVRFbTAtdzlyanIwem90cEU3THJDazdhYXNzNFgtM3RsU01EZnhWcFltcXlDZTJXeWRwLUdXTU9QMGVsRnZlWTZ0Vm1LQ3g4YzlSMUY4WkFyN1h4ZEpySlpKVmh1RGlzSzVnVmtWY1ZYNkdDbWJDNWhlZFZQNjU5SVdPSVQtMWhYdDg2U2ttYkhMLU4wZk9MOEh0N2hzeVFYc3p1SDdo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cmc-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays Starts Commercial Metals Company (CMC) at Equalweight - StreetInsider",
+      "companies": [
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTJOUEFMQmVrUExDOU1tSm92dTdGQ1dsdFNLRjJFdDlrWmRRLWdNdk5aaGIyeDFKY2JURDNtUTJwNWdYRTJ5em9YcnJGLXlsdTFMdHdveUNDalljSEh6R2l1Z1BleGpHNzVrdEtuY2xLY09rNUlMSkpSMVZ0ZFFMYlprU25oZlBCbXVtWHRia2RXWjEzWWRTVDVfa2VuRlIxSVkxRGxNSjFrd2Y2dzlmZzA2WTU1bVF6ODZfUXRHQVdTZ2hfUHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 5
+      },
+      {
+        "id": "cmc",
+        "count": 2
+      },
+      {
+        "id": "vale",
+        "count": 1
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 508,
+    "dup_title": 246,
+    "too_old": 176,
+    "gate1_blocked": 14,
+    "gate2_blocked": 33,
+    "passed": 39,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "BofA downgrades Rio Tinto stock rating on valuation concerns - Investing.com",
+      "The Copper Rally Is Changing Everything For Rio Tinto - Trefis",
+      "RIO TINTO : Barclays remains Neutral - marketscreener.com",
+      "Is Rio Tinto (LSE:RIO) Overvalued After Its Strong Recent Share Price Performance - simplywall.st",
+      "Rio Tinto reaches 8 billion tons in Pilbara - Inspenet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為塔塔鋼鐵、Commercial Metals、淡水河谷相關動態：「Nucor Corporation stock (US6703461052): dividend yield st...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nucor Corporation stock (US6703461052): dividend yield stays low as steel lea...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Vale’s SWOT analysis: stock faces iron ore headwinds, base metals strength - ...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
