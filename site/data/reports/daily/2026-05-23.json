@@ -1,0 +1,192 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:44:54.571037Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fortescue-2026-05-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A deep dive into FMG shares - Rask Media",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TMGZMN3ZyMmR4bHJCRlZQeGJyVWZVb2tSc3E3aGVWOXRuVlVPVDFHMGw3Ry12TmJvZ3BHNGhfLTdBQTNsUzRUTzhfdENQLVlTdWlRUHdvaFE5QjRiMDBjUU9Za252N3MxcWc4a1NXN2lqSVU0ZjVsMm1uQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_steel-2026-05-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gukesh extends lead at Tata Steel Chess 2025 with win over Warmerdam - Newsonair",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUprYWE1N0ppbXd5RGp1NjV2eExkYTlGUVNLS3Zvbm94cGIxcTFESFV0NDZhQ1VxdUgydWtyLVZEdVg0ZjNTanAyZTNpMlEzanVRVTRQZ0ZoM1QxWm9tOUlNZVpvOHpic0lOZWlwUERadVQ2NjlJYjdYNjU5Z19ldElQN2FOaWJPd3lPVjloWkRIRms4a1NwdUtB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nucor-2026-05-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nucor Opens Lexington Rebar Micro Mill To Target Infrastructure Demand - Yahoo Finance",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2ktS1lDWm40SWU3LUhRQTJxUTY1NlNMMm5ua2F4X1FYakRvd29CN0lWdzFFLWpZSkczU19uZVdkX21fYTVISzF0MmFXTzVsc0l6UjJ1UWdBV001ZVhBR0E0NGFUZlEwdzVabDhhcDRBLUt2ZHh3STZ6NjBxZVpmQTNmUWZWclFQc1JoVUxxcnd1dUM4dkJXaGRkU2JRUjg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "reliance-2026-05-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Reliance (RS) up 5.8% since last earnings report? - MSN",
+      "companies": [
+        "reliance"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXN4WHVkZWszbkJtNmJrck4zMjZkcUpHTWZHTy1sU2paVGhxNWhlQTU2eUlZS2owbEFfMVhNSm9Qbkp5Z1RnTFYwSy1qUjdPVnhVbktXcF9kZ18zdWJZMWx4bUVaQWdzQ1h3TUVRNkp5SVBuQ282c0pzcjhPQUpDWUM0Xzlka2NQQTNhLWU3LWFVU0Q5aW1XYVBFLXh3WkFLd0VLR2FtNDZCUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "spring_rain-2026-05-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chelsea gardens looked better for some spring rain - Yahoo News UK",
+      "companies": [
+        "spring_rain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzFfUzlNNEtnUjVISFViNkF1VzJvSmZXVlRMV2RiU2thYWtPVVZvWUtzZlIyM1E0c1FkN21FaFdsSzJrY01JTWxodGo4SHQyMndHemt0V1Y2WHU3ZlRnbmtWemxiMVU3Ui1hZU5VVl9QTVhHQlZQbHlJWU8xM3NZWTBsTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      },
+      {
+        "id": "reliance",
+        "count": 1
+      },
+      {
+        "id": "spring_rain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 508,
+    "dup_title": 239,
+    "too_old": 194,
+    "gate1_blocked": 15,
+    "gate2_blocked": 41,
+    "passed": 19,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Is It Too Late To Consider BHP Group (ASX:BHP) After A 62% One-Year Rally? - Yahoo Finance",
+      "The Copper Rally Is Changing Everything For Rio Tinto - Trefis",
+      "BofA downgrades Rio Tinto stock rating on valuation concerns - Investing.com",
+      "Rio Tinto Appoints Matthew Whyte As Group Company Secretary - TradingView",
+      "Rio Tinto brings automation, Copilot to its finance function - iTnews"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為FMG、塔塔鋼鐵、Nucor相關動態：「A deep dive into FMG shares - Rask Media」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A deep dive into FMG shares - Rask Media",
+        "level": "green"
+      },
+      {
+        "text": "Gukesh extends lead at Tata Steel Chess 2025 with win over Warmerdam - Newsonair（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

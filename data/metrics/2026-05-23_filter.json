@@ -1,0 +1,16 @@
+{
+  "total_raw": 508,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 15,
+  "gate2_fail": 41,
+  "passed": 19,
+  "gate2_samples": [
+    "Is It Too Late To Consider BHP Group (ASX:BHP) After A 62% One-Year Rally? - Yahoo Finance",
+    "The Copper Rally Is Changing Everything For Rio Tinto - Trefis",
+    "BofA downgrades Rio Tinto stock rating on valuation concerns - Investing.com",
+    "Rio Tinto Appoints Matthew Whyte As Group Company Secretary - TradingView",
+    "Rio Tinto brings automation, Copilot to its finance function - iTnews"
+  ]
+}
