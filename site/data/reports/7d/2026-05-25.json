@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-25",
+  "date_range": {
+    "start": "2026-05-19",
+    "end": "2026-05-25"
+  },
+  "generated_at": "2026-05-25T11:45:03.652076Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_steel-2026-05-19-032",
+      "date": "2026-05-19",
+      "title": "Assessing Entergy’s Valuation After New Hyundai Steel And Posco Power Supply Agreement - simplywall.st",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 94,
+      "last_week": 108,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.06
+    },
+    "coking_coal_scrap": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.17
+    },
+    "capacity_utilization": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "vale": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "rio_tinto": {
+      "event_count": 16,
+      "sentiment_avg": -0.0,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "arcelormittal": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 7
+    },
+    "tata_steel": {
+      "event_count": 26,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "bhp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "fortescue": {
+      "event_count": 8,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "jfe": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "spring_rain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 246,
+        "last": 344,
+        "change_pct": -28.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-19",
+      "event_count": 73,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 69,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 40,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 34,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 10,
+      "sentiment_avg": 0.3
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-19 ~ 2026-05-25）共 246 則事件，重點為「Assessing Entergy’s Valuation After New Hyundai...」。FMG表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "淡水河谷",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

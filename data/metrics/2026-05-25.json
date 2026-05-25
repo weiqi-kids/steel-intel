@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-25",
+  "total_events": 10,
+  "by_company": {
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    },
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.22
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

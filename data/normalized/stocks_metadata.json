@@ -1,18 +1,18 @@
 {
   "vale": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "bhp": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "rio_tinto": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "warrior_met": {
     "earliest": "2017-04-13",
@@ -21,113 +21,113 @@
     "history_complete": true
   },
   "suncoke": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "cmc": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "arcelormittal": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "nippon_steel": {
-    "earliest": "2014-01-14",
-    "latest": "2026-05-22",
-    "count": 3040
+    "earliest": "2013-10-16",
+    "latest": "2026-05-25",
+    "count": 3098
   },
   "jfe": {
-    "earliest": "2014-01-14",
-    "latest": "2026-05-22",
-    "count": 3040
+    "earliest": "2013-10-16",
+    "latest": "2026-05-25",
+    "count": 3098
   },
   "posco": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "tata_steel": {
-    "earliest": "2014-01-13",
-    "latest": "2026-05-22",
-    "count": 3047
+    "earliest": "2013-10-15",
+    "latest": "2026-05-25",
+    "count": 3108
   },
   "nucor": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "steel_dynamics": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "cleveland_cliffs": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "gerdau": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "china_steel": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "chung_hung": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "tung_ho": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "feng_hsin": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "baosteel": {
-    "earliest": "2014-01-13",
-    "latest": "2026-05-22",
-    "count": 3000
+    "earliest": "2013-10-15",
+    "latest": "2026-05-25",
+    "count": 3064
   },
   "hyundai_steel": {
-    "earliest": "2014-01-10",
+    "earliest": "2013-10-14",
     "latest": "2026-05-22",
-    "count": 3030
+    "count": 3091
   },
   "reliance": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "ta_chen": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "spring_rain": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "tenaris": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "etf_slx": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   }
 }

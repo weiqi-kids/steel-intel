@@ -1,0 +1,16 @@
+{
+  "total_raw": 512,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 227,
+  "gate1_fail": 12,
+  "gate2_fail": 34,
+  "passed": 19,
+  "gate2_samples": [
+    "VALE Stock Price, Quote & Chart | VALE SA-SP ADR (NYSE:VALE) - ChartMill",
+    "Is It Too Late To Consider BHP Group (ASX:BHP) After A 62% One-Year Rally? - Yahoo Finance",
+    "The Copper Rally Is Changing Everything For Rio Tinto - Trefis",
+    "BofA downgrades Rio Tinto stock rating on valuation concerns - Investing.com",
+    "Rio Tinto Wildcats Academy News - Perth Wildcats Official Website"
+  ]
+}
