@@ -1,5 +1,828 @@
 [
   {
+    "id": "fortescue-2026-05-27-001",
+    "date": "2026-05-27",
+    "companies": [
+      "fortescue",
+      "bhp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP, Fortescue warn China’s influence over iron ore will only grow - AFR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVZhVXMydlRSdlF4QThBRl9icFFWQnprS3dBeEFEMENIalFUYXlEb3NBVVY1Vm9NUm9qc3BFN1J4TzBUdlQ5ZTZuM2xianhnYnVmNlRWOEpzTHRXOTRvWlRpVjJGQm1vWlhCbmMwZG",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVZhVXMydlRSdlF4QThBRl9icFFWQnprS3dBeEFEMENIalFUYXlEb3NBVVY1Vm9NUm9qc3BFN1J4TzBUdlQ5ZTZuM2xianhnYnVmNlRWOEpzTHRXOTRvWlRpVjJGQm1vWlhCbmMwZGM4eEhUaHhvSjFRSnZXSGU3MHpzMkpiZWdmbWpyVWF3WjNrUWJLZWdDbFJ4eVpYckpTcWxsNnFIYVJvQk5OcG5TU08wTDBjck9PMWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-27-002",
+    "date": "2026-05-27",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MarineSolar trials shipboard solar technology on Rio Tinto vessel - Splash247",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDgwNlREMTY5bjB2YVdyOW1kMXI3ZUx2WUNldmpTN0pGZnFEbjhMU2J6NFhtSHBOU09PVkx5a05ha1JNZHVvamEydi1UeElzYmxOVFBCc3BQZHktQ3ZsSm9jSkY2M3ZiUFRZLVkwWk",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDgwNlREMTY5bjB2YVdyOW1kMXI3ZUx2WUNldmpTN0pGZnFEbjhMU2J6NFhtSHBOU09PVkx5a05ha1JNZHVvamEydi1UeElzYmxOVFBCc3BQZHktQ3ZsSm9jSkY2M3ZiUFRZLVkwWk9La1FxLUczS09nTkxIZ0VEQ0JFdEpSSTA0QkRVRkxOU0ZYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-27-003",
+    "date": "2026-05-27",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Diversify Across Commodity Stocks: Wheaton Precious Metals, Globex Mining, Rio Tinto - news.financial",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbGxMRXV0S216Z2pNdVhfelZNNlJOVWR6NllaZi13a0czdy01V1ZHWXFRVkFxdV9GRHl1X1NxRFhhYlB0S2Z1Q3h6dS1nc0xGTlZ4QTBZZFZQT19iS2NScHVXN3dlX3J2RmEtS1lCcn",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbGxMRXV0S216Z2pNdVhfelZNNlJOVWR6NllaZi13a0czdy01V1ZHWXFRVkFxdV9GRHl1X1NxRFhhYlB0S2Z1Q3h6dS1nc0xGTlZ4QTBZZFZQT19iS2NScHVXN3dlX3J2RmEtS1lCcnNZTTdKeUlQMkpZVVBYcC1zcDZkc0NtbHBhODZ5dV9ua1FWVWozejJsWDFxSy05YXViNnRWZEJsQU1OVW9uOU5IelhYRjNSNThwdVFVbjUtWWE0OUNFM25DekwwckZqZGNNeXRNUElBaHp2RTJBWncwR2NlMXUzSFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-27-004",
+    "date": "2026-05-27",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Werner Duvenhage says sayonara to Rio Tinto after 13 \"instrumental\" years - Bizcommunity",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnFrOG1EdmNaNG1jRjVwLWNUMXoyeGJiZ1EzV0xWbjZqaUpSSHRGQ1JQdk9uVERael92R0ZXdDA1Snp5c3BUeWt4bTZSYjViUW9rQTBPZGRDQmtuaWRDQXlDOHFJQXo1SFdGcmtET3",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnFrOG1EdmNaNG1jRjVwLWNUMXoyeGJiZ1EzV0xWbjZqaUpSSHRGQ1JQdk9uVERael92R0ZXdDA1Snp5c3BUeWt4bTZSYjViUW9rQTBPZGRDQmtuaWRDQXlDOHFJQXo1SFdGcmtET3JmSUlFcHU2Z1QtaTJtSDhKaEZaTVA4Y0dGcTZVbjdORWZqeGR0b25XalNEcFlVU2JBY2dLTFZJUi1JZkFXb09wU3FxRS1TY2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-27-005",
+    "date": "2026-05-27",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Southland mayor salutes deal between Contact Energy and Rio Tinto on Tiwai Point smelter - RNZ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUZsQmJtVDNpSmZLT3ZiczdwU05wSTl4X2tpZFBrOGRXZURlNEhJV2JzdndhLWdPb0dvcnE4TnRaRUdxdmRDLTBNTV9RM3JWR01FV1o5Tnd3d0NQR0dPUWxyZ1VJMFZRZTNoZGc5OE",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUZsQmJtVDNpSmZLT3ZiczdwU05wSTl4X2tpZFBrOGRXZURlNEhJV2JzdndhLWdPb0dvcnE4TnRaRUdxdmRDLTBNTV9RM3JWR01FV1o5Tnd3d0NQR0dPUWxyZ1VJMFZRZTNoZGc5OExVdF9RUjdra0dMcG1acmJxRjJvQTNjTnFUQk9ORUM3bEZrYktFTVJtdTJ1TFdUMl9KTWlKMXZuSFRZcVctc0ZaNlMzNzBWWUUtTTNKWlBYNkE2UkFxdEN2RkI0RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-05-27-006",
+    "date": "2026-05-27",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RIP: Roland Bastian, former ArcelorMittal CEO, dies aged 63 - RTL Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmU5bWxUMm1vOXQ4Rlc4RXFZT2FXQ2I5eENDSl9lcDcyMUN5bDhlTFVmV1FtNjV3VkVQX05QTGJGX3cwQ3BVMDdLNW9LbFpCRE05UUVEYmduU3ZwWTJScTJpSzl1LTJMSXMwdUZBek",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmU5bWxUMm1vOXQ4Rlc4RXFZT2FXQ2I5eENDSl9lcDcyMUN5bDhlTFVmV1FtNjV3VkVQX05QTGJGX3cwQ3BVMDdLNW9LbFpCRE05UUVEYmduU3ZwWTJScTJpSzl1LTJMSXMwdUZBekgxR0xoS05CcHJKd3dpWEdQaEpJS3pWZUU1VkJhWWs4QUFuQUw5ekFKZk1fTmJqUlZTMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-05-27-007",
+    "date": "2026-05-27",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal Liberia Starts Land Clearing in Yekepa for Expansion - The New Dawn Liberia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmZnay00Z01Ta2VJOXQ1VFAxRFBzNEZGaTNqalhZemtHcjdzWEdBQmljQ0ZZX1RxYjVLN3RQRXlNR2xEdDRwcFFxWjlGbGtiM0tuajBtLUViUlRBejZ0TTNkY0d1bDhIbmF6bnVucW",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmZnay00Z01Ta2VJOXQ1VFAxRFBzNEZGaTNqalhZemtHcjdzWEdBQmljQ0ZZX1RxYjVLN3RQRXlNR2xEdDRwcFFxWjlGbGtiM0tuajBtLUViUlRBejZ0TTNkY0d1bDhIbmF6bnVucWFSYmNOSkJOYVFzY0pBUnc4WFdRa0RTcU1iSmdLR1YwdVByRlFiTXlRTVZCcFY0RWVsVHBr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-05-27-008",
+    "date": "2026-05-27",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Swansea ex-Tata steelworker turned to crime to pay off debts - Wales Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQa240Q01lRW9YdGZ1SS1kMkdQQmJ6UllqOG02R3QzOTJvNXlQUTdIdmpBZlNyWmt6SEpMbU54dG04ZW1MZEhtMGFSS2p0Y0VuU0VaSG80SUxMWnlkcHF4LWUzMV84MWpIWlBHOEhsQy",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa240Q01lRW9YdGZ1SS1kMkdQQmJ6UllqOG02R3QzOTJvNXlQUTdIdmpBZlNyWmt6SEpMbU54dG04ZW1MZEhtMGFSS2p0Y0VuU0VaSG80SUxMWnlkcHF4LWUzMV84MWpIWlBHOEhsQy1YWW9ZQml1WEdCQk5MeXpYYjB1R1MtZ3dsbFl6NUxIcnI2Ylk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-05-27-009",
+    "date": "2026-05-27",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel Ltd gains for fifth session - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0NVRVZnTHJ3NTlaNXZNcGQ0Qkkyb0Z6Z3JXb0FIQTY5MGxiSGZDYUdnQUR1Z2NzZjhuSFJ5NndOZ3lzLWU5X0JYLUloNnN4SDZ6OFBndm1sQWgyZmpjVFJJN05ONXBJdDhGVHI2Rn",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0NVRVZnTHJ3NTlaNXZNcGQ0Qkkyb0Z6Z3JXb0FIQTY5MGxiSGZDYUdnQUR1Z2NzZjhuSFJ5NndOZ3lzLWU5X0JYLUloNnN4SDZ6OFBndm1sQWgyZmpjVFJJN05ONXBJdDhGVHI2RnhxVmExMEt4bzhFZkktSUZtTzRWMlZ5TTk2MnJLckF0OW1yYTZNUno5Z0publFaemhjc3d5V3RISVk0S3drQkRJVkJZME14T3lWSFhlRtIBwgFBVV95cUxPNURyQk0wdHhkVGZfdEFxVTZJQ2piRUNjTUpZTi1KM2twZDhzc1JqdTZpUllHSmZ4TjEwZHZsSjdZM0RkNVJ3OENPc0N0aDl4eDFSOEIwNHRHWWhHNm5tcG5nMlhnX092QmU2Wmx0Zi1reno2Z3otMDNJTWhBdTZaRXpjUkNaVmN2OHd0TExjXzNndjhEeGEyVVl3cEFleE1pLXZrNnhUYURPMEdWamtvT3VDYTBWUHBsMm51blQ2Y0JvUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-05-27-010",
+    "date": "2026-05-27",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nifty Metal index soars 3%; Nalco, Hindalco, Tata Steel rally up to 5% - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPY0NRUHh1YWMxSHRPVVhfOVBYYlRxYmlVdFBONWl0VkxtTF9KR3c4V1NUaWhXVWExZmlBdkY3eTctYmhzandRSDZGYVBqaTNGYjZqZEJleks1bTBXSDhYSXRkQmVrUWx5c1hPcF9SV1",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY0NRUHh1YWMxSHRPVVhfOVBYYlRxYmlVdFBONWl0VkxtTF9KR3c4V1NUaWhXVWExZmlBdkY3eTctYmhzandRSDZGYVBqaTNGYjZqZEJleks1bTBXSDhYSXRkQmVrUWx5c1hPcF9SV1R4dnFVckdUVTFaeExsbWMwQkNEVXBoa0VuRlFjOGp4THV4RFZZejV2V2tHMEo1YURfdHZ1Q2Uya1RQUVU4RjFqcm4zQ0w4WW9sQUl4R3pyZV9ubTZ2dVVpd19yQm_SAdIBQVVfeXFMTTd2U1NUZkJ0UWtVLW9BYWE0aTRXZFU5bG1lM2JjTkUwSWo2SEp3dmI1OEkxY1FDSWJhYzdRY2I3MnQtSVEzcFZ6SENZcnNKVjlzdEwtSGgxdVM0U0hNWUlqMXdWWnpQRExaOFFfbDV6TmVyRUxtUWJPS1VwM2x0QWpLZHE3XzRobFcyNHRmNUJRUFBWa3o4MEptNTNsbG9iaU56Slc0bDJTSWNlekRwSnpyVmNBdTJoR2lWWWxYQjVSdUVqVEFqSmk4MklySHh0azZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-011",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JSW Steel kicks off Rs 65,000 crore greenfield steel project in Odisha - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjRBMHA4MHRFaW1MUWNPY3J1TXB4X2dTUElqT1ctZ1ZhT2JvTnZhZGduUHdNVldnQ3F0VGhDcFUtRXdHd180TWRkYVpVdWp3bF9uaGNpQWVlYzRmaVBxZ0hNanUzSWRLQ0g4dzQ1Q2",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjRBMHA4MHRFaW1MUWNPY3J1TXB4X2dTUElqT1ctZ1ZhT2JvTnZhZGduUHdNVldnQ3F0VGhDcFUtRXdHd180TWRkYVpVdWp3bF9uaGNpQWVlYzRmaVBxZ0hNanUzSWRLQ0g4dzQ1Q2o0akhzYmxjSGFjLUdRUXk0MHFVdVBQdWNVZ2o3dC02bE0xRFRPYkFrbHE3YU5WaTNmRTF5eHJZcU8yQUhBcmtGVG1DaGtELVZQdjhBNE9XWnVjaGZEYkRHdHp0NW9TS2dEVlo3NHlLTDQ5SkktekVRV2FBRGVXX25q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-05-27-012",
+    "date": "2026-05-27",
+    "companies": [
+      "nucor",
+      "gerdau"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor-Yamato and Gerdau are raising beam prices in the U.S. - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVrenJZSHFaWWp5ZzR4U2dfRUh6WlRLc2taLVdjV3JpN1VHOGxvNEJBLUd6WFVWU0s0b2NHVWVSbmdKMlFRZlUySFNpWlYweUUtZUhGR09tQ2MyMGU5SUhfQkVxQk05TlJKc0xVS3",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTVrenJZSHFaWWp5ZzR4U2dfRUh6WlRLc2taLVdjV3JpN1VHOGxvNEJBLUd6WFVWU0s0b2NHVWVSbmdKMlFRZlUySFNpWlYweUUtZUhGR09tQ2MyMGU5SUhfQkVxQk05TlJKc0xVS3dJQV9FSGZlc28yaDBoOUtFS2JtNjd4b0w5SnJJaTdjONIBlAFBVV95cUxOMXpqa3VJTjdLOHpJbWFwdFlpeDZGdkhsMkJyZTJqV2xCdm1RRi1TcklWanJyVS03Z3ZDTktjU1E3eHQ5NHlVdFNscjRDaEprTHlSLWw2VnhkWlVFOHR0RXFxRkJpLUVQQkZuRm56eW13c18xaUtrWGlFN1hOSU1fbzVLc0tKejUzbzgxZm4xam1BUlQx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-05-27-013",
+    "date": "2026-05-27",
+    "companies": [
+      "nucor",
+      "gerdau"
+    ],
+    "topics": [
+      "steel_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Steel Price Hikes: Nucor-Yamato and Gerdau Raise Beam Prices by $90/ton, Nucor HRC Up $5 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzBjVm5OLThLdklVUEE3MWpuZWk0TkhSeWVEWEJhTTdkTVJUSmQ3S29VNFlsc0lWV21aWmpnSm9GVldWYlBQbmVNRWtvR1FGcmxWNU94clVXTEN4OUpLVUZGalBhZHphQWpZLWlud3",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzBjVm5OLThLdklVUEE3MWpuZWk0TkhSeWVEWEJhTTdkTVJUSmQ3S29VNFlsc0lWV21aWmpnSm9GVldWYlBQbmVNRWtvR1FGcmxWNU94clVXTEN4OUpLVUZGalBhZHphQWpZLWlud3RfUE5jNFJSeDNzTTBESGMxZWZyRVJ3MmRUbWs0dndqandpTEVEM1hjby05Y3lxazByN0h6bVAyUVVkalg5U0M2NU91U3JUa0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_steel-2026-05-27-014",
+    "date": "2026-05-27",
+    "companies": [
+      "hyundai_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Steel's Mandalorian Collaboration Video Nears 7 Million Views - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmV4ZFFDUWlpQ0VQZkVFbXZzdm80Rll2SVVnNzh2bVBaSG1kSUtwc2J5ZTBTR0M4cUJHZWtMTDNjWXlqVnB3VVZIZmktdjFINExsX1BoeGg5S3I1VTY2SFAtM0pCbFllZ1k5N0V5eE",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmV4ZFFDUWlpQ0VQZkVFbXZzdm80Rll2SVVnNzh2bVBaSG1kSUtwc2J5ZTBTR0M4cUJHZWtMTDNjWXlqVnB3VVZIZmktdjFINExsX1BoeGg5S3I1VTY2SFAtM0pCbFllZ1k5N0V5eE5jaUN3RFFONHV1aUJVQlVuUldudEI3MnRpaWhPUFZ0Q2YwTzFwZkF1YjQtMHU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-015",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's Steel Production Drops to Multi-Year Low While Iron Ore Imports Rise | 2026 Analysis - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGt1aHlyR1VKVjYzNERuX1ZubDdxMjdjT1pVRDdJRlRMTXh2bS00QUljMGsxSl9OckVMdXRMTnpNLTR1Vi1TazVURy1jSjM0dHpHaFlhV1pFZUFrd2R4TTlFbEt3dWp6cTNWbHVHZU",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGt1aHlyR1VKVjYzNERuX1ZubDdxMjdjT1pVRDdJRlRMTXh2bS00QUljMGsxSl9OckVMdXRMTnpNLTR1Vi1TazVURy1jSjM0dHpHaFlhV1pFZUFrd2R4TTlFbEt3dWp6cTNWbHVHZUNkUEFHSm9falN2ZmgtbGdCbDdydkoxazRUME4xZElVWWM4X29NYnJXTkt0ZkpYR2VPS3FtdE1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-016",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is the Iron Ore Rally Sustainable for Australian Miners? - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFhCbE42VWpLV19BdjAzYUtUS1FsZHJvM3dveXRzMGNmSllNakp5bGtxbFJQX0dPc0paWURiMk1US0Z6ckVTNWxuaWt3SmJ4alJGRkxQS0cyN0oyTlUxZ1Frckp0cFAzTHlHWHcxcT",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFhCbE42VWpLV19BdjAzYUtUS1FsZHJvM3dveXRzMGNmSllNakp5bGtxbFJQX0dPc0paWURiMk1US0Z6ckVTNWxuaWt3SmJ4alJGRkxQS0cyN0oyTlUxZ1Frckp0cFAzTHlHWHcxcTFGZHljRmh2RmdLaXpiVTdkWnZQY2dERnEyVEdLX3RxSmR2WWt2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bhp-2026-05-26-001",
+    "date": "2026-05-26",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP is scaling back decarbonization projects at its iron ore operations – media reports - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUJpbDMtQmpJZXZQQXRtdjh3MU5pTDVKRWY1YTFObThtT2RZNEhmdVY0Sk1XTkhjanJBbFdaaEJWS0FRRW1ibnZqa2dNMmRUeXhzd1dtcTJFWGFHY0FITGJLdHRqb0pxck05YktsM3",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUJpbDMtQmpJZXZQQXRtdjh3MU5pTDVKRWY1YTFObThtT2RZNEhmdVY0Sk1XTkhjanJBbFdaaEJWS0FRRW1ibnZqa2dNMmRUeXhzd1dtcTJFWGFHY0FITGJLdHRqb0pxck05YktsM3h5Q1Y5QmJrRk5NUjZ6NzZ3U1VQZFpFUy1VVEpqVkw4cEFHeTNJdlVBb28ycHJwdlJVUU5pUW5zTnVnaG9abks5VDNNRdIBuAFBVV95cUxQc0Y4TEktRzlLOUNwZ04zS08xSVM2T1pYUmVRSVl4Qkg3d0ZRVFZKUUpBRWZVUVJxVEdxNUNjQ0Z1TXdSX0lfY1MxR3AwNTJybHRaYmMtek5MRjI3TEFTX1B2ZWJVa0o2R3h5NVdaSGoyMlJkclduYkhsbzVOZlU2R093QzZLNFJ2TFFrUElDYjV0NllYaVF6Sy1xeFhmMUFnZUFWd0JOUGNfTThKbFc4WHJNWUtBd211?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bhp-2026-05-26-002",
+    "date": "2026-05-26",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP reportedly cuts green push in iron-ore segment, media report says - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDNGUkw2T29mWFRrTWswZk1GMHpUSWl5RFA5aXZibm03SkQ5aFE4WTJla2Z5T0g4bEhjckdoOUtQdV93OUxLa2FheDkxUnYxazZpMG5sbndLUjlYemtZSmFZSC1rZzBQalBCWUZtdj",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDNGUkw2T29mWFRrTWswZk1GMHpUSWl5RFA5aXZibm03SkQ5aFE4WTJla2Z5T0g4bEhjckdoOUtQdV93OUxLa2FheDkxUnYxazZpMG5sbndLUjlYemtZSmFZSC1rZzBQalBCWUZtdjY5S0cwaV9lR2Y4NUdubTFBNEt4dDFRLWxaUW5HM3E5SVNFNHd6dG4xejFkUDdXVnlTVXVmQXdPZ19jYUlfbXEwTjRJZjJJQVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bhp-2026-05-26-003",
+    "date": "2026-05-26",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "BHP Delays Solar and Battery Storage Projects, Abandons Low-Emission Processing Plant in WA - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXhINmx5dFB0aDMtdkxiZEtIb09zY0dTLVRaWEFBcEFWYVYwaXZ6QVNuQ0t6MXFKVjlMOHVHS0Y1NzlSSU1LUFVUM3lNNWxZYThTNlNwR2gtcGtYVTZwT003LWFDUXBYTGwyaXJJTD",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXhINmx5dFB0aDMtdkxiZEtIb09zY0dTLVRaWEFBcEFWYVYwaXZ6QVNuQ0t6MXFKVjlMOHVHS0Y1NzlSSU1LUFVUM3lNNWxZYThTNlNwR2gtcGtYVTZwT003LWFDUXBYTGwyaXJJTDd1eWl4UXNkNnJNNXNYYm8tTXpHb3M5V09aLVJoVGJsbldpSFJPTHVDMEU2U2piVmJOaS0yNWJOc3dBYXRUU01VRVlwdkViUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-26-004",
+    "date": "2026-05-26",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Breakingviews - Rio Tinto has cause to revisit a pricier Glencore - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkU3cmFkR25rVkJZZ0FtWHlaZ0ZwMkcyRFNmUlMyNW9GLTEtWVN6LU42LV90Nl96alhLTGJmS3U3a2NtWWU2TXBteTVwS2hGbmFBZExTUTF5TnMyazVwUkpNSmFLVmZha2JKOXdPWE",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkU3cmFkR25rVkJZZ0FtWHlaZ0ZwMkcyRFNmUlMyNW9GLTEtWVN6LU42LV90Nl96alhLTGJmS3U3a2NtWWU2TXBteTVwS2hGbmFBZExTUTF5TnMyazVwUkpNSmFLVmZha2JKOXdPWEtkN1M5Slg2RW1WQVA1bjVYc2UweEFzMFNwbzBYQXl0QVBsUlh2QUFqbWNFQ1BUakZHOF9JdU1UX0toNGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-26-005",
+    "date": "2026-05-26",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Endeavour, Rio Tinto and Glencore lead rebounding miners as metals prices seesaw - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjFZX19VV0NibzZzeHBxVTktT0NiZFExVUYwWDM4MWdIYm56SWNfU0NISmZGY3I0ZDJFMkdFS3docjQ1OGR1SFpvZ0w0N2tzSmUxV3YteHRQTUZveW5lelpkc1NrVUNiSk5uY1RPTk",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjFZX19VV0NibzZzeHBxVTktT0NiZFExVUYwWDM4MWdIYm56SWNfU0NISmZGY3I0ZDJFMkdFS3docjQ1OGR1SFpvZ0w0N2tzSmUxV3YteHRQTUZveW5lelpkc1NrVUNiSk5uY1RPTklSaHdDSVM1cndUTVZRc0hrdDVHdUZIVFlKZ1pQeG53YjlwYUEycHBSaWdjVkhhdWhoWUFPZHFYZFZpaGI4WktaYlo3QlZYLXQ1UnNlRGR5V0ZrRjl4T0JiUXYzeEQzZ09oUUd1QWFLNlV2XzdlQldsbE5ILUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-26-006",
+    "date": "2026-05-26",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto plc Stock 12‑Month Price Target Raised to GBX 7395.13, Implies 5% Downside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGhzZS1hQlAwcmdsWDJvX2dxWC0zV25MQUxUeDZNZHotcWU4bmtob3hPX3ExSmFVM1YtYzc0VHBHdlJSRGpEVFp4THM3NmtXRWlqOU1ramViejFyVmRpc0MyZFB4SFF3VFRMZ2h1Vl",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGhzZS1hQlAwcmdsWDJvX2dxWC0zV25MQUxUeDZNZHotcWU4bmtob3hPX3ExSmFVM1YtYzc0VHBHdlJSRGpEVFp4THM3NmtXRWlqOU1ramViejFyVmRpc0MyZFB4SFF3VFRMZ2h1VlJ1MU84amNvN3hKbUttdEp5LVF0VnJtLURZUlJLUVVtSEMyRVJEZGpZMC03VnBSREYwM3VUS2tQa0x6a0s2VDNFM1RUZUhIb0g0TEZtek5mcnNYTDNOQkVTemdlajNaWDAxV3dmRlptV256TzNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-26-007",
+    "date": "2026-05-26",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rio Tinto: Transforming Mining Rents into Growth Engines - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGlNay03T2hvSDhwcG5VUXhUVXBSYm5zYzdLMm9yVVQ4TUwxRF9ES3F1R0c5MFpIekxDdTByQTdJMGstSU8wbWVLZzFhcnM2WkJIOHhSbnBMWXlfTzJnVnZ3NndxMk0wdDQ1QnctUU",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGlNay03T2hvSDhwcG5VUXhUVXBSYm5zYzdLMm9yVVQ4TUwxRF9ES3F1R0c5MFpIekxDdTByQTdJMGstSU8wbWVLZzFhcnM2WkJIOHhSbnBMWXlfTzJnVnZ3NndxMk0wdDQ1QnctUUgwR211Z2Z0R3NCaExKTU9RN0UxUG1WcEhMYnFnNmlDd1h4NC1tZVhoM1RTR2NJbHZrLW1LSXd0dllwZGsw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-26-008",
+    "date": "2026-05-26",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rio Tinto has cause to revisit a pricier Glencore - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHdoSlZjSXpQQ3VlOS10VnNwXzZpdHBXWEgxZ2J0ODdxSURoeFhSMXpDM0NwdHVmZHdIeTJtWFVhN1ZLMFcyWXVfX082eDJvZ2ZfdkFSZ1g5MWk2UXFGblZIMy1BMUFDaU9zd2FYNG",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHdoSlZjSXpQQ3VlOS10VnNwXzZpdHBXWEgxZ2J0ODdxSURoeFhSMXpDM0NwdHVmZHdIeTJtWFVhN1ZLMFcyWXVfX082eDJvZ2ZfdkFSZ1g5MWk2UXFGblZIMy1BMUFDaU9zd2FYNGw1OXlidHBWd1h6czZ1NW1HRGpBODJzZWoxN19hTmV4UkNiV2NfLVRIR3ByUzZoR1VaQ0kwUVhyUFdRaWFPWlVpdnZ3RTZtUlhOMFpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-05-26-009",
+    "date": "2026-05-26",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto : Richards Bay Minerals announces leadership change - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1dSaFlwOXFheGw1TmktNlBGa2JTY3ZrVk95VlJrUzBiY09XcFd1YkUyZGJiVXF3WHI5dEpLckI4cFFFMEExUGgybEdPWkNBS3E2TVNXVEVNdFBLc0pvSTVHbDBkMzBENlVCVUtHOH",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1dSaFlwOXFheGw1TmktNlBGa2JTY3ZrVk95VlJrUzBiY09XcFd1YkUyZGJiVXF3WHI5dEpLckI4cFFFMEExUGgybEdPWkNBS3E2TVNXVEVNdFBLc0pvSTVHbDBkMzBENlVCVUtHOHdwaVotN3BacEg4S244WVEyN1dpWFE4NENUZmhqeWtaVFhYcWd0Q2FpSVd3cC1sSVI5dzlPbThYVUJoc3BIRzNPdklB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-05-26-010",
+    "date": "2026-05-26",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fortescue begins work on Turner River solar farm and Cloudbreak BESS - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlUwYzJ0ZlVQN3hWaFdlTGhRRWFXNGlpMzlua1hiLU1qRGEySkhvN19nbVJnU3h3REFMeFc2UTljVDhQVVJxcG56Zk51cUs5RzhuWklkQ3BEcWxURjc0eF9nRkszLWZOTG13bXJET3",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlUwYzJ0ZlVQN3hWaFdlTGhRRWFXNGlpMzlua1hiLU1qRGEySkhvN19nbVJnU3h3REFMeFc2UTljVDhQVVJxcG56Zk51cUs5RzhuWklkQ3BEcWxURjc0eF9nRkszLWZOTG13bXJET3JPSUNuNVcxMUZOVGpfcEN4OGNYVG1uZFpuT0ZjQ0tJNGpneDVucEtVSlFjUDVHbkk1T1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-011",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "An Australian Mining Company Just Broke Ground on the World's Largest Off-Grid Renewable Energy Network. One Million Solar Panels, 600 Megawatts of Wind, and Five Gigawatt-Hours of Battery Storage - Autonocion.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSUpPOXN2STBPS3RJQWNRZFZTUVBaS1lRZDV4Ymo1dmc4QUZOZDFDRE1NQV9IamNQXzBaQ0ltSU1fME1UQWcyZE1kYTJJWENlYjk4MVFFY21JbjZlT0xwQ195RGRBUWNXanVIR1VEaj",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSUpPOXN2STBPS3RJQWNRZFZTUVBaS1lRZDV4Ymo1dmc4QUZOZDFDRE1NQV9IamNQXzBaQ0ltSU1fME1UQWcyZE1kYTJJWENlYjk4MVFFY21JbjZlT0xwQ195RGRBUWNXanVIR1VEajExRGZzczZ0alRxaGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-05-26-012",
+    "date": "2026-05-26",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "positive",
+    "title": "Assessing Warrior Met Coal (HCC) Valuation After Recent Share Price Softness And Blue Creek Growth Plans - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDhranVadWJGYjdTQ2VTWWRKbXAxRGlwQnRaTHpnNU9xYWhiNldCSHlsUmRUZ3o5Q3lrUUxZMk9aTHAzNDlEeFdYTm1xR1hyTHFHblZ6YkpuclNvT1AyVnNPUnRvY0hjQWcyTWZTdE",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDhranVadWJGYjdTQ2VTWWRKbXAxRGlwQnRaTHpnNU9xYWhiNldCSHlsUmRUZ3o5Q3lrUUxZMk9aTHAzNDlEeFdYTm1xR1hyTHFHblZ6YkpuclNvT1AyVnNPUnRvY0hjQWcyTWZTdERrbGM3dmZRbERTRDBqd3ZnZmlrLS1ucWo3U2dpcGU4WDYxeGFMb3dDVHRTMXRiSklGODY4Tm1ha19pcVlDY3VtUTRldmZsU0ZyZWJwbHVnUE9rWWdtZm1mTEZKeWPSAdIBQVVfeXFMTTFjQVV5SWZ4UER0UGdpTzhqV0F2QzlGZ3NNMm5zblppV28ybURDS3JmT3dvTEMwWl9EM2NFYkVBOGpINGFHN3hXUF9nMHB2YWhQTFFISXd3RXVWNExOUTVCeDZvYlBLVndfTllEdEJBbmliZ1FDLWZjaTNzV0pkSmdZdVRmaUdJdzFIaXp6dUZuclVHVGVtSHM5TTA5SG1jdnJibFBpMzFSYU0tMWVCZ2hxdUdsa2k2aWwzOEJFaGd0TF9kcVFnaFA4YkMwSGptWl9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-013",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mining giant polluted Quebec waters for over a decade before $100M fine. What took so long? - CBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWJtWjdHMnRXWmYtYl9BWFNELXpSMzA0SWJxejY4TWRhSjM1UXNoTHZvSUxyWUZsclNxZHhobl9PaThzZGpHU2l4VkxaaTVmV25uZUNVekdUcmVmRjR6cWR4M2RINGVMSGZRb1p6NG",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWJtWjdHMnRXWmYtYl9BWFNELXpSMzA0SWJxejY4TWRhSjM1UXNoTHZvSUxyWUZsclNxZHhobl9PaThzZGpHU2l4VkxaaTVmV25uZUNVekdUcmVmRjR6cWR4M2RINGVMSGZRb1p6NGhuaVlDeDhXaDRBclI5N21ydDZVa2F2aGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-05-26-014",
+    "date": "2026-05-26",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Steel giant ArcelorMittal fined $72M for polluting rivers in Quebec - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEg3b29mNVkzMTV6Y3BRUG8yZ3M1RnlTc1dsSWt4Rm8yRmRFYXJOMVJMUThpRnVWMFRLaDEta3haN2NqNjNEWklSSU9QR0R6YWloNUZOYlBEbUU5em1DampSNU43cEVadGVQSzhSZT",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEg3b29mNVkzMTV6Y3BRUG8yZ3M1RnlTc1dsSWt4Rm8yRmRFYXJOMVJMUThpRnVWMFRLaDEta3haN2NqNjNEWklSSU9QR0R6YWloNUZOYlBEbUU5em1DampSNU43cEVadGVQSzhSZTZLSC1hcENORTZqMXZ5eDg1TW14b2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-05-26-015",
+    "date": "2026-05-26",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal (ENXTAM:MT) Valuation Check After US$1b Debt Offering And Recent Production Update - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeU94c0VfUDhQWUtqVHNTYlo4LUhqOFduUm0xTEJmRnl2cHpKRUQtZGpyMkxVclBsbi00c1E0amlXNkRsNEQxOXlNaWQ5dXBIbHNSRk0tQk5HMmZuYVZubDRHaGJnNkpKLVp6aGJBRT",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeU94c0VfUDhQWUtqVHNTYlo4LUhqOFduUm0xTEJmRnl2cHpKRUQtZGpyMkxVclBsbi00c1E0amlXNkRsNEQxOXlNaWQ5dXBIbHNSRk0tQk5HMmZuYVZubDRHaGJnNkpKLVp6aGJBRTRZV3E4cFdCbzZHR240eDNxREhpcUxrQ1hObFpCSmh4T0o3OEZMbXN6X3U5RzhFZzg2azJYRXBDenlpZTVMdUZPMUJISnUtVnQ1dVplVnB3MGlYWHZHcy0zaUxRS2k1X2ZV0gHWAUFVX3lxTFB4MjB3Yi1lczNwazlBS2VlS2tYY2hCUVJyUWprZnhuT1hqZThVTzRleHZDdGFlX2ZhWHNyMWpadjFtUm51eS1zZ2JKVFhRdmZvaGxxdDEwREhjXy1zWDV3ZDE5QnlzMWl1bWZHVU80Ry1OelI2M3Z2SXJ6TC1ULVZyM0ZMbklTRjdwZThpMUN4Skp0Nkt0TzIyS3Bwb3ZyeWRkRUZjTE9GODhiRTdxS09oYmQ1ekQ3VWtjSU9NWmwyc2hYelBXZEVGZ2xIMnUyZ2pxdC1OOWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-05-26-016",
+    "date": "2026-05-26",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal cuts workplace fatalities to 6 as global safety program delivers results - Health and Safety International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeEJzOHl6bU90dTM3eFFJeS1MRThBbHMxbG5GZWFwYkNLSlpOb2FrWFVqcXAwcS1CNGJUeXdIRmpzLVFGdUlnT0Vna2tld1laeUZLMFUzTUM0NzJVNGhmdWd1QWNvSmsyOUhfZDZrbV",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeEJzOHl6bU90dTM3eFFJeS1MRThBbHMxbG5GZWFwYkNLSlpOb2FrWFVqcXAwcS1CNGJUeXdIRmpzLVFGdUlnT0Vna2tld1laeUZLMFUzTUM0NzJVNGhmdWd1QWNvSmsyOUhfZDZrbVh6UFJFSzdfbm5LbERnSmNaUDNyTndzUXE3Q0Q0aXpSWmxWR2lxaHF4WUpER1RVNV9XbFpSU28zYnZBa3ZCOTVaOFNLS3FBcVRoaGhtbUZUNEozUl91OHVuMFViMklDdlRNZ3RLcGNzcW4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-05-26-017",
+    "date": "2026-05-26",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nucor nudges up spot HR price by another $5/ton - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1JtV2tRYWxjdk9YbTh6Y092a0sxQnJSMWNaN0NKMFFncVhSRXg1WFJ6LVB0d29MUExCdFlGc0Fldng0aWt2cFhlaVhSVDM5OWpHODRzT09UYlhpZUNfaGl3SjNDWlNnRkV6VExoR3",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1JtV2tRYWxjdk9YbTh6Y092a0sxQnJSMWNaN0NKMFFncVhSRXg1WFJ6LVB0d29MUExCdFlGc0Fldng0aWt2cFhlaVhSVDM5OWpHODRzT09UYlhpZUNfaGl3SjNDWlNnRkV6VExoR3BZT1R3aW8xUXlQQ3lnNFJFeDhWblNlVENWQUFNSmdYZGRtNmVEcFVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-05-26-018",
+    "date": "2026-05-26",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nucor Corporation stock (US6703461052): Q1 2026 earnings, steel demand trends and fresh analyst cove - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkJYOEF6T2hFeTFXR0oxaDY0TFpVTWFWd0N3cG9pNXJoejl4cUJYLVdHWjZSX1F1eFVTbGJ6X2stOXRsaTlNVTZ1YjBFVFZZZDhIc3RucEdFVVZHVjFpaTFTWFVtcUVPQmV1cFJZeF",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkJYOEF6T2hFeTFXR0oxaDY0TFpVTWFWd0N3cG9pNXJoejl4cUJYLVdHWjZSX1F1eFVTbGJ6X2stOXRsaTlNVTZ1YjBFVFZZZDhIc3RucEdFVVZHVjFpaTFTWFVtcUVPQmV1cFJZeF9NN05McEdYQ0l2UzRjVElzSDM5WERYSjI3YTljQTFsR0ZWU1I3elFURTZsNGhrRVNudTlvcDhKa1ZRTmRYZE1jN21sNThTRXBjMXRmVnEzTk5xYnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-05-26-019",
+    "date": "2026-05-26",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs’ GM Award Highlights Auto Exposure And Debt-Cash Flow Tradeoff - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2hNb0E3VnJIbGxxZlFSLTZOSXBUYjBzOVBZVmhuU29EbFNYVnduUXNtMDFYVGRJMExpeHZ3NjZpc08tSXc3NmFwczFZX3hNSzQ3ZUVyWkJNS29EUFhTODJoU0FnSFEwblcyenl6Qm",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2hNb0E3VnJIbGxxZlFSLTZOSXBUYjBzOVBZVmhuU29EbFNYVnduUXNtMDFYVGRJMExpeHZ3NjZpc08tSXc3NmFwczFZX3hNSzQ3ZUVyWkJNS29EUFhTODJoU0FnSFEwblcyenl6QmFwX2JYN21nRXdNY21wWl85QUxqUVR4NE0yRFJGT0ozVk5OeHlUMzhIcU5RTk4tbGRFYWpj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-05-26-020",
+    "date": "2026-05-26",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elizabeth Twp. gets $25,000 U.S. Steel donation - Mon Valley Independent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTzhjcWUtdEdxejlyb3dfRWhOQlAtSWdudm9JQ2R3ZmVQemRjMUNfTXo5aXVxb0Zpc1E4VUxXamY3OGVqeUNjTVppRjlqaURLT0szQVUteG5xeHlpUXRDRnF0YVhDQTdiaUdTZTBhek",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTzhjcWUtdEdxejlyb3dfRWhOQlAtSWdudm9JQ2R3ZmVQemRjMUNfTXo5aXVxb0Zpc1E4VUxXamY3OGVqeUNjTVppRjlqaURLT0szQVUteG5xeHlpUXRDRnF0YVhDQTdiaUdTZTBhekk0XzNaWE1UdlFCWlRIV1duS21RR1JMVlFEbDlFQ0lKdHVZUXNYa084?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-021",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watch US Steel Costs Impacted by War, Trade Deals - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVk1qRnZHa1lTWVRtcVUzVGJXSlJ6cFFZSHNCRS1NbDRwS0tldV9EN3hKb3lfSkp1VmRNc3BYaDdDX2NYUG96UzEwazFGVFBKR2h5WTBIeG1pYm1vSU9HSHBPUGtIdDNldGRRa3U2T0",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVk1qRnZHa1lTWVRtcVUzVGJXSlJ6cFFZSHNCRS1NbDRwS0tldV9EN3hKb3lfSkp1VmRNc3BYaDdDX2NYUG96UzEwazFGVFBKR2h5WTBIeG1pYm1vSU9HSHBPUGtIdDNldGRRa3U2T0hSWVg5aWUxRnZSWlNUMGo5aVdSRkkxc3dacDB2VjZ3dnZvcFllQmJ3NlpKV1JxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-05-26-022",
+    "date": "2026-05-26",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel Donates $25,000 to Granite City Football, Cheer and Dance - RiverBender.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVlNd1p0YUkzT18yZmNITlBsZTBnWnQya0FTMDFhc3QyS3ZpNGtFa0dlTFdIX3U0YVZSSEVBVWFnVjA2QzNGWTBqZ1Q5dVZtSk5MYTdjaERaV1R2V3lDNHNic3VDT0tlSXlVNkh1V1",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVlNd1p0YUkzT18yZmNITlBsZTBnWnQya0FTMDFhc3QyS3ZpNGtFa0dlTFdIX3U0YVZSSEVBVWFnVjA2QzNGWTBqZ1Q5dVZtSk5MYTdjaERaV1R2V3lDNHNic3VDT0tlSXlVNkh1V1NlbjN4cDRkVi11cWRrT0p6QTJWN1MyVTY5a21ZWnc4U0xrdWk4MmNuM19RZWtvdlEwZXQ5R3c3Q3c3SGJFWlExRkdkNDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-023",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "trade_policy"
+    ],
+    "impact": "positive",
+    "title": "Presidential Tariff Authority Expands Beyond Steel and Aluminum - Legis1",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5JTkx1aXZKZkhnRURWTE40UmtXNlpsRDRwby1yUVlRUDduSGRYa2ZGdUlycnRzX21DNzA0c0V1RElPUF9xcDFxTU1oUFF3R3MyeWZHX1I5MUpoRU9YdlBBdXhNWU0wS1Z1ZTZkM3l5LX",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JTkx1aXZKZkhnRURWTE40UmtXNlpsRDRwby1yUVlRUDduSGRYa2ZGdUlycnRzX21DNzA0c0V1RElPUF9xcDFxTU1oUFF3R3MyeWZHX1I5MUpoRU9YdlBBdXhNWU0wS1Z1ZTZkM3l5LXJPbVFo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-05-26-024",
+    "date": "2026-05-26",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general",
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "The problem with Canada’s counter-tariffs on U.S. steel - The Logic",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1VSVVHS2xSY2FsNVpDVUUwbFZKcWtOVzJWOTBMYzQ3ZzFXbkRoLVR3QUQ2TjRfVmJQbEZoMmhaOVVXOGo3TmRScC1xMVZBaWlQNFI2b1RlNFZLZUljbUY5dWhqNnJpOXFtWWZ4T1Y3UQ",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VSVVHS2xSY2FsNVpDVUUwbFZKcWtOVzJWOTBMYzQ3ZzFXbkRoLVR3QUQ2TjRfVmJQbEZoMmhaOVVXOGo3TmRScC1xMVZBaWlQNFI2b1RlNFZLZUljbUY5dWhqNnJpOXFtWWZ4T1Y3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_steel-2026-05-26-025",
+    "date": "2026-05-26",
+    "companies": [
+      "hyundai_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Steel shows ‘the way’ of combined furnace process in ‘Star Wars’ collaboration - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdW92dGJRN3dlNnAyVENURmJYTmgxazE2RVB3MVNPVWhtUnREMnh4QTUycWRLUndXb1JSOEcxVTMwbWdfRjFsdVFKNVprREp0Q2FwbDFXREg4dlFOWE1YNWFKTTZIejRxZWRIaXUyRH",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdW92dGJRN3dlNnAyVENURmJYTmgxazE2RVB3MVNPVWhtUnREMnh4QTUycWRLUndXb1JSOEcxVTMwbWdfRjFsdVFKNVprREp0Q2FwbDFXREg4dlFOWE1YNWFKTTZIejRxZWRIaXUyRHFyUnFBMlRPOE5RcHJvbEV5QjlHYXY2eWxTM29VWEw2YnZYNXpxNXVnR1Q4S01uRGtzczkzZ0hGVzJlcDNBSlg4N1IzT0NwM1ZPZGQ2NlY3NHA1WWtlMU5feU1UVzZ6cnBmZl8xYlA3Wm9DUUJlYkpJVFNGMS0yR1hNOUlQQ2pDN1g5dl9DR2hqQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-026",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CSP HRC Hits $1,095 as Construction Bends",
+    "summary": "<p>Key Takeaways ▶️🎧Steel Industry News Member Video Preview: This is just a sample. Paid members get the full length podcast and video episodes every week covering mill pricing, input costs, supply c",
+    "sources": [
+      {
+        "name": "steel_industry_news",
+        "url": "https://steelindustry.news/csp-hrc-hits-1095-as-construction-bends-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-027",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "capacity_utilization",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China's weak steel output, strong iron ore imports show structural shift - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOelBDV1JDTXBGUjNFdS1nQ3RXQ003TWhsRTBTMkIySHlobWlTTGdMeEt4cURqNmVWSlF2MWwwUFlrZHRNekRLLWxUNHI1NG8tNmNEcWFSOVBNZUgyQnBkT3hhaGhfM2Z4ZWE1cGdfaj",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOelBDV1JDTXBGUjNFdS1nQ3RXQ003TWhsRTBTMkIySHlobWlTTGdMeEt4cURqNmVWSlF2MWwwUFlrZHRNekRLLWxUNHI1NG8tNmNEcWFSOVBNZUgyQnBkT3hhaGhfM2Z4ZWE1cGdfajQzWnF2VERCSWJWejBOU0h3R1Q5OG1PSm1wLUZWQWVLMGFvT3U3YTl1eDR6bFRqRjk0QlM2STIwNXptak04VFNGc05nQ1hyU05UQ0FRTFhTamZRMGpxUDYwc3VyN1laV0ZNaUZmUjJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rio_tinto-2026-05-25-001",
     "date": "2026-05-25",
     "companies": [
@@ -192,6 +1015,138 @@
     ]
   },
   {
+    "id": "bhp-2026-05-25-011",
+    "date": "2026-05-25",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP Cuts Green Push in Iron Ore Segment, Media Report Says - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlZxOTUwdG4xM1dQNlZuWmQzQWh2MU5HWWxZRjY4d19mMzRrNTUwQWVLTks5OUwtZkY3RDdJR3I3SkxDMHF0aXJGTXBiN3JmZWtwR2hOZmtzeUwySHVoSlFqSGlUUXJxQjB3X1hLUz",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlZxOTUwdG4xM1dQNlZuWmQzQWh2MU5HWWxZRjY4d19mMzRrNTUwQWVLTks5OUwtZkY3RDdJR3I3SkxDMHF0aXJGTXBiN3JmZWtwR2hOZmtzeUwySHVoSlFqSGlUUXJxQjB3X1hLUzVWU0hjWnFuMU9Ia0docWRDUzdVdElyWGJjTVBwc204UW9tYXRzUnRNVUpNWXluZEs3cV82RTFjNElIVE4xbG9pbTZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bhp-2026-05-25-012",
+    "date": "2026-05-25",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP Cuts Green Push Across Iron Ore Segment, Media Report Says - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHY3cFNrM1BGUGZzLVlLVUZpdnl6MndSRDhZWk9uU05sX1lNZmI0RGRMRlhaaHRfejIxV1pWaFlrWnZhcEZwYlo3ZVU5NlhLU1dRaU1BalFnb2xzUlZVcXVMaVJwempiQW9xV3FDRU",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHY3cFNrM1BGUGZzLVlLVUZpdnl6MndSRDhZWk9uU05sX1lNZmI0RGRMRlhaaHRfejIxV1pWaFlrWnZhcEZwYlo3ZVU5NlhLU1dRaU1BalFnb2xzUlZVcXVMaVJwempiQW9xV3FDRUxhZWlzeXBwTmRQOVBSMUNoOC1VdV90VElLc2xxTHlOdjhiVXNEN2dTVzR3THc1Tk91NlhSUUd6aDE0SmVsQnZWM1JpUnIyMTdmd3JoQVZBOHJTdVo3NUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-05-25-013",
+    "date": "2026-05-25",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fortescue accelerates Real Zero with construction of 690MW solar farm and 650MWh battery energy storage system - Fortescue",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxObXZuLVN2QUVRT2pTRkhtc1c4elFSbTA0OHdweHZMMl93a19wQ3JBeTJsWEstUjJ2MTRQM0l0ZC1ERXdqVnZMVExEX3cxdE9USGZDOG50eXpzNlVMNjVfd09wVTFkdEprQnJ3Y3pFd3",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXZuLVN2QUVRT2pTRkhtc1c4elFSbTA0OHdweHZMMl93a19wQ3JBeTJsWEstUjJ2MTRQM0l0ZC1ERXdqVnZMVExEX3cxdE9USGZDOG50eXpzNlVMNjVfd09wVTFkdEprQnJ3Y3pFd3FGWW45d1ZmTmlqd041Y2lXX1hvU2F0VzMxaVFvcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-05-25-014",
+    "date": "2026-05-25",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fortescue Starts Construction on 690 Megawatt Solar Farm in Western Australia - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFRlOVBmRlFMTkFGTmN2NDdiNV9jVGxKSzBEc1VlNkhwbnYtclliRG9RU183X1doVURLZWczOVNnVDBRV21ZYUZTcEdkUW5TSEluRVJsY1lKRW1QR25IcFFBRFhhWFQyb1NQdkpteE",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFRlOVBmRlFMTkFGTmN2NDdiNV9jVGxKSzBEc1VlNkhwbnYtclliRG9RU183X1doVURLZWczOVNnVDBRV21ZYUZTcEdkUW5TSEluRVJsY1lKRW1QR25IcFFBRFhhWFQyb1NQdkpteEx0OTluandUdEpIVXJWMUdDaHFsR1JXdjRlWkY1T0E4M2lZLUEteEpnTk9PWGVNT3BjQTRkdEZUQW9PcDRzVVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-015",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Steel $1.9 Billion DRI Facility at Big River Steel Works | 2026 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTdFQUc3c2p6YkJXeE94S0I4c3B5dWtVa2ZHeXNpcDdRVGJ3dXdTMWR6UmV4NUJwLW5uYlRnbUZIaUNEdUFoQzItMUVjYmJaUmJBTFN5b2I4dlBuRVBlcW9QUnZVWklyN1JlemVjTm",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTdFQUc3c2p6YkJXeE94S0I4c3B5dWtVa2ZHeXNpcDdRVGJ3dXdTMWR6UmV4NUJwLW5uYlRnbUZIaUNEdUFoQzItMUVjYmJaUmJBTFN5b2I4dlBuRVBlcW9QUnZVWklyN1JlemVjTm1GSWdYWG9vU21jM1RaWGF6Sk9mRHNvdjRHUndmYl9BczNHbElQeWNpTHRSSTNqc2lrWmU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "spring_rain-2026-05-25-016",
+    "date": "2026-05-25",
+    "companies": [
+      "spring_rain"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Heavy spring rain brings summer-level downpours across South Korea - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUVRxU18xLUdvU0RXT0hCWHV6MjdtQS1nTV9ON0lWbFFDd1VHMnR4SmpUb1hYc1N3LTlIc1gxUm83WTliSUJWN3ZIa0ZOVW9GSGFLbVJoTE01cHBPMi1sV1lHREpHZmNYZXl5d1BYSG",
+    "sources": [
+      {
+        "name": "spring_rain",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUVRxU18xLUdvU0RXT0hCWHV6MjdtQS1nTV9ON0lWbFFDd1VHMnR4SmpUb1hYc1N3LTlIc1gxUm83WTliSUJWN3ZIa0ZOVW9GSGFLbVJoTE01cHBPMi1sV1lHREpHZmNYZXl5d1BYSGRKenBEZ29nVWh6Z25XblZ1VnVYSVY1bkFsN1lEYl9yeG1YR254T0plenNsdkdfQWE4NWR3Nk9vbXV2RzN0TXFqaUJhTWFoQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-017",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Midsummer-Level 'Water Bomb' Brings Heavy Rain to South Korea - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkVEV3EzZ1V1QW4yeHpqcUhmblJ1MU9kcGNSLW8wbXZzU0RhR0ExcXluYUJESkh5LWQ4TmcyTl8tNS0yUThvWmtBSTdCYWZMVkhLSWJiQXpfbWVHLTZlMjlLbjR5Q1ZrWkVpVy14Z1",
+    "sources": [
+      {
+        "name": "spring_rain",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkVEV3EzZ1V1QW4yeHpqcUhmblJ1MU9kcGNSLW8wbXZzU0RhR0ExcXluYUJESkh5LWQ4TmcyTl8tNS0yUThvWmtBSTdCYWZMVkhLSWJiQXpfbWVHLTZlMjlLbjR5Q1ZrWkVpVy14Z19UZjdqOWRqQ083LUhNWTE0a096T2R3VDFq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rio_tinto-2026-05-24-001",
     "date": "2026-05-24",
     "companies": [
@@ -299,6 +1254,42 @@
       {
         "name": "cleveland_cliffs",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHBvWEJOa0FJeHBuN1g1UEZPLVhpNE1QNHpQdkM1UDljeUczaVROcElTMGhfeS1ndFkwb0JVX1FiWUlEU0xHeVJGeGtoMzFPSHpEcm1WdU8yeVNwS2VDR3BkZ2kyWUgzMWU4bXhFeFdJZl9HT0d5RERFWVVERTdqUmRtWDBmY0d6RmxTRXJuU3NlSWxXN0lETy1jaU9kNndTdzhMenk1VjZhZVBISnQtcnk5Tks4a25UUGZJXzJhU2wyeHJVbmpkVlJLeERpZ9IB0wFBVV95cUxQRGZUOXZ4S0lyNWFVVzc0QlBSMWJjVExUeVFEN1F1OGhMN0s0U2dhd2JsM2dPa3RKZ3pXeElDd0I5YW5UVTNCQTZYa2MtMVBFeDRXdkNIdzlsRjN3UDF6MklLbE9odDQzeWt1eTlpTGx6UEJ3VmlTMmJ6U0M3Ri1ZLS1ZVWhJVUdFMHp4SjQydTd2WGtWVEcxdVJvZGJ4MnU0UnNfN09ZY0pqc0dUaWhySkxQVFZpYXJ0SFlBS3dHaGF5bTZRWGhiOXJIU0NFNWdUSUtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-05-24-007",
+    "date": "2026-05-24",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fortescue: Sigrid Kaag To Be Appointed As Nonexecutive Director - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3VoZlRWakxvVGQzR0VCay1SNXo0dnpJNzJkd0lzR1VQa0NwLUVobVhONmZBX3ZFZThhSVJUajNsRnkydDl3amdXcDY0aS1heTR1bU5uOWp4VHJpWEphLXZiQUVxMnBxRjN6VHBWMH",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3VoZlRWakxvVGQzR0VCay1SNXo0dnpJNzJkd0lzR1VQa0NwLUVobVhONmZBX3ZFZThhSVJUajNsRnkydDl3amdXcDY0aS1heTR1bU5uOWp4VHJpWEphLXZiQUVxMnBxRjN6VHBWMHJ1WFpGRVNRcmVoZ1kyZ19lajdtRGFzX0dEdlI0U3FlZnNmTWZmYnN3MnNjd2JRVlJYdVFUSUtpWmJheU1DVTc2ZGRzRTViZWNNbmxxcUsza3VOY0k1ZHE0Rm1HYktKS01wSFpNbnlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-05-24-008",
+    "date": "2026-05-24",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fortescue Ltd Announces Board Changes - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1JCR1lBMWxTUmIzamw4Tl9md3BjNHBQaXBRV2I2ekZXNUNMb3dONGV2SkhCd0tkaEN5V3BqUV83T2R1d1FQWTlwTC12RnN3RE9qRkRXVEV0QmdpbFg3RWE4em11amJSVUpBRjg0OW",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1JCR1lBMWxTUmIzamw4Tl9md3BjNHBQaXBRV2I2ekZXNUNMb3dONGV2SkhCd0tkaEN5V3BqUV83T2R1d1FQWTlwTC12RnN3RE9qRkRXVEV0QmdpbFg3RWE4em11amJSVUpBRjg0OWc1TnNDd00yMlZXeFNCbVljamRGRWdrR2tTTUY5bWVkU1ZITWtn?oc=5",
         "type": "rss"
       }
     ]
@@ -569,6 +1560,26 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVktianl1WUFnZndVdE05ajVKSkMtUy1YRkhKazJpX3RhdU5QS1FuUnMzaE5Sb1RyUU4yX0VEXy1qZThZNEF5TFhFbkF1bWZPSHZRaGk1WGhtbWREOFNGZVBOTkRpT2JNTktkWFNQdDZlY3NYWERzbWZNM3hscXFKdC1sNi1BVVVVV2ZlckFyM0FmOTQxUG5fM0J3VE0za3NsS3ZXSm5odGhfcXBzTXVEaW5TTXNJYml6c09laE90aXRtYlVvd0w3QnpycGFSNFltc0hNa05GZEVzd2hRY2tYY21WcnhuVzh0eFJYbUMwMNIB9AFBVV95cUxPaE1MckJBU0V2RnZSZjhvcXBKTFNjYVN4a2ZPRWUxbG9TQ05yUTk1Ym5rUElPbFFQcEI2TkNkdEVLUmRFUUdCVk5xdVBiYnJlQ0hZNWpKS1g0STUwWjZnV3VQRkZWOVZfckFSeUh3R0JHcUNMajRzelJMUmE4bV93SkVxQVdDaEtWOXNaX2dMLW9QeW0zVmJTRlh4NXp0bDR1TGRGV1FFRTRlZXVXU1FYVDEwOWhMTUNxd1M4T0M5UFZvWXRoTjVpaUt2ZEpkYW5GOU54bWE0cnI2VGNuMUFrRjFqUnhvMWdKcnBRdFdrXy00enhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-05-23-015",
+    "date": "2026-05-23",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue Metals Group Ltd at Credit Suisse Asian Investment Conference (Virtual) Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbVZJRVV6cV9weE1YSHFJYzRHS0Y0bzAwZkJCalRqRzE0SGlVMWZfZkJIVUtNRlZjUnlyb2NxeFVDYk1ZWG9pWUJIWlJSTDZ3elRTSzg5NXB0RExwYUtHUlc1cjFJSzM3LUo4?oc=5\"",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbVZJRVV6cV9weE1YSHFJYzRHS0Y0bzAwZkJCalRqRzE0SGlVMWZfZkJIVUtNRlZjUnlyb2NxeFVDYk1ZWG9pWUJIWlJSTDZ3elRTSzg5NXB0RExwYUtHUlc1cjFJSzM3LUo4?oc=5",
         "type": "rss"
       }
     ]
@@ -3316,6 +4327,24 @@
       {
         "name": "us_steel",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUWQ4MEpELUFoVWNCR2NSS2t2a3MzcUFPTmhQNDFVcGd6NXJpVVJ5TDJZRTZpbzJWN0NFbVBWU2F0dFZQa3FOd1A2MEEtcmtMSkJQYUMtdEl6d05fNUNMTTVtamJocHJScUF1OE5JY3pkaWlweVh5Y3FoM05mbVF4MWY3X2VPLUVsd01GY2lJWlYwWnlqZnZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-070",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[New eBook] Steel Buyers Decision Framework",
+    "summary": "<p>This 90+ page guide gives procurement professionals a complete framework for reading the modern steel market and translating that read into structured buying decisions on covered, balanced, and hed",
+    "sources": [
+      {
+        "name": "steel_industry_news",
+        "url": "https://steelindustry.news/new-ebook-steel-buyers-decision-framework/",
         "type": "rss"
       }
     ]
