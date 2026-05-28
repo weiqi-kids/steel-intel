@@ -1,0 +1,16 @@
+{
+  "total_raw": 522,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 232,
+  "gate1_fail": 15,
+  "gate2_fail": 29,
+  "passed": 34,
+  "gate2_samples": [
+    "Vale S.A. Deposito Arg Repr 0.5 ADR Financial Statements – BCBA:VALE.CI - TradingView",
+    "Rio Tinto plans to restart NZAS potline - Aluminium International Today",
+    "Rio Tinto documents 30-year-old manufacturing system using AI - iTnews",
+    "Rio Tinto reports $9.9 billion in taxes and royalties for 2025 - Investing.com",
+    "RIO TINTO : Gets a Neutral rating from JP Morgan - marketscreener.com"
+  ]
+}
