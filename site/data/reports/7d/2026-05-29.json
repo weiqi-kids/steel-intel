@@ -1,0 +1,181 @@
+{
+  "date": "2026-05-29",
+  "date_range": {
+    "start": "2026-05-23",
+    "end": "2026-05-29"
+  },
+  "generated_at": "2026-05-29T11:20:45.586899Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-05-24-001",
+      "date": "2026-05-24",
+      "title": "Rio Tinto and BHP Shares Downgraded to Neutral as Analyst Cites Valuation - thebull.com.au",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 44,
+      "last_week": 116,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.04
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fortescue": {
+      "event_count": 6,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "tata_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "spring_rain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "rio_tinto": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "bhp": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hyundai_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "arcelormittal": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 9
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 147,
+        "last": 313,
+        "change_pct": -53.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-23",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 19,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 40,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-23 ~ 2026-05-29）共 147 則事件，重點為「Rio Tinto and BHP Shares Downgraded to Neutral ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "日本製鐵",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

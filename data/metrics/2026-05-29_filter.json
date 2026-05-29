@@ -1,0 +1,16 @@
+{
+  "total_raw": 517,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 13,
+  "gate2_fail": 31,
+  "passed": 31,
+  "gate2_samples": [
+    "Vale S.A. Deposito Arg Repr 0.5 ADR Financial Statements – BCBA:VALE.CI - TradingView",
+    "Rio Tinto Group And South32 Have Offered Japanese Clients Third-Quarter Aluminum Supply At Record Pr",
+    "Rio Tinto Group and South32 have offered Japanese clients third-quarter aluminum supply at record pr",
+    "Rio Tinto plans to restart NZAS potline - Aluminium International Today",
+    "Rio Tinto documents 30-year-old manufacturing system using AI - iTnews"
+  ]
+}
