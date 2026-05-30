@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-30",
+  "total_events": 6,
+  "by_company": {
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "rio_tinto": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

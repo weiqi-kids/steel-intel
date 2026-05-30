@@ -1,0 +1,16 @@
+{
+  "total_raw": 516,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 224,
+  "gate1_fail": 13,
+  "gate2_fail": 17,
+  "passed": 34,
+  "gate2_samples": [
+    "Vale S.A. Deposito Arg Repr 0.5 ADR Financial Statements – BCBA:VALE.CI - TradingView",
+    "Rio Tinto begins commissioning $1.5bn low-carbon aluminium smelter - Investing.com",
+    "Rio Tinto (RIO) Completes First Phase of $1.5 Billion Smelter Ex - GuruFocus",
+    "SXC Stock Price, Quote & Chart | SUNCOKE ENERGY INC (NYSE:SXC) - ChartMill",
+    "Canada fines ArcelorMittal most ever, $100M for Quebec water pollution - The Northern Miner"
+  ]
+}
