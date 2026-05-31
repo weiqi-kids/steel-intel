@@ -1,0 +1,171 @@
+{
+  "date": "2026-05-31",
+  "date_range": {
+    "start": "2026-05-25",
+    "end": "2026-05-31"
+  },
+  "generated_at": "2026-05-31T10:09:22.040310Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arcelormittal-2026-05-26-028",
+      "date": "2026-05-26",
+      "title": "ArcelorMittal Nippon Steel India achieves world-first with API 5L X100 pipes - Manufacturing Today India",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 45,
+      "last_week": 109,
+      "week_over_week_change": "-59%",
+      "sentiment_this_week": 0.04
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "fortescue": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 5
+    },
+    "tata_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 4
+    },
+    "hyundai_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "bhp": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "arcelormittal": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 8
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 171,
+        "last": 300,
+        "change_pct": -43.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-25",
+      "event_count": 20,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 41,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 47,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-25 ~ 2026-05-31）共 171 則事件，重點為「ArcelorMittal Nippon Steel India achieves world...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 523,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 236,
+  "gate1_fail": 13,
+  "gate2_fail": 18,
+  "passed": 14,
+  "gate2_samples": [
+    "Vale S.A. Deposito Arg Repr 0.5 ADR Financial Statements – BCBA:VALE.CI - TradingView",
+    "A Look At BHP Group (ASX:BHP) Valuation As Labor Risks And Downgrade Test Recent Share Price Strengt",
+    "Rio Tinto begins commissioning $1.5bn low-carbon aluminium smelter - Investing.com",
+    "Rio Tinto plans to restart NZAS potline - Aluminium International Today",
+    "Rio Tinto (RIO) Completes First Phase of $1.5 Billion Smelter Ex - GuruFocus"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:09:21.906958Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "warrior_met-2026-05-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal Hits Day High with 10.9% Surge in Stock Price - Markets Mojo",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1VYNW9FTWZnWFJkSTVud09JdVo4QUlOYWpTQ1VXd192cGJtOEtraml5TFZJVTZFQlFKSWtfOHc2bjNKVDlRdkN5Z1B0aWFxN2V4SGQwOFBJajFKMFV2UmtOUVBWV1Y4c0VNcHlVVVUtOE85TnNNOW8wMThFbTRvbkJyVnJNT25sR2lrSTFDN1dMNXBZdW95MXVkY0c2UzQ0NHgwQ3diMnQwY093WDFsYUctVmdtdks4TFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JSW Steel Partners for Green Methanol Project in India - megaproject.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjdmbFZxUW1JSTNKVjh5eDAyMEtRR2ZkWVBQMkE3bk1pdHE4eGhSLW9UOGJOejliQUFmeDJtVjJtTEhhbHRnSnJlRUlBSmF0MWZMUjNVTTNJdlBFcnp6QjlSQjlFMEk5WDRuU2lvZ3U5azBWbnZZdXNPSERsSDBoWkdaZ19NUDF1ckh3bnJCMHBYaFk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "West Asia conflict to marginally impact steel prices: SAIL chairman - Business Standard",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUlnV0xIaFlQSjctWVFaVlQzeGp5eW9qSkdobm12ZjZ0UU8xY0ZLeVR0d08zOERQY2F6S0FVeHc1M0NBMzdrRk01NDRDU29WSVlkRlIydGtNaTAyZWRkYVRhYlVMejJ2YVBXZEZDM0l6X3RlR2xueUpIc0R2VkV4YWJ3eVRCRzRldzVXUGMzRjNEM196QWExeHp5UkJDUmkzNE1jYlI5S0VUYklLSVRzQWM4M3ZOeGhPdWxwZUJ1N2lXNHRjUUJXSXhLa1QxdWJQ0gHWAUFVX3lxTE9qY1l3Z2VNNUlpRmRRcFRVV1lNZTZCTHRPMC1GdFRESU11WkRaRTVIMUpWNnllVFJyc0ZkSXJEcDc1OGJ3dVY2eUcxWXRETERTYW80YVFubm1EY3gzWWNwZW9yaGZodWY2c2l2Q1ZUbEdVbUoxTWJxWVZkblVTT3F2aVVqUlZodFNYb2hPUURIWGVtcE82SnljdEVlUzg1eWdEdFZfZWZlX1dYQ1hsMXNZWk9SX2syeWdmMlVyWXZZbmdyZG84N3NkMi05MjBRMEdHelUtRnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 523,
+    "dup_title": 242,
+    "too_old": 236,
+    "gate1_blocked": 13,
+    "gate2_blocked": 18,
+    "passed": 14,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Vale S.A. Deposito Arg Repr 0.5 ADR Financial Statements – BCBA:VALE.CI - TradingView",
+      "A Look At BHP Group (ASX:BHP) Valuation As Labor Risks And Downgrade Test Recent Share Price Strengt",
+      "Rio Tinto begins commissioning $1.5bn low-carbon aluminium smelter - Investing.com",
+      "Rio Tinto plans to restart NZAS potline - Aluminium International Today",
+      "Rio Tinto (RIO) Completes First Phase of $1.5 Billion Smelter Ex - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Warrior Met Coal相關動態：「Warrior Met Coal Hits Day High with 10.9% Surge in Stock ...」。主要關注主題為鋼鐵產業通用、焦煤與廢鋼、鋼品價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Warrior Met Coal Hits Day High with 10.9% Surge in Stock Price - Markets Mojo（焦煤與廢鋼）",
+        "level": "green"
+      },
+      {
+        "text": "JSW Steel Partners for Green Methanol Project in India - megaproject.com（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
