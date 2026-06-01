@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-01",
+  "date_range": {
+    "start": "2026-05-26",
+    "end": "2026-06-01"
+  },
+  "generated_at": "2026-06-01T13:29:49.263265Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arcelormittal-2026-05-26-028",
+      "date": "2026-05-26",
+      "title": "ArcelorMittal Nippon Steel India achieves world-first with API 5L X100 pipes - Manufacturing Today India",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "arcelormittal",
+      "company_b": "nippon_steel",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "fortescue",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 61,
+      "last_week": 94,
+      "week_over_week_change": "-35%",
+      "sentiment_this_week": -0.0
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fortescue": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "bhp": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "rio_tinto": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tata_steel": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hyundai_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 6
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "us_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 184,
+        "last": 262,
+        "change_pct": -29.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-26",
+      "event_count": 30,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 42,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 49,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 26,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-26 ~ 2026-06-01）共 184 則事件，重點為「ArcelorMittal Nippon Steel India achieves world...」。Nucor、U.S. Steel表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 520,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 232,
+  "gate1_fail": 14,
+  "gate2_fail": 16,
+  "passed": 33,
+  "gate2_samples": [
+    "Vale S.A. Deposito Arg Repr 0.5 ADR Financial Statements – BCBA:VALE.CI - TradingView",
+    "Rio Tinto begins commissioning $1.5bn low-carbon aluminium smelter - Investing.com",
+    "Fortescue Reshapes Board as Elizabeth Gaines Departs and Sigrid Kaag Joins - The Globe and Mail",
+    "SXC Stock Price, Quote & Chart | SUNCOKE ENERGY INC (NYSE:SXC) - ChartMill",
+    "Is ArcelorMittal SA (MT) Overvalued After 3.8% Rally? GF Value S - GuruFocus"
+  ]
+}

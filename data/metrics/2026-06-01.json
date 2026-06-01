@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-01",
+  "total_events": 26,
+  "by_company": {
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rio_tinto": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "hyundai_steel": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai_steel",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "arcelormittal",
+      "to": "nippon_steel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

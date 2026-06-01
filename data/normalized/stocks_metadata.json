@@ -1,18 +1,18 @@
 {
   "vale": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "bhp": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "rio_tinto": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "warrior_met": {
     "earliest": "2017-04-13",
@@ -21,113 +21,113 @@
     "history_complete": true
   },
   "suncoke": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "cmc": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "arcelormittal": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "nippon_steel": {
-    "earliest": "2012-07-25",
-    "latest": "2026-05-29",
-    "count": 3404
+    "earliest": "2012-04-26",
+    "latest": "2026-06-01",
+    "count": 3465
   },
   "jfe": {
-    "earliest": "2012-07-25",
-    "latest": "2026-05-29",
-    "count": 3404
+    "earliest": "2012-04-26",
+    "latest": "2026-06-01",
+    "count": 3465
   },
   "posco": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "tata_steel": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3412
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3476
   },
   "nucor": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "steel_dynamics": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "cleveland_cliffs": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "gerdau": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "china_steel": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "chung_hung": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "tung_ho": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "feng_hsin": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "baosteel": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3360
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3422
   },
   "hyundai_steel": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3397
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3459
   },
   "reliance": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "ta_chen": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "spring_rain": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "tenaris": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "etf_slx": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   }
 }
