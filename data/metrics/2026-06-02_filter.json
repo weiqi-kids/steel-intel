@@ -1,0 +1,16 @@
+{
+  "total_raw": 510,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 232,
+  "gate1_fail": 11,
+  "gate2_fail": 14,
+  "passed": 53,
+  "gate2_samples": [
+    "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada - ESG Today",
+    "Fortescue begins work on Turner River solar farm and Cloudbreak BESS - MSN",
+    "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+    "Boone County team wins Nucor sculpture competition - herald-dispatch.com",
+    "Why Is Cleveland-Cliffs Stock Surging On Wednesday? - Benzinga"
+  ]
+}

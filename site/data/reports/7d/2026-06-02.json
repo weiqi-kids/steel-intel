@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-02",
+  "date_range": {
+    "start": "2026-05-27",
+    "end": "2026-06-02"
+  },
+  "generated_at": "2026-06-02T11:59:35.277793Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "fortescue-2026-05-27-001",
+      "date": "2026-05-27",
+      "title": "BHP, Fortescue warn China’s influence over iron ore will only grow - AFR",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "fortescue",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hyundai_steel",
+      "company_b": "posco",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 78,
+      "last_week": 68,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.01
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 13,
+      "last_week": 3,
+      "week_over_week_change": "+333%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "bhp": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "rio_tinto": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "arcelormittal": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tata_steel": {
+      "event_count": 15,
+      "sentiment_avg": -0.03,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 8
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "hyundai_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "warrior_met": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "nippon_steel": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 5
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "us_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 207,
+        "last": 219,
+        "change_pct": -5.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-27",
+      "event_count": 42,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 52,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 48,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 26,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-27 ~ 2026-06-02）共 207 則事件，重點為「BHP, Fortescue warn China’s influence over iron...」。JFE鋼鐵表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "FMG",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

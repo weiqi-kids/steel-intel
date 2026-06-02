@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:59:35.141419Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-06-02-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ArcelorMittal Nippon Steel India Secures First PM-SETU Approval for Visakhapatnam ITI Cluster in Andhra Pradesh - TheCSRUniverse",
+      "companies": [
+        "arcelormittal",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR09VU1E0OFdRUGk5T1AyeFBHaU0wczROWjBvRkFfUjFwWWp5aWhFYnFnaTlrZUtIVXV4TzNfV1FEQVFNbTZlZFhWVkNrUzBVWkhNNkQzTWtBWm1xVThBcHpyRmtld2NKa2pUN1hvSTMzYkVseEMzQ3BLSnBpRW56TEJlOE04M1RQWVlnUlNvVFlXckktMzJlTk91NlY2aFB6dmJ1eVFVSE0wM2dWV2FCVWtiVzdvY3d5VVh0YWU1blFVR0tDWHVrS3ZYMHFoOENMeW1GNWdHamhqRXM2LVgzdQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-06-02-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ArcelorMittal Nippon Steel India Secures First PM-SETU Plan - Construction World India",
+      "companies": [
+        "arcelormittal",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVRNUk9iVG5jbGREM1loVXZwbVpLSjFhMTU1S2lMNkh4NHF2U0FBM0p3OUxFYVVZNWJZaHNNeERlSDZVMUZvbVgwOXhhanQ4eXBzWG8xc216ZEZRU2EzeGpPS2NKZmlkdzZsUC1uQks1NkJGczk5OE1CR2JhNHBlN1RHMzdHVDdNdnlPQ2x5SDJpWFlFZnNvVjRVb2ZZUU9oVUFUQzlSMkd3QkFXLUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Beyond the Giants: Five Iron Ore Stocks Quietly Shaping the Market - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOWNDR2J5YldYbDRYOVBITUxFZVRfUDZSRHZuR1FWV2laQ2E2OGYxSnFwQ0JrNU5XOVRpTVBFOEtWMjdZN0ZWVTRvZU5RbFl3Q0hOYWROQWltemVIdVFWWU4yTi1XV09tMWoyUGJWX3V1NTZrRU9acmtkRk9nY0pybmU5TGFWNU9mcDhadjJTS19rTFpPbEF5LWJndmdEYzdpSW1SWkRLYjF1SXVWMHBlUmNB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Begins Commissioning $1.5 Billion Low-Carbon Aluminum Expansion in Quebec - News and Statistics - IndexBox",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVNsOTVLZEpJUjVFSFJJVTJ3YVNCNHZHSDdJV0FCNnRIbU8zZzFyZ2p3dGMtaHk1UTFnNFlKN0V0NDFkSUNFQ0xKLXI3U0FmQi1DNDZKUzBCblZZaGlZMlVYdlpYLWJtUjJOeTFTLW5CQjRRS0JQRU10UEVibUVFS0xZaTNWeHBOb2JKUGJCNWs1aGVXNzNUcWZZZkw4YWtGa1RfVmhZTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RIO TINTO : Gets a Neutral rating from Deutsche Bank - marketscreener.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmhyYTVvN1Z6QWo1VDVEd2tsTVV2NTQ3czNubUpfQUx5SFZMNWVCM0pGV1h3X1VFSWUxdWxqVlI1QWdxSWtaZkpyMXNfTms2UjlFRWFmV3ZjTVlHbjVMZU9xak5ydWFKT3Y4VEE5MUtWZFExYUJKcnpFTnBZcldrNDdLcXNnZEpJeDVSX0hpMzE5LUJGVVk1Q3ZxeGd5WDlON2RFMnN3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "arcelormittal",
+      "to": "nippon_steel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "fortescue",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "tata_steel",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "trade_policy",
+        "count": 9
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 510,
+    "dup_title": 200,
+    "too_old": 232,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 53,
+    "pass_rate": "17.1%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada - ESG Today",
+      "Fortescue begins work on Turner River solar farm and Cloudbreak BESS - MSN",
+      "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+      "Boone County team wins Nucor sculpture competition - herald-dispatch.com",
+      "Why Is Cleveland-Cliffs Stock Surging On Wednesday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為FMG、力拓、安賽樂米塔爾相關動態：「ArcelorMittal Nippon Steel India Secures First PM-SETU Ap...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ArcelorMittal Nippon Steel India Secures First PM-SETU Approval for Visakhapa...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ArcelorMittal Nippon Steel India Secures First PM-SETU Plan - Construction Wo...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
