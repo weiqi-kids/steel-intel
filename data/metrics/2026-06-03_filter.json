@@ -1,0 +1,16 @@
+{
+  "total_raw": 521,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 10,
+  "gate2_fail": 30,
+  "passed": 42,
+  "gate2_samples": [
+    "Is Rio Tinto Group (LSE:RIO) Overvalued After Recent Share Price Strength - Yahoo Finance",
+    "Rio Tinto warns market uncertainty threatens critical mineral supply - FinanceAsia",
+    "Rio Tinto rises Tuesday, outperforms market - MarketWatch",
+    "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada - ESG Today",
+    "Rio Tinto: Downgrading On Valuation, Not Fundamentals (NYSE:RIO) - Seeking Alpha"
+  ]
+}
