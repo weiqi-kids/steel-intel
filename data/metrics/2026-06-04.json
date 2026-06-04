@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-04",
+  "total_events": 26,
+  "by_company": {
+    "rio_tinto": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "cmc": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "steel_dynamics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.06
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "iron_ore_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

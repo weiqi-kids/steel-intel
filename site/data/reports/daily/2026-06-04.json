@@ -1,0 +1,245 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T10:58:35.473973Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-06-04-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nucor vs Steel Dynamics: Which Is the Stronger Buy Today? - Trefis",
+      "companies": [
+        "nucor",
+        "steel_dynamics"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUklYSk9QX3c3ektSaXVGRHpqZUxzejNnYkFGbE1uVnVrNXdkVlFZMUdHVmVKREY4aDN2UGJ6dFE5eUlyUVA0ZkNrNVV2RU9xVlZpNXJIUTlaTDhVR3NHbU5kcDlDSk45UHRxMzNHNTJwNGRMUDBRUk9DUTlBQktKQS1DNkFERGdyT3hib1VtV3JLUkZtbE8ySFRtVFZYaWFDUWhRSE0tTkk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "warrior_met-2026-06-04-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A Look at Warrior Met Coal Inc (HCC) After 4.0% Decline -- GF Va - GuruFocus",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEFoUGlvb28zcmg0ZnBHY19oN1lMOUpnaFlVUklKYmZDb25OQ3V2RWk5QjJBT2VRYUVidHNBbWdkQmdtWWRCNUZCNEpnOTJJeXp0by1GdFBIbUY2RW1UMkVMcjRNYXc4ZUJSaE1EcENXSXVpVEZJYklMbEtYUkE4QXBrM0Rab21CbmpNdlIxN08tb044MXJ3a3pNeFN3STUxeTJNeWVENFQtTS1zTEZTY2R1QXUwMlF6eDd3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s iron ore squeeze is testing free market miners - AFR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3kwNlFvNHpQN1FqN1prLUlkT003SjlOeEdhUWxPQ3Y5am9GYjVGbjYzVF8xeFhqeGtKdUlwSWJTcGctbkxiaTkzUkJhTjVIZm9lMmVqY2tVTFRkT25xWHluLUVJMnpkWWx1R3AwV1hkV1pXd3BIMGIwYVowTkxYeEZsUXhVOXhDMUFObFpLcjZnRlVTV2pPS0prTlNPYVdza3lqdkFRa0Y?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RBC Downgraded Rio Tinto After Its “Flight To Quality” Run - Finimize",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEpUcG5oMlk2V3BUb3p6dUFUWTZDYlFsQlBHSTRwVlFYYVJmZkNpRFBnVk11aHRSZGttR1JVR3R6MEtmSkVpMDJfVEU3MkpfczJYUU9fWVBncGUzRkhQbWNBaG9kbm81Mk1KMnotYnJWa003bkpsX0FaZkxBMWNaTjZpQldvNkhHamhOQnl3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-06-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "According to foreign media reports, Rio Tinto has begun commissioning - Shanghai Metals Market",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOVhZTGtrSkZCelF4MVNXRXF3T1hrc0Z6MUg5cndhSy0tWEVsYXlWT1pCMGFpbmJsczVMcVhwelNUS3JtR3M0MFZ5RGNYNHJuRHZrcVB5VmcxSlVMTW1ZeEc4WmF1Z195c1lQOWR5NVBFcklWMGlaOGhHVVM3aE14R2FTY3VtX2l3NnBBcEJkTHZVclEyTzNFVVptU2p5Y0s1R1ZWQlBYOEJ5Zk5hYjl3WVBLYnY5OHVjZ1ZXN3JJeEl4VHNmTGZWbjUyTXcydm94cko0Nw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 11
+      },
+      {
+        "id": "rio_tinto",
+        "count": 2
+      },
+      {
+        "id": "cmc",
+        "count": 2
+      },
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 505,
+    "dup_title": 199,
+    "too_old": 213,
+    "gate1_blocked": 10,
+    "gate2_blocked": 30,
+    "passed": 53,
+    "pass_rate": "17.3%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Is Rio Tinto Group (LSE:RIO) Overvalued After Recent Share Price Strength - Yahoo Finance",
+      "Rio Tinto Bets On Automation And Low Carbon Aluminium As Valuation Stretches - simplywall.st",
+      "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada - ESG Today",
+      "Rio Tinto PLC Stock (RIO) Moved Down by 3.15% on Jun 3: What Signal Does It Send? - tradingkey.com",
+      "Rio Tinto rises Tuesday, outperforms market - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為塔塔鋼鐵、力拓、Commercial Metals相關動態：「Nucor vs Steel Dynamics: Which Is the Stronger Buy Today?...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nucor vs Steel Dynamics: Which Is the Stronger Buy Today? - Trefis（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "A Look at Warrior Met Coal Inc (HCC) After 4.0% Decline -- GF Va - GuruFocus（焦煤與廢鋼）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

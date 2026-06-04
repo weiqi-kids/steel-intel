@@ -1,0 +1,16 @@
+{
+  "total_raw": 505,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 213,
+  "gate1_fail": 10,
+  "gate2_fail": 30,
+  "passed": 53,
+  "gate2_samples": [
+    "Is Rio Tinto Group (LSE:RIO) Overvalued After Recent Share Price Strength - Yahoo Finance",
+    "Rio Tinto Bets On Automation And Low Carbon Aluminium As Valuation Stretches - simplywall.st",
+    "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada - ESG Today",
+    "Rio Tinto PLC Stock (RIO) Moved Down by 3.15% on Jun 3: What Signal Does It Send? - tradingkey.com",
+    "Rio Tinto rises Tuesday, outperforms market - MarketWatch"
+  ]
+}
