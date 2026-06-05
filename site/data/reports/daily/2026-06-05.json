@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:19:23.774088Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-06-05-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal stock jumps 57% YTD on record output, US expansion - MSN",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWQ2aGNfR3hTUXV4NS1tVmdNTDdHaHJxWllPdUt5VGV6MXNvcmp1c1djUXVrLVlldkN5RVd4eUdkVl9JNnBsaEtKTmltWDRZb1VWcGxZUmtLVkhqVGFkeDFva2NOcW10UkZlSW1XRG5sTExSQkYwZUp5cnVXTjdTc2hTVDZMVG9WN1N1WnRfTnZEYUpXTllldVAxSFI3X2dSZms5VVU3ZVhTQzJ6RFVQYzcwM1A3bF90ZzhmRG9oQWV1MTJhajVwMWxiZ0s2TnJUM1o4THR6TQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Shares Close Week Red, as Iron Ore Tests Key Levels - thebull.com.au",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1gtX1ByY0dhaG1ray1jRkF0ZHdwSFJvLTY0WjhISFFJZGVqY2lHb2VDWGRnTUlQQ3A0eHhNUVZSRGdzVTdteVJVMkRadGtTYzUyUVV2TTlvZ2w0MTdPRm1IQkI4aTlMbHRWNTVYSERIZkNlZzZoRTEyZFdldlhVbERtd1IzVTFUa25N?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berenberg Wants Rio Tinto To Stream Oyu Tolgoi Silver - Finimize",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2d6YUtBbkN2TF82UHdTOE04bHcxbnpjcm9HTHJoSlFnTVlWRE0ydS02c2FTMkQ0RWI1SHpIajNST3hNTGt5cjVFQ3Jzd1JGNEJqNWNOdzBzODFtdExpOHZJYTBXNmwxVDBZN3dPSTFoQ1ZXb09TNl9jSkYwX1Uzd0RGMzBoSURnU2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto emphasises on automation and low-carbon aluminium production amid valuation concerns - AL Circle",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajNHdm9pRGp4ZjdMRW1vTGVOdGNlMGxFRU13cXFXWGktanpNX1VYLUNlaHNCTHF5ZE03V2JIVTNmWUduQjFqYmVpc2ppejhCejlUYzRlVEZ6N0x4US1ka1U0WmFYMi02Wk00UHdPbURWWW5ReGpld2JoTV9SQkdfNExHMHJOZXF4ZWhDWlZSWExMdWxiZjlUekxsSkJ3Mk1RN1NrOFZDOE5WWWxFVWxHUTJwclVUTWl0MWt1dGtsc3dTYU5Kd0NTVDRPUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "warrior_met-2026-06-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Bull Case For Warrior Met Coal (HCC) Could Change Following Coking Coal Rally And Blue Creek Ramp-Up - simplywall.st",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYURNRnBZTHllbmVjWUpqUFZJY04tT1gzRmE5VjZQbkRZd3ZaRGZGMVJlVWdDa2RmYXdmRTVmMDZUUHdXUmlBclpwcU5NdGhoSUZrSlk4YTVxeWVJaEhQdmFhTkhIY0s4OVJTcU96TEFSZllvQTU3alJUeXVLZDBJNFkzSkxpQ2RIbHNZVzYxYUliOEJJVmx6QWJRSmlsVUk0UGlOTjlPTnN6ejRnZkpBZ0VGdXcxQzFGazM2QXFLc0sxSUJBTS1STm5ORWg2N3ZK0gHWAUFVX3lxTE1KTktmSWM4azJMZGxtc09xN2hOMmhSLTVHdVlDT1NRU0trOFZuTGpaRWRiUEllczRYNkI2eXBpYTdiTE1UNTdTWnM0SFpkQ1FLVENDWnJmY2hCNE5JUk0wc3NhSkRDb2VOR1VkZWY2Nkw4aDIwcnNmV1lOdUw1aDFpTGZOeTdwNF9VV2xPcWJ2aWcwWkR6bk5sLXFNTk5lOUs1dVZuR2ZFRXFGclFUaU1qTUxFM2dPX0sxRjkzYmloQ3l0V2xYZkpINTlNNTJuRC1EaHhiNHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      },
+      {
+        "id": "warrior_met",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 520,
+    "dup_title": 229,
+    "too_old": 207,
+    "gate1_blocked": 15,
+    "gate2_blocked": 26,
+    "passed": 43,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Is Rio Tinto Group (LSE:RIO) Overvalued After Recent Share Price Strength - Yahoo Finance",
+      "Here is why Rio Tinto Group (RIO) is among the Best Silver and Copper Stocks to Buy for the EV Trans",
+      "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada - ESG Today",
+      "RBC Capital downgrades Rio Tinto stock rating on valuation concerns - Investing.com",
+      "Rio Tinto rises Tuesday, outperforms market - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為塔塔鋼鐵、力拓、安賽樂米塔爾相關動態：「ArcelorMittal stock jumps 57% YTD on record output, US ex...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ArcelorMittal stock jumps 57% YTD on record output, US expansion - MSN",
+        "level": "green"
+      },
+      {
+        "text": "BHP Shares Close Week Red, as Iron Ore Tests Key Levels - thebull.com.au（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
