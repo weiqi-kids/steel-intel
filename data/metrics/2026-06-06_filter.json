@@ -1,0 +1,16 @@
+{
+  "total_raw": 503,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 203,
+  "gate1_fail": 16,
+  "gate2_fail": 26,
+  "passed": 33,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Moved Down by 5.53% on Jun 5: A Full Analysis - TradingKey",
+    "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance",
+    "Rio Tinto: Downgrading On Valuation, Not Fundamentals (NYSE:RIO) - Seeking Alpha",
+    "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada - ESG Today",
+    "Assessing Rio Tinto Group (LSE:RIO) Valuation After Recent Share Price Pullback And Strong One Year "
+  ]
+}
