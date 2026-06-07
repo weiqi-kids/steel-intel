@@ -1,0 +1,16 @@
+{
+  "total_raw": 506,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 193,
+  "gate1_fail": 15,
+  "gate2_fail": 29,
+  "passed": 23,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Moved Down by 5.53% on Jun 5: A Full Analysis - TradingKey",
+    "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance",
+    "Notable analyst calls this week: Rio Tinto, UnitedHealth and Intuit among top picks - MSN",
+    "Rio Tinto: Downgrading On Valuation, Not Fundamentals (NYSE:RIO) - Seeking Alpha",
+    "RIO TINTO : Goldman Sachs reiterates its Neutral rating - marketscreener.com"
+  ]
+}

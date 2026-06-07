@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-07",
+  "total_events": 5,
+  "by_company": {
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
