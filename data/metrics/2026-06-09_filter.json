@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 193,
+  "gate1_fail": 16,
+  "gate2_fail": 22,
+  "passed": 59,
+  "gate2_samples": [
+    "Rio Tinto ramps up smelter with recycling tie-in - Recycling Today",
+    "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance",
+    "Federal Court approves Rio Tinto unit's compulsory taking of remaining ERA shares - Australasian Law",
+    "Is Rio Tinto Group (LSE:RIO) Overvalued After Recent Share Price Strength - Yahoo Finance",
+    "Fortescue begins work on Turner River solar farm and Cloudbreak BESS - MSN"
+  ]
+}

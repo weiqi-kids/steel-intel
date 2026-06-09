@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-09",
+  "date_range": {
+    "start": "2026-06-03",
+    "end": "2026-06-09"
+  },
+  "generated_at": "2026-06-09T10:55:09.175187Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "us_steel-2026-06-03-021",
+      "date": "2026-06-03",
+      "title": "Can Nippon Steel beat its own forecast on U.S. Steel comeback? - Nikkei Asia",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "iron_ore_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "industry_general": {
+      "this_week": 93,
+      "last_week": 78,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": -0.01
+    },
+    "trade_policy": {
+      "this_week": 9,
+      "last_week": 13,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.06
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 14,
+      "sentiment_avg": -0.07,
+      "rank": 2
+    },
+    "arcelormittal": {
+      "event_count": 5,
+      "sentiment_avg": 0.3,
+      "rank": 5
+    },
+    "tata_steel": {
+      "event_count": 27,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 6
+    },
+    "warrior_met": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 7
+    },
+    "cmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "bhp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cleveland_cliffs": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hyundai_steel": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 10
+    },
+    "fortescue": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "nippon_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "us_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 246,
+        "last": 247,
+        "change_pct": -0.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-03",
+      "event_count": 47,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 59,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 43,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 10,
+      "sentiment_avg": -0.1
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 50,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-03 ~ 2026-06-09）共 246 則事件，重點為「Can Nippon Steel beat its own forecast on U.S. ...」。Warrior Met Coal情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Warrior Met Coal",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
