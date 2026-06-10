@@ -1,0 +1,16 @@
+{
+  "total_raw": 509,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 203,
+  "gate1_fail": 15,
+  "gate2_fail": 23,
+  "passed": 42,
+  "gate2_samples": [
+    "Rio Tinto ramps up smelter with recycling tie-in - Recycling Today",
+    "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance",
+    "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+    "Jefferies Remains a Hold on Rio Tinto (RIO) - The Globe and Mail",
+    "Rio Tinto Increases Canada Fund to C$13 Million: 30% Funding Boost for Community Initiatives - News "
+  ]
+}

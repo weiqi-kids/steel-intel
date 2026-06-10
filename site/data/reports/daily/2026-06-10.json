@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:32:26.717300Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "us_steel-2026-06-10-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nippon Steel gets ¥90 billion via first bond since U.S. Steel acquisition - The Japan Times",
+      "companies": [
+        "us_steel",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWEo0QUdYNXZPbXZzSnIxbXlsVG1Ec1kyMXR1SERQYW9pcmZCVjU2ZkwtV09JSUtnckotTDkzY3JmakpzRkQtQ0VycW9ld2RuTW1JMV9WR3ZoeEhyREZGT0pKYlJQWlVxa3pCczllQkQ3UUJwZTNNY2pCWkhUSjdKRUlEYXpmRWJmZFRXM2ZfYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "warrior_met-2026-06-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal Inc (HCC) Shares Fall 4.3% -- What GF Score of 81 Tells Investors - GuruFocus",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2FYcDNpMnhfTGNHUUlobUhBLTdaOTY5YUtZWlJGYXpVakhsdG9fQXhhbDRfdm1TSEotc1VPVVZkYTZoT3FOVklDN2xSRXprTmkxTkI1Yi00N3B6cld3MmVEZXdDODc0eVM3NFpPbU8tUzdqWi1yaWJlSVBNd082ZmMxOVBpb3loUzJob2szUWR5aDkzOXFrM0VOQ2NETjVoSDhvY1lmVzBMMkVXdmI0YmYtTjM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nippon Steel’s First Bond Since US Steel Deal Raises ¥90 Billion - Bloomberg.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzlMXzlHNU5FTGVvamZ5dE5DWTZtRHhZdkVvUkFqRFlCdmh2elZhQm1TejVTekc2OHA2ajJkNTBTRHQtMGVJdDZRRTBMY0IxYVZGVENtd25KeHpyNGRxaWpLazdpUUVpbEZXd195M3RGaW14SWw1X1NCZzRrazd1emNJUGdEOFp1UGdzc3NmMG1WVzg0NGh3SWNic05jNG14S3NCY2lkYUR1dFZiUHFMUFdJMUk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-06-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nippon Steel raises ¥90B in first bond offering after US Steel acquisition - Crypto Briefing",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwN3Job2pnMmVzYXI5cTVpR2NsOThoUWQwTkZUOFMyNU1IYTlpc2dGVV80OUFxX3ljM041akdfbzZUclNZa0lLZW1SZlV0aFBRNEJmUktzYzEzVHJXc3Rpem1PSlJpWUlxN01QUjV5UEU2UnNFYWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-06-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan’s Nippon Steel doubles planned US investment - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUGxVV1JEOUlTNDZxNXFpWldsVUs4NjNGU01PeUsxdVFxYzNFTm1LV0FpRlpyNkFsdkpFQmM3cXJSVGZmdTdWTDV6dVEta3VmYVpqMXo2eVRuQUVOMlVHcUJndGdBUkEtOWlXelhIM2gxSEhuVVBBb2QwOGhhTFBEODhmWTA5VWdHcFA2dUl6c29WMXFwS0MtWDM2MmZoM3I2ejB4S2M2RQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 5
+      },
+      {
+        "id": "us_steel",
+        "count": 2
+      },
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      },
+      {
+        "id": "gerdau",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 509,
+    "dup_title": 226,
+    "too_old": 203,
+    "gate1_blocked": 15,
+    "gate2_blocked": 23,
+    "passed": 42,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Rio Tinto ramps up smelter with recycling tie-in - Recycling Today",
+      "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance",
+      "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+      "Jefferies Remains a Hold on Rio Tinto (RIO) - The Globe and Mail",
+      "Rio Tinto Increases Canada Fund to C$13 Million: 30% Funding Boost for Community Initiatives - News "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為日本製鐵、U.S. Steel、Warrior Met Coal相關動態：「Nippon Steel gets ¥90 billion via first bond since U.S. S...」。主要關注主題為鋼鐵產業通用、焦煤與廢鋼，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nippon Steel gets ¥90 billion via first bond since U.S. Steel acquisition - T...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Warrior Met Coal Inc (HCC) Shares Fall 4.3% -- What GF Score of 81 Tells Inve...（焦煤與廢鋼、鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
