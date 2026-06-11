@@ -1,0 +1,16 @@
+{
+  "total_raw": 495,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 198,
+  "gate1_fail": 12,
+  "gate2_fail": 19,
+  "passed": 42,
+  "gate2_samples": [
+    "Rio Tinto ramps up smelter with recycling tie-in - Recycling Today",
+    "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance",
+    "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+    "Rio Tinto boosts Canadian fund by 30%: social licence signals for mine planners - Geomechanics.io",
+    "Federal Court approves Rio Tinto unit's compulsory taking of remaining ERA shares - Australasian Law"
+  ]
+}
