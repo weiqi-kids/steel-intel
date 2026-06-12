@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-12",
+  "total_events": 7,
+  "by_company": {
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "arcelormittal": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "reliance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

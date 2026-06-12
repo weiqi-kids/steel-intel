@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:37:09.483166Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-12-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How did leading global steel producers fare in CY'25? - BigMint",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmhmanIwZ2Y0eGY3SWYzWkpQc2tYbm55RkdyMEhXMGFUUFJHTUZYc2NMeVhFVG9kMkJNbnk2YnZjdmQwMXlHZ1YzMWdKRUQyOVRrNk1Ja3ZjTzNIOEFsWEsyUnVObzdDbzl4QnpVanBjMXBqOXlpYjRyRzRLOUNYSjVmcTNuQWZJWDJTak40SThCdFdxa0w2cFh5cVlBYU0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "warrior_met-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At Warrior Met Coal (HCC) Valuation As Analyst And Insider Signals Pressure Sentiment - simplywall.st",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc1NsRjlDdlRpdHB3ZWdrWmtlWmw2UFFnVWhib3ZiZHZ0bXF3WVU4OVEwWTV6dWZOeEd4ZkFmLW50azB3aFpyNzN3WGUyenN3VW5RVFhmMGhTR2tIdjY1MTlfclYtQ3JEZXdreGdXU1NIeWNEdHp3VUpzRG44R0dwWUR6YlczUnRBNFg1Sjl2c2V0c3J3dm5nNFVGVk1LSDk3cFNZQy1jcXNoOTNkRTJqdndONWlSamthX2hBX0xRU09PREF5NHE3Nzc0OC1CQdIB0wFBVV95cUxOcmVyZmxGR2E2RlVUV2prYW1PLVBoZDZTbHBNdWVMcjJOWTVQT0VUWFMyUHIzdWt3MTMzUE5hTF9vcVl4aWhqNzE1bDZ4QW9qQ1dBUmdRVW1HVVlqeGV5QklLYmpnY0hFRWRPb2lpUTBUeWdlYWxhQm9CUmJJeFNVRUdfZ2JJX0FGU2NPZHAxVnF3MFA2eUdOdElXYlRHczVDVFljY0I5eDRuY0dkSE1KWVhjb3g2bjR5MEw1Z2FPOGk2d2tQcGloNUtxZjljSkJDWVJB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battle For Steel: Why ArcelorMittal Is In The Eye Of Storm In France - NDTV",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3JTc0NJTElqdV9Dd0ZqWDhmZ25rVXQyOFBHaDJoNXAtUzB3b1k4ZEVEbmRrbkV1M0ptczByQVBCeGxaa2VpSlRKZWlXXzBJSUVfb1RhbXY3WU5sd1RtTDlqS0dfQ1FvSXdMNUNmcDdwRUtoUml3bVI3Z0g2dlNJS05vaENlVkJtbGVlU2hBV254enl1a0wxdkJpcGtsZ1FoZ0dHUkdWak42R1h0b2RnRFUyRXljZVpWR0kxZktCaFdTNDZZQkHSAc4BQVVfeXFMUEE5Rzhld0l6cm9rOFp1bWdTdmk5R3JEUml4U2tnQThlZTFNb0dJYWREaUZuNWRDd1BQVEYxeTFBdWZBTm42NTJZeGNoZEwtMll3dlRkcGdYRmEydEd2TjNtZjZYVkV0VGxGTTBiLWNMNkk0MEJJeExWTmtPdXhUR3cyQm1xQ2lPRi1RVnItVjZNZjlXNXhiaVZEZWl0a1JrcFNmVS1yUlBZTWgzcWw5TGQzMWExUGNUbWh6Y29lVVFtOEJPbXJjYmRtOUxLT0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ATRACKSYST: ArcelorMittal Spain steel traceability project advances - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0tJY0RmemdrSUNuTWE5LTZXWHR3aDhUY1k4OXg1TXlVNDJ0aVdHcmEzakZ5WVpaTWJ5WVNiSV9MTk5XcjYtZFRHN2xhWHRhQnV3X1JWZHBEM1JfZ2EwQ0hJdFgzcDFHc25jNDNDbVgxbE9TbWVlTnQ3VF9RTk1xXzRKTTZmbV8zM3pTVzhIb3hMcGM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-06-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why France Wants To Nationalise ArcelorMittal: The Battle Over Steel, Jobs And Sovereignty Explained - NDTV Profit",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcnI2QjVPVmZIa25xNGxQYThJVW0tc3NlSUJqUHkzZ19oUGFZTkRWZU9odS0zNlJncGRvTFQzVXVRYlNQY0F4NjBVYjJiRXEzNE9McjR4ZkptbmFGamFjZnF2cGdoeFN3b1BVVVNnY0gxR1pVZ0hwZnZZMFVEeERacERmQUdveThTdnJYY2txV1pkeENZTWJMd0NIWXhYNmFaMlVJUFlsQnFnYlBDUngyZHBYb3VpeENfNk1rVHJDMHljS21WN3VvMkVJRkJROUV2Y3VkVEZaYkRKV03SAeMBQVVfeXFMTXF3aFc1NzRrRGhtNGRyTDg3WmR4WWhrOUxYWmwtQXU5NHhWNGYtVDV4VlRKc1pJVVA4a01TZWhfRjlHaEdLdmdIdEdobWhQWTRVREZnTmRWMXFSbDhmN05xREhHS1FobUtWTU9idWNEUTBJeGNUaXBRWUlHMUxwazlya3JsYnpFMFhCcnd0U2c4RUlLMm9SeWIzMl8xS3JRdkp6OFhweGdFbC14SkJQLUY0VTZoZDBrMzVRc1owaFl3bVIzcFFsTjU2Nmc0LXZaZk5BdkZfTG9uU1F5V3NhUmVYX0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "reliance",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 509,
+    "dup_title": 241,
+    "too_old": 197,
+    "gate1_blocked": 11,
+    "gate2_blocked": 26,
+    "passed": 34,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+      "BHP Group Ltd Stock (BHP) Moved Up by 5.18% on Jun 11: What Signal Does It Send? - TradingKey",
+      "Rio Tinto ramps up smelter with recycling tie-in - Recycling Today",
+      "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+      "Rio Tinto boosts Canadian fund by 30%: social licence signals for mine planners - Geomechanics.io"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為安賽樂米塔爾、Warrior Met Coal、Reliance Inc相關動態：「How did leading global steel producers fare in CY'25? - B...」。主要關注主題為鋼鐵產業通用、焦煤與廢鋼，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How did leading global steel producers fare in CY'25? - BigMint（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A Look At Warrior Met Coal (HCC) Valuation As Analyst And Insider Signals Pre...（焦煤與廢鋼）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
