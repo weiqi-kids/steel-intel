@@ -1,0 +1,16 @@
+{
+  "total_raw": 507,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 12,
+  "gate2_fail": 25,
+  "passed": 14,
+  "gate2_samples": [
+    "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.25% on Jun 12: A Full Analysis - TradingKey",
+    "BHP Group Ltd Stock (BHP) Moved Up by 5.18% on Jun 11: What Signal Does It Send? - TradingKey",
+    "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+    "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:23:04.620741Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 507,
+    "dup_title": 247,
+    "too_old": 209,
+    "gate1_blocked": 12,
+    "gate2_blocked": 25,
+    "passed": 14,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+      "BHP Group Ltd Stock (BHP) Closed Up by 3.25% on Jun 12: A Full Analysis - TradingKey",
+      "BHP Group Ltd Stock (BHP) Moved Up by 5.18% on Jun 11: What Signal Does It Send? - TradingKey",
+      "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+      "Rio Tinto Advances Automation And Low Carbon Aluminium In Growth Push - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-06-13 無鋼鐵產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
