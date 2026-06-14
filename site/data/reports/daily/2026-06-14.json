@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:45:36.551913Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JPMorgan Raises Nucor (NUE) Forecast Ahead of Expected Strong Q2 Results - Insider Monkey",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFdUYWx1eTg1OGlOUzIxVTZTSXpTY1duUVhpSUkyTkNQcndJbWpzblU5ekg5TmpEYkJaT1VmbUR6aGVGSDZqS3NaSmduSFF2NUxGejhvcGxzTnFiV0lQQ0tIYzBwQjdZbEMtOUZ5QVU1a0ZJeG5GMHhqMnhyZkdwYXppeW9kcWZFSzg3VkFLSnR3TVNIQl85NHRBSnZLM01xc1FqRWVqWnZ4Q212UjdpZkhuYmjSAbwBQVVfeXFMT0tHMkFUaXB5ZGN2VHFoLVVpcG5SeXp3eVdpRjdoTzZmVkNhekdMczY2S3VzUzhLWkVvVjBWRzV3UzV2REl3b1VLTV9qb0lVSjNNemh2S0Ffb1I1REYxdlgwd0l4dWJPOWQtbERFN1RtLXVSMGhTc2VKZ2ZndXNLR2ZzREhpY2Y3WlBmQVZaLTh2TE9zaHZKeXltMG9sd3hyODhDaVFGdlpsc3NfTFZNNnJfOVU2eURNRWlGSVY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "us_steel-2026-06-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Promises kept: Howard Lutnick on the anniversary of the deal that saved U.S. Steel - Washington Examiner",
+      "companies": [
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZDBPeHNtZzhqcGwxODE0RVVia25kNmdtUGlFQk5ITUF1SVFnT2R1YUk5X0duUDE0YURabnprajI4eS1MZXRCYWdqSm5RdFRQT1hjRF8xY2doMlZmaUstdXFBaXpvOUREdWdHOEdvR3V1Q0E2SW9qelM1Z1BlYVNIMEVWcnA5OUd0ZmN2MktqUlZiNzQwZmtSR2pNaTJiZTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nucor",
+        "count": 1
+      },
+      {
+        "id": "us_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 507,
+    "dup_title": 254,
+    "too_old": 211,
+    "gate1_blocked": 11,
+    "gate2_blocked": 25,
+    "passed": 6,
+    "pass_rate": "2.4%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Vale's top shareholder pushes for meeting on chairman's removal - Reuters",
+      "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+      "BHP Group Ltd Stock (BHP) Moved Up by 5.18% on Jun 11: What Signal Does It Send? - TradingKey",
+      "BHP Group Ltd Stock (BHP) Closed Up by 3.25% on Jun 12: A Full Analysis - TradingKey",
+      "Analysts Express Mixed Sentiment on Rio Tinto (RIO) - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Nucor、U.S. Steel相關動態：「JPMorgan Raises Nucor (NUE) Forecast Ahead of Expected St...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "JPMorgan Raises Nucor (NUE) Forecast Ahead of Expected Strong Q2 Results - In...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Promises kept: Howard Lutnick on the anniversary of the deal that saved U.S. ...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

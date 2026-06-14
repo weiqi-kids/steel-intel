@@ -1,0 +1,16 @@
+{
+  "total_raw": 507,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 211,
+  "gate1_fail": 11,
+  "gate2_fail": 25,
+  "passed": 6,
+  "gate2_samples": [
+    "Vale's top shareholder pushes for meeting on chairman's removal - Reuters",
+    "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+    "BHP Group Ltd Stock (BHP) Moved Up by 5.18% on Jun 11: What Signal Does It Send? - TradingKey",
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.25% on Jun 12: A Full Analysis - TradingKey",
+    "Analysts Express Mixed Sentiment on Rio Tinto (RIO) - Yahoo Finance"
+  ]
+}
