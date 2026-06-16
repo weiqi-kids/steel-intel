@@ -1,0 +1,171 @@
+{
+  "date": "2026-06-16",
+  "date_range": {
+    "start": "2026-06-10",
+    "end": "2026-06-16"
+  },
+  "generated_at": "2026-06-16T12:47:32.935975Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "us_steel-2026-06-10-003",
+      "date": "2026-06-10",
+      "title": "Nippon Steel gets ¥90 billion via first bond since U.S. Steel acquisition - The Japan Times",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "rio_tinto",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.25
+    },
+    "industry_general": {
+      "this_week": 69,
+      "last_week": 93,
+      "week_over_week_change": "-26%",
+      "sentiment_this_week": 0.05
+    }
+  },
+  "company_7d_summary": {
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "nippon_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "us_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tata_steel": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "bhp": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "rio_tinto": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hyundai_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "arcelormittal": {
+      "event_count": 6,
+      "sentiment_avg": 0.09,
+      "rank": 6
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "china_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 149,
+        "last": 297,
+        "change_pct": -49.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-10",
+      "event_count": 32,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 39,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 24,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 22,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 22,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-10 ~ 2026-06-16）共 149 則事件，重點為「Nippon Steel gets ¥90 billion via first bond si...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Warrior Met Coal",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "日本製鐵",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "U.S. Steel",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

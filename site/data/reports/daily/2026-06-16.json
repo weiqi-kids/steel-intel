@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:47:32.799223Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-06-16-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP and Rio Tinto See India Driving Steel’s Next Wave of Growth - Bloomberg",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWdWdnZzakN3ZVQ0b2F0RkVZZmU0QjNFWEtKTm01ZV9hdnlaZV8xVTViY0xGY25UWHc1UmR4b2tuMzkwQVZobXg4SkFaUlhfYzB2cUR0QWFPbVFpS3JMdk4yT1Y4NldCdkRRMWk3TC1NYU81VzlOMmRoUzFpc1U1Vlpoa1lYWGlqT3BmVWw1RHhKMkxWRWExaGhzNU1uS2VUNnpZU09yUWlfV3Nwa3lZVUVRTVY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-06-16-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP Group, Rio Tinto see India driving steel's next wave of growth - Business Standard",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnc2OUFfall6RDlvcm5sem9EamNsbFlxSU14b2NucW1XN3J1NXF4b012VVFMR3N0ZG9OcEVGbmdsUFVQQWN5RVFZU2JPZHZPSGU1U1FlTUVSbHptRE1YdzUxRzhoYXloSmdIVEVGUGdzaWdRQnB2Zmo3eDJsSGFtWWFDSGxDYlQ1SzA1ZmRPSk5yZnV2alFubUY0eHJvRFZwSVpnaDJXdmh2VmNKdGZWOXJZcHRqcGVTVjRnYWJPYlk3cWZYMlZnQU91NnF1VXBfMlY0RVJNSklSOXNG0gHcAUFVX3lxTE92dzY5QV9qWXpEOW9ybmx6b0RqY2xsWXFJTXhvY25xbVc3cnU1cXhvTXZVUUxHc3Rkb05wRUZuZ2xQVVBBY3lFUVlTYk9kdk9IZTVTUWVNRVJsem1ETVh3NTFHOGhheWhKZ0hURUZQZ3NpZ1FCcHZmajd4MmxIYW1ZYUNIbENiVDVLMDVmZE9KTnJmdXZqUW5tRjR4cm9EVnBJWmdoMld2aHZWY0p0ZlY5cllwdGpwZVNWNGdhYk9iWTdxZlgyVmdBT3U2cXVVcF8yVjRFUk1KSVI5c0Y?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-06-16-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP And Rio Tinto Look To India For Steel Demand - Finimize",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHktZDVYcDVYNlprN0ZFX2xYSWptVHV1VHNYZnNyd3QwYkN0RmxOZm5uWXd1MHdiRlJWMFRNaWd0dVhuUWYwbHVUZEVoS3M3Sk92dFc1bWo5OW9kNkJ4dDY4YXRrRk5MaDg3eWpjeDVhU05CcHJveFp3R3pZcklJOWdaWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Iron ore miners highlight India, ASEAN as they look for growth after China - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFJxem1yaXphVWZ0Yk9BRTVvMDFjSTRMcncxNFB6U01wQW0weEg0TDZLaExIRmcxRFk3d2NqQkJFV0RTbGdfMlMxQ2ZGR1FLMmhQVURKSm1TY18xa21wdjV5UG5fR1J5eTJmZEN4akdobk85aGxBMnZnNWRZSThod1F4ZzJ2QVA0ejJHeUxCdVFYZUVMNU1mejUtcExVSjgzb25GcG1sMFZxOEpvczV2NEROckEtWXhqMUdHd1BR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-06-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Steel Industry in Flux: How Strategic Resources Is Solving the Problems Facing Rio Tinto and thyssenkrupp - news.financial",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3FhVlBhVUhRLTFJSXNNMzNCS0RRMmUtWVpGNFFXci0tTjhKRmJXWWExM2czV2NyTmJjcFdTejNUWVRRQzhua1B1UUF2ZnZha2huQVJ0Mklmdnd5Zng0YnJ6ZkZTZENob18zRWMyeWJYVVhNU1d1WDdSeFdPYjl4TmMyU1hlMkNreDlUdUVSLXF4Z3NHTGxhMTRMOElNdXhqVlg5WXF0RlRsMGwyTE9CTUVTWWhuZE1qZE9ZSGVNUUtsNHYtMHdyV01Bb1VHLVhoT2lrVG5wYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "bhp",
+      "to": "rio_tinto",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 5
+      },
+      {
+        "id": "bhp",
+        "count": 3
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "tata_steel",
+        "count": 3
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 507,
+    "dup_title": 213,
+    "too_old": 216,
+    "gate1_blocked": 12,
+    "gate2_blocked": 28,
+    "passed": 38,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Vale's top shareholder pushes for meeting on chairman's removal - Reuters",
+      "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+      "BHP Group Ltd Stock (BHP) Closed Up by 3.25% on Jun 12: A Full Analysis - TradingKey",
+      "Key facts: Rio Tinto shifts to copper/lithium; Macquarie neutral, A$188 - TradingView",
+      "Rio Tinto (LSE:RIO) Stock After 91% Year Gain Are Expectations Getting Ahead Of Fundamentals - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為力拓、必和必拓、安賽樂米塔爾相關動態：「BHP and Rio Tinto See India Driving Steel’s Next Wave of ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BHP and Rio Tinto See India Driving Steel’s Next Wave of Growth - Bloomberg（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "BHP Group, Rio Tinto see India driving steel's next wave of growth - Business...（鋼鐵產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 507,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 216,
+  "gate1_fail": 12,
+  "gate2_fail": 28,
+  "passed": 38,
+  "gate2_samples": [
+    "Vale's top shareholder pushes for meeting on chairman's removal - Reuters",
+    "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.25% on Jun 12: A Full Analysis - TradingKey",
+    "Key facts: Rio Tinto shifts to copper/lithium; Macquarie neutral, A$188 - TradingView",
+    "Rio Tinto (LSE:RIO) Stock After 91% Year Gain Are Expectations Getting Ahead Of Fundamentals - Yahoo"
+  ]
+}
