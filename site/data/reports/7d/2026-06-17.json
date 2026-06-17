@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-17",
+  "date_range": {
+    "start": "2026-06-11",
+    "end": "2026-06-17"
+  },
+  "generated_at": "2026-06-17T12:11:16.156521Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "posco-2026-06-11-015",
+      "date": "2026-06-11",
+      "title": "Hyundai Steel seeks strike rights as POSCO opens wage talks in South Korea - CHOSUNBIZ - Chosunbiz",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "rio_tinto",
+      "co_mention_count": 7,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 79,
+      "last_week": 95,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.05
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.25
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 8,
+      "week_over_week_change": "-88%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "rio_tinto": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "us_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tata_steel": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hyundai_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "arcelormittal": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "china_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 168,
+        "last": 282,
+        "change_pct": -40.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-11",
+      "event_count": 39,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 24,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 24,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 46,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-11 ~ 2026-06-17）共 168 則事件，重點為「Hyundai Steel seeks strike rights as POSCO open...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Warrior Met Coal",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

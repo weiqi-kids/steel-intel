@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 187,
+  "gate1_fail": 16,
+  "gate2_fail": 26,
+  "passed": 51,
+  "gate2_samples": [
+    "Vale's top shareholder pushes for meeting on chairman's removal - Reuters",
+    "BHP Group (ASX:BHP) Shares Could Be 46% Undervalued After Copper Growth News - simplywall.st",
+    "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+    "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News,",
+    "Protesters block copper exports to China from Rio Tinto mine in Mongolia - Ottumwa Courier"
+  ]
+}
