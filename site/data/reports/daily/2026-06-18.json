@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:47:57.556101Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "us_steel-2026-06-18-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel takeover - TribLIVE.com",
+      "companies": [
+        "us_steel",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzBkOUM2MU4ySmJwTzZSd3Jja2U4OVJ5WGstOXgxOWtEWTMxZkRhRnU3c1ozNV9FZFFQMHBBY09WT3hQemswckFxREFvUjY4X2FESHlMS1RZZW56amptR05CMnhZRG5ZRjBMdVNGZktQRXdXRmw4NFNLT3JlWDR1eFlkcG1TRUFkcE1ETmVTcU5odlFHWkJFM2h5bFlxdklNRzBBYjMwck8xZy1OYkRKNDJuR20wM3ozWGZURA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Resumes Copper Exports From Massive Mongolian Mine - Bloomberg.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2NOUzZfdFpIYXEtOUV5bUcxOGMzOFkxYTA1eTNTaFhtdHpFREpaXzd2UG5rRFFTaGY3THl6dkhlMFJaZTlSVkJ0UlVpQ19ndkx3NV9JX0lfb2xudEhORE4tekM1dEMtVk52eS1BOWY4SG5DRGFlSDdpRWxZTkk0SEFIUTctaU1vTXM1MVprcVNzQVFvYnF1eGxYVFJCYkprcVI2cE1NZkw3dE02N3pNNg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-06-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Protest blocks copper shipments from Rio Tinto’s Oyu Tolgoi mine - Mining Technology",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2lvWmJhZ2VsQmRzNVlZZ0FIYXFNY2MydGFOaU85b1JaRG1Za0FqVHBER3BLakJYUjBSdTRVZzVmUm9uNzVrbmdNakxoVk1VX2phekxGb0FoYVZzdXN6WTRyS3Vtbl9YbVZMTEtUbGJDb01jODlPaThNaWEta0dFQnRmZlFITXhhUWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-06-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berenberg Expects Rio Tinto's H1 Earnings to Miss Consensus Estimates; Price Target Updated - Moomoo",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemdCdUZCdElnSUhYMDR4NDBDT29DTWducVh3RGNsYlZJT2ZGckg1VFdTLV96dlZrREJJQnY3LVRrS0pRU1FVNWlfeVEtTWx3Z01rYzNxVW1DZy0zQnBRTkVhTkJ4Ml9WSkJBcmEwN1RlMzVINGU2d255WWZfOVIwQlJ4Um1kY0RKYVltRjhGU3ZmcXB3ZUZSTF9rLURmUzZHZzc0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-06-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berenberg Expects Rio Tinto's H1 Earnings to Miss Consensus Estimates; Price Target Updated - marketscreener.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTXZMTGlmMHYxY3pMTnRQc2JqUTQtWTVGY0t1TUhKN3hWeTk3dU5fYUZEZEhqcUpORWZuQnFCOFVwejBiR2VOa28zdVRZWExOSGs0RFFpMElRb0pxampxeUwxQUZrUUdjMlpDbmk4c3N6LTl3TjN0WXZKQmhGemVqbGk1Qm5yQXY4TElYcjJDcHAteUVLS21ITTRSS0dPRi1MZk8zOXMwRDFJX1NCYXpoRHc2cDdoNnNiZ2dqamJRc0M3VnlTRUx1ZF80UW1vUi1YemR5YS0xVm4xamM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cmc",
+        "count": 5
+      },
+      {
+        "id": "rio_tinto",
+        "count": 4
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 3
+      },
+      {
+        "id": "warrior_met",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 460,
+    "dup_title": 188,
+    "too_old": 176,
+    "gate1_blocked": 14,
+    "gate2_blocked": 32,
+    "passed": 50,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Vale's top shareholder pushes for meeting on chairman's removal - Reuters",
+      "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+      "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News,",
+      "RIO TINTO : Berenberg is Neutral - marketscreener.com",
+      "Rio Tinto (LSE:RIO) Stock After 91% Year Gain Are Expectations Getting Ahead Of Fundamentals - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為Commercial Metals、力拓、現代製鐵相關動態：「A year later, U.S. Steel workers remain divided over bene...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel ...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rio Tinto Resumes Copper Exports From Massive Mongolian Mine - Bloomberg.com（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

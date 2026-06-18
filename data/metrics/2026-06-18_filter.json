@@ -1,0 +1,16 @@
+{
+  "total_raw": 460,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 14,
+  "gate2_fail": 32,
+  "passed": 50,
+  "gate2_samples": [
+    "Vale's top shareholder pushes for meeting on chairman's removal - Reuters",
+    "BHP Group: Simandou Adds Pressure, But The Quality Case Still Holds (NYSE:BHP) - Seeking Alpha",
+    "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News,",
+    "RIO TINTO : Berenberg is Neutral - marketscreener.com",
+    "Rio Tinto (LSE:RIO) Stock After 91% Year Gain Are Expectations Getting Ahead Of Fundamentals - Yahoo"
+  ]
+}
