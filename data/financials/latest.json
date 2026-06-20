@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T11:59:41.202854Z",
-  "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
+  "updated_at": "2026-06-20T10:27:57.097227Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
   "companies": [
     {
       "id": "arcelormittal",
@@ -177,17 +177,17 @@
       "name": "JFE鋼鐵",
       "ticker": "5411.T",
       "currency": "JPY",
-      "ar": 692985000000,
-      "ar_prev": 646290000000,
-      "ar_qoq": "+7%",
+      "ar": 668994000000,
+      "ar_prev": 692985000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 1228540000000,
-      "inv_prev": 1306318000000,
-      "inv_qoq": "-6%",
+      "inventory": 1188142000000,
+      "inv_prev": 1228540000000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-03-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nippon_steel",

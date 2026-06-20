@@ -1,0 +1,16 @@
+{
+  "total_raw": 511,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 189,
+  "gate1_fail": 16,
+  "gate2_fail": 23,
+  "passed": 27,
+  "gate2_samples": [
+    "BHP (ASX:BHP) Takes $2.3 Billion Jansen Write Down As Costs And Delays Grow - simplywall.st",
+    "BHP Group Ltd Stock (BHP) Moved Down by 3.12% on Jun 18: A Full Analysis - TradingKey",
+    "BHP Group (ASX:BHP) Shares Could Be 46% Undervalued After Copper Growth News - simplywall.st",
+    "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News,",
+    "Rio Tinto falls Friday, underperforms market - MarketWatch"
+  ]
+}
