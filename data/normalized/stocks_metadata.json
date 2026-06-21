@@ -1,18 +1,18 @@
 {
   "vale": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "bhp": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "rio_tinto": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "warrior_met": {
     "earliest": "2017-04-13",
@@ -27,108 +27,108 @@
     "history_complete": true
   },
   "cmc": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "arcelormittal": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "nippon_steel": {
-    "earliest": "2007-08-31",
+    "earliest": "2007-06-04",
     "latest": "2026-06-19",
-    "count": 4615
+    "count": 4678
   },
   "jfe": {
-    "earliest": "2007-08-31",
+    "earliest": "2007-06-04",
     "latest": "2026-06-19",
-    "count": 4615
+    "count": 4678
   },
   "posco": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "tata_steel": {
-    "earliest": "2007-08-30",
+    "earliest": "2007-06-01",
     "latest": "2026-06-19",
-    "count": 4636
+    "count": 4699
   },
   "nucor": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "steel_dynamics": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "cleveland_cliffs": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "gerdau": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "china_steel": {
-    "earliest": "2007-09-12",
+    "earliest": "2007-06-14",
     "latest": "2026-06-18",
-    "count": 4598
+    "count": 4660
   },
   "chung_hung": {
-    "earliest": "2007-09-12",
+    "earliest": "2007-06-14",
     "latest": "2026-06-18",
-    "count": 4598
+    "count": 4660
   },
   "tung_ho": {
-    "earliest": "2007-09-12",
+    "earliest": "2007-06-14",
     "latest": "2026-06-18",
-    "count": 4598
+    "count": 4660
   },
   "feng_hsin": {
-    "earliest": "2007-09-12",
+    "earliest": "2007-06-14",
     "latest": "2026-06-18",
-    "count": 4598
+    "count": 4660
   },
   "baosteel": {
-    "earliest": "2007-09-12",
+    "earliest": "2007-06-14",
     "latest": "2026-06-18",
-    "count": 4557
+    "count": 4621
   },
   "hyundai_steel": {
-    "earliest": "2007-08-27",
+    "earliest": "2007-05-29",
     "latest": "2026-06-19",
-    "count": 4642
+    "count": 4703
   },
   "reliance": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "ta_chen": {
-    "earliest": "2007-09-12",
+    "earliest": "2007-06-14",
     "latest": "2026-06-18",
-    "count": 4598
+    "count": 4660
   },
   "spring_rain": {
-    "earliest": "2007-09-12",
+    "earliest": "2007-06-14",
     "latest": "2026-06-18",
-    "count": 4598
+    "count": 4660
   },
   "tenaris": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   },
   "etf_slx": {
-    "earliest": "2007-08-29",
+    "earliest": "2007-05-31",
     "latest": "2026-06-18",
-    "count": 4731
+    "count": 4794
   }
 }

@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 257,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 16,
+  "gate2_fail": 16,
+  "passed": 12,
+  "gate2_samples": [
+    "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News,",
+    "How Rio Tinto (RIO) Is Using Nuton and Los Azules to Build Another Copper Growth Path - Yahoo Financ",
+    "The Rio Tinto boss carrying Donald Trump’s biggest bet - The Nightly",
+    "Rio Tinto (LSE:RIO) Stock After 91% Year Gain Are Expectations Getting Ahead Of Fundamentals - Yahoo",
+    "Analysts Express Mixed Sentiment on Rio Tinto (RIO) - Yahoo Finance"
+  ]
+}
