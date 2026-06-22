@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-22",
+  "total_events": 21,
+  "by_company": {
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cmc": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": -0.03
+    },
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
