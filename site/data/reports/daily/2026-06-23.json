@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:55:58.851553Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-06-23-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP and Rio Tinto test Caterpillar's electric haul trucks in Pilbara - Mining Weekly",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlJDU3JLZlVSSlFMdHFUM2x0OF9EQ3dBam1QbXdiME5hU3g1R3B5NGRPUy05dzY4WEszX0dXbTQxaHdzZGtHUUJ5aHk3eUowWVVVQVlKN0Q2U2ZTVTlrWEJHRmVNNzcxZ2tXbVllYXFxTWNFNUlxM0FZNFh4aUpfVWJtNFY0eW9Kb3RkeHl6VjM5c1ZaWEI5dWJLS2NxajdrTzFNNnNTSWFhU1pPRGV6UXVjUk9ldw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-06-23-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP, Rio Tinto and Caterpillar to progress to Dynamic Energy Transfer testing on Cat 793 XE Early Learners at Jimblebar - International Mining",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRzBGTDZpMXU3cFUtWDV4WXlsRTVSWnBTRW1nWlNrUF9COF92dFMwbWlDU2VMLUVHSmp2RFBTV21ibHVNNEdvVHJrczBRenUyMVVmcmpHcDFhWEZ0OXFXTVFfTllLRDlNck11Z21IeXpZYVoxcjMzOERUT2FZWWg3anQwUHMxNVFTcHJfLVl6b3VhRlg0ZTVacDRMczBSZzBkSXhRbzFiR1J1M3A0STRLUzJ6aXN0azd5N20xWkJfcTJMOFZ2ZVNpQmFLMmZ3c2oybVRkbEdLUHlEQXJYZU5YcDdDR1dhd2M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Slovakian former US Steel mill could be next up for EAF conversion - Recycling Today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1o4UjRkSUFNMXF4SDU5MHJwUkdZZ08yYUdheHNUdU9WcmRuS0J2YUhDS19mVWIyV3NJUFNmME56dlRFcjgzRndIcW4tRUNrTzN3OWNZdFhCU2E5Ry1wVEdPa24ySW5hX1VndnRCeWdEUGQyUE5TQmdYMzFETHpDU0FyNkN6dXBxOGtENTU2OXlKM1BBQzdEZlp6NjM2WURZTFg3Zk93?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-06-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan’s Nippon Steel adjusts conversion prices on 2029 and 2031 bonds - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUFUdUZsckdidUN5NTI2eXJFWlE2RWNNM1NtcUl2WnpUSHlMSWROV0t2M3U3YzROY0dqOXpRbm5fN3hBenNsZ0h0WmpncjY2OWpPQkNTWGVmMjZsaXRyeE9icjJiLUlXOFlHN2hMTjJONXJxZmMzSWtPajREZncxNmtGd1Q5SUZJaHlJcFZoZmFjZ2NMTkVzNnZKMlBYWHlRRkVuejhpaG9FM01lRWdPU0k2Sk9ocjNTVlg3dVRhekQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-06-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHI3N2x2NldGek1PNnlXajF5VnlGOUNMSHNBeDdFYkJiVHZlWHhGVm1oRjhfUFptbmV2RjhuNzNMczhrdnV0a3ZyRnVYVlYwZ21WblBkdENGMUhLMWhJcC1mbTJWNkY1UVhDNWZqUTZaU2VrbkpYbmRRNmlwSVNlZTFrOG10akpnVGJ6THdB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "bhp",
+      "to": "rio_tinto",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 3
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "us_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 512,
+    "dup_title": 247,
+    "too_old": 185,
+    "gate1_blocked": 18,
+    "gate2_blocked": 21,
+    "passed": 41,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "BHP and Rio Tinto test Caterpillar's electric haul trucks in Pilbara - TradingView",
+      "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News,",
+      "BHP and Rio Tinto test Caterpillar's electric haul trucks in Pilbara - marketscreener.com",
+      "How Rio Tinto (RIO) Is Using Nuton and Los Azules to Build Another Copper Growth Path - Yahoo Financ",
+      "Fortescue : and CMB.TECH sign agreement to accelerate zero-emissions shipping - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為日本製鐵、Nucor、力拓相關動態：「BHP and Rio Tinto test Caterpillar's electric haul trucks...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BHP and Rio Tinto test Caterpillar's electric haul trucks in Pilbara - Mining...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "BHP, Rio Tinto and Caterpillar to progress to Dynamic Energy Transfer testing...（鋼鐵產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

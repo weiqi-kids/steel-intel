@@ -1,0 +1,180 @@
+{
+  "date": "2026-06-23",
+  "date_range": {
+    "start": "2026-06-17",
+    "end": "2026-06-23"
+  },
+  "generated_at": "2026-06-23T10:55:58.978752Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-06-17-002",
+      "date": "2026-06-17",
+      "title": "BHP and Rio Tinto turn to India as steel demand outlook shifts beyond China - SteelOrbis",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 82,
+      "last_week": 69,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.03
+    },
+    "coking_coal_scrap": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "bhp": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "warrior_met": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "arcelormittal": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "tata_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "us_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 6
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "hyundai_steel": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "cmc": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nippon_steel": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nucor": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 232,
+        "last": 185,
+        "change_pct": 25.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-17",
+      "event_count": 67,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 55,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 33,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 9,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 49,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-17 ~ 2026-06-23）共 232 則事件，重點為「BHP and Rio Tinto turn to India as steel demand...」。鋼鐵產業通用、焦煤與廢鋼、貿易政策為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Warrior Met Coal",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
