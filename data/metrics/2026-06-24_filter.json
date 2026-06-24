@@ -1,0 +1,16 @@
+{
+  "total_raw": 514,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 189,
+  "gate1_fail": 11,
+  "gate2_fail": 20,
+  "passed": 48,
+  "gate2_samples": [
+    "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+    "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News,",
+    "How Rio Tinto (RIO) Is Using Nuton and Los Azules to Build Another Copper Growth Path - Yahoo Financ",
+    "Fortescue : and CMB.TECH sign agreement to accelerate zero-emissions shipping - marketscreener.com",
+    "FORTESCUE AND CMB.TECH SIGN MILESTONE AGREEMENT FOR 12 AMMONIA BULKERS TO ACCELERATE ZERO-EMISSIONS "
+  ]
+}

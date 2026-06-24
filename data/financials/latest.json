@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T10:55:54.097450Z",
-  "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
+  "updated_at": "2026-06-24T10:42:03.967957Z",
+  "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
       "id": "arcelormittal",
@@ -194,17 +194,17 @@
       "name": "日本製鐵",
       "ticker": "5401.T",
       "currency": "JPY",
-      "ar": 1685993000000,
-      "ar_prev": 1430435000000,
-      "ar_qoq": "+18%",
+      "ar": 1768226000000,
+      "ar_prev": 1685993000000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 2695034000000,
-      "inv_prev": 2199096000000,
-      "inv_qoq": "+23%",
+      "inventory": 2776012000000,
+      "inv_prev": 2695034000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-09-30"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nucor",

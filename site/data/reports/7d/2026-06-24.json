@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-24",
+  "date_range": {
+    "start": "2026-06-18",
+    "end": "2026-06-24"
+  },
+  "generated_at": "2026-06-24T10:42:09.286060Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "us_steel-2026-06-18-014",
+      "date": "2026-06-18",
+      "title": "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel takeover - TribLIVE.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 69,
+      "last_week": 79,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.04
+    },
+    "coking_coal_scrap": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "warrior_met": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "cmc": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "us_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 6
+    },
+    "nippon_steel": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hyundai_steel": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "bhp": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "tata_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 213,
+        "last": 220,
+        "change_pct": -3.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-18",
+      "event_count": 55,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 35,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 10,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 51,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 40,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 12,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-18 ~ 2026-06-24）共 213 則事件，重點為「A year later, U.S. Steel workers remain divided...」。鋼鐵產業通用、焦煤與廢鋼為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Warrior Met Coal",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Commercial Metals",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
