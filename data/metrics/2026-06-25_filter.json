@@ -1,0 +1,16 @@
+{
+  "total_raw": 510,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 12,
+  "gate2_fail": 29,
+  "passed": 54,
+  "gate2_samples": [
+    "Rio Tinto sees lithium as fastest-growing division (RIO:NYSE) - Seeking Alpha",
+    "Is Rio Tinto (RIO) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Finance",
+    "How Rio Tinto (RIO) Is Using Nuton and Los Azules to Build Another Copper Growth Path - Yahoo Financ",
+    "Fortescue becomes latest Australian miner to face sexual harassment class action suit - marketscreen",
+    "FORTESCUE AND CMB.TECH SIGN MILESTONE AGREEMENT FOR 12 AMMONIA BULKERS TO ACCELERATE ZERO-EMISSIONS "
+  ]
+}
