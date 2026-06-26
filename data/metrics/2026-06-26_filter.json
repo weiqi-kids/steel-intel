@@ -1,0 +1,16 @@
+{
+  "total_raw": 507,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 15,
+  "gate2_fail": 25,
+  "passed": 58,
+  "gate2_samples": [
+    "Rio Tinto sees lithium as fastest-growing division (RIO:NYSE) - Seeking Alpha",
+    "Is Rio Tinto (RIO) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Finance",
+    "Rio Tinto (RIO) Ends Losing Streak with 1.15% Gain Amid Strong F - GuruFocus",
+    "Rio Tinto snaps six sessions of losses - MSN",
+    "Fortescue (ASX:FMG) sheds A$5.8 billion, class action ruling day brings no extra discount - Bez Kabl"
+  ]
+}

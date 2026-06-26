@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-26",
+  "total_events": 14,
+  "by_company": {
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jfe": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": -0.1
+    },
+    "steel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "iron_ore_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
