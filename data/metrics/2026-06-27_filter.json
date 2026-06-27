@@ -1,0 +1,16 @@
+{
+  "total_raw": 514,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 14,
+  "gate2_fail": 36,
+  "passed": 52,
+  "gate2_samples": [
+    "Vale Board Resists Shareholder Previ’s Bid to Oust Chairman - Bloomberg.com",
+    "BHP needs to review its ineffective decarbonisation strategy – IEEFA - GMK Center",
+    "Is BHP Group (ASX:BHP) Fully Valued After Its Leadership Changes And Growth Push? - simplywall.st",
+    "BHP, Rio Tinto test Caterpillar electric trucks in the Pilbara - magazine.cim.org",
+    "Rio Tinto sees lithium as fastest-growing division (RIO:NYSE) - Seeking Alpha"
+  ]
+}

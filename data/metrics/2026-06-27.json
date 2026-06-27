@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-27",
+  "total_events": 5,
+  "by_company": {
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jfe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "steel_dynamics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tung_ho": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
