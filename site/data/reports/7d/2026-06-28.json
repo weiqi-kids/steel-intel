@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-28",
+  "date_range": {
+    "start": "2026-06-22",
+    "end": "2026-06-28"
+  },
+  "generated_at": "2026-06-28T10:21:39.622998Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "us_steel-2026-06-22-043",
+      "date": "2026-06-22",
+      "title": "Cleveland-Cliffs cut at Morgan Stanley with U.S. steel prices nearing peak (CLF:NYSE) - Seeking Alpha",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 64,
+      "last_week": 89,
+      "week_over_week_change": "-28%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "rio_tinto": {
+      "event_count": 8,
+      "sentiment_avg": 0.19,
+      "rank": 1
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 6
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tata_steel": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 3
+    },
+    "cleveland_cliffs": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hyundai_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "jfe": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "fortescue": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 300,
+        "last": 257,
+        "change_pct": 16.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-22",
+      "event_count": 58,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 47,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 57,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 61,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 53,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-22 ~ 2026-06-28）共 300 則事件，重點為「Cleveland-Cliffs cut at Morgan Stanley with U.S...」。JFE鋼鐵表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Commercial Metals",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
