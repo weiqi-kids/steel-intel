@@ -1,5 +1,281 @@
 [
   {
+    "id": "bhp-2026-06-29-001",
+    "date": "2026-06-29",
+    "companies": [
+      "bhp",
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP, Rio Tinto and Caterpillar launch battery-electric haul truck trial to support mining decarbonization - SteelOrbis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOV21qeDNXbTZheWNMdlpzb1I0amdQSkxXMzFES2FaVHN4TnF3bU4za3pRNzBuRUlrRWNkeHYzNTVRTmdhM0l6QmVqYUU1UmZpVC11NzFueGs5MGk5Mi1keTNaMEhNTXBEcWpoenJ5aD",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOV21qeDNXbTZheWNMdlpzb1I0amdQSkxXMzFES2FaVHN4TnF3bU4za3pRNzBuRUlrRWNkeHYzNTVRTmdhM0l6QmVqYUU1UmZpVC11NzFueGs5MGk5Mi1keTNaMEhNTXBEcWpoenJ5aDE5eEo5aHQ5QThVdWlVU2pEZFE4bmE5Wkl5TGh5M3Zhc1NnNWxrRnk3Z0xLaENhWDVGX21QckVqcG0zXzVVQzhFUmFNTHBYdURjRW1OTFJJRHctN3BSbUNyT0Jsc3lMU08wX1FEdkY5SkNUQnRYN1YxQVA3eDNWeGRhQXZ2S0ZZN214QjhEc1RuU3N3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-06-29-002",
+    "date": "2026-06-29",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "iron_ore_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rio Tinto (LON:RIO) trails FTSE as iron ore prices hit lithium push - Bez Kabli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHZGMWNMa0FoZXZ0UkRyN2FyQVY4ODdqenNWZEVNSGlJNFNicGE1aUxybzFRTDl0X0ZJX2lEY0dzQnppSTVZRDFKaTRSTVBhR3ZuWko0NndGYnVRd0ZLUXhhOHRuRk5jZ3Ztc0dRTV",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHZGMWNMa0FoZXZ0UkRyN2FyQVY4ODdqenNWZEVNSGlJNFNicGE1aUxybzFRTDl0X0ZJX2lEY0dzQnppSTVZRDFKaTRSTVBhR3ZuWko0NndGYnVRd0ZLUXhhOHRuRk5jZ3Ztc0dRTV9ZYW1GRUF6ZjdNSlZxcFZLWkI1al9CZmRpR2xvLWpFYUhoUGpq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-06-29-003",
+    "date": "2026-06-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "positive",
+    "title": "Warrior Met Coal, Inc.(NYSE: HCC) added to Russell 2000 Growth Benchmark - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWS12bjFQTDhOSG9GVjZDa09jbm9nZFZoWjF6YmpUdmkyaUNIcVIyTGpYRDRrMExoa01NNHhBX0pWdXJlTG9ZVnA2SHNiWFVDeFFnMWx6SjJZRHZqNTQ0S1JYQmpOWmozbjhNTHFvb2",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWS12bjFQTDhOSG9GVjZDa09jbm9nZFZoWjF6YmpUdmkyaUNIcVIyTGpYRDRrMExoa01NNHhBX0pWdXJlTG9ZVnA2SHNiWFVDeFFnMWx6SjJZRHZqNTQ0S1JYQmpOWmozbjhNTHFvb29HOU80Z0lJdWVJNU1qX2ZyM2hKcms4U04yNGp6R3JmOHFCdXF1REVmNVd4Z1MtMUJzY2U1U1dVaWFfWlVhejV0Qk1jOFA3U0M4N0pHYXpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-06-29-004",
+    "date": "2026-06-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal, Inc.(NYSE: HCC) dropped from Russell 2000 Dynamic Index - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0VsRDRicHBDM0dWRzVES3UwMDJnU3RQZVEtUmc0UU5weDdkdUQwTndUZFRQcTYwSk44SjFzLWpYeWc0cUR6VmlKQzhaOXhJRDFDREhydDhPQUM3V0RwMm4zR3B2SFE2VVg0OTdmVl",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0VsRDRicHBDM0dWRzVES3UwMDJnU3RQZVEtUmc0UU5weDdkdUQwTndUZFRQcTYwSk44SjFzLWpYeWc0cUR6VmlKQzhaOXhJRDFDREhydDhPQUM3V0RwMm4zR3B2SFE2VVg0OTdmVlBiMHpfaWhROEI2UUZ5T2JkeTZPTWVjMHc0RVlYVkMxckUyWVc2ZDctMzJMXzdzbkpDbThNQ0ZyTjBCYmMwMHNzQnRDazFrcUpVeURRQkdsdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-06-29-005",
+    "date": "2026-06-29",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Commercial Metals (CMC) Is Down 5.6% After Earnings Beat, Buyback Finish and Russell Additions - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNl9pZWdvV3NzNGx4ZC1GUjZqb0psMGl1c0x3RS01RkFtY0VIUVUxWEV3TkFsVGhpNDJDLXFacUdVOVl5YUNzWWVzNnZVaGNYZDA5T3pFYWg0SXdndThFNGZfb001RkRmRUoxcjhHYU",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNl9pZWdvV3NzNGx4ZC1GUjZqb0psMGl1c0x3RS01RkFtY0VIUVUxWEV3TkFsVGhpNDJDLXFacUdVOVl5YUNzWWVzNnZVaGNYZDA5T3pFYWg0SXdndThFNGZfb001RkRmRUoxcjhHYUFuTkpzUHdSRkhUQzRSRXQ4azBFTC1UZUpvWFRaOG03cTM4OERNa0xPeEFmMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-06-29-006",
+    "date": "2026-06-29",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Commercial Metals Company(NYSE: CMC) added to Russell 2000 Growth Benchmark - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXdvaWlwMk43aUF3S0FYR0FYZFllT0JubzBLYktTODE4cDhJaTNnR04tOEZyWUtOQXFvLTREZXAwbUxRaEJsSnlZZTVpUUU1OHhrM2ZSTUVCbTZ6Vk9XQ0JfNjBhNDI5Ykx0elRQOE",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXdvaWlwMk43aUF3S0FYR0FYZFllT0JubzBLYktTODE4cDhJaTNnR04tOEZyWUtOQXFvLTREZXAwbUxRaEJsSnlZZTVpUUU1OHhrM2ZSTUVCbTZ6Vk9XQ0JfNjBhNDI5Ykx0elRQOERFTjhFVlhwa1BwTmZvQTlJZktmUE5DS2ViZ1QwYWVXQUQ1dDZOcEVtd09UYzY4UmtCd283dzZpNWNBSTZZRVEyTTJwT0sySzBWamp0N0t1X2hGbVBG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-06-29-007",
+    "date": "2026-06-29",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CMC Fiscal Q3 2026: EBITDA Surges 78.6% on Strong Steel Market Fundamentals - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHVUVXJCanRFT1dENG81NXNkaXIwRnZLMl9ST0Mwa19qQ2VJNklQN2w3Qk4tMEU1R2FsbTVWd2pqNTBYVElxM3BIUmdjSUZzQ18yMUcwRWFnR0U2eWNjN1R1YVpmdVRKVTQ4Y2pFYW",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHVUVXJCanRFT1dENG81NXNkaXIwRnZLMl9ST0Mwa19qQ2VJNklQN2w3Qk4tMEU1R2FsbTVWd2pqNTBYVElxM3BIUmdjSUZzQ18yMUcwRWFnR0U2eWNjN1R1YVpmdVRKVTQ4Y2pFYWRVZ0N1R0RNSUR4NTJvcTNFUUx1NmRTZEVYdTFkUXhuaTkzVWlFZ3FBZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-06-29-008",
+    "date": "2026-06-29",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Commercial Metals Company(NYSE: CMC) added to Russell 3000E Growth Benchmark - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxON1NKdnJ2Q2hmUUFNRWQtZ1ZUVlFmNHhEcUFKYS1MQmRJczBCMjBSUVliODk5Rkl3al9QeGdQSHdQYkhVMk1KTHhobHZoeFpVb3g3OGlWQzVqeVlmamw1RGJURzhRdlJDMkg4RTFTdW",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1NKdnJ2Q2hmUUFNRWQtZ1ZUVlFmNHhEcUFKYS1MQmRJczBCMjBSUVliODk5Rkl3al9QeGdQSHdQYkhVMk1KTHhobHZoeFpVb3g3OGlWQzVqeVlmamw1RGJURzhRdlJDMkg4RTFTdWVRdzA5dW51N1ZWaVFLZ19ReFg1R2xxSHdiLXVrOXFXT1ViMDVvWE1ZUVE5MlpkOWVoRlFsdzhRakFBNGdBVUljb0kxZ09qSlNGWHpYeGdFeGFlNzJuVmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-009",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A year after US Steel was sold, communities push for clean investment - Canary Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1URDBTVGhIZEZhMVlzZnpPczNZOUg0T3JqQ3RobGhIbWxZOFktU1pJRjB0MHhvRVQwT2tRT3c1RVZGUndpVXNzRHVrdHp6Mjdsc3VyeC1HeWN1S1lEQzQ2el9qSlZ6Yl9PSzliLUhFcU",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1URDBTVGhIZEZhMVlzZnpPczNZOUg0T3JqQ3RobGhIbWxZOFktU1pJRjB0MHhvRVQwT2tRT3c1RVZGUndpVXNzRHVrdHp6Mjdsc3VyeC1HeWN1S1lEQzQ2el9qSlZ6Yl9PSzliLUhFcUxvN1o1dU96UGoyNFBUQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-06-29-010",
+    "date": "2026-06-29",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Groups say Nippon Steel investments will perpetuate coal and air pollution in the Mon Valley - 90.5 WESA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZG53Z09hQkZIV3lWenhMZFlrYUQ0OW02SzBURlBuVGpLMk5yQWNnNTA1amJyX3AwRnVPVWRLemZ3SnJhRTI1U3BnVUpic3REdGM0SFVXR1ZBRmxRUk44VlNVOVlwcUk5Umk1Z1NMV1",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZG53Z09hQkZIV3lWenhMZFlrYUQ0OW02SzBURlBuVGpLMk5yQWNnNTA1amJyX3AwRnVPVWRLemZ3SnJhRTI1U3BnVUpic3REdGM0SFVXR1ZBRmxRUk44VlNVOVlwcUk5Umk1Z1NMV1Z2dU1xLURXVFNLazVHUklNU2RwdWtTMGNiTTdBZEZRRVRPajFoSHVobmMzbkhfMmpUS3hIWkN2d0VRd2NQeWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-06-29-011",
+    "date": "2026-06-29",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel pours $475 million into Fairfield expansion: ‘American manufacturing excellence’ - Yellowhammer News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkRJU1FVenc1TDlWSEZqc0ZJRjk0TjQzTHpqenlCUUoyWElyZXptZHlucnBmS1NsSVpaakVOUHNsMV9ZVXlUOTZrT0xPYkJKRXRNU1h3bEkwS2FmR2FvMVNpSFVBUHRGVkJkNTNIa3",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkRJU1FVenc1TDlWSEZqc0ZJRjk0TjQzTHpqenlCUUoyWElyZXptZHlucnBmS1NsSVpaakVOUHNsMV9ZVXlUOTZrT0xPYkJKRXRNU1h3bEkwS2FmR2FvMVNpSFVBUHRGVkJkNTNIa3QyblNwbUxaYk1OcFlGRE5TZlpDbjlpTmJPWU5ncko5V2dONWh0dFAzaHlQMl9UMjFJWEVSWTdBMXI5clhNOEdlVVVsTnJDY0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-06-29-012",
+    "date": "2026-06-29",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel Imports May 2026: Monthly Recovery of 11.2% vs April, Yet Down 26.3% Year-to-Date - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYkphY1J0eXF4bkZyUTFidm1ZSnhXaFhrY01iMW5wMnUyNUdtTHpLVEp0SnhzamExdUM2TDd4Tjk0ZG1MS3VkWnNUX09BZVpFXzR3aERxa2R2R0REOElTVmxyaGVzM0pJVjFXZkhwcE",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYkphY1J0eXF4bkZyUTFidm1ZSnhXaFhrY01iMW5wMnUyNUdtTHpLVEp0SnhzamExdUM2TDd4Tjk0ZG1MS3VkWnNUX09BZVpFXzR3aERxa2R2R0REOElTVmxyaGVzM0pJVjFXZkhwcEhZNExGaXd2UmFoQTlVRzk4Ym50WEQtd2RCZGgzUHRMS1dyNENtdGVKSlJIZmxrczhSdmw4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-013",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "US Steel Approves $475 Million Investment to Expand Advanced Tubular Manufacturing - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHNNbS1waWxTME9fWXQ3MFdPOG40eE5RVm1qRUJFc3V2UnJwSlBxcGlsR3dYRWxCeWZmZDE0dlJkZk9VLVNBeVRfQ2ExRnpZekkyVGw5RWFDYmdWb1FDUTVqc3N4SGpzbzRjYVdTSk",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHNNbS1waWxTME9fWXQ3MFdPOG40eE5RVm1qRUJFc3V2UnJwSlBxcGlsR3dYRWxCeWZmZDE0dlJkZk9VLVNBeVRfQ2ExRnpZekkyVGw5RWFDYmdWb1FDUTVqc3N4SGpzbzRjYVdTSk5nQVlxOE42WEtMSzlRVFp0OGVFZFpqRzRXZ0VpeHZPbGV1eVRZb3FZY29YUkxHU3Fkbnhlb3VWeHk5LTAtUTNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-014",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Algeria ships cement and clinker to US, Spain and Libya",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/ship-port-1500.jpg\" /></p><p><strong>Algeria: </strong>The port of Annaba recorded the loading of more than 38,000t of cement on 27 June 2026, des",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20927-algeria-ships-cement-and-clinker-to-us-spain-and-libya",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bhp-2026-06-28-001",
     "date": "2026-06-28",
     "companies": [
@@ -129,6 +405,103 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcUlPTzRVQlluUFd2RzM2ZnItZVlsLS1kYkxHVXRFY3hWazRzYndPRWpXX1pBbjZSRmR3aTMzZlhCUjhZREwwaWk4SGFEVkpFYXJGVmdZdDQ1N0VtdTV3ZGpCaWlWSzhoejJERW16X1JTYjNVREZqRGVfNTJwV1Zqc3FyVHVaOGRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-06-28-008",
+    "date": "2026-06-28",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "iron_ore_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue (ASX:FMG) lags ASX as $100 iron ore price spotlights product mix - Bez Kabli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNREdYT1phX1c2SEpKY2tyS2J3eXlUM3dFUVRhVTlNWDVYcG93RkYyVDFKb1NQeThkUzJDTFhaSko4TTFyLWQzRnhibXdoaEVxb0dqLXN4UXBHQmNrLVpsd0VQb1NQaURZUHpVMno4Sm",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREdYT1phX1c2SEpKY2tyS2J3eXlUM3dFUVRhVTlNWDVYcG93RkYyVDFKb1NQeThkUzJDTFhaSko4TTFyLWQzRnhibXdoaEVxb0dqLXN4UXBHQmNrLVpsd0VQb1NQaURZUHpVMno4SmFxcVVTWnNQTHlyZmlpb0wyZF9tWkx5a3l1bXlnekxQSWdVTExoSzc1NDBIRG0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-06-28-009",
+    "date": "2026-06-28",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "J.P. Morgan Sticks to Its Buy Rating for Commercial Metals Company (CMC) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNlVYSENzUloxcF8tWl9Ea3VmbVF3OU9RdmlBOHhrVk5xSllqUkxBUno0eVljUnppMnBpNmQzMzJ4MG1zOVM2VVhoakl5SVRUWTMyeFNlLVJoMkR4Z1pYcUQ2X2Y5NFl1dUp1VFlxal",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNlVYSENzUloxcF8tWl9Ea3VmbVF3OU9RdmlBOHhrVk5xSllqUkxBUno0eVljUnppMnBpNmQzMzJ4MG1zOVM2VVhoakl5SVRUWTMyeFNlLVJoMkR4Z1pYcUQ2X2Y5NFl1dUp1VFlxalJMTmw4dDRkVThKY250MnczSTlsaHViZ3JPRFdvZmNzX0I2VzdDODVaeTJPNEhtX3pBV1pvVnNDZlhmYVotbjFwZkR0d19wbVNtc2hkd09SMW9PUndIOE9wcTRCa2Q3S05mUzNzajBoeWFIT0pQaXlXeHIyQjk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-06-28-010",
+    "date": "2026-06-28",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commercial Metals (CMC) Stock After Recent Pullback Is The Market Price Missing The Story - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVBxendiRXNNcDBVRUdEbTdHU25tZlV2WWpHLWQ2alRaTDUyMFdSbUFnV2lnNERBRU4zTlVWMnU4Rkk0cWlBUk5lcGUtbGdDYjYzalFpRncydW1ZWTM4OFNPdGxvclhjWlJMaVVCZU",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVBxendiRXNNcDBVRUdEbTdHU25tZlV2WWpHLWQ2alRaTDUyMFdSbUFnV2lnNERBRU4zTlVWMnU4Rkk0cWlBUk5lcGUtbGdDYjYzalFpRncydW1ZWTM4OFNPdGxvclhjWlJMaVVCZU9YLTNJT3VWX3JQaVlvRElZLXVmc2tGRlY5NjhFRmRLTE92Uy1zbzhEVXNLcEJJZlVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-06-28-011",
+    "date": "2026-06-28",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KeyBanc Sees Nucor (NUE) as Compelling After Recent Pullback, Upgrades Stock - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnhmTnQxa2w4OTZYSXRxdm9qOUQwUlRycHlpWWhLaTlvbUxDYk83eHNEc0RtSHgwM3I4VnY5OGFHMVdGY3dBdXAyV1hlMkxQa1NqZkZ3OUdnNjJ6QmNNQ3pVcWxGWVlyLWFBQkxEdj",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnhmTnQxa2w4OTZYSXRxdm9qOUQwUlRycHlpWWhLaTlvbUxDYk83eHNEc0RtSHgwM3I4VnY5OGFHMVdGY3dBdXAyV1hlMkxQa1NqZkZ3OUdnNjJ6QmNNQ3pVcWxGWVlyLWFBQkxEdjFDRjVXT0ZOeXZJblBiNUtOSjBaVnRkVHNVa0pyemJ4eDlOaEdGd3VNcWVmRTRXbEEtSjJxMmFTQW9hOW9UbkxkaUN2V3BydlFN0gHAAUFVX3lxTE1NX0RaYmRqVUFSRk8zWVVlTG5NX25hRmdaNnBuVUIxaG5IMXZRbzlOQUJHWmk0WlF2ekk5cWt4amIyc0FiU0d1a2tEUFAzRmFfLThPTHhob2lGWXZ6c1g3QVRldnZUSGNES2c2QzFuX0d0RU9jemloZU55bEREaGl4aHVuclY0Uy1BeXRTbmNCdmhpY1NoS0V2Tkl2STY3ZjNLSHBVTkZVR2dOM1dZMmxFYTh2N2lrSzRCU3FPMjktMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-012",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thomas Massie Says Republicans Decry Communist 'Involvement' In Democratic Party, But Look Other Way As Trump Nationalizes 'Ownership' In Intel, US Steel - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1BtU0I2WGJFcXdsRkVhTlVCTFZnYXVaOFl0TzVWOHE0am9SY2RxUzdYWkNQSnpNdUQwT1pUZ2V5SncwQlpMekZQUWRuREpOdTVQTHBETzZFd0ZjN0tWUUliT0NwMGhyZENLWDBucT",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1BtU0I2WGJFcXdsRkVhTlVCTFZnYXVaOFl0TzVWOHE0am9SY2RxUzdYWkNQSnpNdUQwT1pUZ2V5SncwQlpMekZQUWRuREpOdTVQTHBETzZFd0ZjN0tWUUliT0NwMGhyZENLWDBucTNFMVBCT1owRzBmWkRINGp1UWlGWWZIekY0ZmVvTVd1Q0g0OFA3MDhzd2ZUYXc1aFVHVVlB?oc=5",
         "type": "rss"
       }
     ]
@@ -459,6 +832,27 @@
       {
         "name": "tung_ho",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFk0NDhaa2hVTUR1R3ZpeW8zdHVRWVVwcnJxNkl1TXZIbVRYeDdoR0VJelpzR1ZFWG5vMDNIS1MwV2ppZXNNY0xPTlZxNDBPdlBYaEk4eVRvYWc4R19xZ3p6aFFVN1FvMnVUNXlkZ0ZBeEVqaFNILXduNEx2WDBfT2pxTmQ4Zk1jWHhOZW5YdUZwZmtRaklUMVZWazFLbFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jfe-2026-06-27-018",
+    "date": "2026-06-27",
+    "companies": [
+      "jfe",
+      "nippon_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIPPON STEEL & SUMITOMO METAL PIPE from JFE Holdings Inc. - heavy-duty steel tubes for infrastructur - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1l1V21rY0dpbldnZHNubDQ1TXZjbHJrV0NJb1BVVlRRUkp2UHJMZkZFQ0d4U2I4dThtdE1Hc2V1VTRzbHR2d0hveWRMSTRFdmxSeURVX2ZibzMxT1NUa0lnVXJROW9Qak5md3BfdG",
+    "sources": [
+      {
+        "name": "jfe",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1l1V21rY0dpbldnZHNubDQ1TXZjbHJrV0NJb1BVVlRRUkp2UHJMZkZFQ0d4U2I4dThtdE1Hc2V1VTRzbHR2d0hveWRMSTRFdmxSeURVX2ZibzMxT1NUa0lnVXJROW9Qak5md3BfdGFiZkZhbkJ5WnBKRjBIb3o0ZzQ1YVhJbnBLb1pGckpRSHpKengwbVFVWTVWYjY3OERjQS1FcjN4TDdZeTVQNXZPcTEzMkxrckpoc250U1dZbFFsOE9oREc0?oc=5",
         "type": "rss"
       }
     ]
@@ -1481,6 +1875,64 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNU3lqREpReER6dnZQamhtWVJEUDE4TlhVbWhIWXMxeXVQZWNNVG05UTR2SHpQZlpuYmYwRHhPVENTXzFsZGJ2S05JVVUxY3MxdnNkZWhtNFIzajVvVndDNXZuR08tcnQ5Ynhaa0tCTFJ6cUh2d3RlYUdoSnZicFhCRXBJTFBnc3kzTFk0NUFLNFRqM0x1ZVYtZWhuRTN4cFZYMm1sLUJFZ3NXb3BMbW5MY2lTSXlkMVU2ZUdTYjBaNTBFS01wRWFFUTJwcHl2WXp3TUpmbHRVOHhlalByVG1fMmpjQUpkU0JlVEFOOTNMZzY4dkpCcWxhNDdGZ3ViZ0V0ZXpfSW0tR0RLV1ZkUnE0SFNNczJmYWRW0gGqAkFVX3lxTE1xNl9CazJUWkktel9DMlJrSEY1b2lGVEZXRjZaQzJrS3NlTGNiSTJFalV2b1JwU3hvbUMwMzRvalJGVXcyQ0wtSFFNYktaalpKNWd6eGtkU0dwVzJFSkNVYTJuU2pTcndyU2MxWkVVbU5vTV9zZWlGRVZjQk5ZNnhqODRDaEg2dXl0TEMwUXRRaGpvNVpSa3JQWDloTFlmZnVLZU9RTjkzTWFRYmo2R2tKM2EzMTlqRmZGRDYtam1uMG9WNlFjSXhWTXNGZ0FtQTQ5WFRDUzBPS1NhRklPRDZoLUJKTFlxM0l5Mi1ZdEdvUGNfUUpHMHJPTUNjTW9WWXQxV3dVdWxLTGtyWklHRWU5Mk5Rd21zOWxPai1UX04xUGNOOUk2S1RvUnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vale-2026-06-26-054",
+    "date": "2026-06-26",
+    "companies": [
+      "vale"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vale adjusts guidance after Brumadinho provisions, shares react to cautious outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVEJrZUJOOFpVeUNmQWszQXpqU1VWejlZZFVwS2lJYUl4RF9zYmo4alE4RG5QN05VeFdYMjlfdFdkZDlXR3MzSW9GUm9zSGMzM2hndUszRUJRemtwQm8weVJOTUxLT3R0TDZEX0VSYV",
+    "sources": [
+      {
+        "name": "vale",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVEJrZUJOOFpVeUNmQWszQXpqU1VWejlZZFVwS2lJYUl4RF9zYmo4alE4RG5QN05VeFdYMjlfdFdkZDlXR3MzSW9GUm9zSGMzM2hndUszRUJRemtwQm8weVJOTUxLT3R0TDZEX0VSYVdIRGVDM2dRU09SYUU5WW1oXzdQaG1FdVFPNTZoZHkwb29Zd1lpOENRMnBJOWQzLTBrNDBTSTV2aDdNZ2VYQXV3Wmd1OWk1a0JOQkJvb0VPNUxGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-06-26-055",
+    "date": "2026-06-26",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Some Fortescue Iron Ore Cargoes Held Up As CMRG Talks Stall - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEtEVlowOGNmVW9FWnFxZjJBR2JwRTY0YzRsZmlQdHVHeTR3RFV4b2Vmd0pJeG1XaTFxMC12eXRDTjVpSURYTVVHVHA2RjA3Y09sZVFDeWRNcEFjNW9KUUVLUWxBY0NjTnI5b2N6eV",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEtEVlowOGNmVW9FWnFxZjJBR2JwRTY0YzRsZmlQdHVHeTR3RFV4b2Vmd0pJeG1XaTFxMC12eXRDTjVpSURYTVVHVHA2RjA3Y09sZVFDeWRNcEFjNW9KUUVLUWxBY0NjTnI5b2N6eVRnY3FNOGFkekdNb1BJRE1fZVFwVW1xR0NyTUpPNjFTTTJkTUNvWkY3U2dzQl9PZWFuWkF6V244QkpMX25UMmlJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-06-26-056",
+    "date": "2026-06-26",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Nucor (NUE) Dipped More Than Broader Market Today - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQR05VSk9Bd0ZTWi1pcVZkSmM4cFZyZm9sUXF5Q3pjOWd0dWl6b2pEVXBsell6NEJBOGNSVm5uLUNGanJELVlIRUd0N1VKVVR6S3YycnBrYWxwZlFWYnNpRlNabGNLQ3dKQ1kyNnp0MC",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR05VSk9Bd0ZTWi1pcVZkSmM4cFZyZm9sUXF5Q3pjOWd0dWl6b2pEVXBsell6NEJBOGNSVm5uLUNGanJELVlIRUd0N1VKVVR6S3YycnBrYWxwZlFWYnNpRlNabGNLQ3dKQ1kyNnp0MC1BTllTTUpWd0pLWEFfdUxfRDkzT01SMVVLYzB0WnRMcmFFY1Vf?oc=5",
         "type": "rss"
       }
     ]
@@ -2659,6 +3111,44 @@
       {
         "name": "nucor",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbDh5bV9IYkM5MU5QellSRHNLOWhkQW44amtrYVV4RDNZUW5YYjUwc0RzN0x3NUNDemRvMXVVd2MxaVFNS2g0YXkwSVlkOFBDallqanRRVHdvOVZQZXlGR1ZQNzBQbnNBQnVCOWsxOFBrNGxrazU0UDRyY3YyR3d2UVRtUUx1NGFuNFkzcHJJTjl1bG5OTXpqTFRYLVVpZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-06-25-062",
+    "date": "2026-06-25",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commercial Metals earnings beat by $0.03, revenue topped estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTc4SGRlbGxFQzdQRUNvWVBxdFgxOHp1RWZkRko0RzVqN3lUak9YNm9HV3lxWi0zd0FySzFlXzNGSHNzaXBvUlVjTS1OLUI5NUtOS2hrdjk2cVQ3QzdUVFV6NlRnaEdNTTJ6Zm1NZH",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTc4SGRlbGxFQzdQRUNvWVBxdFgxOHp1RWZkRko0RzVqN3lUak9YNm9HV3lxWi0zd0FySzFlXzNGSHNzaXBvUlVjTS1OLUI5NUtOS2hrdjk2cVQ3QzdUVFV6NlRnaEdNTTJ6Zm1NZHkwR2dVZXN2ZTBQbWROS3ZkLVAtQ01ibm5hb293aXRJaFMyVDR0NHZFb1BHVGVKRXRrRHRDYzE0R1ZiYV94TnJKUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-063",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Steel, Thursday chart watch keeps shares in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUtZYWZSYjhXX0tPUzI0NDdxbFFDcGIyeEdIb1M1bDcxMEJ4dHRBM2VDTkFmNTAxeXZDYUx1c0FEWDlCYW9COE9PMThiNHVxVDQ5RVU3ZzY0NVJlSHhVU2VUaW8yNmY2VWtyWXVmR1",
+    "sources": [
+      {
+        "name": "china_steel",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUtZYWZSYjhXX0tPUzI0NDdxbFFDcGIyeEdIb1M1bDcxMEJ4dHRBM2VDTkFmNTAxeXZDYUx1c0FEWDlCYW9COE9PMThiNHVxVDQ5RVU3ZzY0NVJlSHhVU2VUaW8yNmY2VWtyWXVmR1psZk00aVZmanZUT2pkSFdIMVZ4YkpFRWVmOTZsNmQ1UlJhQ25SaXhVd0c5NEhIem51aUpWSTBwNERsZzJ3ZExXbjBDUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -4676,6 +5166,26 @@
       {
         "name": "cleveland_cliffs",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVhGS3VRS2NxR2duVVJFWWNBNnVfZjJpYkZJdVhWaG9tbDg2T3Ayek90dzVwelJFa09EdHNNdzlSajJoLWlFOXE3NUYxRkdGRlVkWHFMX01Zb1BRUUd4ZFFHRTZhYWJkakNhXzJkSW1ES1ktczFFX19ady1ta0tkVE5OTVd2Y1RLaDc0dnVjNkF4dEdybVlRTVBkeVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-06-23-048",
+    "date": "2026-06-23",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal (HCC) Stock Could Be 13.6% Undervalued After The Recent Pullback - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHFkcXNlMXd0WFpGdEllZ1FfZWwwTkRHWUh3OXpZZmRIcjJ0SHNZRURya3oxeVgzb1JoYzVCY1BPQW83MUVDemxPWkRlTG9Vc2lUNm4tbEljMnJYb0ttbmR0Y2RBMXVWRG10bG1QS1",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHFkcXNlMXd0WFpGdEllZ1FfZWwwTkRHWUh3OXpZZmRIcjJ0SHNZRURya3oxeVgzb1JoYzVCY1BPQW83MUVDemxPWkRlTG9Vc2lUNm4tbEljMnJYb0ttbmR0Y2RBMXVWRG10bG1QS1FiMmJjc21XNDdyczh4d3BKUld0WmxvRDE1Y1phT2tfbnduYlZjMmk1dVhYeGM0bHY0Qm9OdXpDQUJISGV5WXdrLW5laFZyYXBjSF9xRVVJR2wxWEQ5SVM5Mg?oc=5",
         "type": "rss"
       }
     ]

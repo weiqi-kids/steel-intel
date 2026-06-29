@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-29",
+  "date_range": {
+    "start": "2026-06-23",
+    "end": "2026-06-29"
+  },
+  "generated_at": "2026-06-29T12:23:56.215950Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-06-23-001",
+      "date": "2026-06-23",
+      "title": "BHP and Rio Tinto test Caterpillar's electric haul trucks in Pilbara - Mining Weekly",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 60,
+      "last_week": 92,
+      "week_over_week_change": "-35%",
+      "sentiment_this_week": 0.05
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.17
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "bhp": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "us_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 4
+    },
+    "hyundai_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "tata_steel": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 5
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cmc": {
+      "event_count": 7,
+      "sentiment_avg": 0.29,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 8
+    },
+    "arcelormittal": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "jfe": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "fortescue": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 268,
+        "last": 291,
+        "change_pct": -7.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-23",
+      "event_count": 48,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 57,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 63,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 56,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 14,
+      "sentiment_avg": 0.21
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-23 ~ 2026-06-29）共 268 則事件，重點為「BHP and Rio Tinto test Caterpillar's electric h...」。Commercial Metals、JFE鋼鐵表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "日本製鐵",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
