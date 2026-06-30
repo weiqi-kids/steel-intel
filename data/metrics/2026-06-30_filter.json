@@ -1,0 +1,16 @@
+{
+  "total_raw": 523,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 189,
+  "gate1_fail": 15,
+  "gate2_fail": 25,
+  "passed": 38,
+  "gate2_samples": [
+    "Rio Tinto falls Monday, underperforms market - MarketWatch",
+    "Rio Tinto : and Government of Mongolia agree to adjust Oyu Tolgoi shareholder loan interest rate - m",
+    "BHP, Rio Tinto PLC ADR (RIO) and Caterpillar Advance Battery‑Electric Haul Truck Trial in Pilbara - ",
+    "BHP, Rio Tinto test Caterpillar electric trucks in the Pilbara - magazine.cim.org",
+    "Rio Tinto sees lithium as fastest-growing division (RIO:NYSE) - Seeking Alpha"
+  ]
+}
