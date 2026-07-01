@@ -1,0 +1,16 @@
+{
+  "total_raw": 519,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 13,
+  "gate2_fail": 27,
+  "passed": 30,
+  "gate2_samples": [
+    "Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times",
+    "RIO TINTO : Gets a Sell rating from RBC - marketscreener.com",
+    "BHP, Rio Tinto PLC ADR (RIO) and Caterpillar Advance Battery‑Electric Haul Truck Trial in Pilbara - ",
+    "Rio Tinto & Govt Of Mongolia Agree To Adjust Oyu Tolgoi Shareholder Loan Interest Rate - TradingView",
+    "BHP, Rio Tinto test Caterpillar electric trucks in the Pilbara - magazine.cim.org"
+  ]
+}

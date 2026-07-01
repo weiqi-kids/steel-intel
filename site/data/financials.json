@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T10:49:39.669969Z",
-  "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
+  "updated_at": "2026-07-01T11:18:24.298728Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
       "id": "arcelormittal",
@@ -109,17 +109,17 @@
       "name": "Commercial Metals",
       "ticker": "CMC",
       "currency": "USD",
-      "ar": 1278653000,
-      "ar_prev": 1199746000,
-      "ar_qoq": "+7%",
+      "ar": 1391195000,
+      "ar_prev": 1278653000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 1143640000,
-      "inv_prev": 951081000,
-      "inv_qoq": "+20%",
+      "inventory": 1172564000,
+      "inv_prev": 1143640000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "feng_hsin",
