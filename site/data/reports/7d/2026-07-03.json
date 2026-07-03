@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-03",
+  "date_range": {
+    "start": "2026-06-27",
+    "end": "2026-07-03"
+  },
+  "generated_at": "2026-07-03T10:28:10.399883Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-06-27-015",
+      "date": "2026-06-27",
+      "title": "NIPPON STEEL & SUMITOMO METAL PIPE from JFE Holdings Inc. - heavy-duty steel tubes for infrastructur - Ad-hoc-news.de",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 48,
+      "last_week": 58,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "arcelormittal": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "tata_steel": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "bhp": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "cmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.4,
+      "rank": 5
+    },
+    "posco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nucor": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 6
+    },
+    "rio_tinto": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 10
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "us_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hyundai_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "tenaris": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "spring_rain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 187,
+        "last": 310,
+        "change_pct": -39.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-27",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 40,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 31,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 26,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 40,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-27 ~ 2026-07-03）共 187 則事件，重點為「NIPPON STEEL & SUMITOMO METAL PIPE from JFE Hol...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
