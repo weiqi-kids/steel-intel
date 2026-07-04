@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:00:41.642225Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-04-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vedanta Iron & Steel Hits Record 238 kt Pig Iron Output as Q1 Steel Production Rises 4% - Sahi",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQU9rNllkbWdkTjJfZC1aNE1SNENrbDNnRzBoZnI5SG05YXhrbUJGWGZvQW5uOTJURnF3aXJvV0psdTJ4MlZRTGZqcEhUTnVROTc3eGR6c2J4TE90S0d6NnFJT3VhX1JESHhLVGdBOVVuVXJYR0J6Y0lrTEV5LW4zczQ3UVpKck5nOHJ3Zm1CWEdOS0dMNHBKTnE3NEdoMGFpSlRLVjdLOTZscTZSR25wZm5xV1k2VnpWNUJrcTVrb3o?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-04-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "VISL Q1FY27: Record Pig Iron Output as Goa Ore Surges 166% YoY - scanx.trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2tJSDRHWHEyVEw5djg0Rl9oeXVRUDYzRkpKV1l3NGswdGYwdlhKQXFfMWEzdGNrdmFGRm5IRmhlSEx4SDc0dm1sVXpkTlY3cl9aVW03Ym1XOHNqLXg4blA2QkZOY0dmSjREeWhlR3hOM1VranRHX1BiUjRLRFRZbEtuX1ZEU015UUpObnU5LWNicmdLY0R2XzFXcHJoVzc1Uzl6T2Zn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_steel-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel Capacity Expansion Plan: 40 MTPA Target and UK EBITDA Goal by 2028/29 - News and Statistics - IndexBox",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHRBTDhfcGtKamZSZlM2NDBxaVNfazVCbzllX0thalZKU2h2UWRQcWVsenFMWHJTc25zdk5xa0sxZl8yOWx2SWJzVkhtV2tFSDNMd3I5WEo1amphb3p6ZzQ3TVA5bjExTGk5RjV2SXlqRVd0U1ZsemptelFVaTBMNTdiTkxkazQwUUNXSG9nbXZMSXVhM082al9aNm5zRThOb3ZCcA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 516,
+    "dup_title": 253,
+    "too_old": 194,
+    "gate1_blocked": 15,
+    "gate2_blocked": 21,
+    "passed": 33,
+    "pass_rate": "12.5%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times",
+      "Here’s how much second income 1,000 Rio Tinto shares delivered over the past year - The Twelfth Magp",
+      "BHP, Rio Tinto PLC ADR (RIO) and Caterpillar Advance Battery‑Electric Haul Truck Trial in Pilbara - ",
+      "Fortescue Discloses Final Director Interest as Elizabeth Gaines Departs Board - The Globe and Mail",
+      "China's CMRG extends limits on Fortescue's Super Special Fines, Bloomberg reports - marketscreener.c"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為塔塔鋼鐵相關動態：「Vedanta Iron & Steel Hits Record 238 kt Pig Iron Output a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vedanta Iron & Steel Hits Record 238 kt Pig Iron Output as Q1 Steel Productio...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "VISL Q1FY27: Record Pig Iron Output as Goa Ore Surges 166% YoY - scanx.trade（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
