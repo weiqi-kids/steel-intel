@@ -1,0 +1,16 @@
+{
+  "total_raw": 515,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 14,
+  "gate2_fail": 20,
+  "passed": 31,
+  "gate2_samples": [
+    "Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times",
+    "Here’s how much second income 1,000 Rio Tinto shares delivered over the past year - The Twelfth Magp",
+    "BHP, Rio Tinto PLC ADR (RIO) and Caterpillar Advance Battery‑Electric Haul Truck Trial in Pilbara - ",
+    "Fortescue Discloses Final Director Interest as Elizabeth Gaines Departs Board - The Globe and Mail",
+    "China's CMRG extends limits on Fortescue's Super Special Fines, Bloomberg reports - marketscreener.c"
+  ]
+}
