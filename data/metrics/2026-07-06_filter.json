@@ -1,0 +1,16 @@
+{
+  "total_raw": 516,
+  "dup_title": 255,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 15,
+  "gate2_fail": 28,
+  "passed": 34,
+  "gate2_samples": [
+    "BHP Group (ASX: BHP) Share Price in Focus as Commodity Markets Shape Investor Sentiment - Kalkine",
+    "Rio Tinto plc Stock 12‑Month Price Target Cut to GBX 7691.77, Implies 9% Upside - TradingView",
+    "Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times",
+    "Is Rio Tinto (ASX:RIO) Worth Watching After Nearly 58% One-Year Gain? - Kalkine",
+    "Here’s how much second income 1,000 Rio Tinto shares delivered over the past year - The Twelfth Magp"
+  ]
+}

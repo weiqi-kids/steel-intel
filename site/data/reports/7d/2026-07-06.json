@@ -1,0 +1,185 @@
+{
+  "date": "2026-07-06",
+  "date_range": {
+    "start": "2026-06-30",
+    "end": "2026-07-06"
+  },
+  "generated_at": "2026-07-06T11:57:25.404768Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "us_steel-2026-06-30-017",
+      "date": "2026-06-30",
+      "title": "U.S. Steel, one year after the sale to Japan's Nippon Steel - Axios",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 53,
+      "last_week": 60,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.04
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 2
+    },
+    "rio_tinto": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "arcelormittal": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 8
+    },
+    "tata_steel": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hyundai_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "fortescue": {
+      "event_count": 6,
+      "sentiment_avg": -0.09,
+      "rank": 5
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "tenaris": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "spring_rain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 210,
+        "last": 306,
+        "change_pct": -31.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-30",
+      "event_count": 36,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 29,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 69,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 35,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 10,
+      "sentiment_avg": 0.3
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 15,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-30 ~ 2026-07-06）共 210 則事件，重點為「U.S. Steel, one year after the sale to Japan's ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
