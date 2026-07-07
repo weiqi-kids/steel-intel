@@ -1,0 +1,16 @@
+{
+  "total_raw": 512,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 187,
+  "gate1_fail": 12,
+  "gate2_fail": 25,
+  "passed": 42,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP): Is the World's Largest Miner Navigating a Commodity Crossroads Worth Watching? ",
+    "Co-managing Country - Rio Tinto",
+    "Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times",
+    "Fortescue served with class action alleging sexual harassment, discrimination - Reuters",
+    "Fortescue Discloses Final Director Interest as Elizabeth Gaines Departs Board - The Globe and Mail"
+  ]
+}
