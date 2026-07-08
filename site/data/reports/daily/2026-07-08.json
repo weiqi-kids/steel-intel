@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:08:48.226283Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-08-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sovereign pivots to US strategy after Rio declines operatorship - Mining.com.au",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0pMWmIxNHRTTUhyVGp2aHF4MVJiU29UOU1fTE8yQk5Nc1pfWWxEWWVrcVNYblpsc2JCMFE0RVcyOVU0T0ttVk9HOERrQjFpWE9hWC0wM3dGOXROSDkzcjdIakllUDNncTJuZU1KSkt1Ul9kU0UxamRzOHpZQm0zZkVIUUEtbWlYdXZfWmtXZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cmc-2026-07-08-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BNP Paribas Exane Upgrades Commercial Metals Company (CMC) to Outperform - StreetInsider",
+      "companies": [
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWElNa1dWLUF6RHNZcWNwZERFRDdPdkN2b1B2QXhvcjFvRWlxZ1pReExXdzBsdWYzMjVnZGwyMERLb2doc0xBWGQwaXRUQ2tfX0hncGVXcXo1UlZkT1dmS1c4VUtsWWJaNmRUa2ZUMnAwVUhzeVdNX2Z3QW5feFVZUkY3SFJtZVpSWk10aTJ1eE9hRlNBY2EwMUtGXzVTRDlEMV82N2VRcE5rN0ozUmY0NHRxN000Q3BRZlhMbVpUX1BrSDJVVFJKdA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-08-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Malaysian steelmakers call for fair trade in the wake of EU measures",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/malaysian-steelmakers-call-for-fair-trade-in-the-wake-of-eu-measures/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-08-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New EU quotas could result in losses of $3 billion for Turkey’s steel exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general",
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/new-eu-quotas-could-result-in-losses-of-3-billion-for-turkey-s-steel-exports/"
+    },
+    {
+      "rank": 5,
+      "event_id": "bhp-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP iron ore workers vote to strike on July 16 at Port Hedland - Reuters",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNW1PMXF2clBSeEpoMkxTM2ZuRUx2T3VHMHFnLVNWSlVfalpTVllhRG1mR3lOSU1JQjlHUmU1NVotX2x4ajdiSE16U3FYem1XWUdEcWtlREJSblVoZlFHemtvNVBjU0VVVzlqYkozMV9mZzl6djZ6YUtZSU5lMURXN2lPemswRVFHNTBJQndfbUhCdjZ0cXpzTlFhVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 38,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 10
+      },
+      {
+        "id": "tata_steel",
+        "count": 9
+      },
+      {
+        "id": "bhp",
+        "count": 8
+      },
+      {
+        "id": "fortescue",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 530,
+    "dup_title": 238,
+    "too_old": 182,
+    "gate1_blocked": 20,
+    "gate2_blocked": 20,
+    "passed": 70,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Sovereign Advances U.S.-Focused Strategy as Rio Tinto Collaboration Concludes - marketscreener.com",
+      "Rio Tinto Won’t Take Over Sovereign’s Malawi Rutile Project - Finimize",
+      "Fortescue served with class action alleging sexual harassment, discrimination - Reuters",
+      "Fortescue served with class action alleging sexual harassment, discrimination - marketscreener.com",
+      "Fortescue Discloses Final Director Interest as Elizabeth Gaines Departs Board - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為力拓、塔塔鋼鐵、必和必拓相關動態：「Sovereign pivots to US strategy after Rio declines operat...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sovereign pivots to US strategy after Rio declines operatorship - Mining.com.au（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "BNP Paribas Exane Upgrades Commercial Metals Company (CMC) to Outperform - St...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鐵礦砂價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

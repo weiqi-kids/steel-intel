@@ -1,0 +1,16 @@
+{
+  "total_raw": 530,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 20,
+  "gate2_fail": 20,
+  "passed": 70,
+  "gate2_samples": [
+    "Sovereign Advances U.S.-Focused Strategy as Rio Tinto Collaboration Concludes - marketscreener.com",
+    "Rio Tinto Won’t Take Over Sovereign’s Malawi Rutile Project - Finimize",
+    "Fortescue served with class action alleging sexual harassment, discrimination - Reuters",
+    "Fortescue served with class action alleging sexual harassment, discrimination - marketscreener.com",
+    "Fortescue Discloses Final Director Interest as Elizabeth Gaines Departs Board - The Globe and Mail"
+  ]
+}

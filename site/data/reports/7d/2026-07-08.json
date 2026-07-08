@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-08",
+  "date_range": {
+    "start": "2026-07-02",
+    "end": "2026-07-08"
+  },
+  "generated_at": "2026-07-08T10:08:48.357023Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-07-03-005",
+      "date": "2026-07-03",
+      "title": "Miners Split as BHP and Anglo American Rise on Copper Demand While Rio Tinto Lags - AskTraders",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 91,
+      "last_week": 57,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": 0.01
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.25
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "rio_tinto": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "fortescue": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tata_steel": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "spring_rain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "cmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.67,
+      "rank": 9
+    },
+    "jfe": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "us_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 257,
+        "last": 265,
+        "change_pct": -3.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-02",
+      "event_count": 72,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 35,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 12,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 40,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 40,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 42,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-02 ~ 2026-07-08）共 257 則事件，重點為「Miners Split as BHP and Anglo American Rise on ...」。Commercial Metals表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
