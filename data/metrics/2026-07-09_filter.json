@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 20,
+  "gate2_fail": 27,
+  "passed": 76,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Moved Down by 4.05% on Jul 8: Drivers Behind the Movement - TradingKey",
+    "Rio Tinto Ltd (ASX:RIO): What's Behind Recent Moves in This Global Miner? - Kalkine",
+    "Rio Tinto Won’t Take Over Sovereign’s Malawi Rutile Project - Finimize",
+    "Sovereign Advances U.S.-Focused Strategy as Rio Tinto Collaboration Concludes - marketscreener.com",
+    "Fortescue served with class action alleging sexual harassment, discrimination - Reuters"
+  ]
+}
