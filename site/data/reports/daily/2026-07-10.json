@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:45:39.778358Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-07-10-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Iron Ore Set For Weekly Gain on BHP Port Strike, FMG Stalemate - Bloomberg.com",
+      "companies": [
+        "bhp",
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWRUX0VjOTRrQjJyWFpoWllmWUxjR3hYc2s2ZlhPYVNUY2QxWXJBZGtRcUhhNDVRZ3BzVHRUNWlET3YxbU04M2VCZlk4Y3M1Tmw0WENCLXROaFF2Y2hnUWd3ZWt4WEI2cDc5RW1sVmFhLWxhQWcyd3RmcVhEckVXQzhycFFwaEkzeU9LYzc4NlB4VVVkSlZocXJqZEtVYjNRM0g5QmkxTGtEd0tsQWQ4YWR3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-10-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The global steel market is moving towards regionalisation — Kallanish Global Flat Steel 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83
+      },
+      "source_url": "https://gmk.center/en/news/the-global-steel-market-is-moving-towards-regionalisation-kallanish-global-flat-steel-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Target Raised 3.1% to A$165.00/Share By Morgans - Moomoo",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWwtcGtfMFdHWHFCNXFtTVZaYUpjQzRHVEJVQTJkaExKb3M0Q0tzQ2F2VVppdmtrUWh3ZlJGWVRqengzLXVkSkNKbjB0R3laU3h6QzlZZ1ZLeHYwOER6RVIyYXQ5eFM5aE1Ca2tKeThNLVpsd2FPMmtoX3lTdVllUlozTzNuTGx3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RIO TINTO : Goldman Sachs gives a Neutral rating - marketscreener.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3pCZ0hsWElNS0ZadnItU3cyMldTcXBUQUljVVJid0lOMzFFN3BtUEc0Y2xzUnNrOXhtQ3l5NmVoNkpyREx2SDAyOHJHNmtjX00xVGZVbHBxT0FRX3hVVUhtdm5CalA5QzViejJaajE3TkJYdE9PR2Z4WW5YbEk5cjE3UnYxLXE3YmdhYkFtYnYtdERFYUlTY1BJOFE2aUZS?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-07-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RIO TINTO : JP Morgan remains Neutral - marketscreener.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUQwYi1sejVsN3ZjQnU4T1dhZWFKTkpkWGRFbjR6ZVZuSFpHdkRWWWl6WHp2T3FfemJQNFJ5OVlZRHRiX0locUZBX2UzUnVhZ1lqZ1YySl9VeFR5M21sQ2k1ZjMxN1F2cl9GZERYcndMVzVpdFREWF94ZjlLdkZJUVhnblFSdjIzU2J0ZFN6QmhQdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 3
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "tata_steel",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 541,
+    "dup_title": 274,
+    "too_old": 183,
+    "gate1_blocked": 20,
+    "gate2_blocked": 27,
+    "passed": 37,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Co-managing Country - Rio Tinto",
+      "Rio Tinto (RIO): New Sell Recommendation for This Basic Materials Giant - The Globe and Mail",
+      "Rio Tinto Exits Kasiya Operatorship, Malawi Targets Direct US Critical Minerals Supply - ChemAnalyst",
+      "RIO TINTO : UBS is Neutral - marketscreener.com",
+      "Jefferies Sticks to Its Hold Rating for Rio Tinto (RIO) - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為力拓、FMG、安賽樂米塔爾相關動態：「Iron Ore Set For Weekly Gain on BHP Port Strike, FMG Stal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Iron Ore Set For Weekly Gain on BHP Port Strike, FMG Stalemate - Bloomberg.com（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "The global steel market is moving towards regionalisation — Kallanish Global ...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

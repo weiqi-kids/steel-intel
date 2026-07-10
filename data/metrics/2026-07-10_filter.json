@@ -1,0 +1,16 @@
+{
+  "total_raw": 541,
+  "dup_title": 274,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 20,
+  "gate2_fail": 27,
+  "passed": 37,
+  "gate2_samples": [
+    "Co-managing Country - Rio Tinto",
+    "Rio Tinto (RIO): New Sell Recommendation for This Basic Materials Giant - The Globe and Mail",
+    "Rio Tinto Exits Kasiya Operatorship, Malawi Targets Direct US Critical Minerals Supply - ChemAnalyst",
+    "RIO TINTO : UBS is Neutral - marketscreener.com",
+    "Jefferies Sticks to Its Hold Rating for Rio Tinto (RIO) - The Globe and Mail"
+  ]
+}
