@@ -1,0 +1,16 @@
+{
+  "total_raw": 541,
+  "dup_title": 276,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 22,
+  "gate2_fail": 25,
+  "passed": 35,
+  "gate2_samples": [
+    "Rio Tinto (RIO): New Sell Recommendation for This Basic Materials Giant - The Globe and Mail",
+    "Rio Tinto Exits Kasiya Operatorship, Malawi Targets Direct US Critical Minerals Supply - ChemAnalyst",
+    "RIO TINTO : UBS is Neutral - marketscreener.com",
+    "Fortescue served with class action alleging sexual harassment, discrimination - Reuters",
+    "Fortescue Target Price Cut 8% to A$17.25/Share by Morgan Stanley>FMG.AU - Moomoo"
+  ]
+}
