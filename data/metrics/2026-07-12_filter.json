@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 288,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 20,
+  "gate2_fail": 22,
+  "passed": 19,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Wins Escondida Approval On A Copper Growth Story And Valuation Debate - simplywa",
+    "Rio Tinto (RIO): New Sell Recommendation for This Basic Materials Giant - The Globe and Mail",
+    "Rio Tinto Exits Kasiya Operatorship, Malawi Targets Direct US Critical Minerals Supply - ChemAnalyst",
+    "RIO TINTO : UBS is Neutral - marketscreener.com",
+    "Fortescue served with class action alleging sexual harassment, discrimination - Reuters"
+  ]
+}
