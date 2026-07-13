@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:51:22.145522Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-07-13-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Is Simandou really a 'Pilbara killer'? What the iron ore sell-off means for BHP, RIO and FMG - Market Index",
+      "companies": [
+        "bhp",
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDRsQjFSQ1RkYTNxRFhDNlFZWjgtUHRURUo5enY1Qk9uT1lfRVJieGprbzN4TTRJbzk1NHp1enJlZHBDSUN3cTZPenA5QUVtTmNvcGJVNVBqUVowVVp1OWxsbld5ZkRkSlJOVmNSME1scnFOc2U4TzRhSGpjZ0U0N3dsWi0tLW1oRnZYdjdCWlRKRXJuclZ2M01aemg4aVR0OVVuRGVaemF5Z3l6VlZVdU9HN1JPajZvVWVkUTZOOFduZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto’s Pilbara Shipments Look Slightly Ahead Of Forecasts - Finimize",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMERrQkk4RDVHM2ZZSzRHbDhycnRUV0NISi04OTBSSTF5SWdzWDViNWNrSXEwRENYZVVHQ3FkcDB0YXo1VzNUakplWEV4SjNQWXVQTWJJT1MtVHlnX3dEVFRvcFpjYW1yYmR1T25DbVcteGNZWVVlUExxcXR1d3RlZ1dCNWVpdUltbTNSUTNPS2gtU3VC?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto faces copper production gap after 2030, UBS says - Mining.com.au",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNczBFcHoyV0JnbzZYYUFZYnd0M2xTUUExSDExXzdZOTRjM1FWRVZmdEw4cVBZTW5IMGNncGozRGV6alNOdnBuaENIa2NDTFJGMHN1T1o5ZlNINVc1ZjNoSmdzRExkdHRQOHE3TXY2MllVVjVfTEdkaUtSUmxjX2dEMU9mckpFbkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fortescue-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue (ASX:FMG): China Strategy Enters a Crucial Phase as Iron Ore Conditions Evolve - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXNmWUVTYlBPZlVwbkl4TlVWRDgzb2lOTVZsb05GdFp2cU5ZS0JuQV84anV4UWJ6MXd2WklfX09Jc2lFSklVS19ic2pidHJ2bzk3Vk9FNGE0M1JTd0ctbFUtbVpDMkhNRnNVMnlsY2dFeHdOUGFQUHFIU080YVMwMnA4TmFRSkZpSXB6aGNNcmJ6bHVNNHhFdzJ2aEgxNWJCZ0l5X2VmTGZkYXFldkJZLWdDR0ZDNTNRUlpz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-07-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nippon Steel Logistics Indonesia launches bonded logistics center - Yieh Corp.",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEJZWE1BNlBvQWRraXYxWGxRSk1lVENNVkd0b1A3dTg4RWlKZWFiUE5QZ2JFOFZqcTRLYTMzRzk2YU9jOG9uVjV1d0NCTHBSVFpHX2JaclJ4TWc0bk9rVFRrT1M1RVNBZzNXckJFaGpSVkFkUmJ5clJHbHdZMGtkUHoxOWtJOTNjeWVMSXliOEFuV3dUam9wME9SSU5rZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 2
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      },
+      {
+        "id": "us_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 287,
+    "too_old": 184,
+    "gate1_blocked": 19,
+    "gate2_blocked": 24,
+    "passed": 25,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Co-managing Country - Rio Tinto",
+      "Rio Tinto Exits Kasiya Operatorship, Malawi Targets Direct US Critical Minerals Supply - ChemAnalyst",
+      "Fortescue Target Price Cut 8% to A$17.25/Share by Morgan Stanley>FMG.AU - Moomoo",
+      "Fortescue served with class action alleging sexual harassment, discrimination - Reuters",
+      "Fortescue Faces Class Action Over Workplace Harassment Claims - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為力拓、FMG、日本製鐵相關動態：「Is Simandou really a 'Pilbara killer'? What the iron ore ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Simandou really a 'Pilbara killer'? What the iron ore sell-off means for B...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rio Tinto’s Pilbara Shipments Look Slightly Ahead Of Forecasts - Finimize（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

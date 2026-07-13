@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 287,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 19,
+  "gate2_fail": 24,
+  "passed": 25,
+  "gate2_samples": [
+    "Co-managing Country - Rio Tinto",
+    "Rio Tinto Exits Kasiya Operatorship, Malawi Targets Direct US Critical Minerals Supply - ChemAnalyst",
+    "Fortescue Target Price Cut 8% to A$17.25/Share by Morgan Stanley>FMG.AU - Moomoo",
+    "Fortescue served with class action alleging sexual harassment, discrimination - Reuters",
+    "Fortescue Faces Class Action Over Workplace Harassment Claims - The Globe and Mail"
+  ]
+}
