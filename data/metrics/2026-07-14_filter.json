@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 19,
+  "gate2_fail": 24,
+  "passed": 50,
+  "gate2_samples": [
+    "Rio Tinto Athletics for The Outback program putting smiles on the faces of thousands in regional and",
+    "Fortescue Target Price Cut 8% to A$17.25/Share by Morgan Stanley>FMG.AU - Moomoo",
+    "Fortescue Faces Class Action Over Workplace Harassment Claims - The Globe and Mail",
+    "Top SunCoke Energy (SXC) Competitors 2026 - MarketBeat",
+    "Del Mar College names facility after $737K donor ArcelorMittal - KRIS 6 News Corpus Christi"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:48:24.554677Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-14-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tokyo Steel has left its prices for steel products unchanged for August sales",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_utilization",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gmk.center/en/news/tokyo-steel-has-left-its-prices-for-steel-products-unchanged-for-august-sales/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Macro Metals Adds Yandi South Project to Pilbara Iron Ore Portfolio - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2czNXpLaVRqakdSSE9FMG9xelpwLVVvM0R1QW9XeHYxMGlJUFBGY3MzdWQ2NTVzMzNTVm5vRDJxdTFwOEhOZDZuYnZreXd3SEVaTTRCTHRxQ0hWbjk0ZEktaElZeEs2N2FGN19wd0Z1S0U3aV9ubS1vdDhVdzFTdXFUM1FDTlJHWnUzVHBjUW5fdzdyRS14ODR4WlRxZWxTei0xbzdiaUJRV0FsaGtNSXhLb2xfa3NOSmctbl9YeU1XLXlqMUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bhp-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group BHP: What Keeps It in the Iron Ore Volume Debate? - Kalkine Media",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakxFOS1FakFLZm90NlNUU3BFejExbDRBcGp3dzRseDJnLW5zSlNOY043VGc4UUJxcTZPMUs3V0diZTIzME9KY05EMkVTSC1MNGEwU0ktc1hjREE3MVpJOXhSVW5oTUJDUkhpT2IzdE9pNkhpRHFVaDlET2JHS2VqZmd1dTVpRnhhMGNxdjlYU0Zra3piNDVaRjFlWFc0eUFKanVkT2doNA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto loses JPMorgan as substantial holder - Mining.com.au",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SMFVqTnQzSWo5VGx4dlhLX2otYXYwcGZMUnY5emVOOGNCdFluOVk2dFBYSmFRMzVJcmZRZDBaWUpqUVVaeTNUdVlSZWpOWGZiZmhoMWVqd1JvdGRIRGJ2WTVaLS1tbjBqOTBTYnVBeldwRUVDWEhhYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "suncoke-2026-07-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SunCoke Energy (NYSE:SXC) Share Price Passes Above Two Hundred Day Moving Average - Here's Why - MarketBeat",
+      "companies": [
+        "suncoke"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT2tVdTF3VVhYWjlxczRySFkxRm9KVkJRR2V2dGYzbTJUV0JVQngxY3hvdlkwV1dkaE1ueGM0VnVoOUFYdjNqWTlSU3lEMDR2X192NnJZcjZSMWtrTFYxYnY5T3hLSzZPcE43V2RPWkFOZXlTWlZGSkZ4eFNVOVVZbDF3UC1maTk2aDFJQmdVUDMxdExQNlh1QzRrRlJnS1Y0MzdWVDhaR2xGSUFwaUUzdDRzbGctbXQtOVRMYUhYUXhlbmJ1UDlfaC1CRld0NTQtdzdBN0lVbnhCUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "suncoke",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 540,
+    "dup_title": 256,
+    "too_old": 191,
+    "gate1_blocked": 19,
+    "gate2_blocked": 24,
+    "passed": 50,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Rio Tinto Athletics for The Outback program putting smiles on the faces of thousands in regional and",
+      "Fortescue Target Price Cut 8% to A$17.25/Share by Morgan Stanley>FMG.AU - Moomoo",
+      "Fortescue Faces Class Action Over Workplace Harassment Claims - The Globe and Mail",
+      "Top SunCoke Energy (SXC) Competitors 2026 - MarketBeat",
+      "Del Mar College names facility after $737K donor ArcelorMittal - KRIS 6 News Corpus Christi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為塔塔鋼鐵、Nucor、必和必拓相關動態：「Tokyo Steel has left its prices for steel products unchan...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tokyo Steel has left its prices for steel products unchanged for August sales（產能利用率、鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Macro Metals Adds Yandi South Project to Pilbara Iron Ore Portfolio - Trading...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
