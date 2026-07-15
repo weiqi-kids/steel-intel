@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 260,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 24,
+  "gate2_fail": 21,
+  "passed": 58,
+  "gate2_samples": [
+    "Why BHP Group (BHP) Stock Is Up Today - Quiver Quantitative",
+    "BHP Group Ltd Stock (BHP) Moved Up by 3.50% on Jul 14: What Investors Need To Know - TradingKey",
+    "Fortescue Target Price Cut 8% to A$17.25/Share by Morgan Stanley>FMG.AU - Moomoo",
+    "Top SunCoke Energy (SXC) Competitors 2026 - MarketBeat",
+    "Del Mar College names facility after $737K donor ArcelorMittal - KRIS 6 News Corpus Christi"
+  ]
+}

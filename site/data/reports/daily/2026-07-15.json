@@ -1,0 +1,230 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:53:03.436474Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-07-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP Group (ASX:BHP) Shares Regain Ground as Copper and Iron Ore Momentum Returns After a Pullback From Record Highs - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOGpaRTBaeHpPOU9wRzRIcFEtbVZLbHhtNC13czI2VVFmVE1MSlJWLTlIT2RhNVg1bjlEekJ2c0N2UlBpLVZiRlQ0QzdIZEM2aTFVMjQ3Zk9xbmotZWUwdm01cXEyU3U5UktUSVpUeGJpc1FEU3dES0xqYXNmbHNORl9rYWZkbVlaTUd1TTJYVVVGRHZWV3Y1Vl9FV3pSdXpLemp0SHRXbXJYYzNuMHZ2dWN2Slo3UDFtdFJLSTlUMnp5TVllbURhazRYQWdGUFVjSm13RUEwWlJCTzVHcmpWbA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can BHP Group (ASX:BHP) Benefit as China Reopens Iron Ore Imports? - Kalkine Media",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHdnb0VTUkFCbTNfbklFNERyS29WVzFhSlcxbVBIVlVFRTQwaWl5TkY4ZTk3eUtzTVdaSzdoLTVkZktKQ3NKaTdpTUd0dlpTWjVpRUxoNzNfZDJMaGQ2NjlTZFRvNXpkZ2hKTERDT0swRWtHVmx6MktqdS1qVER5YWwwNEZpQlZWckNLV2hlR3UxUGxnN0pVd2o5d3Zqa1Izc1JLOWFTMG1udWlRZ2tDLVEzUWw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-07-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Iron Ore Shipments Rise; Copper Cost Guidance Lowered - WSJ",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjR4REtUdGYxS1RpeTRfNDNKeV9HYlVlQVk0Y09KdlFRd3JmZ0RyWVd0VTVuMWl2bTliMzJKeFhRSzVHb2VzaW8zY3hLNDFvZTVIejRtTVVzWHNLYkJ5OFlVNzZOd2RtOXhibWl5SVRSS2htdk9rMkQzb1VXY2stb0RIMHBWeVhWVVZEVkhieTZpUWd5LWItOHZzaTJVRVR0WlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-07-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Q2 iron ore sales rise 7%; lowers copper cost guidance (RIO:NYSE) - Seeking Alpha",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd09VSUQtMHlJb1dnclYwM2Q3N0V1U3dtWFFWM3dsUmFFMWxoa3YwYXRYWWZBSmtfV29VLU5ucjlTMS1zS0dQbFJDd0RQQnVPV3o0ZkJ2SGEtQ1FWZWNuaEh4Nzgtem1aTlcxUzlFalBQcG1ab1ltWkp6ZGNpMmZ0OFRDMVRaV3d0WXI5THVoNjFLbkZRU1BDNzZybVBMaFBraVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-07-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto increases first-half production as Simandou project moves closer to completion (RIO) - Yahoo Finance UK",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSUFVMGRRbW5yVG93VGxEUklBMnFQRWV5S1Q4NVY0VDFvSmM4NlBKVmVDNXh5ZFVFallwM01HVnpfaTRmblp6aHh4UHNYUXNYTVBWS2dmMmdmdlVEZkd1MGFIZmp2N2tIWmFMZlFOTUJWQkdaU1VKWjktYjFrMW1qQm9ZU3V0Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 10
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "tata_steel",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 260,
+    "too_old": 176,
+    "gate1_blocked": 24,
+    "gate2_blocked": 21,
+    "passed": 58,
+    "pass_rate": "20.8%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Why BHP Group (BHP) Stock Is Up Today - Quiver Quantitative",
+      "BHP Group Ltd Stock (BHP) Moved Up by 3.50% on Jul 14: What Investors Need To Know - TradingKey",
+      "Fortescue Target Price Cut 8% to A$17.25/Share by Morgan Stanley>FMG.AU - Moomoo",
+      "Top SunCoke Energy (SXC) Competitors 2026 - MarketBeat",
+      "Del Mar College names facility after $737K donor ArcelorMittal - KRIS 6 News Corpus Christi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為力拓、必和必拓、日本製鐵相關動態：「BHP Group (ASX:BHP) Shares Regain Ground as Copper and Ir...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BHP Group (ASX:BHP) Shares Regain Ground as Copper and Iron Ore Momentum Retu...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Can BHP Group (ASX:BHP) Benefit as China Reopens Iron Ore Imports? - Kalkine ...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
