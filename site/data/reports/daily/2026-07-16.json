@@ -1,0 +1,242 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:58:23.103728Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-07-16-009",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "BHP and Rio Tinto hit iron ore records - Mining.com.au",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMDBzOG9oZ05OYzRIWU5JNHpHZ1YtaFEyTWsyTHllOUhQOEhtNXAxbThRQ1hmNDFUVkItOEFRVG84Yks3MmtJdy1kN09HbTVZcDdndU0yVjJ1Vl9PYkVDWGwzNnJVUW0xLUJhYXZB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-07-16-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP Annual Copper Production Falls; Iron Ore Output Notches Record High - WSJ",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVG5QVDl0c0QxR1hfcVpuLVRVQzFaVUt5aXdNemh2YmJ1WlpvNXFIODk2N2ZvVENxc3RwMFdtMkdqNUxTZjhYcHMtQ19vZklKZ3MtZnI5TjlFTV82NzhBU1FoeEVkR3JXSlBCSGl1aVpKbFZxVktGbS1pRmxYNVdoRTA2VlVDNnhwZXhuZGVMTGlsYjM0d3JlWDZPdTlyc0VrNVpCdjFEYzBmTG1j?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bhp-2026-07-16-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP Group (BHP) Reports Record Iron Ore Production, Copper Outpu - GuruFocus",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1R0R2xkZmNyN21JUXM1SGpZd0thTEk3NlN3NDFWRVVhZ0E0aGt5UzRMZ3BhZXVYRHJqSVFoTVI1WEQ3Z2JHVVBDNkhRazlPUllEYWY0bHRVQW9RWGtiRllnekw4ZlI0dUwzUV8zTy1wNEFxU18wNzJ6ZEkyY3ZZZ2haU2pVd05jSnRCb3VMWFRETGEtblkxX2ZfbF9nVkVzX0lqNUNGbWZ0WkZUbmtv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-07-16-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP: Record iron ore and copper output, robust cost control, and major growth projects advanced - TradingView",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNR29IZm0wZGdXRTNqREVXZFZUeDJVTVYtZ0pZWnNuNlV1dDFMRU5Ud05YQ1N3WFZ0TXM5Rlp1dWtIYjBVbm80YWNiNVJVeDVLUWFIWC1ud1RpWHk1dXZSVDhpcDF6T0pVZXB4U3NIS25HRmlGOUJjN0JsVGhNcmxka0lOWWk5WmdzY0MxTExacXBnQklvTDJvQjM4bk1VV241YU9hYjBRbG9fSTJXM1RoWGpMbmRUclBtbUtqZ3UwcExsenBmVU5Fd0EwZi12Yk5BazM2VnViTlVxMHoxMmV0NUpOSmNDZ05wWXhNZEhpVnVNVzJjWktVaUc5aXlaX0Uya2RpRm93?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bhp-2026-07-16-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP Posts Full-Year Iron Ore Production Record at 264.7 Mt - energynews.pro",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcC1xUmtMaTh2djAzQUdYQjBvblNYcGFSR1hrajFlZ1ltUnlRVmxvTHZwSlhndEplZDNkbFFTVWJZRHY2VnQ0TGZsNWVLOTFSbzZJUGloQkw2VmFnLWVXRTVwUUgyU2tlT3VwWmUxQ2FIODR2aUFTZnhnSTVkVTlPWFJld2IwTjQyRy1R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 17,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "bhp",
+        "count": 14
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "jfe",
+        "count": 1
+      },
+      {
+        "id": "vale",
+        "count": 1
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 536,
+    "dup_title": 245,
+    "too_old": 175,
+    "gate1_blocked": 26,
+    "gate2_blocked": 27,
+    "passed": 63,
+    "pass_rate": "21.6%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Why BHP Group (BHP) Stock Is Up Today - Quiver Quantitative",
+      "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+      "Rio Tinto lifts lithium in Argentina, gears up in Chile and builds up copper - BNamericas",
+      "Rio Tinto Copper Output Falls 7% as Kennecott Shutdown Persists - TradingView",
+      "Rio Tinto (NYSE: RIO) lifts output and cuts copper costs in H1 2026 - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為必和必拓、力拓、JFE鋼鐵相關動態：「BHP and Rio Tinto hit iron ore records - Mining.com.au」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BHP and Rio Tinto hit iron ore records - Mining.com.au（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "BHP Annual Copper Production Falls; Iron Ore Output Notches Record High - WSJ（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鐵礦砂價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

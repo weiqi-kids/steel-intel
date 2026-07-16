@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 245,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 26,
+  "gate2_fail": 27,
+  "passed": 63,
+  "gate2_samples": [
+    "Why BHP Group (BHP) Stock Is Up Today - Quiver Quantitative",
+    "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+    "Rio Tinto lifts lithium in Argentina, gears up in Chile and builds up copper - BNamericas",
+    "Rio Tinto Copper Output Falls 7% as Kennecott Shutdown Persists - TradingView",
+    "Rio Tinto (NYSE: RIO) lifts output and cuts copper costs in H1 2026 - Stock Titan"
+  ]
+}

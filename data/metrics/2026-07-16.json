@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-16",
+  "total_events": 28,
+  "by_company": {
+    "bhp": {
+      "count": 14,
+      "sentiment_avg": 0.2
+    },
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "jfe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vale": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 27,
+      "sentiment_avg": 0.11
+    },
+    "iron_ore_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
