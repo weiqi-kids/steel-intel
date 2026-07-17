@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 257,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 27,
+  "gate2_fail": 24,
+  "passed": 57,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Moved Down by 4.86% on Jul 16: Facts Behind the Movement - TradingKey",
+    "Rio Tinto: Solid Q2, But Limited Upside Supports A Neutral View (NYSE:RIO) - Seeking Alpha",
+    "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+    "Berenberg Tweaks Rio Tinto Estimates After Q2 Update - Finimize",
+    "Rio Tinto cuts copper unit costs nearly in half for 2026 - Proactive financial news"
+  ]
+}
