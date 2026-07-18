@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:16:50.653744Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cleveland_cliffs-2026-07-18-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is Sharply Raised Loss Forecasts Before July 23 Earnings Altering The Investment Case For Cleveland-Cliffs (CLF)? - Yahoo Finance Singapore",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSXRDRHVCc29IWjJRY3c1RW5LLVJVZlhqd3FHMk01R3lGRTRBZEF4ZVEtWWxpbl9hY2MyQ3BJVGRYRHVwV2ZiNXpTMnlFU0MtVFFOZmdPdzJEUURUaVg2NEhHbkZHUXVqb0dhX0JheDF4ZjdaU3BRNjBtQ3lmOHM3bEp2eGs4Tkt3d2Fz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nucor-2026-07-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nucor stock trades near recent highs as steel demand supports earnings outlook - ad-hoc-news.de",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0NHUjhwaW0zeDV0UDIxRlBfZzM1cEtwRVhnaHc2bXB6MUI1UVg1TEEtNk5rRnp1UDRuWG5vQ2s0eUZFYzZlRmotLUoxR0hnMTljUXRvTm9RMWloTS14NzMzbU9qS3hUSGtnRVJSMm0wLW1NWEMyb1NXbU1qWEhxZ2RmZEdfdTI0aWFoQVFZLXRNRXd3QXp6WDhET3BzblhCcktqU2k5LXFtZ05aemgxcjhVb19nMXJCYVhCc2JDTzhFZnNkUXRxeQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cleveland Cliffs (CLF) Stock Could Be 39% Undervalued As Cash Flow Recovers - Yahoo Finance Singapore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDlQV1RDa3RLRGRmNDhZak9OUGNhMzA5YmhrU1A5azhiYjVDWm5uX19KYkZWTU1kTDlzS1F5d3RyblRPQnR0MzJ1TERCeTdnZUZOTEJoYkNlTnNxaXNZOU5FNEdqd1BKcUFMMTRrNDkzMU1wY2trWG5YckU4TFpLaWdFcDNLVFBp?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "us_steel-2026-07-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "As air quality issues take center stage, U.S. Steel's open house puts focus on new investment - Pittsburgh Post-Gazette",
+      "companies": [
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcldXRzhaYWRjX1hONnFQWXhkdEZHR1RZcndHQnlKTHZjSXNzeE1Nbk52Q21sUmhzWVBXc1VJaGwzLU9pQ0M2dFVNT1ItcUpIX2ZkQWdlc0ZuWXNnb1loalh1LXRuaEZ3TzFjbjBJUnRheFVDRkhBSTVRZFU1WlNPN0J1dkNlSloxc1dMTkthZTJVcF90RE5pcUVqNGZXN0MtNkZHVlQxRWlOUEhCalE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Yuvileina mine has commissioned a new unit with a capacity of 141,000 tonnes of ore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gmk.center/en/news/the-yuvileina-mine-has-commissioned-a-new-unit-with-a-capacity-of-141-000-tonnes-of-ore/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nucor",
+        "count": 1
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 1
+      },
+      {
+        "id": "us_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 270,
+    "too_old": 183,
+    "gate1_blocked": 20,
+    "gate2_blocked": 19,
+    "passed": 47,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+      "Rio Tinto lifts lithium in Argentina, gears up in Chile and builds up copper - BNamericas",
+      "Rio Tinto cuts copper unit costs nearly in half for 2026 - Proactive financial news",
+      "Rio Tinto: Solid Q2, But Limited Upside Supports A Neutral View (NYSE:RIO) - Seeking Alpha",
+      "Rio Tinto Copper Output Falls 7% as Kennecott Shutdown Persists - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Nucor、Cleveland-Cliffs、U.S. Steel相關動態：「Is Sharply Raised Loss Forecasts Before July 23 Earnings ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Is Sharply Raised Loss Forecasts Before July 23 Earnings Altering The Investm...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nucor stock trades near recent highs as steel demand supports earnings outloo...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

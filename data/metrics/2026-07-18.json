@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-18",
+  "total_events": 6,
+  "by_company": {
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "us_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

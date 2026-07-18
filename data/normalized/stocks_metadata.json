@@ -1,46 +1,46 @@
 {
   "vale": {
     "earliest": "2002-03-21",
-    "latest": "2026-07-16",
-    "count": 6119,
+    "latest": "2026-07-17",
+    "count": 6120,
     "history_complete": true
   },
   "bhp": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "rio_tinto": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "warrior_met": {
     "earliest": "2017-04-13",
-    "latest": "2026-07-16",
-    "count": 2326,
+    "latest": "2026-07-17",
+    "count": 2327,
     "history_complete": true
   },
   "suncoke": {
     "earliest": "2011-07-21",
-    "latest": "2026-07-16",
-    "count": 3768,
+    "latest": "2026-07-17",
+    "count": 3769,
     "history_complete": true
   },
   "cmc": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "arcelormittal": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "nippon_steel": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6353
+    "count": 6417
   },
   "jfe": {
     "earliest": "2002-09-26",
@@ -49,90 +49,90 @@
     "history_complete": true
   },
   "posco": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "tata_steel": {
-    "earliest": "2001-01-15",
+    "earliest": "2000-10-17",
     "latest": "2026-07-17",
-    "count": 6351
+    "count": 6415
   },
   "nucor": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "steel_dynamics": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "cleveland_cliffs": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "gerdau": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "china_steel": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "chung_hung": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "tung_ho": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "feng_hsin": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "baosteel": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-12-12",
     "latest": "2026-07-17",
-    "count": 6275
+    "count": 6308
   },
   "hyundai_steel": {
-    "earliest": "2001-01-10",
+    "earliest": "2000-10-12",
     "latest": "2026-07-16",
-    "count": 6368
+    "count": 6432
   },
   "reliance": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "ta_chen": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "spring_rain": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "tenaris": {
     "earliest": "2002-12-16",
-    "latest": "2026-07-16",
-    "count": 5932,
+    "latest": "2026-07-17",
+    "count": 5933,
     "history_complete": true
   },
   "etf_slx": {
     "earliest": "2006-10-17",
-    "latest": "2026-07-16",
-    "count": 4966,
+    "latest": "2026-07-17",
+    "count": 4967,
     "history_complete": true
   }
 }

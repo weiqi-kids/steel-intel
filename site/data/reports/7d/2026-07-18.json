@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-18",
+  "date_range": {
+    "start": "2026-07-12",
+    "end": "2026-07-18"
+  },
+  "generated_at": "2026-07-18T09:16:50.799910Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-07-16-009",
+      "date": "2026-07-16",
+      "title": "BHP and Rio Tinto hit iron ore records - Mining.com.au",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 93,
+      "last_week": 110,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.07
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "steel_price": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "tata_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 12
+    },
+    "rio_tinto": {
+      "event_count": 18,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "fortescue": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "baosteel": {
+      "event_count": 2,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "bhp": {
+      "event_count": 19,
+      "sentiment_avg": 0.2,
+      "rank": 1
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 10
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 14
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "arcelormittal": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 295,
+        "last": 306,
+        "change_pct": -3.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-12",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 54,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 50,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 55,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 68,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 48,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 6,
+      "sentiment_avg": -0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-12 ~ 2026-07-18）共 295 則事件，重點為「BHP and Rio Tinto hit iron ore records - Mining...」。Cleveland-Cliffs、浦項製鐵情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "浦項製鐵",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
