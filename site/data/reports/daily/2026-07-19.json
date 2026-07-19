@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:45:20.522921Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-07-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group (ASX:BHP) Could Be 81% Overvalued As FY 2027 Guidance Lands - simplywall.st",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWRqc0oyTGpWdGtHQ3RmZDhUaWhRYUZHMG9Xc19XLXhMN19lTnlfTHRxRW44bXRwemtOWHdmU29ZdTA1WS1QX2dWSjN1UWhNbENSRzdDMS1OLXJ1cVQxSE1zOFhmS3U2aTV5YTc4elV4YXIxLUJkNDFjNjNSVUIxMjhnckxGN3NiX21VYWgzVm05VmZBVWZZVF80UjZNclpjZmdzVWM0NUpqY2dEeFFfdzVLUGo3Wl9HUTVYZWxrOVF6TG9XVHRwdUhTZ9IB0AFBVV95cUxOVzBoOHd4Z1Nra3Z4X3VnVW9uQUFneHNCY0w4ZlBJOURSckFCc3JWQUdvOU10Ym41S1JtYnloMG1OVGRTMkZYVEp2RXVZQVJFenpoZ0E5V1hoNkd6cTVYWnp6Tld5YWJZbXRWYllQR3Nic3FqTl9PZEdhVWV6NU5FamFsMmRIZng3Z2NzRXVBSmlsa3BQYU4wbGh0X05GNWhaSlUzM0N1MUo2VmZZMld2MVBNZzMtZFhINzhsYWdBVm1oZHlXNDAtNmZTanRwYmRV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-07-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ArcelorMittal stock trades steady as steel demand outlook offsets lower Q1 earnings - ad-hoc-news.de",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbU5BSDdEVE1QQ1lqblRuajV0cFlpd09MMnlfM1pSN214dXEzcXZ5SEZIdjFwdlkwWGxPb3c0NkFPREdCN0xQLU02Wm1ycDVBU0oyZkoxRkRBSmkxVHd1SWd6RVgzSVB3b3JQVEJ5WmFpYTh4OE1ra2FhLVlZcVN0RGsybXdlbDdmQVo2Ri1PMDNyaHZuNzRPQ0xJTVZSaUtybjNTa0hCX0FUSFBpWUV2cXhNcVdmYng0R05TaWQ5TnZUeXU4Q3l6aTNkTTItZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nucor-2026-07-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nucor stock trades steadily as steel demand and recent earnings shape expectations - ad-hoc-news.de",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDg5SWRrM3NxemZvdlVMWFFrRDdqYWh2dUJfTFlSRjdTaDNMeEFDVnhrOGcyM1IwMjJqNVBxRVlmY2YxUjNZRk1jQjNHS0RneFdYV2tDQTM5WHNTamFYb1VxQXNOa3FzMXZ4a1R4SVlBcDJKaTZyOGhJbHdxMnNaNzlHSDdwaUk4MnpRb2lzakF1ek9UcFFJTENHcXEyeHV4MU95NjNqSkZKTklPMmpUMGpDRTd2TjFNeTAwSklybXVWSWRnWVlv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bhp",
+        "count": 1
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 536,
+    "dup_title": 304,
+    "too_old": 181,
+    "gate1_blocked": 18,
+    "gate2_blocked": 19,
+    "passed": 14,
+    "pass_rate": "6.0%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+      "Rio Tinto cuts copper unit costs nearly in half for 2026 - Proactive financial news",
+      "Rio Tinto lifts lithium in Argentina, gears up in Chile and builds up copper - BNamericas",
+      "Rio Tinto Copper Output Falls 7% as Kennecott Shutdown Persists - TradingView",
+      "Rio Tinto: Solid Q2, But Limited Upside Supports A Neutral View (NYSE:RIO) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為必和必拓、安賽樂米塔爾、Nucor相關動態：「BHP Group (ASX:BHP) Could Be 81% Overvalued As FY 2027 Gu...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BHP Group (ASX:BHP) Could Be 81% Overvalued As FY 2027 Guidance Lands - simpl...",
+        "level": "green"
+      },
+      {
+        "text": "ArcelorMittal stock trades steady as steel demand outlook offsets lower Q1 ea...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

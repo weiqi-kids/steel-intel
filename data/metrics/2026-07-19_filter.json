@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 304,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 18,
+  "gate2_fail": 19,
+  "passed": 14,
+  "gate2_samples": [
+    "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+    "Rio Tinto cuts copper unit costs nearly in half for 2026 - Proactive financial news",
+    "Rio Tinto lifts lithium in Argentina, gears up in Chile and builds up copper - BNamericas",
+    "Rio Tinto Copper Output Falls 7% as Kennecott Shutdown Persists - TradingView",
+    "Rio Tinto: Solid Q2, But Limited Upside Supports A Neutral View (NYSE:RIO) - Seeking Alpha"
+  ]
+}
