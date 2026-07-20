@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-20",
+  "date_range": {
+    "start": "2026-07-14",
+    "end": "2026-07-20"
+  },
+  "generated_at": "2026-07-20T10:42:40.105100Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-07-16-009",
+      "date": "2026-07-16",
+      "title": "BHP and Rio Tinto hit iron ore records - Mining.com.au",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 90,
+      "last_week": 105,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.07
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.25
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 19,
+      "sentiment_avg": 0.2,
+      "rank": 1
+    },
+    "rio_tinto": {
+      "event_count": 17,
+      "sentiment_avg": 0.15,
+      "rank": 2
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tata_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 4
+    },
+    "us_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cleveland_cliffs": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "fortescue": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "arcelormittal": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "baosteel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 262,
+        "last": 315,
+        "change_pct": -16.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-14",
+      "event_count": 50,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 56,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 73,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 56,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 8,
+      "sentiment_avg": -0.09
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-14 ~ 2026-07-20）共 262 則事件，重點為「BHP and Rio Tinto hit iron ore records - Mining...」。淡水河谷表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
