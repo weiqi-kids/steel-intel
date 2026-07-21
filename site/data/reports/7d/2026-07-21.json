@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-21",
+  "date_range": {
+    "start": "2026-07-15",
+    "end": "2026-07-21"
+  },
+  "generated_at": "2026-07-21T10:16:24.775295Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-07-16-009",
+      "date": "2026-07-16",
+      "title": "BHP and Rio Tinto hit iron ore records - Mining.com.au",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 101,
+      "last_week": 100,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_policy": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 18,
+      "sentiment_avg": 0.21,
+      "rank": 1
+    },
+    "rio_tinto": {
+      "event_count": 17,
+      "sentiment_avg": 0.21,
+      "rank": 2
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tata_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 4
+    },
+    "cleveland_cliffs": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "fortescue": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "arcelormittal": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 7
+    },
+    "baosteel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "us_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 261,
+        "last": 318,
+        "change_pct": -17.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-15",
+      "event_count": 57,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 73,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 56,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 8,
+      "sentiment_avg": -0.09
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 25,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-15 ~ 2026-07-21）共 261 則事件，重點為「BHP and Rio Tinto hit iron ore records - Mining...」。必和必拓、力拓表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "日本製鐵",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

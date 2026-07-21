@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:16:24.636280Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-07-21-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rio Tinto Receives Wontanara, CSSC Claims This Ship Breaks Three Records - VOI.id",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhZWxMekx2QjVpVERHV2s2VXJKcFhFemliMjZSRVVkQ3owMFNmenpVZFdTWUx5cm5vaWpLMF9uUjBGdVhkaFFF0gFCQVVfeXFMUFhjVmtZRE1tZ2xkMzA1VVRFMHBkdmNHVmZqcGZvd2t3dXVSMVNaTnJaeVozbm82Z0JWNjdYc0JCNWN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-21-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Italy increased steel production by 6.1% y/y in June",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://gmk.center/en/news/italy-increased-steel-production-by-6-1-y-y-in-june/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-21-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iron ore hits 18-month low at $87.20 amid China steel losses, Hormuz closure - Crypto Briefing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOE9kQk9BdHgzOW5kRGl1Mm9NQmRXLTZodkVBNksxTklQNlRMWXJ3ZHpVejNLQ1M4dDNaa1Z0MTZCY0xXVk41UVBFUlNsSjI5VGFMV2lkY0FlWU11eThTc2VrV1NDZVdQMS1oREVJWWxfX3N3M1RKZEliR1hpRHY0YlFJRUt5b3BLOG02SlJqV2RNSFF3V2RTeHVqTnR3eFR4cElZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New vessel type to speed Guinea-China iron ore trade - Splash247",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlVodU40bEZvUHRoaWJBVl83anFadm1tU3hHUDJkanNfTEp0X2lHSllSTGJZV3otRlprVnhXdFgxRkxVcDR1Wm5oMUQwZDlpT1VvZlZFYnZHRGNRV0hncHdld0ozSEpVMnlCQjItVC03WGdUY2lpaVNvZ2dKZGpFcA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fortescue-2026-07-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue (ASX:FMG) and Its 6.49% Yield: A Closer Look at the Mining Giant's Dividend Profile - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3plbTJmY0huWVNrRU5lbU1BTzVEbFhkNWZjeGI4SmtQTkJGQnNUR1N2cm9rRVVPbUVpT1BGMmhPOUlObUJBNjcydFpMRFpvdUNvN1B0dGFGbVJzRVhtWmVaZlAxNllWTUhvQlNwb3A0LTdMeFVHVEZjc1dEaFR3dUhTUUw3RjVVaGktVGxzMFhaUHF5WGtUN0l4aTNkcjltZ1V4V1B2Ykk4aWlZXzRIQlg3VHdOR1JfQWNxS081SHFkWEtSWDlEOFVR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 14,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 5
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 540,
+    "dup_title": 257,
+    "too_old": 194,
+    "gate1_blocked": 25,
+    "gate2_blocked": 15,
+    "passed": 49,
+    "pass_rate": "17.3%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+      "New Sell Rating for Rio Tinto Limited (RTNTF), the Basic Materials Giant - The Globe and Mail",
+      "Rio Tinto changes management in Serbia - Serbian Monitor",
+      "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+      "Rio Tinto: Solid Q2, But Limited Upside Supports A Neutral View (NYSE:RIO) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為塔塔鋼鐵、Nucor、力拓相關動態：「Rio Tinto Receives Wontanara, CSSC Claims This Ship Break...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rio Tinto Receives Wontanara, CSSC Claims This Ship Breaks Three Records - VO...",
+        "level": "green"
+      },
+      {
+        "text": "Italy increased steel production by 6.1% y/y in June（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

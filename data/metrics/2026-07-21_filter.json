@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 257,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 25,
+  "gate2_fail": 15,
+  "passed": 49,
+  "gate2_samples": [
+    "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+    "New Sell Rating for Rio Tinto Limited (RTNTF), the Basic Materials Giant - The Globe and Mail",
+    "Rio Tinto changes management in Serbia - Serbian Monitor",
+    "Rio Tinto: Solid Second Quarter and First Half of 2026 - Morningstar",
+    "Rio Tinto: Solid Q2, But Limited Upside Supports A Neutral View (NYSE:RIO) - Seeking Alpha"
+  ]
+}
