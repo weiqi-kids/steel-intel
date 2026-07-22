@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:16:19.666658Z",
+  "updated_at": "2026-07-22T10:19:14.646670Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "中鋼",
       "ticker": "2002.TW",
       "currency": "TWD",
-      "ar": 13280524000,
-      "ar_prev": 10525715000,
-      "ar_qoq": "+26%",
+      "ar": 13779274000,
+      "ar_prev": 13280524000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 92490887000,
-      "inv_prev": 91956065000,
-      "inv_qoq": "+1%",
+      "inventory": 94999467000,
+      "inv_prev": 92490887000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "chung_hung",
