@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-23",
+  "date_range": {
+    "start": "2026-07-17",
+    "end": "2026-07-23"
+  },
+  "generated_at": "2026-07-23T10:12:56.299092Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nucor-2026-07-21-042",
+      "date": "2026-07-21",
+      "title": "Nippon Steel acquisition of U.S. Steel changes little for Nucor, says COO - Nikkei Asia",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 68,
+      "last_week": 93,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.03
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "trade_policy": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": -0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "rio_tinto": {
+      "event_count": 7,
+      "sentiment_avg": 0.29,
+      "rank": 2
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "arcelormittal": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "tata_steel": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "baosteel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nucor": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "us_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fortescue": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "hyundai_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 225,
+        "last": 313,
+        "change_pct": -28.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-17",
+      "event_count": 56,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 9,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 40,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 51,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 48,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 15,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-17 ~ 2026-07-23）共 225 則事件，重點為「Nippon Steel acquisition of U.S. Steel changes ...」。Cleveland-Cliffs情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 187,
+  "gate1_fail": 18,
+  "gate2_fail": 18,
+  "passed": 82,
+  "gate2_samples": [
+    "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+    "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+    "BHP meets FY2026 targets with strong copper pri... - Pluang",
+    "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat - Reuters",
+    "REG - Rio Tinto - Director/PDMR Shareholding - TradingView"
+  ]
+}

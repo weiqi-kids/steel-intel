@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:12:56.159269Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-07-23-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Moeve, ArcelorMittal Spain partner on record energy efficiency agreement - SteelOrbis",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOel9WT1FjWkZ2bnNCbFgyVmIyc1hCUHpzeXdCUUdlTHhTMkNZTzhKSVhnUHU3Y2RORG14azNzX05RdXNZNjJrV2pSN2wtc1NOU3JESF9jVVh4M19KSy1wWmhvSmVPb0FNRmNnZ192TTBwRXZ6ZUN1c3ZCOEhwTkd5RUtKeUl0MmsxYWxYeW1ROGNJdWpPSDdKdWZXN090QmN3MWNlMW9Hd2RBVDlNcU9pbHMzelRvajVTRkM5cFJTem45VGdqbDZIdkFqOFhIQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-07-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cymat acquires Rio Tinto's aluminum metal matrix composites business - Yieh Corp.",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORk1lQ084NWtzRU5kZ0ZWTXFuQnpjR0FIM1NVakZQalp1X1g0NlJaTnQxRnlWVVZfVmtnZ1B5NTE3OV9vWFRIMWh5Q0xfTmZRWFhWUmRKUFhUbzVHVEhVNHRXdl9KejBKOXFyRXVSZXRhbFFhaExocEowR2RxMkpqYjlHV0ZfS0hJT1VaN3ctMmZnSFdPSlNkdzZWTEJJNkVh?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fortescue-2026-07-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue (ASX:FMG): Iron Ore Backbone Meets Green Energy Ambition - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1NETFFmT2NsUGdldU9JVUNtWGFKYTMwNXZQNlFRR09DaDZNUjlYd0c1Y28xay1EQXdqaGtrVzRfazBCamNMWEQzMXRLVkF0VFFHZEJONlNxOU45cU9Qc3ZHSldNOXF2WjE4c1ZYUzhjSGt5OG43N2YxQUU0ZFZMNW5mTXk2a1JXVUhuWHVYVmE5enV1WnNxWklYWFIwdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fortescue-2026-07-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue (ASX:FMG) Edges Higher as Investors Watch Mining Sector Momentum - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUtSQVR1U0thOU55NUo0OGhybWFIRDV4MmZvU2xSVVV5RXZ1aVlPeHZseDJObDRncmlKQVpkOTJMRzFReGR3dHhYaFFpNUxmT2E5ajlOTGNWSm1tUFNmejZCTzlKamJRQkx2OEtaemdWQjRCSEdZM2xUNzhhUnZsLWMwVWRaTHBSMzIwOUIzdFVJZ25MQmxUVllsY2dpLVdJWDBqSjBaUlZqdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "suncoke-2026-07-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SunCoke Energy (SXC) Projected to Release Quarterly Earnings on Thursday - MarketBeat",
+      "companies": [
+        "suncoke"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjZZRi1DOXNXZGFnQmhwTWlLUkZkWXJjdmQ1T19PSHVDZXdKZy1waGFmazBWNWZ4cVFuOFJIcUNRLXdiRXFweFpnNzdQTUFBV3hlNE1VUWxZRkowTjlrMjV6bXFYSkZKa1B2akE2LTRCX1RCTG5JNHRJU3NqLWQtcWt4VU1CMVh4S291YndRdmRoM1NVSklsRURVSmM4SVMwV0kzTGViTWFheWNCcXpqbU1WczRMdE1BekVRV2FIMWhfUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "suncoke",
+        "count": 1
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "trade_policy",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 537,
+    "dup_title": 232,
+    "too_old": 187,
+    "gate1_blocked": 18,
+    "gate2_blocked": 18,
+    "passed": 82,
+    "pass_rate": "26.9%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+      "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+      "BHP meets FY2026 targets with strong copper pri... - Pluang",
+      "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat - Reuters",
+      "REG - Rio Tinto - Director/PDMR Shareholding - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為FMG、Nucor、力拓相關動態：「Moeve, ArcelorMittal Spain partner on record energy effic...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Moeve, ArcelorMittal Spain partner on record energy efficiency agreement - St...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cymat acquires Rio Tinto's aluminum metal matrix composites business - Yieh C...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
