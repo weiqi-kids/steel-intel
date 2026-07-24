@@ -1,0 +1,16 @@
+{
+  "total_raw": 527,
+  "dup_title": 250,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 25,
+  "gate2_fail": 20,
+  "passed": 61,
+  "gate2_samples": [
+    "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+    "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+    "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat - Reuters",
+    "Rio Tinto Exits Aluminum Composites Business, Transfers Customers to Canada's Cymat - U.S. News - Mo",
+    "Rio Tinto Turns to Biochar for Cleaner Aluminum, Targeting 50% Emissions Cut by 2030 - CarbonCredits"
+  ]
+}
