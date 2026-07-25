@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:09:12.840507Z",
+  "updated_at": "2026-07-25T09:28:52.797683Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "Cleveland-Cliffs",
       "ticker": "CLF",
       "currency": "USD",
-      "ar": 1882000000,
-      "ar_prev": 1442000000,
-      "ar_qoq": "+31%",
+      "ar": 2044000000,
+      "ar_prev": 1882000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 4591000000,
-      "inv_prev": 4772000000,
-      "inv_qoq": "-4%",
+      "inventory": 4525000000,
+      "inv_prev": 4591000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "cmc",

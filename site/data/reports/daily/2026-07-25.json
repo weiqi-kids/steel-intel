@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:28:57.314676Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnJrNFVERE5KNzVNc294X1MyeGNFTEVBUHA1TWZMOGdPQ05nc2R4YnR6bkNGTXFmWWZ5RHdoWkd0ZS1QMld5anFXTDd6NFdLUWRCUmZTMUcwR096dXd2YmhKcFdBeW80MUpxT09ja0ZDRFBmZEtIYkJBMkRpdHR0anpLR2pjS0xKemc2TFNVWFdzOWdPNDZzeE43SUdxZ3h2Z0xsUVhVUzlVV2NDbkNxMkFNWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nucor-2026-07-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nucor (NUE) Sees Stronger Q2 Profit Outlook, Is It Still Below Fair Value? - simplywall.st",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVBNQXYxZUJ6bThVRjREbndkSlVBUGFsTVlZbEcwYm5Jd2xISjh5M0xvLTF0MDhUSHpqNUttWDFpT252QTJHRWdnNmlOaVlMMjhwSHNMUTItZ0NVNEFTU1hZT0ZqWTJfUzhncE1EajdLUU1aWllWQ2ROUEFNZ0tfbkVkd00ybzJidWpIUkN2ZjdZNzd3WWdYd01Kbm90S3FsTF9FZHJpaTNhcWFZMk1iX1JCLS1pZ09KeEdfREdB0gHDAUFVX3lxTFBFeGNwdjNXOVJ2Q1ZEME1sTkNsbEhJRXBFNXRHUnA3dVNCRkctYUpEdC1QdVpCX1Z4SEExRVF2STdaMDNvMTRweXFfLTBwX0x5LXphNTNGMWprNFAxdURiYVA1YlZ3Mi0yY0J0R2Q1dndFSHNZd1JxNzg5NWdYV1dyUVlZX1FvbFU1Yjg1STVacTlhdFdjWEFMUXdfWVZvdzdGRy05NlJ0M3U0dzlvYmctU2ZHVDdfQ3F1azlEbTk3TjIwcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cleveland_cliffs-2026-07-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pattern bargaining opens for 23,000 US Steel and Cleveland-Cliffs workers - World Socialist Web Site",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51NFh1N1RSUEpIM2hEYWNnYldHQ3dfVFVPNDVNbk5FVTN2X2dqcnhvcVI3R3M2ZjlJZklDeTNqcEhFcDdPSnppWU95clh1Z3VJZ09rUzJqUUVxSzdDNTkwVGhCRVdyenFy?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tangshan in China is implementing a short-term cut in steel production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_utilization",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gmk.center/en/news/tangshan-in-china-is-implementing-a-short-term-cut-in-steel-production/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nucor",
+        "count": 1
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 537,
+    "dup_title": 271,
+    "too_old": 172,
+    "gate1_blocked": 19,
+    "gate2_blocked": 26,
+    "passed": 49,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+      "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+      "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat - Reuters",
+      "Rio Tinto doubles down on copper in Chile, Peru and Argentina after 3% growth in H1 - BNamericas",
+      "Rio Tinto Exits Aluminum Composites Business, Transfers Customers to Canada's Cymat - U.S. News - Mo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nucor、Cleveland-Cliffs相關動態：「Japan tentatively rules China, S. Korea steel items sold ...」。主要關注主題為鋼鐵產業通用、產能利用率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Japan tentatively rules China, S. Korea steel items sold at dumped prices - J...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nucor (NUE) Sees Stronger Q2 Profit Outlook, Is It Still Below Fair Value? - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

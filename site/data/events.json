@@ -1,5 +1,80 @@
 [
   {
+    "id": "unknown-2026-07-25-001",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnJrNFVERE5KNzVNc294X1MyeGNFTEVBUHA1TWZMOGdPQ05nc2R4YnR6bkNGTXFmWWZ5RHdoWkd0ZS1QMld5anFXTDd6NFdLUWRCUmZTMUcwR096dXd2YmhKcFdBeW80MUpxT09ja0",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnJrNFVERE5KNzVNc294X1MyeGNFTEVBUHA1TWZMOGdPQ05nc2R4YnR6bkNGTXFmWWZ5RHdoWkd0ZS1QMld5anFXTDd6NFdLUWRCUmZTMUcwR096dXd2YmhKcFdBeW80MUpxT09ja0ZDRFBmZEtIYkJBMkRpdHR0anpLR2pjS0xKemc2TFNVWFdzOWdPNDZzeE43SUdxZ3h2Z0xsUVhVUzlVV2NDbkNxMkFNWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-07-25-002",
+    "date": "2026-07-25",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor (NUE) Sees Stronger Q2 Profit Outlook, Is It Still Below Fair Value? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVBNQXYxZUJ6bThVRjREbndkSlVBUGFsTVlZbEcwYm5Jd2xISjh5M0xvLTF0MDhUSHpqNUttWDFpT252QTJHRWdnNmlOaVlMMjhwSHNMUTItZ0NVNEFTU1hZT0ZqWTJfUzhncE1Eaj",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVBNQXYxZUJ6bThVRjREbndkSlVBUGFsTVlZbEcwYm5Jd2xISjh5M0xvLTF0MDhUSHpqNUttWDFpT252QTJHRWdnNmlOaVlMMjhwSHNMUTItZ0NVNEFTU1hZT0ZqWTJfUzhncE1EajdLUU1aWllWQ2ROUEFNZ0tfbkVkd00ybzJidWpIUkN2ZjdZNzd3WWdYd01Kbm90S3FsTF9FZHJpaTNhcWFZMk1iX1JCLS1pZ09KeEdfREdB0gHDAUFVX3lxTFBFeGNwdjNXOVJ2Q1ZEME1sTkNsbEhJRXBFNXRHUnA3dVNCRkctYUpEdC1QdVpCX1Z4SEExRVF2STdaMDNvMTRweXFfLTBwX0x5LXphNTNGMWprNFAxdURiYVA1YlZ3Mi0yY0J0R2Q1dndFSHNZd1JxNzg5NWdYV1dyUVlZX1FvbFU1Yjg1STVacTlhdFdjWEFMUXdfWVZvdzdGRy05NlJ0M3U0dzlvYmctU2ZHVDdfQ3F1azlEbTk3TjIwcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-25-003",
+    "date": "2026-07-25",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pattern bargaining opens for 23,000 US Steel and Cleveland-Cliffs workers - World Socialist Web Site",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE51NFh1N1RSUEpIM2hEYWNnYldHQ3dfVFVPNDVNbk5FVTN2X2dqcnhvcVI3R3M2ZjlJZklDeTNqcEhFcDdPSnppWU95clh1Z3VJZ09rUzJqUUVxSzdDNTkwVGhCRVdyenFy?oc=5\" tar",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51NFh1N1RSUEpIM2hEYWNnYldHQ3dfVFVPNDVNbk5FVTN2X2dqcnhvcVI3R3M2ZjlJZklDeTNqcEhFcDdPSnppWU95clh1Z3VJZ09rUzJqUUVxSzdDNTkwVGhCRVdyenFy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-004",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "capacity_utilization",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tangshan in China is implementing a short-term cut in steel production",
+    "summary": "<p>The Chinese city of Tangshan is introducing a short-term cut in steel production. This was reported by Steel Orbis, citing industry sources. Local steelworks are to suspend or reduce production fro",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/tangshan-in-china-is-implementing-a-short-term-cut-in-steel-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rio_tinto-2026-07-24-001",
     "date": "2026-07-24",
     "companies": [
@@ -309,6 +384,670 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZdVVfdlpMQmoxTEMzaFY4dDdtVnBlRDhxei1hTnNzVVFHQ0tSdUZsQXA2Q2M3N2lHRTdodVlGOW4xaE1kNHNyMlJPOFBxOUhVOU1JZHhkeTBMZEJmZnBINlVyVkRONERDbEx5Zjh2VXA4V0JDclHSAXZBVV95cUxPWXVVX3ZaTEJqMUxDM2hWOHQ3bVZwZUQ4cXotYU5zc1VRR0NLUnVGbEFwNkNjNzdpR0U3aHVZRjluMWhNZDRzcjJSTzhQcTlIVTlNSWR4ZHkwTGRCZmZwSDZVclZETjREQ2xMeWY4dlVwOFdCQ3JR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-07-24-018",
+    "date": "2026-07-24",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto Exceeds US$3.6 Billion in Lithium Investments in Argentina as Project Development Accelerates - Panorama Minero",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFNUNlNzRVRLUWRkTUdOSmtmd2NaYXl2OS04R0NUeHpuTVdxNlIwbUM4b004TGhEbm5VOVdLUERFWkNhMjI5STZ1eHpqQkZSb1Q3djNSMmswWkxvU3dhbkZTa3BZa25UMzZwOHBmNj",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFNUNlNzRVRLUWRkTUdOSmtmd2NaYXl2OS04R0NUeHpuTVdxNlIwbUM4b004TGhEbm5VOVdLUERFWkNhMjI5STZ1eHpqQkZSb1Q3djNSMmswWkxvU3dhbkZTa3BZa25UMzZwOHBmNjhBc0N6amRwZXhCcXh1SzlaV2tLQm1DdVNvTmEzSFpfUElqUFFVRF96WFlLOHFTeFNYODBpMERqSmZ6R3dpTDhuNFVXaUtWRjFpUTJvLTY1SVYybnl2NlMybWRJZGdnYUY1TlB5RmExek5BYmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-07-24-019",
+    "date": "2026-07-24",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto Signs Bio Pellet Deal for Alumina Plants - ESG News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5GN1JBelpETkVBZ2FtOFUyN19jaV94UjBKelVDLUwxZ3NYaHBJOVNvWjQwMnc5eEFiM3Zhb1ZjVC01bldTSVpUN2FqOTlzZGJDclNTbXZDeE13d2xWaXVONk9XaXlxMXhGem4tU0dYQl",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GN1JBelpETkVBZ2FtOFUyN19jaV94UjBKelVDLUwxZ3NYaHBJOVNvWjQwMnc5eEFiM3Zhb1ZjVC01bldTSVpUN2FqOTlzZGJDclNTbXZDeE13d2xWaXVONk9XaXlxMXhGem4tU0dYQlI2WmtpTHBDVjA2VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "suncoke-2026-07-24-020",
+    "date": "2026-07-24",
+    "companies": [
+      "suncoke"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SunCoke Energy, Inc. Revenue Breakdown – NYSE:SXC - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE90OENQQzhuRTlja1pPb3BVTVo3dE4yYTM4MDIyS2hnMThVajBDZk9Edmp5YW1tdlE3NkNhbzZjRjlXZ0ZkMXRWb2pEbXpzVWJSQUxSNmFLb0dUQ0JqcnpvRkV2OFFQYVg5M24zaG9tQX",
+    "sources": [
+      {
+        "name": "suncoke",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90OENQQzhuRTlja1pPb3BVTVo3dE4yYTM4MDIyS2hnMThVajBDZk9Edmp5YW1tdlE3NkNhbzZjRjlXZ0ZkMXRWb2pEbXpzVWJSQUxSNmFLb0dUQ0JqcnpvRkV2OFFQYVg5M24zaG9tQXVIYVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "suncoke-2026-07-24-021",
+    "date": "2026-07-24",
+    "companies": [
+      "suncoke"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SXC|SunCoke Energy Inc|Price:9.000|Chg%:+0.010 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZLV9qN1dVWVBRaUV1REdQN0phRHhodV9ZU1BvSVhDb0NsWkVaVU5HVVRCY1dMX1duWXJVWnczaUhJZ09Ndk1mcUhkQUFGRnVqenR4dkVJanI?oc=5\" target=\"_blank\">SXC|SunC",
+    "sources": [
+      {
+        "name": "suncoke",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZLV9qN1dVWVBRaUV1REdQN0phRHhodV9ZU1BvSVhDb0NsWkVaVU5HVVRCY1dMX1duWXJVWnczaUhJZ09Ndk1mcUhkQUFGRnVqenR4dkVJanI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-07-24-022",
+    "date": "2026-07-24",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Commercial Metals Co (CMC) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xZVBWN29ic01mYko4QkNPTVBvT1NGQl9abUJZX0NFNENLWFJuazBtTHdJb1FmNWlPeTFoTlRGTlNrYmUwNHRsWENPTHBhNDNYWWU3OHh4ZGs5aF9zYUozSlAxLXA?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xZVBWN29ic01mYko4QkNPTVBvT1NGQl9abUJZX0NFNENLWFJuazBtTHdJb1FmNWlPeTFoTlRGTlNrYmUwNHRsWENPTHBhNDNYWWU3OHh4ZGs5aF9zYUozSlAxLXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-07-24-023",
+    "date": "2026-07-24",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CMC|Commercial Metals Co|Price:69.120|Chg%:+1.080 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoZnViTl91TEJ0LVRELUpmbGhmQWtsN2UxZjhiMkwtNmVUNnB4aW9GOXEtM0NzRENWbkl1UjVCdnE1YXpldlBYcnM1YnM4SWVqQkJoN3A4ZDktbjREekZlbGw3c0tyekE?oc=5\" targ",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoZnViTl91TEJ0LVRELUpmbGhmQWtsN2UxZjhiMkwtNmVUNnB4aW9GOXEtM0NzRENWbkl1UjVCdnE1YXpldlBYcnM1YnM4SWVqQkJoN3A4ZDktbjREekZlbGw3c0tyekE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-07-24-024",
+    "date": "2026-07-24",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal announces the publication of its second quarter 2026 sell-side analyst consensus figures - ArcelorMittal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcDVhekgtQ0xMdk55aERjZjZhdDZUUmFEN21wWGYxNUNvWFhJYXRjVWRqR2tsbUE1SXVZTkhuaTN3Wm9fMkhCVlR1M0x4WV9PUGVSUG1RdEpZckxKR3o4VmQxV0l3OUhSeVMtWWRfSU",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcDVhekgtQ0xMdk55aERjZjZhdDZUUmFEN21wWGYxNUNvWFhJYXRjVWRqR2tsbUE1SXVZTkhuaTN3Wm9fMkhCVlR1M0x4WV9PUGVSUG1RdEpZckxKR3o4VmQxV0l3OUhSeVMtWWRfSUhUVXhJR1V4LV9rUmh2c0tFMXRvMEtHbnh3czQ0NDhZSHFyZnNpNkxJRlZsUFdKQ0RDSk1RdXBqZU9tQXBIR0hsbkVBcDNDZDJrclhPWWd2N2xTelFBWDE0VzlFYnpFOFRHNHZodE5ZeWcxb2cxRzUzSFpBUzJZV3dQMTUzZFJxaWlQOVFqTEl4Mg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-07-24-025",
+    "date": "2026-07-24",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel shows off its newest investment, to a community divided - The Allegheny Front",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWZSOHU2WnhobGdZOTBVN0lGd2dPSVpJcHN6SkI1VWlfNW1mbm5BaTZzRXpZT1dTVGVZN3l2RmN3dkxEWlJOblpXV2F5YTkzUTczbzFGVXI2ZDlCSXhNR3FYZmQzNVpEZTVyZkFncl",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWZSOHU2WnhobGdZOTBVN0lGd2dPSVpJcHN6SkI1VWlfNW1mbm5BaTZzRXpZT1dTVGVZN3l2RmN3dkxEWlJOblpXV2F5YTkzUTczbzFGVXI2ZDlCSXhNR3FYZmQzNVpEZTVyZkFncllHVTlvUVgxVkN1YTY4ME1NcC04eEdVVHBfdlMyTVRMWlE3TFFRSGlKX3IwcXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-07-24-026",
+    "date": "2026-07-24",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "industry_general",
+      "trade_policy"
+    ],
+    "impact": "negative",
+    "title": "New 12.5% Tariff on Japan Takes Effect, Sending Shockwaves Through Business Community — \"Unreasonable,\" \"Need for Resilience\": Nippon Steel and Fujitsu Executives Voice Concerns - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZF9xNG1NUVNQeVphQkxWUEN6V1BDUGI1b0ExLVBHWUEyVE5OU2dhMlAyUW02SXVmUnZLNGd3eV85ZmVVUGo3Z1pBTzhicEJJTVFiM0RIOFBWZ0FTblQ0NXV6d2JCendkVFNiTmVLRm",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZF9xNG1NUVNQeVphQkxWUEN6V1BDUGI1b0ExLVBHWUEyVE5OU2dhMlAyUW02SXVmUnZLNGd3eV85ZmVVUGo3Z1pBTzhicEJJTVFiM0RIOFBWZ0FTblQ0NXV6d2JCendkVFNiTmVLRmdwNC14S1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-07-24-027",
+    "date": "2026-07-24",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Steel plant boosts efficiency with ABB automation - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTlCejZ0c3ZZYTkyc3VoSFNDcjhPbk1fblNST3dNa2JXb2h6RDVEX043emVkaUlBcXhJdU1YLVd5YUsteVdScmlMeEYtTWtXYlRTTjBnWnVhd1JhYy12TFMzRnNJTG5OVlRfVmdHSn",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTlCejZ0c3ZZYTkyc3VoSFNDcjhPbk1fblNST3dNa2JXb2h6RDVEX043emVkaUlBcXhJdU1YLVd5YUsteVdScmlMeEYtTWtXYlRTTjBnWnVhd1JhYy12TFMzRnNJTG5OVlRfVmdHSnVKOFhTNmFwVDZ0Um1lOW9mRWhtRE40NG5qaEdaTmNHQ1BJbnRtNnFhWmRQa24tMDN5U2xNOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-028",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "Japan Extends Anti-Dumping Investigation on Galvanised Steel from South Korea and China - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVE9ZbEtzdFBNMl9CeGlHUFotQmVGbDR3S3BSaVVNZDV6MlNmeHZwTS0xWE9DdVl2RVd3NnUyRFo1RHdwM1pJbDk2UXlyQ3lMQXJqelJvcDc4c3UyQVI0ZFJ3Q213MEs2Rmo2anNQVW",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVE9ZbEtzdFBNMl9CeGlHUFotQmVGbDR3S3BSaVVNZDV6MlNmeHZwTS0xWE9DdVl2RVd3NnUyRFo1RHdwM1pJbDk2UXlyQ3lMQXJqelJvcDc4c3UyQVI0ZFJ3Q213MEs2Rmo2anNQVWx1cjdqYUZXSWpNNHFET0NtMi15c1NScmJoZ04wclB3NEYyVGdhSHpXeE5Md2g4QUo1MnpTUWVsNG1lbjVYaG5PaEpHMkt3cTVx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-07-24-029",
+    "date": "2026-07-24",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dutch gov't doing enough to protect locals in climate deal with Tata Steel, court rules - NL Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRENONGtLQXZHUE01U0I0THJya3BLa29CRnpVMUJBT1p4a0F2ZkNVaU1YX183WVhxRnRPc3RqazhlaFF1SHp6UlJ5ZTFoUWhkQUw5YmlnY2NHSG1PQTVVMjZQeE8yVGVzd3IxR2tiVH",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRENONGtLQXZHUE01U0I0THJya3BLa29CRnpVMUJBT1p4a0F2ZkNVaU1YX183WVhxRnRPc3RqazhlaFF1SHp6UlJ5ZTFoUWhkQUw5YmlnY2NHSG1PQTVVMjZQeE8yVGVzd3IxR2tiVHhZRVZXTXdLVU5qV1k4clYxNVQtQUQ4UEozV1NLaktQYzlTUXlfT3BqNkN3a3Rfc0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-07-24-030",
+    "date": "2026-07-24",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel tax dispute hearing scheduled for August 19 By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTBaT01HREo4WlRiVGdjTHktRkZOTHM0bXlrRVJBNWxmTnRvVlpRUEd3VmUyR3V0Y0hvWk1pUWMyYXc4Vjd5d1BHbEViM1hjRzBIOTBNMFEzZjVOUkRCTmVjZm5EMHVETEJuRlBEdl",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTBaT01HREo4WlRiVGdjTHktRkZOTHM0bXlrRVJBNWxmTnRvVlpRUEd3VmUyR3V0Y0hvWk1pUWMyYXc4Vjd5d1BHbEViM1hjRzBIOTBNMFEzZjVOUkRCTmVjZm5EMHVETEJuRlBEdlpQYWxFZF83enBzb01pc04xNHl5aWpQSWx1LV9FcGZyYUROamZmcUdsamxhQ2tvM0ZTNWJBSWVQbmFFb3JTYkdQcWY2Z1NXQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-07-24-031",
+    "date": "2026-07-24",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel To Invest Rs 100 Billion In Jharkhand By 2028 - Construction World India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPWjlRZmxMWWRhdkhRTG1ZWFgwdWFVNFI5M1czYVVoSk83d0xuM08zZ0l5c29ISUp2U2cxdzhEbHZHZVZ1RVBuZUhUZEdJX1dDc0Q2U2liNFMwS09lc3ktNERpYXNaUUNBQUxjY2NjWE",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWjlRZmxMWWRhdkhRTG1ZWFgwdWFVNFI5M1czYVVoSk83d0xuM08zZ0l5c29ISUp2U2cxdzhEbHZHZVZ1RVBuZUhUZEdJX1dDc0Q2U2liNFMwS09lc3ktNERpYXNaUUNBQUxjY2NjWEdES21pZm8zM0J4b3k3czQ2QncxbVUxMmFybnoxRGNPZ2t6ZXJWRnYxMnV2VnNLbUtpMTMzMkxHWEpER0l5bjlxa0xhU1FzU0d2NWdKTVl0dTQyeEE1NEpj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-07-24-032",
+    "date": "2026-07-24",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel Tax Case: Bombay High Court Restores Writ Petition, Relists Matter For Aug 19 - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTZiRkxDemhPUW5Ca0J2MmtoeUppV3RIeWFIQ3hCLV9fZjhvQXY3WHphLVlfOEYzNTFyaW0tTXlrSVdibmpXeDJMMFJKTkhBM1hveWIxSmx3Z3RLM3lvMlVpazMzd2YzNEFSbkJHOV",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTZiRkxDemhPUW5Ca0J2MmtoeUppV3RIeWFIQ3hCLV9fZjhvQXY3WHphLVlfOEYzNTFyaW0tTXlrSVdibmpXeDJMMFJKTkhBM1hveWIxSmx3Z3RLM3lvMlVpazMzd2YzNEFSbkJHOVI2bmR1YkozY0pIUEhmeHRvWS1aQVBFbG1IeENZem5iS0tjMGZfQThmRkFTeG9nZWRMS0NucmNscG54c3dxRVhnb0RlQzk2NEFrNnBiZWdwOTd2M19VQTkyMUZOMNIB0wFBVV95cUxPQlZPZEFaR2Z1YXJpNGNMYks3Y0Q1LVBjSHRfbU1qSlN2VTRtSHNubWNBazlnclFEOGxKZkNKOFRfS3FqWVp0REdYZmZCTEdMQ3RzOVRmbEEzTEctQS03VG1iTG5ISUswamRaTFhyT2FHWDFzZ3VDTElES2Q2TkZmWVNTajZVSkx5bnVZVWdTc2xvQ0tDOFNWam9KMENJVGdDcm9QdkxBZFhfNGFhcWZHTEh1LVBQTE9ranpyNTFmcTVMWTUtMWJoTjF2SlFYbmZFRG5v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-07-24-033",
+    "date": "2026-07-24",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor: How To Earn $500 A Month Ahead Of Q2 Earnings - Nucor (NYSE:NUE) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVgtVncweHJJTjA2QVNfZ0RHbm1MLVU4UEhUM2VfNlNfSU9BYk43MnZwb19Xb09VWWhGQUo0UDkyelQxeF9jcTFzYWZUWGlUcTdNVHNvS2dHODZOSnhET0liVTFpdmtxQXA1NVVxUz",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVgtVncweHJJTjA2QVNfZ0RHbm1MLVU4UEhUM2VfNlNfSU9BYk43MnZwb19Xb09VWWhGQUo0UDkyelQxeF9jcTFzYWZUWGlUcTdNVHNvS2dHODZOSnhET0liVTFpdmtxQXA1NVVxUzQ2TVhEQ0pOcFFocVdKOTBDb0JoZEo1VV92R1AwZDhzaW1JQjJKbkNFeGFsSmRpbnZGb0djNzhocUx1V1pUZFJKcjB3ZkpXeTNBb25SaktScDJUVEMtbEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-24-034",
+    "date": "2026-07-24",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs Promotes Celso Goncalves to President-CFO - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWprakVhQzY2NU52Z0d2VkE2ZGNMM2p6NEhZUnBFNTROeVJvTldhMlJJNm1weU91VHVVODZRYURxcjhsM2NtVEpheXY2WE04WW5GMDlDVXNRZlRCUTVpdnc5V1IyUE5QcWd6b0dQS0",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWprakVhQzY2NU52Z0d2VkE2ZGNMM2p6NEhZUnBFNTROeVJvTldhMlJJNm1weU91VHVVODZRYURxcjhsM2NtVEpheXY2WE04WW5GMDlDVXNRZlRCUTVpdnc5V1IyUE5QcWd6b0dQS09BMTA4a3pMOGNvZ2dLRXY3c3J0OGhtYUlfWDZKbkJrRHhDNHNUYWxJbEhGNmNzM3dZYkg4Y0wwUDNERVBSUkdN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-24-035",
+    "date": "2026-07-24",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs promotes Goncalves, announces second-quarter results - Butler Eagle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWNnY1JnNjBNWElMUDlXT1dzVjlIQl81Q0RpRm1XZFBwZnRJVTR6WllEMHFwQzlGYkFFV3RQcEo1aTd1bGs0YmlnNHVUamxxcndic3ZKdnc0bk8xZ0x5N3d3dG5zNlNoMjNaellwan",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWNnY1JnNjBNWElMUDlXT1dzVjlIQl81Q0RpRm1XZFBwZnRJVTR6WllEMHFwQzlGYkFFV3RQcEo1aTd1bGs0YmlnNHVUamxxcndic3ZKdnc0bk8xZ0x5N3d3dG5zNlNoMjNaellwanF2UHZzUVloTnBvNTBXMHFWWWR3ZEZUc3AteWRDQXQzNGRiTnMwbkRYblMzX1BmR0FnVXVoT0lvbjZZdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-24-036",
+    "date": "2026-07-24",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs see improving results, path to profitability after burning through cash - nwitimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlh4aDFjYUJJX1A0Z0kxY0dRTzhXaXg0elRKZl9YODc3MlBzdVgwcy1peVcxMnplSEQ5Y2pvc3VIbUVBN3hvRGNfcURGN3dCQUcxdDQtakFLRUs0WnREZkdVTGFnMlJOejJfT0FURV",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlh4aDFjYUJJX1A0Z0kxY0dRTzhXaXg0elRKZl9YODc3MlBzdVgwcy1peVcxMnplSEQ5Y2pvc3VIbUVBN3hvRGNfcURGN3dCQUcxdDQtakFLRUs0WnREZkdVTGFnMlJOejJfT0FURV9JMnpmZnBJeXpBNjNZMEJQRkZ3LTdIUFNt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-24-037",
+    "date": "2026-07-24",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs upgraded to Buy with 31% upside after strong Q2 results and positive outlook - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXluUVk2Ym9TV3paUnFyWGt2SmZobE9DV01uWjZqRnZWZHBpdWNlVEYyZENfc3lFa2MxeVNEMWZ5WlowejVoaDQwcGZSUjZWN2ZlbXh2anJfdkUwTTV3X1JTZk13ZXdPcFNZQUlseE",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXluUVk2Ym9TV3paUnFyWGt2SmZobE9DV01uWjZqRnZWZHBpdWNlVEYyZENfc3lFa2MxeVNEMWZ5WlowejVoaDQwcGZSUjZWN2ZlbXh2anJfdkUwTTV3X1JTZk13ZXdPcFNZQUlseExjSUlOVDNQOVhEcXZzX2FONHl4eUIzWHZybFBUYUJPWUxWQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-24-038",
+    "date": "2026-07-24",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs appoints new President - Steel Times International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdW14b1FsSWJhTm9KanlKS3lVZ1dLVHJ5MFhYVDlFY0pvY1NVYXJaNXlnMHZJZzI2Y3pWeDdTMmVqaE5OcldNSFludk4zNGJUVVBqb1VsaTBGSldXZXFBMElodnVYRGpzSFk4OFFfbE",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdW14b1FsSWJhTm9KanlKS3lVZ1dLVHJ5MFhYVDlFY0pvY1NVYXJaNXlnMHZJZzI2Y3pWeDdTMmVqaE5OcldNSFludk4zNGJUVVBqb1VsaTBGSldXZXFBMElodnVYRGpzSFk4OFFfbE9WM2s5RnlnMXRmMmRkd28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-24-039",
+    "date": "2026-07-24",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs Stock Surges As Earnings Guidance Ignites Bulls - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9kXzliZlJpYkdDNUhleVlNWGJfVkllQlY1Wi1xUGd1R3VpaHdDT2NnWkJuaHRSTjRqS0lTMWw2Y0VscTNvclM0MUpOenRta05fd3BJREdnQlo2WUNxSFlWdVZmeDF3em1LQVlWZ25uQX",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kXzliZlJpYkdDNUhleVlNWGJfVkllQlY1Wi1xUGd1R3VpaHdDT2NnWkJuaHRSTjRqS0lTMWw2Y0VscTNvclM0MUpOenRta05fd3BJREdnQlo2WUNxSFlWdVZmeDF3em1LQVlWZ25uQXEyZUMtMXVMaTJNU1Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-07-24-040",
+    "date": "2026-07-24",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gary council calls for modernization of U.S. Steel plant - Inside INdiana Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTB4XzFvRm9GNUcxa2tOcjNDcGN5RFlvbXRMZmFjb1pWQl8xUW5vSTF4VVh4aDdUVG9iOUIxOUdCSUtRVXhoZEw5cnQ1TXMyVlNRQkY0QXRFZTVWQ1lwa09ac2ZWbnFkUDBWelF3NE",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTB4XzFvRm9GNUcxa2tOcjNDcGN5RFlvbXRMZmFjb1pWQl8xUW5vSTF4VVh4aDdUVG9iOUIxOUdCSUtRVXhoZEw5cnQ1TXMyVlNRQkY0QXRFZTVWQ1lwa09ac2ZWbnFkUDBWelF3NENyQmF3cVlfVWNWV2NzMndCSW16RGNILURJc0lfRnd0YkxfM0hUREFhZlVUMmEwU25DNmZMMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "feng_hsin-2026-07-24-041",
+    "date": "2026-07-24",
+    "companies": [
+      "feng_hsin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of Feng Hsin Steel Co. Ltd. – TWSE:2015 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDRTNVQ4ZUpfNVRNWmJXd1dJUWVLYjZrUEJNY19TRnQ1N3FqM1ZCaHRFQkRSY19sdkgzcTFCUm9IOUo3T2FkR3N6ME9XelhrUnlMOXFRRk5nT3AySW1scjl0djVob1JidHV1Y1NYSl",
+    "sources": [
+      {
+        "name": "feng_hsin",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDRTNVQ4ZUpfNVRNWmJXd1dJUWVLYjZrUEJNY19TRnQ1N3FqM1ZCaHRFQkRSY19sdkgzcTFCUm9IOUo3T2FkR3N6ME9XelhrUnlMOXFRRk5nT3AySW1scjl0djVob1JidHV1Y1NYSlZzS19xZmYySDh2cGZjWEZRVnZ1UHBmNGM2TVoxLTl0SkI4VEkyYmFIX3pB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-07-24-042",
+    "date": "2026-07-24",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reliance lauds US reshoring investments - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQSExxem82alZOZ0NHbFROVmdjTi1zQi13ZF9zbnJ3UFhZR0pTdnlqVUFvNGJoSENsZWtfZlcwZ2xvb2FRekpTVm8wTkJYQ3Bfekd4aWs2TkRmLWc0cVBMNVNMUWxHSFlhUUlDaE10en",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSExxem82alZOZ0NHbFROVmdjTi1zQi13ZF9zbnJ3UFhZR0pTdnlqVUFvNGJoSENsZWtfZlcwZ2xvb2FRekpTVm8wTkJYQ3Bfekd4aWs2TkRmLWc0cVBMNVNMUWxHSFlhUUlDaE10endGVXlRM3lvV0NTZkpCeGdtY0p0dGdOTDA3TzF3VkxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-07-24-043",
+    "date": "2026-07-24",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Reliance: A Confident Hold, Despite Margin And Product Mix Concerns (NYSE:RS) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3NnZER4UklXbThfUU9LdjltYWl5SkY1UHZEVjZzOEprcFk5UzVoLTRpVnBrSFZrbkJoT3VGMVM2QzVTbnhBX2psWjVyNlRZRmNEdDhmbVdmYkxqMS1BUnNVcmpIRzY0eUQ1M1JSZm",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3NnZER4UklXbThfUU9LdjltYWl5SkY1UHZEVjZzOEprcFk5UzVoLTRpVnBrSFZrbkJoT3VGMVM2QzVTbnhBX2psWjVyNlRZRmNEdDhmbVdmYkxqMS1BUnNVcmpIRzY0eUQ1M1JSZmMzWHdtMFV6M0Jsa3ZKM0paOGhRclkwQW43NEpSci1xM2llQnpSWVFfMkZtd1lCN0xFbmNBSEo5c2ZXdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-07-24-044",
+    "date": "2026-07-24",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reliance finds competitive advantage amid suboptimal market conditions - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQanFuSllOdjZlaFhCd3EtcklOcnlzSnVjR0RYTDNLUmVpdllpbk9yMFNkamIzY3U2THctMnU3eVJWYUQ3Sm5hUXNOYy1TYTQwWUFoTHo0Z3ZMSXBiZjZOcVdMNFc3aDh4SC1xbnZMbF",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanFuSllOdjZlaFhCd3EtcklOcnlzSnVjR0RYTDNLUmVpdllpbk9yMFNkamIzY3U2THctMnU3eVJWYUQ3Sm5hUXNOYy1TYTQwWUFoTHo0Z3ZMSXBiZjZOcVdMNFc3aDh4SC1xbnZMbFdHMEtIaVZiVHl5b2N1aXNxXzYtNmxxRHBFWWxOc29hRDhrU21KQW9RdGU2TmczTnloUG1NeTVDeXp5U1RMY1pJWkxrSlAzNjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-07-24-045",
+    "date": "2026-07-24",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Reliance Inc (RS) Q2 2026 Earnings Call Highlights: Record Reven - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWEloM2Q4eUdKejFMMlpuMjFHcmVnNGdhS1FQSnllWmlPX0hmWVJpVDJjQWNkcUJ6d0RMd1o2SmM0Tkd1ZG1IR2hBQk1RbVkxWWFWdmpGQm9jTnlmdXptS0ZuMmdKbkEyR012S0t4cE",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWEloM2Q4eUdKejFMMlpuMjFHcmVnNGdhS1FQSnllWmlPX0hmWVJpVDJjQWNkcUJ6d0RMd1o2SmM0Tkd1ZG1IR2hBQk1RbVkxWWFWdmpGQm9jTnlmdXptS0ZuMmdKbkEyR012S0t4cE5xR3pDV0lzV2QxZ09kRm56QUNOY21UcmhKdWk2b2l4MUJiVzJhYU9PRlc3aTlWOXRJRVlRN2tXYk1MbEVkM01SUC0wQlc5QmtBN1BucWRzcGMtMDlDRVNXVjdHWmt4azRXUXg2VXNPWVlyZnY1VHBV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-046",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine must continue to safeguard exporters’ access to foreign markets – Interpipe",
+    "summary": "<p>The Ukrainian industrial company ‘Interpipe’ hopes that the government, despite the recent change in its composition, will continue to safeguard domestic exporters’ access to foreign markets and re",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/ukraine-must-continue-to-safeguard-exporters-access-to-foreign-markets-interpipe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-24-047",
+    "date": "2026-07-24",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs reduced steel products sales by 6.2% y/y in Q2",
+    "summary": "<p>The American steelmaker Cleveland-Cliffs saw its external sales of steel products fall by 6.2% year-on-year in the second quarter of 2026, to 4.03 million short tonnes. This is stated in the steel ",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/cleveland-cliffs-reduced-steel-products-sales-by-6-2-y-y-in-q2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-048",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan established galvanised steel products imported from two countries are being dumped",
+    "summary": "<p>The Japanese government has reached a preliminary determination that imports of hot-dip galvanised steel sheets and coils from South Korea and China were being sold at dumped prices, causing damage",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/japan-established-galvanised-steel-products-imported-from-two-countries-are-being-dumped/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-049",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Cemex reports second quarter 2026 financial results",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/cemex_truck_front-1500.jpg\" /></p><p><strong>Mexico: </strong>Cemex has reported earnings before interest, taxation, depreciation and amortisation",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21040-cemex-reports-second-quarter-2026-financial-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-050",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chui region produces 1Mt of cement in first five months of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/kyrgzstan-map-1500.jpg\" /></p><p><strong>Kyrgyzstan: </strong>Cement plants in the Chui region produced 1Mt of cement during the first five months",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21037-chui-region-produces-1mt-of-cement-in-first-five-months-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-051",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "Serbia extends import quotas on cement",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Cement-bag-truck-1500.jpg\" /></p><p><strong>Serbia: </strong>According to Serbian Economist, the country has extended tariff quotas on imports of ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21036-serbia-extends-import-quotas-on-cement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-052",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China’s Steel Industry Drives Record Iron Ore Imports Despite Falling Steel Production - The China-Global South Project",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQME5TODdUVW0wSGpuVlZLOXlXOEpMSkF2VFdkNzFzQWh0cGN6bVRlbkp3aGlmUFZFZkUzQWRqWVBIaXhqYUxyM280R3lFSC01M3dVRlRvclNzc1ktQjBhUFdhbTk4UjVoVVdZRW9EbG",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQME5TODdUVW0wSGpuVlZLOXlXOEpMSkF2VFdkNzFzQWh0cGN6bVRlbkp3aGlmUFZFZkUzQWRqWVBIaXhqYUxyM280R3lFSC01M3dVRlRvclNzc1ktQjBhUFdhbTk4UjVoVVdZRW9EbGxQaF9MY0JnRHd6V3FQRG9WS3UtVmNXLWRnaUVfTmxXbw?oc=5",
         "type": "rss"
       }
     ]
@@ -1376,6 +2115,122 @@
     ]
   },
   {
+    "id": "vale-2026-07-23-057",
+    "date": "2026-07-23",
+    "companies": [
+      "vale"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vale stock trades near yearly high as iron ore strength supports earnings outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSjJDVWJqQjN6Y243ZkRSQU9RMWV1eHJtdFZfbFNrYkpIQzk0UnNBTFd2YVNrSkdfR0pPV1JIVWR0VnE5dDhOWFItR1ZxRUh0Tko0TTNDUmY1SXk5dTVieEZiUndhNGZxU1JhMDNnRW",
+    "sources": [
+      {
+        "name": "vale",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSjJDVWJqQjN6Y243ZkRSQU9RMWV1eHJtdFZfbFNrYkpIQzk0UnNBTFd2YVNrSkdfR0pPV1JIVWR0VnE5dDhOWFItR1ZxRUh0Tko0TTNDUmY1SXk5dTVieEZiUndhNGZxU1JhMDNnRWJtQjczOXZsOTk2YXM2NUtrYmJWdE9IbTdMS092QWdpbUpXalEwNGp2M1NHRmNud2dIcTJNbnRaT2V0QUdEeXdsejBMMmNpNW9OdF81Tkl5ZmhFUmlsX2ZFQmVzalU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-07-23-058",
+    "date": "2026-07-23",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Tata Steel (Thailand) Public Co. Ltd. NVDR – SWB:MVX - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlU3OUNoQm1wNnFIWkc3OEg0NXZOcG5hZk15ajc3NHlUY2MwRFdtbXhKaFFMS3ktS19ZbERIZ2M3c3NDSlBtcDl5cUtBOGtOYUlrWGF0V21lMVg0UmRKblctRVhiVkNDdTQ3RzczaU",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlU3OUNoQm1wNnFIWkc3OEg0NXZOcG5hZk15ajc3NHlUY2MwRFdtbXhKaFFMS3ktS19ZbERIZ2M3c3NDSlBtcDl5cUtBOGtOYUlrWGF0V21lMVg0UmRKblctRVhiVkNDdTQ3RzczaUVpRU85LXhvdHlJYTJZeEt2ajVranZic2Y2VFBzeUxHMGZ1VzBtWl9idWsxNHN2YktXZ1Z1NnVoTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-07-23-059",
+    "date": "2026-07-23",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stock Market Today, July 23: Cleveland-Cliffs Stock Soars on Robust Steel Demand and Pricing - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWVSRENzTmdXSmdsbkVEejNtdkVUdFBsRDJRUDNLX05zUVRHRU02VzJsRzdoUFFHYWwtNDgtVWYwSjRCZm9mS0VFN2E2bUZ6WEZjUjQweWJwUjhHaHdRYlM4ZF94bWJ1TEEzOVhldE",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWVSRENzTmdXSmdsbkVEejNtdkVUdFBsRDJRUDNLX05zUVRHRU02VzJsRzdoUFFHYWwtNDgtVWYwSjRCZm9mS0VFN2E2bUZ6WEZjUjQweWJwUjhHaHdRYlM4ZF94bWJ1TEEzOVhldEt5TF9xeHNGV0xQUC1pVTV0TjlFelhMT2Nxd0xZRWwzbkR6aHBFUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-060",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NUE vs. STLD: Which US Steel Giant Deserves a Spot in Your Portfolio? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1ZFSnRyWjdPbEZCU2VlcUkyY0YzWnJGNDBmc0kxRnEtZ2Z4ZmtKMFZwQi1KWFhCMjhpMFRGWk5teUFJcU9YNTczT2k5aTZCSVN1SUs5cVRUT0NXTktwNjVLMS1kME9CSGhndjU2VU",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1ZFSnRyWjdPbEZCU2VlcUkyY0YzWnJGNDBmc0kxRnEtZ2Z4ZmtKMFZwQi1KWFhCMjhpMFRGWk5teUFJcU9YNTczT2k5aTZCSVN1SUs5cVRUT0NXTktwNjVLMS1kME9CSGhndjU2VUxET2k5NlNiVHlIYjRSdHRpUW9mRzRxclNOeUhreWt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-07-23-061",
+    "date": "2026-07-23",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel takes space in major West Homestead industrial complex - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3ZhVW5vaTA3VGxST3dxdDUxTlJzNTJvWU9YSUVxSUp1a1FDVHJ3cmZiV01iMXNVT05vQW1sNlNlWnlQNEFsc0gwbnVIeEZvS05lLThEaVhKWUNmU2w5OG5fSEFZLVZ2eDJtbFdWQ3",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3ZhVW5vaTA3VGxST3dxdDUxTlJzNTJvWU9YSUVxSUp1a1FDVHJ3cmZiV01iMXNVT05vQW1sNlNlWnlQNEFsc0gwbnVIeEZvS05lLThEaVhKWUNmU2w5OG5fSEFZLVZ2eDJtbFdWQ3N4WVdOMnQ3YndIcV9HOWVFclRKQjFGd2ZJdVdKUFRBMGFUOFpxLU9tQUVDUWlzY0REbjVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-062",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Could a new iron ore mine turn Minnesota into a green steel powerhouse? - Canary Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3BwMG45SmdwQ0pNdG1KYk1WRVNaRGpRVHQyVjhibWs1THZhTTcwNjVOcTlfQ25LY18xZDF2ZDYtSTFFOUhKUHB5MUN6VlRuejg5Skk5RUlORm9qVlpsakp2SUg4S2pxQ0pxYVFnYl",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3BwMG45SmdwQ0pNdG1KYk1WRVNaRGpRVHQyVjhibWs1THZhTTcwNjVOcTlfQ25LY18xZDF2ZDYtSTFFOUhKUHB5MUN6VlRuejg5Skk5RUlORm9qVlpsakp2SUg4S2pxQ0pxYVFnYlZFU0RyX2RQUW96czlBOG5FaDhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [],
@@ -2319,6 +3174,64 @@
       {
         "name": "reliance",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29TV3NxaVZkQUhoSXlSQTNGTFJkN3hBSnYwZXM5aHNHbFFwWjBCLTd3akctOTJ4dVkzYmcta055cDVRWGNaTGZpRUVaSGNrdWFCVzZsVTVTek1KSEljVHBtMmJKY3Y5M0g1WGt3YXEwNV83NVo0cEp6UzMxY1NkaVRGZlc0c05WcHVhRVZPSGh2ak1QSE5DaVNIeDY0V1NRSjdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vale-2026-07-22-051",
+    "date": "2026-07-22",
+    "companies": [
+      "vale"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vale Posts Strong Q2 2026 Output Across Iron Ore, Copper and Nickel - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzJOdi1DMkJ3bmlsT3pJZmZqRVYtRFlXNUQ1TnhWSFVaNDE3TVg3WnBIYU50am5WRUlDa1ZuU1JSSzJDNFZpMFJaWkY5ZXBqNDFpR3JoR045ZF9zMUZnWWZrTlczXzFMQUZhMUZVSV",
+    "sources": [
+      {
+        "name": "vale",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzJOdi1DMkJ3bmlsT3pJZmZqRVYtRFlXNUQ1TnhWSFVaNDE3TVg3WnBIYU50am5WRUlDa1ZuU1JSSzJDNFZpMFJaWkY5ZXBqNDFpR3JoR045ZF9zMUZnWWZrTlczXzFMQUZhMUZVSVBYbERqLUM4ZExRalZ5RmMxUUg3Tms3WGNhYTZ6c2FERzB5M1ltUWNGZTF5bGozZ0FZVlBjZnJOTGVrbnJUNm05eWJUMXpSNUt0cGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jfe-2026-07-22-052",
+    "date": "2026-07-22",
+    "companies": [
+      "jfe"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JFE stock trades steady as earnings and steel demand shape the outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1dmT3hKT2FfTWlHT3JOMmdSb1JjOTQxRk43YUdIclcyRG94VWpwUmI4eFNsckdMMk1Tb01zTmIxSUx5RG9jRGh4UzNPOVMyVTJ4dHZKXzVpTExheDdTTVEyencyRWsyeF9GYm42Y2",
+    "sources": [
+      {
+        "name": "jfe",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1dmT3hKT2FfTWlHT3JOMmdSb1JjOTQxRk43YUdIclcyRG94VWpwUmI4eFNsckdMMk1Tb01zTmIxSUx5RG9jRGh4UzNPOVMyVTJ4dHZKXzVpTExheDdTTVEyencyRWsyeF9GYm42Y2o2ZlpnNlFiQ1doTENCOWNMTkNKRXdGYThldl9EckJDclNEcDExaVdELWxfck10aWhjYlpNWld6YS1vdWlGOUpEbHo0Zy1oRlFQbmdjSzRvX2hnZWwza2tydA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-07-22-053",
+    "date": "2026-07-22",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Reliance: Q2 Earnings Snapshot - WKYC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHQ0Wkd2ODJfTUc1SXZBRTdSbE9TYXJvMExiV18ycWhPZmw4LWl2N0JBdGhORlJXUnAtMGd3ejRucVRrYlhPWkUwU0UxU2JSOVljLVVzcnBfRFI4SDl3SDk3dFQ0dHREN2xaRzAzb0",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHQ0Wkd2ODJfTUc1SXZBRTdSbE9TYXJvMExiV18ycWhPZmw4LWl2N0JBdGhORlJXUnAtMGd3ejRucVRrYlhPWkUwU0UxU2JSOVljLVVzcnBfRFI4SDl3SDk3dFQ0dHREN2xaRzAzb09GV2RMNFhPc3c2LUM1akhZbWRfbmlDanBINF8yMU9saHJ4VkxPOHliVWQ1YjgyX29LNVo3WUhFTnJjZjZOSVduOFVyM1dJaW1VQTdxbWx5M1NvaHM4OVE?oc=5",
         "type": "rss"
       }
     ]
@@ -3283,6 +4196,27 @@
       {
         "name": "feng_hsin",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWhJcHdxMUgtRHVSX2hBZk1DM2RhRS1yWFNIZUlEaFJHRmVRYml6Z0xfUnFxbzF4ZHF2a3dpcTZyN09oZ2pUeURoTHJMLURsM0RaUG5pQ1NscDJnSjFwZ0NIcTJBT0wzSzhzVTFxMHByd190UEpOdkwzWHUybTJoc25GS0VHbTNIa3pZMXU5N2V2NGNyY0U1OE96cDNsRkFIX2ZiRjE4b3o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vale-2026-07-21-052",
+    "date": "2026-07-21",
+    "companies": [
+      "vale"
+    ],
+    "topics": [
+      "iron_ore_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VALE stock trades steady as iron ore prices support earnings momentum - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTFNaEtrYWNBRXJDOUMzLVl3QXRFZjZGZkZHRVhGRFRjeGpSclJrM01aVDljSEZRb19iZXlocVhmY2FWampLWElDbFZFdm4tV2tIclpZTjFGX3hKUXNtZXRtakhqWTZKam11dmREb3",
+    "sources": [
+      {
+        "name": "vale",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTFNaEtrYWNBRXJDOUMzLVl3QXRFZjZGZkZHRVhGRFRjeGpSclJrM01aVDljSEZRb19iZXlocVhmY2FWampLWElDbFZFdm4tV2tIclpZTjFGX3hKUXNtZXRtakhqWTZKam11dmREb3pKdTVDczJwemstTHp4S3EzYU5WS1Rjd2U5QUQ4RGZocFA2cEFxREJmYUw4NEhfVXhjUTZIWDhuN0lNQmQwYnpuX1I5aURSNXZPVlE5WUdZa0pDTTJvc0p3?oc=5",
         "type": "rss"
       }
     ]
