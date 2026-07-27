@@ -1,0 +1,224 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:11:20.664540Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cleveland_cliffs-2026-07-27-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why Cleveland-Cliffs Stock Jumped Despite Its Latest Quarterly Loss - Trefis",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjVhWlItaWtzRV92d2tRb25OYV8tNkdLUUdVd2hIWC1xRUJVdE54djdXZW1qbzVyVzhTMnJYNHI0d3Vqd2tZcm55cGg0anUxOXNfM1lQNGtQa3RxYl9qd3F4YlhVTE9sVEdrZ19BWm1BeDJaeTQ0aEFPUXZDcXFMSUFjWFc3X0gxbF80YmhkSTVBRTM5M05DTTZUMUs3UUFoNGRVaDhzNzJ3R3hXWTc0ZWt0Q0pVdE5lUmxfdXI2cG1OSjk5S1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-27-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ANNOUNCEMENT: Eurocoke 2026 Summit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gmk.center/en/news/announcement-eurocoke-2026-summit/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-27-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BUA Cement releases six-month financial results for 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.globalcement.com/news/21042-bua-cement-releases-six-month-financial-results-for-2026"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-07-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto and WA Government sign agreements with Yindjibarndi WaterCo for proposed sale of Dampier Seawater Desalination Plant - The Malone Telegram",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxORy1xbzhieng2NjVfZDlONk45aFp4Y2k4bXJnU0RlVUdQM0NUaFNrVTRiS3FxS182MjREUVdGS1pQMUZsVjRLQnY0ODZ6VjZYMkNRcWxkMXBnVk1Db2lESkRaRXVNcWxKUWp4aHF2UnpMZlFZQXZneENnZGdEOW1IMEZTZVpRRU1UdHlRSnlHZDVXRzk2RGpEdUY2OHh1cjdFaThlUUJaTl8waEE2WU1lOFhVY00wd2RFdllNTnJuOVhHWm1PajhQVkl1dmdPMjFuYXBLcHEwb0VNRVhnN2lhVVFTRV8xcUhQNy02NGNfdXpLM0djSkN5TlV4azRhY0V1eWpva1hFRjJVSVZQc0tzU0pjWi15UDl4SG9rTDNpR0dxUFIxQ0gybklVRnBSQS1UNE8yamZIcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mogotes Metals & Rio Tinto Alliance: 8 Things You Need to Know - Crux Investor",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1Y4VGpqd01vQThKOVh4bnRHcVFwYkVmRHNhQXc2OHBVU05DQ0dKa2h5SnlmS1QzSVlOdEVxWi1QUUR1WHpXbTJRWmdkaURRSndaaXpjN05SYlhsWHRPd05na0pKMDBubkliN2xhMzVKMEt5Qmlnd3lBMW5fSW5wb3RLcVhfSjQzc3diSGJqTmpoYTFIMy14Q2J3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 20,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 6
+      },
+      {
+        "id": "tata_steel",
+        "count": 5
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 276,
+    "too_old": 176,
+    "gate1_blocked": 17,
+    "gate2_blocked": 26,
+    "passed": 44,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+      "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+      "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat - Reuters",
+      "Rio Tinto doubles down on copper in Chile, Peru and Argentina after 3% growth in H1 - BNamericas",
+      "Rio Tinto Confirms Rescue of 14 Stranded Workers and Keeps Catamarca Operations Suspended - Panorama"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為力拓、塔塔鋼鐵、FMG相關動態：「Why Cleveland-Cliffs Stock Jumped Despite Its Latest Quar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Cleveland-Cliffs Stock Jumped Despite Its Latest Quarterly Loss - Trefis",
+        "level": "green"
+      },
+      {
+        "text": "ANNOUNCEMENT: Eurocoke 2026 Summit（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-27",
+  "total_events": 27,
+  "by_company": {
+    "rio_tinto": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "hyundai_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": 0.08
+    },
+    "capacity_utilization": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

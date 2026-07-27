@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 276,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 17,
+  "gate2_fail": 26,
+  "passed": 44,
+  "gate2_samples": [
+    "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+    "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+    "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat - Reuters",
+    "Rio Tinto doubles down on copper in Chile, Peru and Argentina after 3% growth in H1 - BNamericas",
+    "Rio Tinto Confirms Rescue of 14 Stranded Workers and Keeps Catamarca Operations Suspended - Panorama"
+  ]
+}
