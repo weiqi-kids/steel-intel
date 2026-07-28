@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 17,
+  "gate2_fail": 31,
+  "passed": 58,
+  "gate2_samples": [
+    "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+    "BHP, Port Hedland union make progress, talks to resume next week - Reuters",
+    "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat - Reuters",
+    "RIO TINTO : JP Morgan sticks Neutral - marketscreener.com",
+    "What's Behind Today's Drop in Fortescue (ASX:FMG) Stock? - Kalkine"
+  ]
+}
