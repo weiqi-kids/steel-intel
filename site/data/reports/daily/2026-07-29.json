@@ -1,0 +1,246 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:32:15.457610Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-07-29-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal SA’s shares slide as loss grows by half - News24",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2VMRlNwbVBkQ08zTFN4N2JfOTFIUkgzZXNWNUVQaXVlWXFkRFcxSVdETGo0MFpOVVBtVDU2ZnJVX3dOeTBmTTFiMzRydFZRMHdNODRqOXRJakQ5elZyMnlfSV92dTVFem0zVWU4WVlvOWw3eVFWcS13ZzFRWkNoemtkcGpNWnZSOHZ6bEpsLWVJMDdMMFN4TkZnVW1zVUJ2OWhsZFduV19LVERS?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "us_steel-2026-07-29-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. Steel Imports Drop in June 2026: AISI Data Shows 22.9% Annual Decline - News and Statistics - IndexBox",
+      "companies": [
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2hLX2xNQWVvU1BqZU5uMklWdGF0N2k4Sm55U3ZLeXdkWld4S05IcGNFTEpOb0hkQUJRMHJfT2pTWjMxV29ONFlJUUNVVG9TMGRINzlyYXlCbU1MOTdVZTRsMW5FcHpaXzZIbVcxNDcyX3FoMVNSbnhvc09lYUU5UWRhT3Q?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aluminum Giant Rio Tinto Not Planning to Invest in U.S. For Tariff Discount - WSJ",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWN4LVVGa2Q4cE95MzR1dS0wWXVLa3V4a1p1YUZwaG9QTXU3OGtUMGZ0MlMwUjdVU3Ytd1hDT1VvWjdCTUdYZDhYU2lLNTR6Rmp3OE52ZDlqTmlidG9nU1FibjQ0NExMSEhmZDFSYmZiY3gyMjU5emlYaWQtY3cxVGItcTRtbURuSVlVcWhFcXJvQUlTZlBsSjc0dGJTN292?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-07-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto buoyant on AI demand for metals as earnings soar - Financial Times",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEo3dlRLMjRGOEFpVWhCYVpKdGlNWnpsNFFCRUN0S3ZuSEItV2RBb0hOZHRqUTU0RGJmRG14RlE5RDNKTE1rRDZQSFJNNHdYZENfajNiV3gtR1pHVl8zTGNZUmZKRHZCV2ZLZWp2YlQ2NGZXU1NKZnJnMVFxMEVKSkxyU2g?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-07-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto’s CEO Focused on Cost Cuts, Says Mining Giant Is Good Bet in AI Boom - Bloomberg.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVW1xdjZjTEwwN0dsZnNZVklXR2NxOHB3dUc3V2VqM2ctZW5NMGk2dGhYd0g0WEV1dTlQdkRqR2c4bjJDRnNRZDk0bWE0ZUktRVNYRGFhc3VzZEdPUFA2blQwRzFTTTYtUmJ3THRXbVlEUjV4cEpMSG1EY25hT1JnSkU3bW1vNzFVZzNsLWUtcUUyUTVheDdtOHN1WDdZeTRlUE81aTFscXlFc2poRW43by1R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 24,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 15
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "tata_steel",
+        "count": 3
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 2
+      },
+      {
+        "id": "cmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 538,
+    "dup_title": 249,
+    "too_old": 165,
+    "gate1_blocked": 19,
+    "gate2_blocked": 37,
+    "passed": 68,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+      "Rio Tinto: Step-change in performance delivering higher shareholder returns - WBOC TV",
+      "Rio Tinto wants to be an AI play. Be careful what you wish for - AFR",
+      "Fortescue chair calls for fair negotiations with China - marketscreener.com",
+      "What's Behind Today's Drop in Fortescue (ASX:FMG) Stock? - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為力拓、安賽樂米塔爾、塔塔鋼鐵相關動態：「ArcelorMittal SA’s shares slide as loss grows by half - N...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ArcelorMittal SA’s shares slide as loss grows by half - News24",
+        "level": "green"
+      },
+      {
+        "text": "U.S. Steel Imports Drop in June 2026: AISI Data Shows 22.9% Annual Decline - ...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

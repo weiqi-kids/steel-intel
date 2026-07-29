@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T10:25:53.504962Z",
+  "updated_at": "2026-07-29T10:32:09.213890Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "春雨工程",
       "ticker": "2012.TW",
       "currency": "TWD",
-      "ar": 1353819000,
-      "ar_prev": 1507170000,
-      "ar_qoq": "-10%",
+      "ar": 1337818000,
+      "ar_prev": 1353819000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 3732364000,
-      "inv_prev": 3550619000,
-      "inv_qoq": "+5%",
+      "inventory": 3733735000,
+      "inv_prev": 3732364000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "steel_dynamics",

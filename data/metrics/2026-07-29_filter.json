@@ -1,0 +1,16 @@
+{
+  "total_raw": 538,
+  "dup_title": 249,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 19,
+  "gate2_fail": 37,
+  "passed": 68,
+  "gate2_samples": [
+    "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+    "Rio Tinto: Step-change in performance delivering higher shareholder returns - WBOC TV",
+    "Rio Tinto wants to be an AI play. Be careful what you wish for - AFR",
+    "Fortescue chair calls for fair negotiations with China - marketscreener.com",
+    "What's Behind Today's Drop in Fortescue (ASX:FMG) Stock? - Kalkine"
+  ]
+}
