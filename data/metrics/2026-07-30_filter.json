@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 22,
+  "gate2_fail": 38,
+  "passed": 73,
+  "gate2_samples": [
+    "BHP Group: Solid Execution, But Valuation Limits Upside (NYSE:BHP) - Seeking Alpha",
+    "Rio Tinto Stock Is Gaining Wednesday: What's Going On? - Rio Tinto (NYSE:RIO) - Benzinga",
+    "Rio Tinto director Ben Wyatt increases personal shareholding - TipRanks",
+    "Rio Tinto raised to Buy at Goldman as simplification strategy accelerates (RIO:NYSE) - Seeking Alpha",
+    "RIO TINTO : Upgraded to Buy by Berenberg - marketscreener.com"
+  ]
+}

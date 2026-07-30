@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:32:09.213890Z",
+  "updated_at": "2026-07-30T10:14:08.070567Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "Reliance Inc",
       "ticker": "RS",
       "currency": "USD",
-      "ar": 1953500000,
-      "ar_prev": 1539900000,
-      "ar_qoq": "+27%",
+      "ar": 2210400000,
+      "ar_prev": 1953500000,
+      "ar_qoq": "+13%",
       "ar_period": "QoQ",
-      "inventory": 2234900000,
-      "inv_prev": 2187800000,
-      "inv_qoq": "+2%",
+      "inventory": 2325400000,
+      "inv_prev": 2234900000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "rio_tinto",
@@ -296,17 +296,17 @@
       "name": "Steel Dynamics",
       "ticker": "STLD",
       "currency": "USD",
-      "ar": 2056434000,
-      "ar_prev": 1682660000,
-      "ar_qoq": "+22%",
+      "ar": 2442938000,
+      "ar_prev": 2056434000,
+      "ar_qoq": "+19%",
       "ar_period": "QoQ",
-      "inventory": 3908120000,
-      "inv_prev": 3738516000,
-      "inv_qoq": "+5%",
+      "inventory": 3955621000,
+      "inv_prev": 3908120000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "suncoke",
