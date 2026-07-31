@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:29:19.859605Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-07-31-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record Iron Ore and a Copper Pivot Define BHP Group’s (ASX:BHP) FY26 Finish - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXNYSmNrR0JsY0ZZS3dQbXMtUHpCMkVsNGRBM29SUG9MdWEtZmprTFptRzFuUXZRbEE1OEFFZ2QySTZweHNPY1I5SHo4NVlFeno2M3hVTWM0SUMzVEgteTJZRzk2Qmw3QjVXME04bF94UnhtbzlhOTY4OEJOd3pucWNMaUk0TnFZaWpueDFHcUVDRXZvc3RzQ2hLZl84RXdfNTM4SW14ck52Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fortescue-2026-07-31-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fortescue Ltd (ASX:FMG) Iron Bridge Setback Rattles the Market: Temporary Bump or Bigger Warning? - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXVseDFnWlEzX0RJRmhpTEl2bHpnakNNbHpoSVY5LWhCam4tdkQtc3pNT3FRZVVqV3dMQWk4Nk56QkY3d2ZqeGlIcWM2SGp1Y2FpTVRra2RDd3R0M19BVnBMRmpRUkFUd05KaHNhdHVrTzNvQWltbkZqbnlTV1J1bkhfM3gwVDgwdkk5TGZ5SDVseXg0QUxYUzIxemhLRzA1R1lVTUVHNkJiMVctaHFFU2ZFRTVaeTNYNlIwajU2bkNkc1hDWlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fortescue-2026-07-31-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fortescue (ASX:FMG): Record FY26 Shipments, Iron Bridge Progress and Green Energy Strategy Shape Investor Focus - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcXlLQkcybXdzTzZRYVM4elh1Ti05V2gzNnU2M3QwN0FOZFl3TUgzVXlibzRRcVZBaEJHRExVRFJRNUZtWlFCSG8zcHlfRWhoLW5fYXk5NVRQblRxQ2FzUHBTMzdKTWRZNDhKX29jeGJEWVA4aFY5THZFeUtpdjFKSzZ3a005VWpjcXVhVndILWlUS29aOW1BRXpfWGgtR3Q4SkFPRUlub0JOdVY1bHNZcVduRVpoVXFqY3FDeTlGaVZkMWNDMlRRekh3bUFxRnJ0LU1UTVBTSnA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Port Hedland iron ore workers to strike August 8-9, if no deal reached - Mining.com",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMk15S2lKY1YtYUx3QkNBM2lFOUVWeXlQSlVlVy15dmZxczludlRBV2hvMmZjQ2RlY2lmbWxjTDJOa2M5UWtvUWtLTUdoZmFnSlg4bVpta3FYcWJCQng4VlA5QTNGenExaTBkUU1Da0pFd3l3aUdJeEFzM3B3aTNaa3BZem5FMlVJeEhZRWFYcFppUUZBSWRSYjdJRGo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fortescue-2026-07-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue reports 5% fall in fourth-quarter iron ore shipments - marketscreener.com",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU015UFBjejRNX25qOWRVdFZPZEpmMTBqQk4wb2dnZXAxVUdONllQTTdKbTlKTmVneWJWQXpnSXNnMk45eE9hY0V1MkVmamxrOHdxS2oyeUFTSnRybFFDdGVsMHNENlFRZC15NGpYckRwVU8xeDNaTXZlZ0dFMXoxMm1XMy1XM3J0bjdtZ3c1WUNmU2pIUG94RnF3WEkwWW91blJ2STlwci02ZFpMenA5OGR0N1g?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 25,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 9
+      },
+      {
+        "id": "fortescue",
+        "count": 6
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 2
+      },
+      {
+        "id": "cmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "trade_policy",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 535,
+    "dup_title": 207,
+    "too_old": 164,
+    "gate1_blocked": 17,
+    "gate2_blocked": 42,
+    "passed": 105,
+    "pass_rate": "32.0%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "VALE|Vale SA|Price:14.822|Chg%:+0.172 - TradingKey",
+      "BHP Group Ltd Stock (BHP) Closed Up by 3.24% on Jul 30: What Investors Need To Know - TradingKey",
+      "Rio Tinto: Excellent Q2 Results, Undervalued Based On Its Potential (NYSE:RIO) - Seeking Alpha",
+      "Is Rio Tinto PLC (RIO) Overvalued After 3.8% Rally? GF Value Say - GuruFocus",
+      "Rio Tinto Shares Rise After Berenberg Upgrade - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為塔塔鋼鐵、FMG、必和必拓相關動態：「Record Iron Ore and a Copper Pivot Define BHP Group’s (AS...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Record Iron Ore and a Copper Pivot Define BHP Group’s (ASX:BHP) FY26 Finish -...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Fortescue Ltd (ASX:FMG) Iron Bridge Setback Rattles the Market: Temporary Bum...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

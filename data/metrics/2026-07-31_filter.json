@@ -1,0 +1,16 @@
+{
+  "total_raw": 535,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 17,
+  "gate2_fail": 42,
+  "passed": 105,
+  "gate2_samples": [
+    "VALE|Vale SA|Price:14.822|Chg%:+0.172 - TradingKey",
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.24% on Jul 30: What Investors Need To Know - TradingKey",
+    "Rio Tinto: Excellent Q2 Results, Undervalued Based On Its Potential (NYSE:RIO) - Seeking Alpha",
+    "Is Rio Tinto PLC (RIO) Overvalued After 3.8% Rally? GF Value Say - GuruFocus",
+    "Rio Tinto Shares Rise After Berenberg Upgrade - marketscreener.com"
+  ]
+}

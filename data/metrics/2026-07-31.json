@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-31",
+  "total_events": 30,
+  "by_company": {
+    "bhp": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "fortescue": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "cmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "tata_steel": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "baosteel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vale": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": 0.05
+    },
+    "trade_policy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
