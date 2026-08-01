@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 280,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 18,
+  "gate2_fail": 37,
+  "passed": 50,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.24% on Jul 30: What Investors Need To Know - TradingKey",
+    "Rio Tinto: Step-change in performance delivering higher shareholder returns - businesswire.com",
+    "Rio Tinto raised to Buy at Goldman as simplification strategy accelerates (RIO:NYSE) - Seeking Alpha",
+    "Fortescue says China's CMRG actions disrupting supply stability - marketscreener.com",
+    "Fortescue's Outlook Falls Short of Expectations -- Market Talk - moomoo.com"
+  ]
+}

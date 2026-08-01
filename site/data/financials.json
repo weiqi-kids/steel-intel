@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:29:15.364573Z",
+  "updated_at": "2026-08-01T09:50:49.518611Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "安賽樂米塔爾",
       "ticker": "MT",
       "currency": "USD",
-      "ar": 4130000000,
-      "ar_prev": 3476000000,
-      "ar_qoq": "+19%",
+      "ar": 4508000000,
+      "ar_prev": 4130000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 18705000000,
-      "inv_prev": 18589000000,
-      "inv_qoq": "+1%",
+      "inventory": 19283000000,
+      "inv_prev": 18705000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "baosteel",
@@ -313,17 +313,17 @@
       "name": "SunCoke Energy",
       "ticker": "SXC",
       "currency": "USD",
-      "ar": 115200000,
-      "ar_prev": 111500000,
-      "ar_qoq": "+3%",
+      "ar": 209300000,
+      "ar_prev": 115200000,
+      "ar_qoq": "+82%",
       "ar_period": "QoQ",
-      "inventory": 184500000,
-      "inv_prev": 219900000,
-      "inv_qoq": "-16%",
+      "inventory": 186100000,
+      "inv_prev": 184500000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "ta_chen",
