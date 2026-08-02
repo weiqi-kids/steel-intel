@@ -1,0 +1,16 @@
+{
+  "total_raw": 524,
+  "dup_title": 291,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 17,
+  "gate2_fail": 31,
+  "passed": 25,
+  "gate2_samples": [
+    "Rio Tinto: Step-change in performance delivering higher shareholder returns - Business Wire",
+    "Rio Tinto raised to Buy at Goldman as simplification strategy accelerates (RIO:NYSE) - Seeking Alpha",
+    "Rio Tinto Stock Is Gaining Wednesday: What's Going On? - Rio Tinto (NYSE:RIO) - Benzinga",
+    "Fortescue says China's CMRG actions disrupting supply stability - marketscreener.com",
+    "Fortescue's Outlook Falls Short of Expectations -- Market Talk - Moomoo"
+  ]
+}

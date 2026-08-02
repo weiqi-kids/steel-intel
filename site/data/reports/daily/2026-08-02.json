@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:51:32.792489Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_steel-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel UK expects electricity access for EAF project by 2029: CEO Narendran - BusinessLine",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSnlPSnZfb3I4TWRBTTViYjl2ZDdBZUU0WndncnlhMXJYeEVZdThSdV8wekhqN0xnU3dzY1NDaWNRaVBhUkJNMnQzT2VnMGNxZEEtSkxLd04zQnBUcGJwcWZGQ0cyZ2N5TXN4Y0pDcmR2ckxDRERBYTlyTU10WTN0NFhlX1lyQ3gyUzJpd19KWkhpS3Rud3JxczJCNlYtYlItVHdIZnBRTWhNOWRzREVNT1FqVU96UmJGVFEzQ3prR3h4R0NTSFcyTmpLVzRXVUxtRjN6em5EVy1FZ1ItMkHSAeQBQVVfeXFMTk9IWXpMUkxPcld6QlM2d1lGdWQzSDc3b3FJaGY4Tkl5UWVEa0FBOGFnTzktRFpaZWhubFdEcVVDazlxYXNOT0NVRmJpN1NGdEdmOXVsY0xvNS1ncUEwVDhLWW5oOW5Hdm1KNWtYT1RBX0h3WUVLd1FUeG1zelZmVlgtYTZnWlp4NTZZcl9MVmZER1k4QWMwMG0yUVlUcVkzWHF0R1hWSnJDSHB2QklZaTNveFphY1NYelFyb2hTU3Q5OGdCcFJZM2RZTFJmNUszeUVuNzAyaXd3akoxYkdZY1VabHlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Prices for raw materials fell by $10/t in July in most regional markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gmk.center/en/news/in-most-regional-markets-prices-for-raw-materials-fell-by-10-t-in-july/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 524,
+    "dup_title": 291,
+    "too_old": 160,
+    "gate1_blocked": 17,
+    "gate2_blocked": 31,
+    "passed": 25,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Rio Tinto: Step-change in performance delivering higher shareholder returns - Business Wire",
+      "Rio Tinto raised to Buy at Goldman as simplification strategy accelerates (RIO:NYSE) - Seeking Alpha",
+      "Rio Tinto Stock Is Gaining Wednesday: What's Going On? - Rio Tinto (NYSE:RIO) - Benzinga",
+      "Fortescue says China's CMRG actions disrupting supply stability - marketscreener.com",
+      "Fortescue's Outlook Falls Short of Expectations -- Market Talk - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為塔塔鋼鐵相關動態：「Tata Steel UK expects electricity access for EAF project ...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tata Steel UK expects electricity access for EAF project by 2029: CEO Narendr...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Prices for raw materials fell by $10/t in July in most regional markets（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
