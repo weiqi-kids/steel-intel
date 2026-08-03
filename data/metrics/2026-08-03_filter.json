@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 295,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 17,
+  "gate2_fail": 33,
+  "passed": 41,
+  "gate2_samples": [
+    "Rio Tinto: Step-change in performance delivering higher shareholder returns - Business Wire",
+    "Rio Tinto wants to be an AI play. Be careful what you wish for - afr.com",
+    "Rio Tinto: Step-change in performance delivering higher shareholder returns - Yahoo Finance",
+    "Fortescue's Outlook Falls Short of Expectations -- Market Talk - Moomoo",
+    "Fortescue says China's CMRG actions disrupting supply stability - marketscreener.com"
+  ]
+}

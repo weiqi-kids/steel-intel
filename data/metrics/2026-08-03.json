@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-03",
+  "total_events": 26,
+  "by_company": {
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "arcelormittal": {
+      "count": 7,
+      "sentiment_avg": 0.36
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tata_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 7,
+      "sentiment_avg": -0.14
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.03
+    },
+    "iron_ore_price": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

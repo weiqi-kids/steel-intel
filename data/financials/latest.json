@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:51:28.417189Z",
+  "updated_at": "2026-08-03T11:13:59.645829Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
@@ -262,17 +262,17 @@
       "name": "力拓",
       "ticker": "RIO",
       "currency": "USD",
-      "ar": 2658000000,
-      "ar_prev": 4573000000,
-      "ar_qoq": "-42%",
+      "ar": 4663000000,
+      "ar_prev": 2658000000,
+      "ar_qoq": "+75%",
       "ar_period": "QoQ",
-      "inventory": 6968000000,
-      "inv_prev": 6831000000,
-      "inv_qoq": "+2%",
+      "inventory": 7733000000,
+      "inv_prev": 6968000000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "spring_rain",
