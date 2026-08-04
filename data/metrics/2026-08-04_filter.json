@@ -1,0 +1,16 @@
+{
+  "total_raw": 532,
+  "dup_title": 269,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 15,
+  "gate2_fail": 31,
+  "passed": 57,
+  "gate2_samples": [
+    "Rio Tinto: Step-change in performance delivering higher shareholder returns - Yahoo Finance",
+    "Fortescue Price Target Cut 3.0% to A$16.00/Share by Jefferies - Moomoo",
+    "Fortescue says China's CMRG actions disrupting supply stability - marketscreener.com",
+    "Fortescue's Outlook Falls Short of Expectations -- Market Talk - Moomoo",
+    "Fortescue Ltd (ASX:FMG): Share Price and Market Capitalisation Snapshot - Kalkine"
+  ]
+}
