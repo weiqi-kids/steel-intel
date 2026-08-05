@@ -1,0 +1,16 @@
+{
+  "total_raw": 529,
+  "dup_title": 269,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 16,
+  "gate2_fail": 20,
+  "passed": 64,
+  "gate2_samples": [
+    "Rio Tinto’s $3B asset sale lures private equity giants including Blackstone, KKR - report (RIO:NYSE)",
+    "Rio Tinto Issues New Shares to Satisfy Employee Share Plan Awards - TipRanks",
+    "Fortescue Price Target Cut 3.0% to A$16.00/Share by Jefferies - Moomoo",
+    "Fortescue's Outlook Falls Short of Expectations -- Market Talk - Moomoo",
+    "SunCoke Energy, Inc. Reports Second Quarter 2026 Results - Investing News Network"
+  ]
+}
