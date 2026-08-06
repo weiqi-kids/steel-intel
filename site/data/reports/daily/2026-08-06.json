@@ -1,0 +1,251 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:29:32.825245Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_steel-2026-08-06-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Posco, Hyundai Steel raise auto and ship plate prices to recover profits in Korea - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai_steel",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai_steel"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3ZFSWUwelVSY0NvbGVISzRaZEJXbDBxWUdzck5ESlFMQ3g0dGgwSzhnUG5FTnFhamlUVXdDVnpsS1BKS3ZRTG1ud0dCam9VNTlsbTQzQ2hhOTZmb2hwNWNzVVZFUy1TekNMTmRvV0w4UkFKWkh6RVRCaXhfU21xUXRn0gGWAUFVX3lxTE5mUk1ORUx6ejVwSXJmWUxWQjgybDl6bjRKRXFwQndBSTV0ZHh3bFRtME9fYTd3SGZGd2Z3YlNrOEhmTTRXbGxuQ0cwTHNub3BuZEpZZUNRVVo3V1NVbTZyMkVGZEd1Nk0wSFpQb3NDYS1GazNJMmpxazNNMEVXLTQ2QmZKQ2dRRGhhTGZRRVV2VEVhSHRrdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "warrior_met-2026-08-06-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Warrior Met Coal (HCC) Surpasses Q2 Earnings and Revenue Estimates - Yahoo! Finance Canada",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2FrYTJaa1h6ellIZjd6VXZ1QzZiMDNSbVY3Z19XNVEwbnVmVGFYYTh2dW9waEFpcUM0RmFmMGh3N2dfNVFxMzRkVTN3U0cyYUFQRFhjNlNhVWlGcVUzb2g4RjZwYXFhMmZlQlZURWxQSC0tbGMxclFiQ2JhOUhHcXQyTlpzQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cleveland_cliffs-2026-08-06-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cleveland-Cliffs (CLF) Is Up 11.2% After Narrowing Q2 Losses And Pausing Buybacks - What's Changed - simplywall.st",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS1QzNGtTdks5NDkxZ2MzTTNoLWJ3cDhFRk9UMmRJZ2pmelZUd3R2WF9VY1FTb2JiSnl2N0tpRl9yMHNDSWRCWk9hMFZkbGpTYVJ3Y0V2UzROa0ZDdEQxRWFydGxQNFlEbnkyTzF6R1JnX3ZKMzY1bFkzdHJPWHhmdXZVUmRiZXU4Sk5ydFpGWGJiQWlZU1FFNmM2UUNRa3B4azlXbkQ0enI5Zks2MEJlV0hBbGFLY2dkUjV2YkpxRGJfUjlCNHBwRnUxUEpYUkhfRlNr0gHTAUFVX3lxTE9LVDM0a1N2Szk0OTFnYzNNM2gtYndwOEVGT1QyZElnamZ6VlR3dHZYX1VjUVNvYmJKeXY3S2lGX3Iwc0NJZEJaT2EwVmRsalNhUndjRXZTNE5rRkN0RDFFYXJ0bFA0WURueTJPMXpHUmdfdkozNjVsWTN0ck9YeGZ1dlVSZGJldThKTnJ0WkZYYmJBaVlTUUU2YzZRQ1FrcHhrOVduRDR6cjlmSzYwQmVXSEFsYUtjZ2RSNXZiSnFEYl9SOUI0cHBGdTFQSlhSSF9GU2s?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-06-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FTA with Turkey: what will change for Ukrainian steel products",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://gmk.center/en/posts/fta-with-turkey-what-will-change-for-ukrainian-steel-products/"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-08-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's CMRG tells some steel mills to halt talks with Rio Tinto for shipments from September, sources say - Reuters",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRXN1dla1VaLU1TU3FKSzRDdW9qUkRHNUNaRzJqSW9hNllTdEhlS25GVHBhdkRib1VKVzJvWlRteXBRSUhKSTEtOGRic0FjNkdXcVJqZEtlLU56ZjJHV2E5cHpySEtjSWxxSFE0VEVOSVcwSUtaMDYzS1JsNEFwNmgzT1FTYmxXTnhNbTlUVm1PcTIzZ0tEOEtEdXFmWjUzb2wwdmhWUVhORXZvQzBJNUpBdGpYOEJyYnRYYnpDU0dfMUh0Zzhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 8,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 4
+      },
+      {
+        "id": "warrior_met",
+        "count": 3
+      },
+      {
+        "id": "tata_steel",
+        "count": 2
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 3
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 532,
+    "dup_title": 260,
+    "too_old": 158,
+    "gate1_blocked": 19,
+    "gate2_blocked": 19,
+    "passed": 76,
+    "pass_rate": "27.9%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+      "Rio Tinto’s $3B asset sale lures private equity giants including Blackstone, KKR - report (RIO:NYSE)",
+      "Fortescue Price Target Cut 3.0% to A$16.00/Share by Jefferies - Moomoo",
+      "Fortescue Price Target Cut 4.1% to A$17.40/Share by Bell Potter - Moomoo",
+      "Fortescue's Outlook Falls Short of Expectations -- Market Talk - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為力拓、Warrior Met Coal、塔塔鋼鐵相關動態：「Posco, Hyundai Steel raise auto and ship plate prices to ...」。主要關注主題為鋼鐵產業通用、焦煤與廢鋼、產能利用率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Posco, Hyundai Steel raise auto and ship plate prices to recover profits in K...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Warrior Met Coal (HCC) Surpasses Q2 Earnings and Revenue Estimates - Yahoo! F...（焦煤與廢鋼）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

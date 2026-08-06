@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-06",
+  "total_events": 16,
+  "by_company": {
+    "rio_tinto": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "tata_steel": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "hyundai_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": -0.02
+    },
+    "coking_coal_scrap": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "capacity_utilization": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

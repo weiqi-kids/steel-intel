@@ -1,0 +1,16 @@
+{
+  "total_raw": 532,
+  "dup_title": 260,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 19,
+  "gate2_fail": 19,
+  "passed": 76,
+  "gate2_samples": [
+    "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+    "Rio Tinto’s $3B asset sale lures private equity giants including Blackstone, KKR - report (RIO:NYSE)",
+    "Fortescue Price Target Cut 3.0% to A$16.00/Share by Jefferies - Moomoo",
+    "Fortescue Price Target Cut 4.1% to A$17.40/Share by Bell Potter - Moomoo",
+    "Fortescue's Outlook Falls Short of Expectations -- Market Talk - Moomoo"
+  ]
+}

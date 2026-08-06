@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-06",
+  "date_range": {
+    "start": "2026-07-31",
+    "end": "2026-08-06"
+  },
+  "generated_at": "2026-08-06T10:29:32.984341Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_steel-2026-08-05-043",
+      "date": "2026-08-05",
+      "title": "POSCO, Hyundai Steel Seek Breakthrough in AI Data Centers and Power Infrastructure Amid Race for New Steel Demand - finance.biggo.com",
+      "importance_score": 0.85
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nippon_steel",
+      "company_b": "us_steel",
+      "co_mention_count": 9,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 98,
+      "last_week": 93,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": 0.03
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 13,
+      "week_over_week_change": "-69%",
+      "sentiment_this_week": 0.12
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 8
+    },
+    "fortescue": {
+      "event_count": 10,
+      "sentiment_avg": -0.1,
+      "rank": 4
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "posco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tata_steel": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "hyundai_steel": {
+      "event_count": 11,
+      "sentiment_avg": -0.09,
+      "rank": 3
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.38,
+      "rank": 6
+    },
+    "baosteel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "suncoke": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "rio_tinto": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "us_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "spring_rain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "warrior_met": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 11
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 297,
+        "last": 428,
+        "change_pct": -30.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-31",
+      "event_count": 73,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 61,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 69,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 52,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 16,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-31 ~ 2026-08-06）共 297 則事件，重點為「POSCO, Hyundai Steel Seek Breakthrough in AI Da...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 10 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
