@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 23,
+  "gate2_fail": 18,
+  "passed": 74,
+  "gate2_samples": [
+    "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+    "Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump - bloomberg.com",
+    "Trump taps BHP and Rio Tinto to fix critical minerals gap - AFR",
+    "China regulator delays review of Rio Tinto lithium project By Investing.com - Investing.com Nigeria",
+    "Chile's ENAMI says China antitrust review of Rio Tinto lithium project delayed - marketscreener.com"
+  ]
+}
