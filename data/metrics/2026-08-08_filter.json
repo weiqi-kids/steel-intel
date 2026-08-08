@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 284,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 19,
+  "gate2_fail": 26,
+  "passed": 59,
+  "gate2_samples": [
+    "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+    "Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump - Bloomberg.com",
+    "Trump taps BHP and Rio Tinto to fix critical minerals gap - AFR",
+    "China Delays Review of ENAMI-Rio Tinto Lithium Project - chemanalyst.com",
+    "Rio Tinto Group (LON:RIO) Stock Crosses Above 200 Day Moving Average - Here's What Happened - Market"
+  ]
+}
