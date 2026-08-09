@@ -1,0 +1,16 @@
+{
+  "total_raw": 529,
+  "dup_title": 248,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 20,
+  "gate2_fail": 30,
+  "passed": 54,
+  "gate2_samples": [
+    "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+    "Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump - Bloomberg.com",
+    "Trump taps BHP and Rio Tinto to fix critical minerals gap - AFR",
+    "Rio Tinto (NYSE:RIO) Rating Lowered to \"Strong Sell\" at Zacks Research - MarketBeat",
+    "Fortescue Price Target Cut 3.0% to A$16.00/Share by Jefferies - Moomoo"
+  ]
+}

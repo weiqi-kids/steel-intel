@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:33:06.203699Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "More workers join strike at BHP's Port Hedland iron ore operations - Reuters",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS28zTWUyZVpQajNhUDJvQTd1UDZoMVVqOTZtOXpfNWlkQTBpeThvY1BWb1IxWmJ6WFdZeEJQNkVFdktpLWpxbmpleGxEYUhCQmZhNDZNcDdXRE90VUJYSVR1OUs3S1FRTGJpVks2ZjdENG9NeFRqRUM0SHpDZ3pkQU5KQ2cwdTZVMmEtcnhtb2UxT2JZUEFIaUhqMzFXMFVzSGFrMU5aT1JpZGZVbkowWXkzbFZXUDVxSThJdlZn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "More workers join strike at BHP's Port Hedland iron ore operations - marketscreener.com",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3I4WjRSdTJNajNFblRHOGJCYTIxOGc2dmtRYUNDMVFRcmRfeG1tRUpDd1NRam9uQTRnbzVXcUZULWhkX0FISDhIWVBJR2RyQndWZXNGSXdMeDJGSW5jRWljNERxSkluQnQxaFl4RDlfQUtneTN3R2FwR2xWVEZmTlFSMzNINVAxeTR2d05zeHhjdGZGX3VfbFA1MFc1d1l4Q1VhNDRSdHprSEduQ3BQYVhaVjJwMGRxZDVv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto signals no rush to revive Glencore deal as standstill ends - AOL.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zM2dITGYxTHIxOVFUQVIwcWJNdlh4dmRLTi0wSElOaS1UZGJRRDl0VkI4Zk9rVFhER1R0R0ctQnkxazBiOXZSTWgxcUl0ZlFTWm9CbEtNblk4LUZESlV4NmItNGlKMW5GQWcxelduVXIxU0pVY2hEMg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "warrior_met-2026-08-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal (HCC) Is Up 15.8% After Boosting 2026 Sales Outlook On Blue Creek Demand – Has The Bull Case Changed? - Yahoo Finance UK",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFZWZ6NWQzOTNkcTJyNDFIcHk1SGhtaDNlc2RKVDRIMU11Q2dVaV9xVlVSdnV5M0Z0ZWlCQmp4T1Y5emUtS3kxNktrM2tQdjV6QkpXT3l2eEsxR25mWEJ1X29PYTEtNmVUMlc1VmZMOEFMM0FBblltdWFkcXY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "warrior_met-2026-08-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal (HCC) Updates 2026 Guidance, Is It Still Below Fair Value? - simplywall.st",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmVMTWlXVXNieWFTT0JMMC1MRjJIRktfSDc3NGcyUHFBODI2Y042czlUZUVRUEZ1dDdLLW5McThETmVob3lBbmlERFZISGJSSldpcm90WnBTdXBTbVVFTWFsOERlT0xHVXBVQ0ZtODFwa2h1LU9MWHFTM2ljM3ppWHBia1hmWktObldlOGV5NDJYMENqQlNyeEUxRG1mV2ZCUTlwSG0zZkpGS2xHY2tTTFJKdnFYTEpjcFBCM3d6YWk2ci12Mlo2YTZTWEdqZ9IB0wFBVV95cUxQY0FhN01vX1VSY2t6OWpSY1o0dmtQQVZULXRUNDlCLWhCS3JpZUZlR0w2MGdHOTkyWGtiRTdKRnF5ODdlRmlEOGlOMWg4WFo0Tmh2b3BjajlyQWM3V1FKRlYzOW9ldGRuR0pyLUZFWEFvaklkRC1IRi0xR21mRVRpejhvcm9uOHpoQjU4SS0wa1p5RkRPU0c1SkVtVTc5bnlFYnJDei1GWTJPN2lFSWFxdU9CS09mODNNZGZkTUdrYUxvajdjOUFXTkVxSWxjRFVHejFr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 3
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 529,
+    "dup_title": 248,
+    "too_old": 177,
+    "gate1_blocked": 20,
+    "gate2_blocked": 30,
+    "passed": 54,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+      "Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump - Bloomberg.com",
+      "Trump taps BHP and Rio Tinto to fix critical minerals gap - AFR",
+      "Rio Tinto (NYSE:RIO) Rating Lowered to \"Strong Sell\" at Zacks Research - MarketBeat",
+      "Fortescue Price Target Cut 3.0% to A$16.00/Share by Jefferies - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Warrior Met Coal、必和必拓、力拓相關動態：「More workers join strike at BHP's Port Hedland iron ore o...」。主要關注主題為鋼鐵產業通用、焦煤與廢鋼，市場情緒中性。",
+    "signals": [
+      {
+        "text": "More workers join strike at BHP's Port Hedland iron ore operations - Reuters（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "More workers join strike at BHP's Port Hedland iron ore operations - marketsc...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
