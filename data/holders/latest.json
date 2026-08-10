@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:33:05.298063+00:00",
+  "updated_at": "2026-08-10T09:08:11.346221+00:00",
   "companies": {
     "vale": {
       "name": "Vale S.A.",
@@ -479,13 +479,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 91253,
           "pct_held": 0.01,
-          "value": 63648967
+          "value": 62909820
         },
         {
           "holder": "Coston, McIsaac & Partners",
           "shares": 360,
           "pct_held": 0.0,
-          "value": 251100
+          "value": 248184
         }
       ]
     },
@@ -498,7 +498,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 426861,
           "pct_held": 0.07,
-          "value": 796309195
+          "value": 787558545
         }
       ]
     },

@@ -1,0 +1,16 @@
+{
+  "total_raw": 538,
+  "dup_title": 293,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 19,
+  "gate2_fail": 27,
+  "passed": 38,
+  "gate2_samples": [
+    "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+    "Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump - Bloomberg.com",
+    "Trump taps BHP and Rio Tinto to fix critical minerals gap - AFR",
+    "Rio Tinto (ASX:RIO) Gains Limelight Following Record Half - Kalkine",
+    "Fortescue Target Price Cut 5% to A$20.00/Share by Macquarie>FMG.AU - Moomoo"
+  ]
+}
