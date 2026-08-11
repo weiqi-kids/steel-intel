@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 259,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 15,
+  "gate2_fail": 30,
+  "passed": 65,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Builds Copper And Potash Links, Is The Upside Already Priced In? - simplywall.st",
+    "BHP Group, Strategic Resources, and Freeport McMoRan: AI and Robotics Are Triggering a Commodity Sup",
+    "Rio Tinto (LSE:RIO) Stock May Sit Above Fair Value On Its 89% Run - Yahoo Finance",
+    "Rio Tinto PLC (NYSE:RIO) Given Average Recommendation of \"Hold\" by Analysts - MarketBeat",
+    "Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump - Bloomberg.com"
+  ]
+}

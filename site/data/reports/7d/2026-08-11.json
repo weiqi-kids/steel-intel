@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-11",
+  "date_range": {
+    "start": "2026-08-05",
+    "end": "2026-08-11"
+  },
+  "generated_at": "2026-08-11T08:44:22.712193Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "reliance-2026-08-07-001",
+      "date": "2026-08-07",
+      "title": "Trump to meet mining execs from Rio Tinto, BHP, MP Materials, and Freeport to counter China reliance: report - Seeking Alpha",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 72,
+      "last_week": 118,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.01
+    },
+    "coking_coal_scrap": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.14
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 12,
+      "week_over_week_change": "-92%",
+      "sentiment_this_week": 0.5
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "rio_tinto": {
+      "event_count": 15,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "fortescue": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tata_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    },
+    "hyundai_steel": {
+      "event_count": 10,
+      "sentiment_avg": 0.15,
+      "rank": 3
+    },
+    "warrior_met": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 4
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 11
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "reliance": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "us_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nucor": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "baosteel": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 325,
+        "last": 470,
+        "change_pct": -30.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-05",
+      "event_count": 84,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 78,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-07",
+      "event_count": 54,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 31,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 36,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 25,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-05 ~ 2026-08-11）共 325 則事件，重點為「Trump to meet mining execs from Rio Tinto, BHP,...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 15 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
