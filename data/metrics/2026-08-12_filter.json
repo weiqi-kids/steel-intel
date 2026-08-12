@@ -1,0 +1,16 @@
+{
+  "total_raw": 541,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 24,
+  "gate2_fail": 32,
+  "passed": 68,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Builds Copper And Potash Links, Is The Upside Already Priced In? - simplywall.st",
+    "Rio Tinto Aluminum Smelter to Get Australian Government Bailout - Bloomberg.com",
+    "Rio Tinto (LSE:RIO) Stock May Sit Above Fair Value On Its 89% Run - Yahoo Finance",
+    "Trump taps BHP and Rio Tinto to fix critical minerals gap - AFR",
+    "Rio Tinto PLC $RIO Shares Sold by NewEdge Advisors LLC - MarketBeat"
+  ]
+}
