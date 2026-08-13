@@ -1,0 +1,16 @@
+{
+  "total_raw": 543,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 21,
+  "gate2_fail": 31,
+  "passed": 68,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Builds Copper And Potash Links, Is The Upside Already Priced In? - simplywall.st",
+    "Rio Tinto Aluminum Smelter Gets $1.8 Billion Australian Bailout - Bloomberg",
+    "Rio Tinto Aluminum Smelter to Get Australian Government Bailout - Bloomberg",
+    "Rio Tinto, BHP Summoned to Critical Minerals Meeting With Trump - Bloomberg",
+    "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters"
+  ]
+}
