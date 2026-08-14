@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:00:04.115406Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-14-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ukraine saw an 8.3% y/y decline in rolled steel production in January–July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/ukraine-saw-an-8-3-y-y-decline-in-rolled-steel-production-in-january-july/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Anglo Strikes Yearlong Iron Ore Deal With China’s State Buyer - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQangzU2hGNUl0WTNXVE9SN2IzZW5UbXJZRk1XVTV5Zlc4R2U5cVV0M2U1NE9FX09FQWhSZkxNNXkxYXUxX3pzNnJwRkdoOWVwaE5hRXdJSDg5a3pMM2MyLVpPaGlCY283ZFducFl4N1VjQVI3OHpCVHp1RFo4SUUwRmVxeC1BM2x2NElfaHJXR1FLV2VDeU5mXzRmUWozM1lrakZBbl95V1p3blFYWWZpaFlB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Anglo strikes yearlong iron ore deal with China’s state buyer - Moneyweb",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOXFIdHpXVm5TdzRpazJ2TW1RX2NvSkstc1pKNW9oWV84Y1o1c1JXLV9SRlRaTFFDamMwRGNRVnVNU3Nkb21meEludjdjSzNMSTJHcl9hUTAtdkpPcHB5V3VJcGVTc0ZsbW9iMDFkc3ZNeWFYUnJnbVVTSGVnUmV6VlV4YnBaaHNUNDZZNTM4MEJfMFB4RFdMVlpqNHY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Coal India Limited signed a memorandum of understanding with ArcelorMi - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRXFfMEpwTGFKSXpaSVBTZmJlVTRyQ1F0dlhGVGJuS2tsQTFDY3VZdjlPV25BNVU1QWV1Ukk0RFhGT2o1ak9waG5Dc1JRdV84OHBoem1TNU5uOHNlR29KeDU2WTF0WjROVFMtZFgzWjdBNU10U3dzNVpJd0dwTGFwdXFncVBFSWlkS3pxazlKM09IcXltNFA1UnFUSWZZSmZmZ3hrYlVtNVk4WGRuOHlRQ1M3dXpQbnMyTjc2Y2ZzS1M3X3J4cV81VFhsUDVTb0pFcF9IdUh0NXI3UFF3bG1FVXhGTlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_steel-2026-08-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel divests football subsidiary for nominal sum By Investing.com - Investing.com Canada",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTl6S3Ntd0E3RUxtaUtScmFiMElvV0FsWmdFYzFGNnZrR2R2UG5pVHoyZHBWaHJIRFFkNG9rdUZnYWthS3hnclY3dW0wOUV3R0dNX1RDMVRTS3JnMHBoQTJTZjdUbGJUYW5rR0xQTjdudGZia09UMG13ZDMyS2xOY2FOVnRQMVo2alpsbENIdlhiQ1hJeFJUaXR1UFdVRl8tSjM3UkxFUS1VcGVSTElnc0ZrZUhxQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 9
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 1
+      },
+      {
+        "id": "gerdau",
+        "count": 1
+      },
+      {
+        "id": "chung_hung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 540,
+    "dup_title": 250,
+    "too_old": 176,
+    "gate1_blocked": 23,
+    "gate2_blocked": 23,
+    "passed": 68,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "BHP Group Ltd Stock (BHP) Closed Down by 3.19% on Aug 13: A Full Analysis - TradingKey",
+      "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters",
+      "Rio Tinto Sees Unusually High Options Volume (NYSE:RIO) - MarketBeat",
+      "Rio Tinto (LSE:RIO) Stock May Sit Above Fair Value On Its 89% Run - finance.yahoo.com",
+      "Afternoon Update: students ditch school to protest Hanson, Rio Tinto gets $2.5bn bailout, and Travis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為塔塔鋼鐵、Nucor、Cleveland-Cliffs相關動態：「Ukraine saw an 8.3% y/y decline in rolled steel productio...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ukraine saw an 8.3% y/y decline in rolled steel production in January–July（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Anglo Strikes Yearlong Iron Ore Deal With China’s State Buyer - Bloomberg.com（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

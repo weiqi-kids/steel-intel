@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 250,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 23,
+  "gate2_fail": 23,
+  "passed": 68,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Closed Down by 3.19% on Aug 13: A Full Analysis - TradingKey",
+    "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters",
+    "Rio Tinto Sees Unusually High Options Volume (NYSE:RIO) - MarketBeat",
+    "Rio Tinto (LSE:RIO) Stock May Sit Above Fair Value On Its 89% Run - finance.yahoo.com",
+    "Afternoon Update: students ditch school to protest Hanson, Rio Tinto gets $2.5bn bailout, and Travis"
+  ]
+}
