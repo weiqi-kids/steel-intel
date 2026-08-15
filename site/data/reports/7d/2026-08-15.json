@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-15",
+  "date_range": {
+    "start": "2026-08-09",
+    "end": "2026-08-15"
+  },
+  "generated_at": "2026-08-15T08:17:07.028748Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nucor-2026-08-13-038",
+      "date": "2026-08-13",
+      "title": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor - simplywall.st",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 95,
+      "last_week": 80,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.01
+    },
+    "coking_coal_scrap": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 7
+    },
+    "rio_tinto": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tata_steel": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 6
+    },
+    "us_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "reliance": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "baosteel": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 10
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nippon_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "fortescue": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "arcelormittal": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 320,
+        "last": 429,
+        "change_pct": -25.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-09",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 45,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 68,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 64,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 59,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 64,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-09 ~ 2026-08-15）共 320 則事件，重點為「Tariffs Are Reshaping Value Screens for Relianc...」。寶鋼表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Warrior Met Coal",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

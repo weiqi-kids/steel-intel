@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:59:59.912489Z",
+  "updated_at": "2026-08-15T08:17:01.361910Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-05-31",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "Gerdau",
       "ticker": "GGB",
       "currency": "USD",
-      "ar": 5862552000,
-      "ar_prev": 4810640000,
-      "ar_qoq": "+22%",
+      "ar": 5999384000,
+      "ar_prev": 5862552000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 15190355000,
-      "inv_prev": 14731081000,
-      "inv_qoq": "+3%",
+      "inventory": 16099611000,
+      "inv_prev": 15190355000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "hyundai_steel",
@@ -398,17 +398,17 @@
       "name": "淡水河谷",
       "ticker": "VALE",
       "currency": "USD",
-      "ar": 2401000000,
-      "ar_prev": 2297000000,
-      "ar_qoq": "+5%",
+      "ar": 2614000000,
+      "ar_prev": 2401000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 6135000000,
-      "inv_prev": 5937000000,
-      "inv_qoq": "+3%",
+      "inventory": 6264000000,
+      "inv_prev": 6135000000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "warrior_met",

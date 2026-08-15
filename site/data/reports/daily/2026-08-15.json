@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:17:06.899729Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bids Top $3 Billion for Brazilian Iron-Ore Port Co-Owned by Mubadala - briefs.co",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkVNbElaeXh3NWdxNl90ZXg5Z2p5ZldYVk9kUVYzRlBHLWVWaXpkOVY1d2lkaDF5ZGxNTUxQbHpOeElDbFU2aktkZXJuZzM4SVZMbU92QUowRGZ3ejZ3TTBJYUE1M3pTUE4wMG4tb012T2VkRnNHbGRuT3h1NkNtWm5fWVpOUlhkSzQ5Y1Z2TzV2QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-08-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Reduces Position in ArcelorMittal $MT - MarketBeat",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGg4bUJ2RkpYM2t5em5WQVZNQWQtdzNHNDZLa2pEZlhDaTVzRGdSQ2l1Zi1YNWdiaXZtY04wUFpIUXoxYU14RmliaW05TV9fVk8xQmhCNlNLUjdfLTlabldmT1FITExTYm9UdzVVOEN1bXNqVm1RRjRUMTBXbUxLYWR4TjliaWFLUXR4Q0ZEUFVCNG5RMnU5bzBHWVFtdEZZdXlKQUYyV0N4ZkRhamN4T2xBb05mYlJzcXpCY0ln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-08-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ArcelorMittal owner's son-in-law buys stake in Liverpool FC - Liga.Biz",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzQ3RHFreEJRa1Y5aHFrX1M3S1NXREhnTmF6dmZ6VFdzZ3RUUXRMT1BfZXpXbGhxRHhFRFJkOGJSU2xucXhBdk95aERXaGU1bTlPSE1OcmFuYmlPYVdGWEhBOUNrRVZFMGIyWTdwX19jRlBsNjFXYTl6bi1jdDdBa1RRR2dDUXMzQkR4cW5WYi03SUVyMy1rOXhSOW04Y1Y0Q3QtM2VRSdIBrAFBVV95cUxQMGgwNXNBbWI4dnQ5RzBXWUwwUUFxVTA3LXBmSDNmN0ZEbUpKeEE2QUxPbjZWdWtMLUhnV19YSEJXLTdIb2p5M2Qzdm9CYVZGWFE0NC1tczMzZXFtRjRROE5fYnlQUTI3QVYtdG9FZUZSeUZqTWx5NmozbTBiZVdiV1VUM2xNUGlxcDhfQzNHY1NBcXU2bTZWUV8xc01QNmEwU0R3RWZ6SFlhQlVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 541,
+    "dup_title": 280,
+    "too_old": 166,
+    "gate1_blocked": 24,
+    "gate2_blocked": 21,
+    "passed": 50,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "BHP Group Ltd Stock (BHP) Closed Down by 3.19% on Aug 13: A Full Analysis - TradingKey",
+      "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters",
+      "Rio Tinto welcomes agreement to secure long-term future of Tomago Aluminium - WBOC TV",
+      "Rio Tinto PLC $RIO Shares Sold by NewEdge Advisors LLC - MarketBeat",
+      "Australia extends $1.8B to keep Rio Tinto aluminum smelter open | Daily Sabah - Daily Sabah"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為安賽樂米塔爾相關動態：「Bids Top $3 Billion for Brazilian Iron-Ore Port Co-Owned ...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bids Top $3 Billion for Brazilian Iron-Ore Port Co-Owned by Mubadala - briefs.co（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bank of America Corp DE Reduces Position in ArcelorMittal $MT - MarketBeat",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
