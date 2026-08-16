@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-16",
+  "date_range": {
+    "start": "2026-08-10",
+    "end": "2026-08-16"
+  },
+  "generated_at": "2026-08-16T08:18:25.634047Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nucor-2026-08-13-038",
+      "date": "2026-08-13",
+      "title": "Tariffs Are Reshaping Value Screens for Reliance, Vulcan Materials and Nucor - simplywall.st",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 95,
+      "last_week": 81,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.02
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 1,
+      "last_week": 6,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "steel_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 8
+    },
+    "tata_steel": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "us_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "reliance": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "rio_tinto": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 5
+    },
+    "baosteel": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nippon_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "fortescue": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cleveland_cliffs": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "arcelormittal": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 326,
+        "last": 434,
+        "change_pct": -24.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-10",
+      "event_count": 45,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 70,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 69,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 60,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 72,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 4,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-10 ~ 2026-08-16）共 326 則事件，重點為「Tariffs Are Reshaping Value Screens for Relianc...」。必和必拓、寶鋼表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 17 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Nucor",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
