@@ -1,5 +1,455 @@
 [
   {
+    "id": "vale-2026-08-17-001",
+    "date": "2026-08-17",
+    "companies": [
+      "vale"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vale S.A. (VALE US): Iron Ore Cost Support At 95 USD/Ton, But Margin Squeeze From Costs - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2NEWGtXd3A1MlloRmdPZ0owLXN3Y0M5SVJPRTdNY1EwdVBVaU13UXlRVHNSdzBmaXZuVUotVm5nTklPZFZLdE41MDRhbFN2T2dyV1JrT3lsclRXN09yeDR1TlNWTDZLcEhyRWRJbm",
+    "sources": [
+      {
+        "name": "vale",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2NEWGtXd3A1MlloRmdPZ0owLXN3Y0M5SVJPRTdNY1EwdVBVaU13UXlRVHNSdzBmaXZuVUotVm5nTklPZFZLdE41MDRhbFN2T2dyV1JrT3lsclRXN09yeDR1TlNWTDZLcEhyRWRJbmVBVFhjY3Q5ZFFnZ3dwVlFfN1U5UDRrWDQ3dUJFV2pHdFk2ajdLZmI2QVI0dUk0LVA2blIySWdjb1hqS0JDY3N0aGl4ZHV3S1pUU0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bhp-2026-08-17-002",
+    "date": "2026-08-17",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP Group (NYSE:BHP): Why Is Iron Ore Delivery in Focus Today? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjdtUjVIY1hCSjNSNXI2MWpSV21fLWpCdkpWX1BDOGdxdzg0RGhReEZBSFZCYk9PRjFVTWVxeUNDaGxVMWpZaUdnSTJuTXdWbTZrTHZKT3hwQXd5Ry1BYnVWYXBRb3BiWC1mOF8xQU",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjdtUjVIY1hCSjNSNXI2MWpSV21fLWpCdkpWX1BDOGdxdzg0RGhReEZBSFZCYk9PRjFVTWVxeUNDaGxVMWpZaUdnSTJuTXdWbTZrTHZKT3hwQXd5Ry1BYnVWYXBRb3BiWC1mOF8xQUIyNEtQZlE5bUlYWjl2R1pYZE1sX3lyTUlYYmJ1QURIUEpNcHZZcVZsV0x6QVJPaTcxVEx4Rm1zdXZqVkpDV1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-08-17-003",
+    "date": "2026-08-17",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Fortescue (ASX:FMG) Reshaping the Mining Debate? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1R6dkV4cFY3SDRJZ1pyTTRpMzZnV3g3NUo1RmV3bWowVVhmM09xdnZfaWRjZ1FEZ2ZhN2hjOV9lTW55RGlVR0NNSjUtc0NtTjEzM1lvNExwenBFMVpON2RtemNlMUlaN0pJdTYtY0",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1R6dkV4cFY3SDRJZ1pyTTRpMzZnV3g3NUo1RmV3bWowVVhmM09xdnZfaWRjZ1FEZ2ZhN2hjOV9lTW55RGlVR0NNSjUtc0NtTjEzM1lvNExwenBFMVpON2RtemNlMUlaN0pJdTYtY0RsdWNuZWhocG91ZjBNM3dVaHFhVjY4d1pfYk1BRUV2TnhMNWIxVUJDZzVtNzVfaG4tSXAtWElB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-004",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Russian Missile Strike Hits ArcelorMittal Plant in Ukraine; 2 Killed, 14 Injured - Deccan Chronicle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTJ6SkRSSTZCdThyeWI1MFB5N3AxOFRBU2M1R0l1TjZiMms0X2dHZnNkbzIyMWRDV3hHZnJCOFBaY2RubjFwNWNwSlJSRlpsOThsTWkyWFJrNml0dWFpQ1QwTml6T1I3QjJQUXhITT",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTJ6SkRSSTZCdThyeWI1MFB5N3AxOFRBU2M1R0l1TjZiMms0X2dHZnNkbzIyMWRDV3hHZnJCOFBaY2RubjFwNWNwSlJSRlpsOThsTWkyWFJrNml0dWFpQ1QwTml6T1I3QjJQUXhITTFzcVpROHgyUTBDNGoyZDBDLW9tam5tTUtVQ1hvWGdYV3Z3TUVNbTJTUU4tZU9LbGxYNldmNWdacy00amFpYk1BektPWFVDOGdpYkpPdjl2SmpZd9IBxwFBVV95cUxPRXUyT1BWcmNNbklGLWRJMDE0dVI3dzBQVHA4c25sSjQxNDJVblRXZ1pnVTB5T3hmLVpMU0FCWGhnR0VNM3JyekY2RG95dkZIajJIYkJmVXJsc1dRTFlobnRxNjBtQjUyNWdYTWkwbmFFeWpsODE0RUJVSWRhcDFTMHJvWDlZckZ1STQxSDBlVDNBM2lWbWE4cm1QazRvZktoMkRuMlB4YmwzNVlHekNkWUFRVWRJeTVodUxJc0VLSW9FMHZDTlFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-005",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lakshmi Mittal's Ukraine steel plant hit by Russian missile; 2 killed - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV1Nfa1hXb2hVUmlfaEFyc0pOWGpRdjFhZENsRmZIMUhXdE85dnFfejFiOUlLTmhoTDRYak1vTHppaHFKaGpDT2JHMG1lSFpTVWF5VTNnMTNvRkVDQ2ZYejlrMEpWdE84T1Z0XzBXcG",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV1Nfa1hXb2hVUmlfaEFyc0pOWGpRdjFhZENsRmZIMUhXdE85dnFfejFiOUlLTmhoTDRYak1vTHppaHFKaGpDT2JHMG1lSFpTVWF5VTNnMTNvRkVDQ2ZYejlrMEpWdE84T1Z0XzBXcGJvdl9heG40RzRycm9VMEs5Xy1JNnQzLTE5YXRKcFhEXzlRN3d0d05nbFZsNjFzYXJkdVVmdlF0eWdVa2k3QnB6aFY2MHA1LU4ybDBfQ2czUTZmZ2Y4ckhKY1Q4aFQxb1NfQTFUYktJY3dMZ9IB3wFBVV95cUxNdU55QmlFR0dGTjZLSFM0alNpcnBheEdnZVNuakpxLVA2RTVXNWVvOXRFOGhOZlNQLVdpRlJVLWN3aGMtUXdYX3Axa1E3RlUtSHNUa0NnRkNLcXFrMkNhNHFncF9ta0FEV0JlSC05MTBJeWVxSHNnVDd2WmZFVEhQazl4ajBFQ2R2a2dqMmNlU2VuUUc5RGtQTDU3amllNVBSNHZkMmdWQm1RU1RtclY0czNFM2JKV0QzYVdpOU9xS05zMjR6S1pUTFdrRDVKNWxEY2Ztc1paTGxLcVR6ajdZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2 killed as Russian strike hits ArcelorMittal steel plant in Ukraine - BusinessLine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVEhGVGw4anlaMU96WHFhS3Jvbk1ENmZxVnlUZjBzaEJSZFZfZlF2S1l6WVNueVNaRml3Y0syNXFPRHlreTB5Y0J4dWNTNzgxNnlYdmIwdjdzdEpxd2kzaDltR0RsMVNnMEtva0xRRE",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVEhGVGw4anlaMU96WHFhS3Jvbk1ENmZxVnlUZjBzaEJSZFZfZlF2S1l6WVNueVNaRml3Y0syNXFPRHlreTB5Y0J4dWNTNzgxNnlYdmIwdjdzdEpxd2kzaDltR0RsMVNnMEtva0xRREhsdGFYRGgwTU5pcnN0aFNwLVA3Y1d2eWdOZVpFTHY5eXdEZlo1MG9pQVpzZGNCVDV2bllRUlJucFZfMjJBRGd1TV9ERVhYMUJtVG9ZQjZ3aDlJdGJnNnN6dXcyNFRMQjk40gHXAUFVX3lxTE1BbmJqZFU1RWpjSWxDOWc3SjR6bFM4Y25rcXYtY0xtNDUwcmkxd1BnakNVWVJDTzY5clYwQWpFRmYzOFNFbGJRTGhGYXJaY3JpWjByZmdPeDI2RUUzbWRULWNGWkpGaWhjQm9rXzh3aFRkSWtsMl9YV0kxY1RfUGFOdGdKRENZYk1BZVBrN2paRkdRam9NdFFteWtrdVduVEN3Wjd5UFlnVUhJdTV0Q2o5TmZnZjNsN0NEX1l1dFRwZzVqYnYtMUtfZmI4OTQ3V1d2V2dmTTBz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lakshmi Mittal's ArcelorMittal Kryvyi Rih Steel Plant Hit By Russian Missile - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0xZZmtSQ2p5RmJONXhzcW5IOEtoM3k1NE1FeUVSZlFFbVVla2k2eWUtR0cxel9iZmlucXBkVmo2QTNOT2c2QUphdnZnUWlRMTJuTVpMT2NDSDlQeDFoRE5JMTBwM2V4cVk1cHVib1",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0xZZmtSQ2p5RmJONXhzcW5IOEtoM3k1NE1FeUVSZlFFbVVla2k2eWUtR0cxel9iZmlucXBkVmo2QTNOT2c2QUphdnZnUWlRMTJuTVpMT2NDSDlQeDFoRE5JMTBwM2V4cVk1cHVib1h4UEMxRGFIUHhWVTh6U1RBMDNITUpjXzZpNm54eDExT2Q0V29RV2lPb0UzdFM3R3FQTHM0RWNDd2lJTXFWOE54c2U2TzU0N1d60gHAAUFVX3lxTE15Znh0T0ViV0EwcHBfN0tZbmo4RXpsNjhmT3pMbk5vMHNXR2pmRDA0SkNSWmY2VE0xWkxwaURRZml3c2syWW91NE9LaExvNFBoQk1mWFowN0c5WllydThVZGpwcFVmak8tRTFTbFpzYVJYUkR3bUxxLWk0RlB2SExNQXBWMlE0Y1ZjRFRNS1JlU3ZJbnhKZVU0MXJOT1FXR1AyYlVPTFc4N29RNXZpRUhsUEFXOXBKaVlsb09WYUc1eQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal Ukraine plant hit by Russian missiles as attacks intensify - Fortune India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQRU03VnB0SFVZRWJzN1VieEt0dC1qTTBqeW4zUnAzUDZDWDQyQ2tkY1pTMkFtaF91a2ttRmNlbXJ1czNjUjcxeDFBeTRXZUpXdHhIb3h4TWRaYjNxVjd6VEQ3US1EVGdkZzdvWnZsX1",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRU03VnB0SFVZRWJzN1VieEt0dC1qTTBqeW4zUnAzUDZDWDQyQ2tkY1pTMkFtaF91a2ttRmNlbXJ1czNjUjcxeDFBeTRXZUpXdHhIb3h4TWRaYjNxVjd6VEQ3US1EVGdkZzdvWnZsX1ZoOGt0R2ltSXhGc2V0QjN3VUlxcWJvejJEMTFxdjZHNjVwaHR2WlktZFd3NWJDQjB5c28xeS1NYnlYUnNyZUFQbVZtUTM3akJKb1Q4bF9LZ9IBzAFBVV95cUxNWnNkUUpjSkZvajJiUVNoSS1jVVFsc2pnWElhU0hfc0JUWC1objdONDN0cFp5eGFCMmF3QURadkhYVUVZcjBQelI2Y0ZEdFdwZGwxREVJS0xJWTBvMVlFY1MtUkV2ZDFpaUJwYl9IVmo4X2ZVbkk0WDJBc25HZXl5QTE1UVBweVo3VXlJQ054Uk9HYzVXbWlxUE5GWDk3WGd4aU5FOWtvcVNtWFZ5UkdySkhkMGp6T0dabTl5N2VzZURxSldJYnNKTmJGXzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russian missiles hit Lakshmi Mittal’s ArcelorMittal plant in Ukraine, 2 killed - connectedtoindia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWZQUEI0ajRNcHVTVVJqU3k0SUdpdlpWamRGN2pBXzdPMFBiYl9YZVlXV2VCb0c1YjhHUzhEeng2VV9IYlFtZ1dpZDVSTVBvLTBKMW5hOEZnak1sRWhpWGxTLXZ1dUVrbHJVekJlOF",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWZQUEI0ajRNcHVTVVJqU3k0SUdpdlpWamRGN2pBXzdPMFBiYl9YZVlXV2VCb0c1YjhHUzhEeng2VV9IYlFtZ1dpZDVSTVBvLTBKMW5hOEZnak1sRWhpWGxTLXZ1dUVrbHJVekJlOFZiUXpXWWpmZm9yQ000emU1dmphMnZ0TFB6RmlmMDZxazYwZ0o2Z0tvd0pHUUVPVmltR1Rjb2t1UXdMTHVORENv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russian missile strike hits Lakshmi Mittal’s Ukraine steel plant; 2 killed, production disrupted - The Statesman",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxORjVYS0FLcWg0cEdhcDh1bEM3UWlBcm5peTdsN0hWNjFnRmR1bF9NcHVmNGVma2w4ZVI0eUFRVkNBajJJbmhBeTFvUGFzRDBQOElLRlo5ckdBdGdjZlhDUVgxSXVFY2VLYnBhZUNqX2",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORjVYS0FLcWg0cEdhcDh1bEM3UWlBcm5peTdsN0hWNjFnRmR1bF9NcHVmNGVma2w4ZVI0eUFRVkNBajJJbmhBeTFvUGFzRDBQOElLRlo5ckdBdGdjZlhDUVgxSXVFY2VLYnBhZUNqX2xTRDNVV2JsT2k4U2ZsY2c1V1RJUEU1SFJWMm5keEQyV01JSEpHcWdlMlpRd0RPeklzNGZlb1l2UU5TLTFKRlgyUWJ1U1dQQlltR0VWX24zQm1BVXFsVUNCSlFFUlYzc1VNRVMtd1FGSmpWRUJh0gHiAUFVX3lxTE9GTXpCZVhmcE4zVkM1ZmM0a0J0M0gzVmdGQkpldThXOEcyRHdnaEFxSlI0RUlHTnlmUGxmRHNkWmozaW5VeDdGVDNsVXhFcE4zdzBkeENkY0ExNHMxenRsUWZLempCS1VzVjJTbGhhUjFYZnU5YlNkNVFjQXVVNUY5VnEzekZDOTVXRkN1ZmNkSjFUZnR3QWRxbHJoazdJS0oxN24yb3lvNkkxWS1UZ0t5WklrNXZCOVJIQ1A1UGRWeXNQLTBFbDZkQnFVeUdkZ2Zvc3hyLVZ4YmFyN0doYS1zNUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lakshmi Mittal ArcelorMittal's Kryvyi Rih plant, Ukraine's largest steel facility, hit by Russian missile; - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNVjY4Zk9jbzVTQ25WazFfZVZWcVNOTWtfTVhrNTBiN3kxalJnaThiZHlJckJmS09FaHJKbzVSLWlKU21pdE40OHVxRWFWbXgtTi1ybnRnOWZDRUpHWWc0VkNDRnNSZklDdUtjTzRtTW",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVjY4Zk9jbzVTQ25WazFfZVZWcVNOTWtfTVhrNTBiN3kxalJnaThiZHlJckJmS09FaHJKbzVSLWlKU21pdE40OHVxRWFWbXgtTi1ybnRnOWZDRUpHWWc0VkNDRnNSZklDdUtjTzRtTWE5UkVDc085RkhzRG4tQVRxU0V3OHAxejVyLWdMVHRLTS1kMlJOMzk3YXpCY2VFc1kwMTB0THJBRzNPbGxQcFNMRE80Y1B0WEttRHMtUUdjeGZSZ2xrMDgycGJPNS11dVhiQV9hWWs1dWlHMDZfeExlMzIwS0hHOEJwbTdab0hiVFhwU0VSN2xUNmlFNlZkdG1sVm1rX0lpZWk3SGZLVXE2MGtIYlVHbEpZQmo1REFZRjhCVVXSAagCQVVfeXFMUFFkMHFaa01xTUtmdkoxdEVaVXN5OU9NY1VhTUxJcGxpVW5lM1RuTFd6VXA5R2F2enJwNG1nMmNCTWdGVEszRGpjVFpwX0FhMzJhT1lxYnBWQ3F1TzJpLVZoeFFQYkdmazQ4bHgxd3lDSjExUk5TNHg2bVRnZ1RjTjFYaTMydEVfdXhXR0hzM0kzenh5WWVnYVBrN2ZKRXpNX040em5nQTN1UE4wM243Snh0VEZKZE1RRlhaSEhwWmJvY3dBZlVZOXFqZ3pmQjYtODhyeFd5Y1BEVERUanVVMmhkeG51cEFMcWRDWlZLY19ra1BvOTQ0YW1sQ2ZDMU1jcEZwVGhNV0hQQTB2eEQ1Rk90cWtlNlhGZUtXZ1g0TGNhTnFaQjR3R0I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2 killed as Lakshmi Mittal's Ukraine steel plant hit by Russian missile - Rediff",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEN0QnlmbUdtYW5CLUljSVNKNHpyamk4UDNzaGFoZ0d0d0xWWDdSckFzdllBMndwWlFUaVRURGJBT0JVb1FDTFZjSDNmVm9vQmFKSnR6OXpyX0RidkhCSmh5ZWdobmVlVVlmcDNObS",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEN0QnlmbUdtYW5CLUljSVNKNHpyamk4UDNzaGFoZ0d0d0xWWDdSckFzdllBMndwWlFUaVRURGJBT0JVb1FDTFZjSDNmVm9vQmFKSnR6OXpyX0RidkhCSmh5ZWdobmVlVVlmcDNObS0wd0pyd2IwbHZ4WkNreklKY3cwTVV2T0ctSXJVLUt4QTJJS3FkQmlscEFnQW5iazhsRFN3MWRDM2NBdWlaUzAwVzRhejJaY1d6bC1IenVXbHNyUdIBxAFBVV95cUxOYjEzTm5WMFl6TzF4cDVUaGFjMnRzUEJ2aDIwSTU4X2E5SFg0MGxMMmRlLWhQTzM4NUswN1A4M2t5Z0Zab3hvektwd2pDbVFxSE5mX0ctZ2RJYVZvdHVmdWNjdTZOS0RqMXYxblBGbXhpUGxLeHo1b0dhUEZmZjRyUHdJRzFtN1hqQmdrcEdRTzRxclZ4am1hWXE5X0JzZUFQVjJVdzJKWmp1eWlVUjFjdWlKUFhSVjhRZ1FSY3o0U0FjWkRE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Russian missile strike hits ArcelorMittal plant in Ukraine, two killed - National Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2dkNE9uVklCOVpNRzh5Um1jSDhwVXBRRTNhb3BXNlVYai1EUXo3RVBQVkdYTlU1Y3BhOVMzcms4YXpOUk11blVwTlAwV1QtX01ncEJlM19oa3FoR2dKVzZwSHhrVWpXODR1ci1RMF",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2dkNE9uVklCOVpNRzh5Um1jSDhwVXBRRTNhb3BXNlVYai1EUXo3RVBQVkdYTlU1Y3BhOVMzcms4YXpOUk11blVwTlAwV1QtX01ncEJlM19oa3FoR2dKVzZwSHhrVWpXODR1ci1RMFd4T3ZrNHVwYTVqT3VKNHpCZUM5MFNvR2NjRGxtalptckhRWmxoR2d5dktXZDJaeWFDTVNBcmNybG5WZnZPb0VkbXV2cVBuZ9IBwwFBVV95cUxPc01LSFhSRUV3TEJjUXVwU0VVLVUzTU5LVjRDZ0hOLTk2NG5Lang1UWp3UG5FOVl0Vy1GMExwTkdNODdUanpQS0RHaWV3TUxrRDZfOVBXc1d3VElRaEhKTU9pZG1sc2J3Q29fTHdwWHljU0IzSDJYQ2w3bzEzd3c1NXdPejJCcEtPcVVSYWlYTTJOcEh0M0twVjdWZzJzZmdNQjBwM2Zlc2pnMnliX3dYUDhDM1lWTkdYVXdnVndoeEdhOVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal Krivoy Rog Shutdown Could Hit Ukraine - Военное дело",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUjJ2LVFkblIzRnBnZldMeVlLVy15X1ZFU01rcXpOc3dSY0ZNNUs5MHo3WGxVRGIybWZxbXplRU1SQXJvbG5tQWs1WDJYRTZlbUpjcUNPdENvdzV2MENaODRtNXJqQ2pnczhvVjRacy",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUjJ2LVFkblIzRnBnZldMeVlLVy15X1ZFU01rcXpOc3dSY0ZNNUs5MHo3WGxVRGIybWZxbXplRU1SQXJvbG5tQWs1WDJYRTZlbUpjcUNPdENvdzV2MENaODRtNXJqQ2pnczhvVjRacy1oLWpKVVBBdmQzU25wUUxyMlA0S21xTXBCWl9vQV9HSUZDLUxic1Fn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Russian Missile Kills 2 at ArcelorMittal Ukraine Plant - Rediff MoneyWiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHh1VEtiWkIzbU5BZHdrdGNvSmJVeFhkQ24zbGdYSjJGN0VCU1llRkNoTkxHd2lTVlJWOXdlbkR2WWhjSjVTTGZaYmlmcTVMWEVMVHpxN0xZbjJaUDhTYlNna3dVRnFrS0Ryb2xxSF",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHh1VEtiWkIzbU5BZHdrdGNvSmJVeFhkQ24zbGdYSjJGN0VCU1llRkNoTkxHd2lTVlJWOXdlbkR2WWhjSjVTTGZaYmlmcTVMWEVMVHpxN0xZbjJaUDhTYlNna3dVRnFrS0Ryb2xxSF9odnZDSlgtUWdJcDU1ODZRVW4xTlVSUkdvWUtMblJpTHBrOURjUk1WUUdRcjdWYmVZQTc3dHVUVGdWd9IBrwFBVV95cUxOMGFGYjVwQmREUEFBZjdPVnJZN05MWHFzajZKcVZXeS1lakNYeUQyQW42WXV4YVpBSXhYZVpUS2ZwaGNNcFhsbW9YN29OTDhSTklNMy1TMTdlcU15VGpmQW02ZTN6a2NSaTc5WnV4dVlIeTR6OEZtOHpocXpZT2lDVU43Zy0yYUZ1N05JMjlCMkZKLXc3cDRTSTlvNGhjSzBwNERlMnEwbVJCckxIeHlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-08-17-016",
+    "date": "2026-08-17",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "₹100 exit: What accounts reveal about Tata Steel's Jamshedpur FC investment - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdkNCcE5VMDhJV1JHZnZuYlA4dDh0UHRuNlExQmhUcHpicHFnNXQ0R1BJVHEyekJFWHJBQlhVXzdvWEdScVpIajM0WFUxQWx5WnJEVVJ2cnNjOTV2NUx6OFJBUU1pbVkwbVdwVWhven",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdkNCcE5VMDhJV1JHZnZuYlA4dDh0UHRuNlExQmhUcHpicHFnNXQ0R1BJVHEyekJFWHJBQlhVXzdvWEdScVpIajM0WFUxQWx5WnJEVVJ2cnNjOTV2NUx6OFJBUU1pbVkwbVdwVWhvenVzUkVqSFllN0pSa0pFbkFVQzhOSWVvX2dVVE42aFd3VUk1LTFhWktUV0xUaVZ3ajFZX0c5akphU0lMWlNudTJvLUdvMlQ4b2xSY3hFdUJnbFptNFphN1FxVmIyd3ZCQW9HdDFkRXB0dHNMLW1Zb3ZpWWtUSdIB6AFBVV95cUxQTUNJdHVMRDVYVzJvQVJ1SWRNVDRCb3Rvd21Gcl9aazJjYzV3MzdPSmptZEJPelBkdW5mcFcyNEVmNjZyZWtlUDRvRk9DaUJIRjEzTEo2S05pSGpoaFhnZlBMc09feTY3b0lGTlFJVUtucVZvLW9QYzNnZWluZDc5M19vQXRiUE1zVHFpYTJLN2s4bENRSDQzclFlS2lKcmxHNU8xT19EZjE4QnNzMWN3d0FNeE5GSWRORmtIRDRUNXFhSHlnYXJoNjd4MjJYV3Mya201YmVUeGpWVWJKcndlMFlQYzBXTVhl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-017",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New US Steel Community Field at Hazelwood Green hosts inaugural football games - WPXI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnJWSGhRaV9vWmExV3dyVV8tZDBmYVh6Ml9xRUJJa2RreGJ0X1Y3X3FMQjNmT3FkN2ZueFNMUHoyaXhBb1dQOXpQeENYaFItTkNZZU5UZmRyVkZhaE0tZnZHX0tyakRPcGU3aWNSVU",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnJWSGhRaV9vWmExV3dyVV8tZDBmYVh6Ml9xRUJJa2RreGJ0X1Y3X3FMQjNmT3FkN2ZueFNMUHoyaXhBb1dQOXpQeENYaFItTkNZZU5UZmRyVkZhaE0tZnZHX0tyakRPcGU3aWNSVUdRdkZ6bHhFMi1mWDRxMUh1UkFfMWhHQlVva1ZtZFlhS0tGWWtQSHpXVWhDc2ZlX2REZmdCcVdIV213b3FhUm1VZTZLd2FGN0JFdTQ0OFBtRG9nd2haLXlna040cGZXYTE0Mm1JcTJyMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-018",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New US Steel Community Field at Hazelwood Green hosts inaugural football games - sports.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnpiZjlBTE9ndVUxZW8xVnZYN2dUems2NElFaGI5Y0pQWGZ3SjdFZWtQSlgxRXV4N0xMdWVKMkFib2hicDFKand0MlBnTk50YnhPR3NFZWtqRUk3a1JaYlpiV3FCdU9hTnZvZWE1dV",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnpiZjlBTE9ndVUxZW8xVnZYN2dUems2NElFaGI5Y0pQWGZ3SjdFZWtQSlgxRXV4N0xMdWVKMkFib2hicDFKand0MlBnTk50YnhPR3NFZWtqRUk3a1JaYlpiV3FCdU9hTnZvZWE1dVNBaDZwNGZKMXFMOVRVN2RDMnJFNXVXQ0dvQU5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-019",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "One year after fatal Clairton explosion, federal report confirms warnings were ignored for decades - World Socialist Web Site",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fLXlSX3hzRXppeXpEbFNCUldzU1JEWldqX0VkMFBuQUZIN25kSzVEYXdmSHFwVnppZGNZRzlzZG5naFZJOTlyT08wVFF2Z1gzZnYxSjBHV3dkVEdudnpqcmxIcjE2V01R?oc=5\" tar",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fLXlSX3hzRXppeXpEbFNCUldzU1JEWldqX0VkMFBuQUZIN25kSzVEYXdmSHFwVnppZGNZRzlzZG5naFZJOTlyT08wVFF2Z1gzZnYxSjBHV3dkVEdudnpqcmxIcjE2V01R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-020",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BlueScope scraps US demerger after profit soars, flags higher payouts - AFR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1llSUdnY3JKcW02TXpFZmJVM1JpOWFTbWtLNkpaUVc5eTE5TFZ1YnNyLXNwaWJyRmROS094b1Frd2FYWElKVEhMdHNLMWdxTkk3RnFiTjdveHE3Yy1TSG56UVREdTlZd3VJa3FySm",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1llSUdnY3JKcW02TXpFZmJVM1JpOWFTbWtLNkpaUVc5eTE5TFZ1YnNyLXNwaWJyRmROS094b1Frd2FYWElKVEhMdHNLMWdxTkk3RnFiTjdveHE3Yy1TSG56UVREdTlZd3VJa3FySmxzSUZ4ZlhaOGFlY3E4WVc4NnRZeExodzlSa3pEcWRQRlQ2TUl0QkZZUW9CUXZ5d21YNl84b3o0MUhJMW9tRnJuX3lTMUM1ODJQMHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_steel-2026-08-17-021",
+    "date": "2026-08-17",
+    "companies": [
+      "hyundai_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Steel reportedly will break ground Sept. 4 on Louisiana mill - Gonzales Weekly Citizen",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUUtBTFpnS0hodlk5MHphMFVPMjU3Nm11UGVOV1RhTlVxbDNLaWkwR0Q5MTBnT0dJVnkxVE1wUFRIbDRIQnVKa1VtVUthYlF4M192UTA5bjNnQ3M2Qi11dTlrSDVHWkRxc3BLbjdXUm",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUUtBTFpnS0hodlk5MHphMFVPMjU3Nm11UGVOV1RhTlVxbDNLaWkwR0Q5MTBnT0dJVnkxVE1wUFRIbDRIQnVKa1VtVUthYlF4M192UTA5bjNnQ3M2Qi11dTlrSDVHWkRxc3BLbjdXUm5nXzVLRkxnQ1h2Ukd6TzFIWHVtUG5WMEZob21FLWxTWVVQQ1FUejhCOHBTaTlYMFhfUUZWNkhMdmZCTk9uX1NBUW92bTZxVHlsdktOY3ZHYVZZX0MzM0xTTEdoV0Q1QzRYUVdMSUNSZDkzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-022",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Demand for steel structures in China has shifted towards green energy and infrastructure",
+    "summary": "<p>In 2026, China’s steel structures sector is expected to see steady growth in demand, which remains one of the key pillars of domestic steel consumption, with an annual volume of around 100 million ",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/demand-for-steel-structures-in-china-has-shifted-towards-green-energy-and-infrastructure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-023",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine’s pig iron exports fell by 0.5% y/y over the seven-month period",
+    "summary": "<p>In January–July 2026, Ukraine’s steelworks reduced their exports of merchant pig iron by 0.55% compared with the same period in 2025, to 1.03 million tonnes. This is according to calculations by th",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/ukraine-s-pig-iron-exports-fell-by-0-5-y-y-over-the-seven-month-period/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-024",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Insight into potential green steel industry - Times News Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUNUcVI1dlVOTy1faXFCSjhfQjI3cHpPdG9mYVYyT3c1ZHNUN3ZvX0lSSUZtaFR1ellDR0h3bk00Mi1tRkVZY2RNUlNYQ3RISFUyZTMwVURTUFNMZTRtOUpKUUhINUNwWnB6QmQtUF",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUNUcVI1dlVOTy1faXFCSjhfQjI3cHpPdG9mYVYyT3c1ZHNUN3ZvX0lSSUZtaFR1ellDR0h3bk00Mi1tRkVZY2RNUlNYQ3RISFUyZTMwVURTUFNMZTRtOUpKUUhINUNwWnB6QmQtUFBHWUtXQ0RjWkJxWUQxWjBqbFBqR1Y3U3Q0RVBHRUJ4WDR6Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "arcelormittal-2026-08-16-001",
     "date": "2026-08-16",
     "companies": [
@@ -72,6 +522,192 @@
       {
         "name": "cleveland_cliffs",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVhvcXB1ZG16SjQ1ejJoWmdFcmRRZlJDZUVrWTN1RUtMTU9zZjRMQXBMMXVWd3UyMVRGbnJkWlYwTTU5cFYyaFNIbllobldHVzNmVjJZclVvZEhjWFZNTUdDNURUWms4MnJnVFJFeHc0TTdMVW04QWExMF9FYlZsM0dDQW5SS2hJRW0wQ18xckJ3X3A1blRJT0M3N0Jfb1I3V3J0M1RJYWpFaUtUbEpYNlFTLTk0N2xneTQ4bFR1aGFuNUJFUjduODdUWVc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-08-16-005",
+    "date": "2026-08-16",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal (HCC) Is Up 6.8% After Boosting Profitability And Raising Full‑Year Sales Guidance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRW9DdGE3YlJmZk9UTTVMX1YzbmlONjFpaTJEX2s3TXNjX3psS1NqUm55akdYY2VFbUxkN1laeFdMUTgxeC1pMTZOMDRJMTZ3aGZrYU9HWUZnVXhqaGJ6WGdzZG1JQzZsLUZKeFJCcX",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRW9DdGE3YlJmZk9UTTVMX1YzbmlONjFpaTJEX2s3TXNjX3psS1NqUm55akdYY2VFbUxkN1laeFdMUTgxeC1pMTZOMDRJMTZ3aGZrYU9HWUZnVXhqaGJ6WGdzZG1JQzZsLUZKeFJCcXdWUkx0WWJaUXBzS0hxVTRQSkR2WmxwTkh3QnFKbTJ5cFpwdWJPR0RWR1VfLTh0aU9WVk41SUE0cUhWU1ozdDZYUk8zNVFpSGhaWVJlUXpTZllJVkFqaEpndTZ6YWJ4QdIB0wFBVV95cUxPSkJTSXhlaTdySjZlbHQxYWNJMWVLYVNqbzZXTmhmMVFWTEd2VGhNWnF4cW51Q3BNQUJsR3ZiZ21PMnVxTWRIM1ltTGRwUEp6Nk9YZUxPNnR2UFZtV2Vrd3NqRnEzM1lzSDAzQi03TXBFdndRcnBMLU5CcGlDVXRDMTN0dXlBeHNWNGlSakF2TnFJUEFKQ3BiVnNVUjVDcW5PaXhmbmNaUTdfc25hQ2ptLThsZW5Oc3RIdHpKLXhpNHBkX0RoZGc3LXdBOTAyMU5yVHpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-08-16-006",
+    "date": "2026-08-16",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GSA Capital Partners LLP Purchases New Shares in Commercial Metals Company $CMC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWWhUZGhDZkZpMlI3NjVqLTNHQXppWkpKMHYzVFhyMTFodUtvd1pCNGpzbGNzdEFqU2Zfc29MZG5OUGhzT3R1U2x3YVlXWFZ3LWttanRVZUFQZ2hxa1VxcWVlaE5pb0lQZ01XQVoyM1",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWWhUZGhDZkZpMlI3NjVqLTNHQXppWkpKMHYzVFhyMTFodUtvd1pCNGpzbGNzdEFqU2Zfc29MZG5OUGhzT3R1U2x3YVlXWFZ3LWttanRVZUFQZ2hxa1VxcWVlaE5pb0lQZ01XQVoyM1NfRWZNZ0dzSExmS1ZPUzlzUHhpaVJCRFJ3UlhCQW5URXA5Y3QzdzhXVnpVakJvYUhRdks1TEpQaFd4cWpSWUlUUDFwUEVQdndRb1NXZjZ5alR6UWV6UFhsY2NGZGJsMnJiellMcTRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-16-007",
+    "date": "2026-08-16",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Russian Attacks Destroy ArcelorMittal in Kryvyi Rih and Kyiv Book Market - Kyiv Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Eb01tVnhkZ1JVaFhaVFBIYzlHRkpxeXhPTEctaXBUaXlxd2NTVzhVdXR4ZV9xUk5jb292NXcyOVZCb0pXaUZKVWFiMA?oc=5\" target=\"_blank\">Russian Attacks Destroy A",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Eb01tVnhkZ1JVaFhaVFBIYzlHRkpxeXhPTEctaXBUaXlxd2NTVzhVdXR4ZV9xUk5jb292NXcyOVZCb0pXaUZKVWFiMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-16-008",
+    "date": "2026-08-16",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Enemy missile attack hits ArcelorMittal Kryvyi Rih plant overnight, killing and injuring people - ukrinform.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXJ2UE9QYXN6eXZ0QTBQU21Ua2l1VzRIU3ltdWo3NWhhWHZzUHBRazBCQ1N3V3hzODgxVkpxRlEtRi1sa1BPbF96UGxjTHlUT2NtcVZBV2hMZk5HN1BCaG9BeElMOTR2UkhvY3lpU3",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXJ2UE9QYXN6eXZ0QTBQU21Ua2l1VzRIU3ltdWo3NWhhWHZzUHBRazBCQ1N3V3hzODgxVkpxRlEtRi1sa1BPbF96UGxjTHlUT2NtcVZBV2hMZk5HN1BCaG9BeElMOTR2UkhvY3lpU3ZnMmh5d1VJRGZCR3ctYkJfNVdpNmk3NVMyVU82OG40TkdraGxTaUxTNGpWek1LbUZmMHYwbXNoZi1iOHdrVWN6a3pQQzFkZGdwYkgyN3FyeEM3X2ViaS0weUtoZGRfQUxMZ2dRc0EzTUVJWFhiRmdrcE1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-08-16-009",
+    "date": "2026-08-16",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russia launched a missile strike on the ArcelorMittal steel mill in Kryvyi Rih: the body of a second victim was recovered from the rubble, and there are injured people - shelter.in.ua",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSC15cTFQSllpb2NuVGplbTRjT2VjTUl6Yk1JaXlVMnJkOVdQS2NEM1ZVS2F4alNqUFZ0WC1WQXVyNUFlNkgxNGNuWnpHaXJvVkNabHkyS0RGaXpSWkUwT3lqMTZpU2FwYTJTd1JTQ1",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSC15cTFQSllpb2NuVGplbTRjT2VjTUl6Yk1JaXlVMnJkOVdQS2NEM1ZVS2F4alNqUFZ0WC1WQXVyNUFlNkgxNGNuWnpHaXJvVkNabHkyS0RGaXpSWkUwT3lqMTZpU2FwYTJTd1JTQ19Ka2RHdzk0SllUYUJSM2E3bTVjY3J6TktoVzVzNGpubGEzVEdzSWRNT1MwMTNndDFLMHBZWTVwbmROLXIyWFpXZ05abjN1bkxmMEs1b1hTRHJiSnNncnI3TFdvd3p2d3pvUjVQOGNORU1vVTBQcVNhb1E2RGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-010",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Father of 6 killed in accident at northwest Indiana steel plant - NBC 5 Chicago",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQclJHVEM2dU5WU3FhUUFMNmNWcUJHU2xqYlNsem1aQ1dUVW44eWdmN25mdU8zamZDNGFYZDdhY1h6bk9ZaDl5eFJ2czJfV3VZZVRSTTBBTmRkNFFCNmFHa1J4UE9LYVpfMXczZDZRdD",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclJHVEM2dU5WU3FhUUFMNmNWcUJHU2xqYlNsem1aQ1dUVW44eWdmN25mdU8zamZDNGFYZDdhY1h6bk9ZaDl5eFJ2czJfV3VZZVRSTTBBTmRkNFFCNmFHa1J4UE9LYVpfMXczZDZRdDVIV1hON3IwYVRwV0NzUVBGRERCOTZSTURPUWh3S1Q5cHRWLUl2bVJ5Qld2UjM5UDY0MWhKYTJSV0RWYUNwb3pN0gG3AUFVX3lxTE5OMFVHb0dId2NBY2NiMW1fR2ZoV0hrZTd5alU1MFY2WWtpbGpVZE13ZnQ2b0hlYUZ1eFdLX1RYR2RWNTVMUmVUc3JnWkxVdDc2N1A5cjVwOUVmTjliS2JsSkx5YkxGcjUyZkU1NDRFeWFfUklzcS1fcDktOXcxM2FjLVJxc1E4TV9MZHpSNmtSNmFLT1gyRUVBOHo2SjhfYXljcDk0dGlITGV6N0NCcVJGRW9mRWlOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-011",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Worker killed on job at steel plant in Northwest Indiana - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlNvTW5mX3lGZExqZkZFcGZHc3FkNHNXZXBqNFRMUTNsN0RUQjZJbVJhUzZJUDFxWUZ6QnlLdk4yUXE5T0RzdlBnVlNJQzA2XzNFMWpHOVNZRWtzT0hrRTRWMTF2b1cyTU4xdHZzND",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlNvTW5mX3lGZExqZkZFcGZHc3FkNHNXZXBqNFRMUTNsN0RUQjZJbVJhUzZJUDFxWUZ6QnlLdk4yUXE5T0RzdlBnVlNJQzA2XzNFMWpHOVNZRWtzT0hrRTRWMTF2b1cyTU4xdHZzNDJ5SkpnNy12SXZQTHE5UFI0d0ZhWTVSX05tRW5tMlN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-08-16-012",
+    "date": "2026-08-16",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SFE Investment Counsel Acquires New Shares in Cleveland-Cliffs Inc. $CLF - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnlKYTVTQjBwbzdPdVR3cmZSdkJ1V21SMGZBOGQzZ3NMejF0d2NHMnpSUHVlRnRMcWtzc0wyRHd4VzFkeHVkMlJMNHJoMEIyOVU5VkQ3ZTdQdXJReHdWY1dLZlpaOGtHUERZTUJTeH",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnlKYTVTQjBwbzdPdVR3cmZSdkJ1V21SMGZBOGQzZ3NMejF0d2NHMnpSUHVlRnRMcWtzc0wyRHd4VzFkeHVkMlJMNHJoMEIyOVU5VkQ3ZTdQdXJReHdWY1dLZlpaOGtHUERZTUJTeHA0MzFoR201WC0tWWFxUS1BS1dwLVFhdmxCZzRlNU9VYzdFaXNpZUJBSzdoejNRWUJIMk1MZUdzSWF4b08ya2pBLTN6ODRqYkZGWF80NXR0X2UtWWdDNlRvb3JYZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-013",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is the U.S.-based Steelworkers union sticking up for Canada against Trump? I went to Pittsburgh to find out - Toronto Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxOamg3cWtLRUJ2ME5fc1NDYVFZWEFicUxYSkxsWVhEeDhlT2pYdEc4N1Yxekl1bHZuU0RnU0FwakZ1YjJoWkRNVnExSWQ3elFXVm9YbF9QZFJkN2ZUSnNOeE5QaTdRcm45ZFhneVJKaW",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOamg3cWtLRUJ2ME5fc1NDYVFZWEFicUxYSkxsWVhEeDhlT2pYdEc4N1Yxekl1bHZuU0RnU0FwakZ1YjJoWkRNVnExSWQ3elFXVm9YbF9QZFJkN2ZUSnNOeE5QaTdRcm45ZFhneVJKaW1sR1lFdE1PN0NiUWVSUnU1NUFaMlRDOElvcHpzT3JBcE43dk9Rc09ob1dJVWFiTmZmRDJpNElJOGx6RXphcm1nNk5qdElGSjF1V19KX1hVaWg4UFo4NkZ2X0lYOUJ1SlNNVC05c2Q2VHg1U3dTaEVjU3lYRHlMdEtMd0k3VFZocGJfT2xJclJzcDlBS3RpOXQwSDhSbTNJbDlWQWNVWUlmcjVtSkstYmJvN0l2OVRvMVFpQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-014",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gara Djebilet could be the game-changer for steel - horizons.dz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOemtKdXVvWGtsbTN3Qnh1MUU3MTV6OHB4emdKQkhpTmVlTGVsc2dKVkI3bGJsSV9LbEw4LWRnTUFEX1F2VHNJb1c0NUYya2tYaDI5OU1KT0lnWHJhaVpOYWcxZmU2dExwZ0w5TVpsZX",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemtKdXVvWGtsbTN3Qnh1MUU3MTV6OHB4emdKQkhpTmVlTGVsc2dKVkI3bGJsSV9LbEw4LWRnTUFEX1F2VHNJb1c0NUYya2tYaDI5OU1KT0lnWHJhaVpOYWcxZmU2dExwZ0w5TVpsZXM1NG5DODlNSUJGMkxRUElsQldxRGVDQ2NrTDNUYXBYRXdvS3p3XzdVb2Zn?oc=5",
         "type": "rss"
       }
     ]
@@ -1562,6 +2198,24 @@
     ]
   },
   {
+    "id": "unknown-2026-08-14-073",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report identifies failures that led to Clairton steel plant explosion - usatoday.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjFTaVUzSV92TGFSckJzeDBiLVEzRzBtS0JETkR0MU4wOGtkNF82dmdXOElYNVF6cU44azdJZHpvV3pFNEpfdDV2RWMzLWVuVTV6UnhPXzdGVjl1NTZmM28tX3hHODJpVUtROW5xVX",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjFTaVUzSV92TGFSckJzeDBiLVEzRzBtS0JETkR0MU4wOGtkNF82dmdXOElYNVF6cU44azdJZHpvV3pFNEpfdDV2RWMzLWVuVTV6UnhPXzdGVjl1NTZmM28tX3hHODJpVUtROW5xVXVvUlYzYUQ2MzVidTF3Mm1Ya2d6dzRCY2xfSGJual8yRm9VdDEycEczXzJXSXpuNW5PeHo4X3llWlk2M3h3ZHk4cE1WWlBQZGZoSlhCVHNfZFJnN2tFTHB3dzBVV1c4aWpsSWo0YnBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bhp-2026-08-13-001",
     "date": "2026-08-13",
     "companies": [
@@ -2684,6 +3338,24 @@
       {
         "name": "tata_steel",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3QyY0VBUi1PTnktNTZXZjF1c0FiaDlhV2hweU1FZTNtRTFkbEk5a1NFdnJKZi0tc1hBcTRqaU1POWZWcFBTQllmYUVWU2xuakhhVlNwcTEyS2JpTXhBekhNX2dsQ3dXY08wME1IZE50dGlXV25JVjBfUHM2UzV2dlRfM1hwOGw2YkpXZi1QVHFJbU95bnZzTzNSZURmM1dpejJMTUxDQl8wWDhf0gGvAUFVX3lxTFAyWlM4Ylg3eGs0dzJ6cXRyOENxamlHMERDMHhGS25yLUhUTVRFdmZJdDBOS1NFS3NrQnlOZ2tQaWxqMGg2Y0ZxSTg4OElVNmw3WEJhQ08zMEYwMG5KT1JkQnFfSWZYVHh5U2VGYnFidVVxT09UR1M0RVNyekVyNFJYYWM4d1EweWtTX3JFZy14WUI5ZTVxYTBvenc0ZjhhaDU3YTl3ZnYySzhKOXNYTGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-08-13-061",
+    "date": "2026-08-13",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto secures long-term future of Tomago smelter with A$1.1 billion investment and renewable power deal - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQQUhaUEtLTE9peDFhbXpNQ1V4QnpBeHVvdkE4ZHlQRVRaTWdWNkhBc3kya2w3ZWk3VEsxWGt1QWY5MVdmeXhHelR2eTVJM0wzT1RITFFPU2tPSW41NlhwSk5LMjY0TTdaMWJwQnRfS0",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQUhaUEtLTE9peDFhbXpNQ1V4QnpBeHVvdkE4ZHlQRVRaTWdWNkhBc3kya2w3ZWk3VEsxWGt1QWY5MVdmeXhHelR2eTVJM0wzT1RITFFPU2tPSW41NlhwSk5LMjY0TTdaMWJwQnRfS0x2eWthNHVDcW1FZ2JHQlIwN3RNcmV1U25rR1dJNGZfSEFNWHhVUkVGNThqZHdoWTJOMUliTUNBS2RFeW5DSzdtQVBtcUF2U3BNWm1zdmtCb0V2MFpRM3dMQS1EMUlmcElEYVExZERzQk9za3hJWnZKUTRHNDFEd05OcmVRdm9VOG95QTh2VHF5TW41TlN6ZmdzQlVfNE1DOWRWZw?oc=5",
         "type": "rss"
       }
     ]
@@ -5344,6 +6016,26 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2Nsd1loX1prVnJhdGFGTnZQc3VNcFNiLWl3TXJKODN5M0ZEZUFaUnpmNXMtMTF4OFpQVWNValNrbkR6OS1UakVTX21FUlRFdUtRQlU0R2duMWdDcXJpaEphZW9hT05BQmU1WTMtNF9fZXZHS0pSZDhCdmI4NC1zc3Bnd1JzVWNjVmfSAY8BQVVfeXFMTVQ2cGtiNnVaVnlIWkVmZUJWeGpFUkVBTy1SSnpvZWVnMnVhVXdqVWJZRm04RGJXN3JKY3hzNHRzS0JBUC1Wa1VMcmlIcDFuUUJjUFZwYUVzQldVMlpUVl9xb2RLcmZMcFA4YTdqdmdtUHlIaDUxRkl3TEp4N0lJM2hhdF8xUzVTVlU5d2VXUW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-08-11-071",
+    "date": "2026-08-11",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nucor Steel site closed Monday due to ‘written threat’ - The Parkersburg News and Sentinel",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaU93Q1FDM2ttb1lCNWhWZFJSbzZuT2c4UGxlTVBpSzVWd3VubUpxRURLZ3NnMXMtNjh2UWFHN2RnVGNRZXp0MERPeUdUU01sc1RjNDViTkt1QkRuNzQzYnNUZkNxMWItdTFpWEtDbU",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaU93Q1FDM2ttb1lCNWhWZFJSbzZuT2c4UGxlTVBpSzVWd3VubUpxRURLZ3NnMXMtNjh2UWFHN2RnVGNRZXp0MERPeUdUU01sc1RjNDViTkt1QkRuNzQzYnNUZkNxMWItdTFpWEtDbUNBSm5zWFdnTzB1SFpJZU84cFJyX3RpbVhvNzJrbENOdTA1cjZkSTFZZ3ZTeU5HVUo2VnhmQ1hzSXlQdW8?oc=5",
         "type": "rss"
       }
     ]

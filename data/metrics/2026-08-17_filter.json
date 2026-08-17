@@ -1,0 +1,16 @@
+{
+  "total_raw": 533,
+  "dup_title": 293,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 15,
+  "gate2_fail": 23,
+  "passed": 37,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Closed Down by 3.19% on Aug 13: A Full Analysis - TradingKey",
+    "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters",
+    "Rio Tinto welcomes agreement to secure long-term future of Tomago Aluminium - WBOC TV",
+    "Rio Tinto Sees Unusually High Options Volume (NYSE:RIO) - MarketBeat",
+    "Australia extends $1.8B to keep Rio Tinto aluminum smelter open | Daily Sabah - Daily Sabah"
+  ]
+}
