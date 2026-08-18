@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 277,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 19,
+  "gate2_fail": 21,
+  "passed": 52,
+  "gate2_samples": [
+    "What BHP Group (ASX:BHP)'s Copper Shift And Uranium Talks Mean For Shareholders - simplywall.st",
+    "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters",
+    "The Zacks Analyst Blog Highlights Albemarle, Sociedad Quimica and Rio Tinto - The Globe and Mail",
+    "Rio Tinto Group (LON:RIO) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat",
+    "Rio Tinto welcomes agreement to secure long-term future of Tomago Aluminium - Business Wire"
+  ]
+}

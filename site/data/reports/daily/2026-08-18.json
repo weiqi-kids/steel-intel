@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:25:32.287768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-08-18-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rio Tinto (ASX:RIO) Sits Out the Rally as BHP's Copper-Charged Result Steals the Mining Spotlight - kalkine.com.au",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHlFTDFrSGxvcW9FdWtIbXZuOWdsZmtBbDdKY0ROTi1rMWF1akQ2dFJZbjZYWDg2dlNfZF9tY0RKeW9EZ0ZqNWJRRlpxcTNkaU56ZnJteXFXTldWbEtRZFdIUDNEaWxxTlVTdno0Rnc4UmswRk9UNmhYOE1sV2RCWEZtMXJ2Y1ZBVnkxaHBGbGdZb012U1AyOUQzXzJaZXVxR0pFZGp5SnM4b19XQU5pZ3l1anNiQ0tNcV85NzRkTzNoQ2R6OWRz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-08-18-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Copper Prices Soar to Record Highs as BHP's Full-Year Profit Jumps 30%, with Copper Revenue Surpassing Iron Ore for the First Time - finance.biggo.com",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSDNMcm50aFl6MXZDN0ZNUDNvOTZEQ0Y0RXYxVkEwWWl1aFdsTFZCZGNISThrXzR3Q0tQQ0JqbUZlQ2ROdEtGeURIaDJMZkFDYmFjclJtanRsOFRYbm5QdUpwRl8tUTZBLXRCV2FETXlxSHdZalE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bhp-2026-08-18-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP: Record copper and iron ore earnings drive strong cash flow and highest shareholder returns in four years - TradingView",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQ3B0RkNvUVpueTk2aFdsRVgyZldCM2s0c2lRUEtZTjhtTVdPeXhFZndKaW93bmg1YUM4eG1oQ0QtZ1RaYVNNckxEOVJXWWVLVFc3RFFuOHc0OHdYOENFQUg0MDZTWVI2S19CczhPUl9sNElHVXhoU0xmdE83VGNmNUVfYnljTFBsZ2RQTm45WVZ0WDFNdVMzMFg4SWNNa0JLTmI1dFQ4dnI4VktjbDdTd2FVdW42dC05NW5NQUpNRFVWRjh0eEtINFA1bWcyc1BMNnRuS0Z2aDZZVHlZVFRRZXlZMHZFODJHMktLeVZoMU5PSzNjOGMxZHZ4cXhtd1p5MUJYT3NpTUlLendPUTg2dGp3NUw4MGZCZzBR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-18-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Exports of ferroalloys from Ukraine fell to 19.3 thousand tonnes in January–July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/exports-of-ferroalloys-from-ukraine-fell-to-19-3-thousand-tonnes-in-january-july/"
+    },
+    {
+      "rank": 5,
+      "event_id": "bhp-2026-08-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Profit Jumps on Metal Prices as Focus Shifts to Copper - Bloomberg.com",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNl9OUFhtbVlIY0xrd1FjVG4tTDZMWWRVaXIxTGF0WXhobmhwTUQzTTJaUEhlRlVMam4ycGtCWVNlb1ZJX0ZTWnVESnZmd2lEbjd1MW4wd3hsdFJuQ1dVT012MEY5QzZtNGZORXBOcEFQS28yQVQ2eXMxWEhPdUNPbGpwd0pSc1daVER2NHdRY2tHZWs3aDhzckIxV3Q5bmU3U3NPYmo5WGxpaVBtd19lcnNVZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "bhp",
+        "count": 7
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "cmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 277,
+    "too_old": 170,
+    "gate1_blocked": 19,
+    "gate2_blocked": 21,
+    "passed": 52,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "What BHP Group (ASX:BHP)'s Copper Shift And Uranium Talks Mean For Shareholders - simplywall.st",
+      "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters",
+      "The Zacks Analyst Blog Highlights Albemarle, Sociedad Quimica and Rio Tinto - The Globe and Mail",
+      "Rio Tinto Group (LON:RIO) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat",
+      "Rio Tinto welcomes agreement to secure long-term future of Tomago Aluminium - Business Wire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為必和必拓、Nucor、力拓相關動態：「Rio Tinto (ASX:RIO) Sits Out the Rally as BHP's Copper-Ch...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rio Tinto (ASX:RIO) Sits Out the Rally as BHP's Copper-Charged Result Steals ...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Copper Prices Soar to Record Highs as BHP's Full-Year Profit Jumps 30%, with ...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
