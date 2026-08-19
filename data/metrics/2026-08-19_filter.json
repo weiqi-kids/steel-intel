@@ -1,0 +1,16 @@
+{
+  "total_raw": 535,
+  "dup_title": 280,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 24,
+  "gate2_fail": 19,
+  "passed": 42,
+  "gate2_samples": [
+    "What is block caving? - Rio Tinto",
+    "Australia commits $1.76 billion to keep Rio Tinto aluminium smelter open - Reuters",
+    "Unlocking Mongolia's underground copper - Rio Tinto",
+    "Rio Tinto welcomes agreement to secure long-term future of Tomago Aluminium - Business Wire",
+    "Fortescue Ltd (ASX:FMG): Should Investors Take Note After Today's Rise? - Kalkine"
+  ]
+}
