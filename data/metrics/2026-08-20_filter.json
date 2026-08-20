@@ -1,0 +1,16 @@
+{
+  "total_raw": 531,
+  "dup_title": 281,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 17,
+  "gate2_fail": 18,
+  "passed": 50,
+  "gate2_samples": [
+    "What is block caving? - Rio Tinto",
+    "Rio Tinto (LSE:RIO) Secures Long Term Renewable Power For Tomago Smelter - Yahoo Finance",
+    "Unlocking Mongolia's underground copper - Rio Tinto",
+    "Fortescue Reports 153% Rise in Western Australia Project Mineral Resource - marketscreener.com",
+    "What Is Driving Fortescue (ASX:FMG) on Simandou? - Kalkine Media"
+  ]
+}
