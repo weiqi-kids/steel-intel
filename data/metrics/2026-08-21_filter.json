@@ -1,0 +1,16 @@
+{
+  "total_raw": 510,
+  "dup_title": 274,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 22,
+  "gate2_fail": 16,
+  "passed": 40,
+  "gate2_samples": [
+    "Rio Tinto taps Macquarie to sell Mt Cattlin lithium mine - The Australian",
+    "Rio Tinto plc : Jefferies reiterates its Neutral rating - marketscreener.com",
+    "Rio Tinto (LSE:RIO) Secures Long Term Renewable Power For Tomago Smelter - Yahoo Finance",
+    "SunCoke Energy (NYSE:SXC) Stock Crosses Above Two Hundred Day Moving Average - What's Next? - Market",
+    "Why ArcelorMittal (MT) Stock Is Down Today - Quiver Quantitative"
+  ]
+}
