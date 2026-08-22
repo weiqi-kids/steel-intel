@@ -1,0 +1,16 @@
+{
+  "total_raw": 545,
+  "dup_title": 302,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 17,
+  "gate2_fail": 19,
+  "passed": 44,
+  "gate2_samples": [
+    "Rio Tinto celebrates 60 years in Western Australia - WBOC TV",
+    "Unlocking Mongolia's underground copper - Rio Tinto",
+    "Rio Tinto Perth Wildcats Academy extends to the Pilbra - Perth Wildcats",
+    "Rio Tinto taps Macquarie to sell Mt Cattlin lithium mine - The Australian",
+    "Rio Tinto (LSE:RIO) Secures Long Term Renewable Power For Tomago Smelter - Yahoo Finance"
+  ]
+}

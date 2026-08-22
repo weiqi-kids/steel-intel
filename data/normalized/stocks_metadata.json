@@ -1,44 +1,44 @@
 {
   "vale": {
     "earliest": "2002-03-21",
-    "latest": "2026-08-20",
-    "count": 6144,
+    "latest": "2026-08-21",
+    "count": 6145,
     "history_complete": true
   },
   "bhp": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "rio_tinto": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "warrior_met": {
     "earliest": "2017-04-13",
-    "latest": "2026-08-20",
-    "count": 2351,
+    "latest": "2026-08-21",
+    "count": 2352,
     "history_complete": true
   },
   "suncoke": {
     "earliest": "2011-07-21",
-    "latest": "2026-08-20",
-    "count": 3793,
+    "latest": "2026-08-21",
+    "count": 3794,
     "history_complete": true
   },
   "cmc": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "arcelormittal": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "nippon_steel": {
@@ -55,8 +55,8 @@
   },
   "posco": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "tata_steel": {
@@ -67,26 +67,26 @@
   },
   "nucor": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "steel_dynamics": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "cleveland_cliffs": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "gerdau": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "china_steel": {
@@ -127,8 +127,8 @@
   },
   "reliance": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "ta_chen": {
@@ -145,14 +145,14 @@
   },
   "tenaris": {
     "earliest": "2002-12-16",
-    "latest": "2026-08-20",
-    "count": 5957,
+    "latest": "2026-08-21",
+    "count": 5958,
     "history_complete": true
   },
   "etf_slx": {
     "earliest": "2006-10-17",
-    "latest": "2026-08-20",
-    "count": 4991,
+    "latest": "2026-08-21",
+    "count": 4992,
     "history_complete": true
   }
 }
