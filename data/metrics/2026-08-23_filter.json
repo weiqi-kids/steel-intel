@@ -1,0 +1,16 @@
+{
+  "total_raw": 545,
+  "dup_title": 316,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 14,
+  "gate2_fail": 16,
+  "passed": 29,
+  "gate2_samples": [
+    "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+    "Rio Tinto taps Macquarie to sell Mt Cattlin lithium mine - The Australian",
+    "Fortescue Price Target Cut 1.7% to A$17.10/Share by Bell Potter - Moomoo",
+    "Fortescue FY Significant Items US$598 Million - Moomoo",
+    "SunCoke Energy (NYSE:SXC) Stock Crosses Above Two Hundred Day Moving Average - What's Next? - Market"
+  ]
+}
