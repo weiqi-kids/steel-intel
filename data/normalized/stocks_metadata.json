@@ -43,14 +43,14 @@
   },
   "nippon_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6646,
+    "latest": "2026-08-24",
+    "count": 6647,
     "history_complete": true
   },
   "jfe": {
     "earliest": "2002-09-26",
-    "latest": "2026-08-21",
-    "count": 5934,
+    "latest": "2026-08-24",
+    "count": 5935,
     "history_complete": true
   },
   "posco": {
@@ -61,8 +61,8 @@
   },
   "tata_steel": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-21",
-    "count": 6646,
+    "latest": "2026-08-24",
+    "count": 6647,
     "history_complete": true
   },
   "nucor": {
@@ -91,38 +91,38 @@
   },
   "china_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "chung_hung": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "tung_ho": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "feng_hsin": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "baosteel": {
     "earliest": "2000-12-12",
-    "latest": "2026-08-21",
-    "count": 6333,
+    "latest": "2026-08-24",
+    "count": 6334,
     "history_complete": true
   },
   "hyundai_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6658,
+    "latest": "2026-08-24",
+    "count": 6659,
     "history_complete": true
   },
   "reliance": {
@@ -133,14 +133,14 @@
   },
   "ta_chen": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "spring_rain": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "tenaris": {

@@ -1,0 +1,16 @@
+{
+  "total_raw": 542,
+  "dup_title": 324,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 12,
+  "gate2_fail": 14,
+  "passed": 27,
+  "gate2_samples": [
+    "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+    "Morgan Stanley starts Rio Tinto ADR coverage at underweight, sees 14% downside - Investing.com Austr",
+    "Rio Tinto (LSE:RIO) Secures Long Term Renewable Power For Tomago Smelter - Yahoo Finance",
+    "Geopolitical risk needs to move away from the ‘after-dinner speaker’: Eurasia Group and Rio Tinto’s ",
+    "Fortescue Price Target Cut 1.7% to A$17.10/Share by Bell Potter - Moomoo"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-24",
+  "date_range": {
+    "start": "2026-08-18",
+    "end": "2026-08-24"
+  },
+  "generated_at": "2026-08-24T08:37:23.653847Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-08-18-007",
+      "date": "2026-08-18",
+      "title": "Rio Tinto (ASX:RIO) Sits Out the Rally as BHP's Copper-Charged Result Steals the Mining Spotlight - kalkine.com.au",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nucor",
+      "company_b": "steel_dynamics",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 60,
+      "last_week": 105,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.04
+    },
+    "capacity_utilization": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 7,
+      "last_week": 1,
+      "week_over_week_change": "+600%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 12,
+      "sentiment_avg": 0.21,
+      "rank": 1
+    },
+    "rio_tinto": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "fortescue": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "arcelormittal": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tata_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nucor": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "us_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cleveland_cliffs": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hyundai_steel": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 227,
+        "last": 375,
+        "change_pct": -39.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-18",
+      "event_count": 45,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 37,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 43,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 51,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 28,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-18 ~ 2026-08-24）共 227 則事件，重點為「Rio Tinto (ASX:RIO) Sits Out the Rally as BHP's...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
