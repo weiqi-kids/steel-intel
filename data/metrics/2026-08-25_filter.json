@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 286,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 13,
+  "gate2_fail": 17,
+  "passed": 54,
+  "gate2_samples": [
+    "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+    "Morgan Stanley Initiates Coverage on Rio Tinto With Underweight Rating, $90 Price Target - marketscr",
+    "Rio Tinto (LSE:RIO) Secures Long Term Renewable Power For Tomago Smelter - Yahoo Finance",
+    "Fortescue Price Target Cut 1.7% to A$17.10/Share by Bell Potter - Moomoo",
+    "Fortescue Plays It Safe - marketscreener.com"
+  ]
+}
