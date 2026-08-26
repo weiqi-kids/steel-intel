@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 295,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 15,
+  "gate2_fail": 22,
+  "passed": 37,
+  "gate2_samples": [
+    "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+    "Rio Tinto Canada Fund invests $2 million to advance healthcare innovation in Quebec - GlobeNewswire",
+    "Morgan Stanley Initiates Coverage on Rio Tinto With Underweight Rating, $90 Price Target - marketscr",
+    "Rio Tinto (NYSE:RIO): Why Is Its Latest Company Update in Focus Today? - Kalkine Media",
+    "Is Rio Tinto (ASX:RIO) Compelling as Commodities Reset? - Kalkine Media"
+  ]
+}
