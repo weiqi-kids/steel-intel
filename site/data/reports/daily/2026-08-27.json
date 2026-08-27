@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:39:35.744537Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-08-27-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "India: Piyush Goyal meets with Nippon Steel, JFE, urges Japanese firms to source Indian steel - BigMint",
+      "companies": [
+        "nippon_steel",
+        "jfe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdHlsYlBTOURvaHdnQjI1YTJrTW9jaERFa2N3MTBRdFprQXhJa3JYX1RFd0c3NTl6QnRYbjBMRTRuSkFzVERXVFIzbkJiMTBOTTU4Rkd1Y2RmRDhKZFQ0amd6NUNGVHlNTWlieXBwRkl6Vl9OX2dUTVU4VWREeTNkY1JadVJjMlNnd2RkTzh3ZDE1dHQ4TzFVQXlFc2cxTnRjcF9KQ0FpQ2tFb2h3c25KeDlIZTBHcVdSVm1BSHRPaVdHWnIzTzZXdUlJU2JVYUc3U1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_steel-2026-08-27-034",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Regional power cuts slash costs at POSCO, Hyundai Steel in South Korea - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai_steel",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai_steel"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUR1a2haTTlWbHdhMGtJcTRwYW1HU21TS3duWHA3a0pxSzJUS05xeHM0ajN5cFlaVVRWUUdGZWdDN2Q1ZnhReTBnV3VzYVRiTTBGNVh3RFpFUzM0SnNTN0l2X2IyY0tDQzBiOFAxeTNEdmFsVWhncWhyb3AtcmphVTl30gGWAUFVX3lxTE5hOERVbWZQcml6QjBxVUFGZWFudGV2NFdOcERDZW9nd3Y5bXRPRmVYNklfaHNQTDRIUEljYjYxVWtLQ0JTOHhIMVhjbkJWazFvanJUaFZ5dHZzS2V5UmhTbTRmc0hYSWVFZUlPaGVYcXpXaTZkczdsdUNqbTdpUTV2MDlBd2w2R1hBd0k1VWRQV2ktSXZVdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-08-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Erste Group downgrades Rio Tinto stock rating on iron ore prices - Investing.com Canada",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "iron_ore_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQzk4Wi1UQ1B2dUhXTUZ6LUg4ckVBbDV1dFBGVWctZ05aRl9Lbmk0U2xubWpCRUEwekd2bWxJb2hmQWZNZTA5U09lZElURmdDMktQQklMSERjRnJXY0x6WGJ0RWlLSXBWdVBxVXNIV1hKMnFadi1HU1g1RnJ5ck1tYXFKeVlpZDJVTHFCeEdQRlAza3FFWGt0ajUxYlNVdEZZNFp4a1hmRTBwZFkzSS1DZzRVRUlSSTR5V1h5bGZYbXNwU1U?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto moves Winu copper mine forward with public environmental review - Boiling Cold",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkxJcjJCRzNuY2Y2U1o3Vy1hWTZvZ25DdEJJNHZJQm83OW1LNGtNMmJRYTRjN0p3YmNMLU9BWFhKRVg5b1JzaDlRNGNvUzlTVFk4aVRfdDE4M3BxRnp2X0QzYWljTThXUnJzcTAyY2FJTFotT3pnNWZETlNDLXYwNHB0NTI3OVJrM2wtUm4tOHcwb3I5c2pnUHlhdlpFUkt4blVZdkRpZTk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-08-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What does Rio Tinto (LSE:RIO) signal about mining payouts as gold sets highs? - Kalkine Media",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmk1cmhXRnpHUmUyN01kNXo0TnpwYjBad2Fzbms4dEhHYXNiU2xOS2pYMElNYTJ4NExUUFZvN2dJbG1rU1dnSjhabmJRX1NyVU5nVVBTeVNsZE4xUFFEdlV2cENSQjJUWFFhc0tYWnFUMUVhOXNKV0hfMkpRM0paZEphSVUzbFZMQnl2ZkI2cDM0MXktZWVGX2JtZTRzY3NUZkxwRm1nbTQybGEyT2QyS1N1NzFxN3hB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 38,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 11
+      },
+      {
+        "id": "rio_tinto",
+        "count": 3
+      },
+      {
+        "id": "suncoke",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "steel_price",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 540,
+    "dup_title": 269,
+    "too_old": 163,
+    "gate1_blocked": 16,
+    "gate2_blocked": 25,
+    "passed": 67,
+    "pass_rate": "24.7%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+      "Morgan Stanley Initiates Coverage on Rio Tinto With Underweight Rating, $90 Price Target - marketscr",
+      "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+      "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - TipRanks",
+      "Fortescue Plays It Safe - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為塔塔鋼鐵、力拓、SunCoke Energy相關動態：「India: Piyush Goyal meets with Nippon Steel, JFE, urges J...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India: Piyush Goyal meets with Nippon Steel, JFE, urges Japanese firms to sou...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Regional power cuts slash costs at POSCO, Hyundai Steel in South Korea - CHOS...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鐵礦砂價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
