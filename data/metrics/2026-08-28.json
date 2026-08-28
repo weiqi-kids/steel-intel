@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "total_events": 37,
+  "by_company": {
+    "rio_tinto": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "tata_steel": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "steel_dynamics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "feng_hsin": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "vale": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 33,
+      "sentiment_avg": 0.0
+    },
+    "steel_price": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "trade_policy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

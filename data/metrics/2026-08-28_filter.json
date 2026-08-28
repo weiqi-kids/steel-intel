@@ -1,0 +1,16 @@
+{
+  "total_raw": 542,
+  "dup_title": 289,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 20,
+  "gate2_fail": 20,
+  "passed": 47,
+  "gate2_samples": [
+    "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+    "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+    "Fortescue Plays It Safe - marketscreener.com",
+    "Should Value Investors Buy SunCoke Energy (SXC) Stock? - Yahoo Finance",
+    "SunCoke Energy Inc (SXC) Stock Up 4.7% but GF Value Says Overval - GuruFocus"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:49:08.148034Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-28-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fire at Ash Grove's Durkee cement plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21176-fire-at-ash-grove-s-durkee-cement-plant"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-08-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mogotes Metals Closes US$15 Million Investment by Rio Tinto & Forms Strategic & Technical Alliance - Crux Investor",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkx5SWZHc2VDZGNia1N3M1hieURWV0RjTHNJOHhvaDh0OEVTSHJEMVJzYjVBdWVoUWZ0ZWQ0dFFjMkR0Y19xSnpTNU5YVHJ4WDBYMGYxQmxsVHFqNi0tUGF6V1B3Ynp0QlYzMjVZTGYySThfLXljVUx5cWp2azFmMHhlNm9aV0tZajVpb1Y2RTY2NHRsVUdYTjlrWVJzS29xbDBVbTEtVHJfejM0cVQ4T05STE1qZzFLT2oyMEhtbjhTakQyNW1xSg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-08-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "No immediate layoffs coming as IOC completes 'staff role reduction,' says Rio Tinto - CBC",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFhYTmVqRkZYUm4wWVFpdVRFOExRa04zYzJfQmZIazdyT0pqVWM2a3hpZ1JGaEdnVWpneTJvNDZseVBIRG9CMlZ6OExPU0RZeThsX01PTVNOV1g0T0xrWDRlM3NONHFnTmxQcWRlWjRYak52LTVvbHVZcElwdzBDMDVaMzctTFdpd1BqWEVJYVZxUTJObnQ5WQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-08-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mogotes Metals locks in investment from Rio Tinto | 2026-08-28 | Investing News - Stockhouse",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlhNMlhZZUFfNlZDVE9iWWpkSjlVX3lPWWpEcWRxNDk5NkJ0Y0poRDJoRUN3NElDZTM2ekp2V0tKb09VV2FiZXVTQkZXWk5EY3ZJSlUwQ2ItOEtLNnNPMFFESTNQUTAzU1hURWpZdjBTczFyaEt5U2lpZVAtU1VWYWdjNDdidXk1OVRmWWUzMjdSVlZzbXFnVDZTTlVMaXp6M284TFZZX2ozaWhwNmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-08-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sohaib Wasif Calgary on Mining Project Controls: What Rio Tinto Demands - Hardware Secrets",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM2laNVQwTzBZQ1JTc1RFWnpJT2pEbk1Sc3M2R0ZORjRRM0JuelI1UnNQQ0NaLXNKeGZ0WmJCc3Y0ZEJHekljeWQyb1NINDBOZlRFbnZzSmFJamwxdnM1ZXZ2MUV0SEk0RlpMU1YtUXQ0TXNPMUwwd3hiazJicUpwN2Z1cHlpa0duN3BtdWFMVUlET2NuQVZsMUtqd1FXNWNX?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 34,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 7
+      },
+      {
+        "id": "rio_tinto",
+        "count": 5
+      },
+      {
+        "id": "nippon_steel",
+        "count": 5
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 5
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "steel_price",
+        "count": 4
+      },
+      {
+        "id": "trade_policy",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 542,
+    "dup_title": 289,
+    "too_old": 166,
+    "gate1_blocked": 20,
+    "gate2_blocked": 20,
+    "passed": 47,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+      "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+      "Fortescue Plays It Safe - marketscreener.com",
+      "Should Value Investors Buy SunCoke Energy (SXC) Stock? - Yahoo Finance",
+      "SunCoke Energy Inc (SXC) Stock Up 4.7% but GF Value Says Overval - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為塔塔鋼鐵、力拓、日本製鐵相關動態：「Fire at Ash Grove's Durkee cement plant」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Fire at Ash Grove's Durkee cement plant（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Mogotes Metals Closes US$15 Million Investment by Rio Tinto & Forms Strategic...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
