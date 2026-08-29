@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:30:00.117256Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock edges lower as iron ore worries contrast with strong H1 2026 earnings - Ad-hoc-news.de",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUXRlc2t2LVRUcFV3blk3THpLT0xMeEZ5dkZuTENxa0NZekh5U3poNWRNWk5QUFV0WDQzaUJCZjh4Q3llZ3dNd2cwSHV6aHA1SXVjaXFmN2c4SnpkWHN2akkyRTNoMl9PU2F0MnFPU05DWmQ1eUp4UWw4RHlUMldob2lpYllHMWxKVWlXVWpIcnJpbWhxUzlIYXc5eUU5SFVVWk5xOXpxTVRCQTllRlhNQU0xM1FjeEY1Q2kydzlFLXpPaTZyWF9VR2V1a0lTSjg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "suncoke-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Jefferies Financial Group Inc. Buys New Stake in SunCoke Energy, Inc. $SXC - MarketBeat",
+      "companies": [
+        "suncoke"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbWdrVmtZdUVYZTFqUWtURUNtMVRobVl1dUpITnpEdUYyQWJEalpkUjJVc1IySE9OdkREZnBzUU51TEJHdlc5Mld6dkRtbFMta3JmMG13ZWJQVDcyN3dHV3k2M2NFN0NNN2E2aEFaTGRYd3lJWDhQenNvSkhybk9oODV6cjh6MUs4WXl4Q09NN0NIN3dZbnltODZBQlZUaU1nYXc0ZF93OHJPaXBVRzlfMnF2eEdod19nengyWVRoOWI1bE54OGxVQjRtQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "suncoke-2026-08-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Algert Global LLC Sells 162,120 Shares of SunCoke Energy, Inc. $SXC - MarketBeat",
+      "companies": [
+        "suncoke"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnF3S09CYmQ2R3E3Q2Y1Z0hNVjg1bEZ5dUs1Ymg0VGhqX3hvYmpDTXNwa3VpRDh6UEZnZDhIWmR2ajVub3Q2dTFnZXMtVlR5T3ZObFhCRVoxZnJ5UlF6Nm9CVlNvRXUwVTJoZVdNM2ZZTGtvdlJzRmhIUldHVXlIQ042VzN0ZTB0MFVjNkJ0VEZsaE9lZVZvMEhIRm84OTlSNThwZmQxRmwxTnFmUndQOWNobVRTNkpFU1JwenBOd2c2dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan to turn former steel mill site in western Japan into defense hub - Japan Today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWN4VkZRcEpMb29YMWI3VG5KLW5CdjhyeEZLdlg3cjRLa2R1TGwwVmRGbmJlQV90NWJNcjNNaDN6UU1xVGdWNWlYZXlQenJFcWVSRHJfM3J1bXhBRTh2MWx3NVM2bTZnTU8yS3EtdW85ZVNYNWphOF9HeGpIR3ZSMjd1b19WeGJKV1dEanBGX1BVQjBRZWhseWJUS1c0R0ZsOXNRR0tacnlNMWJkQnZJQTNGZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_steel-2026-08-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel HR Officials Visit Union Office Amid Wage Revision Concerns - BW People",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTlXSFdNenRCck9lOVUwNU5GeS1oSEVodXpWd0tuUDkxUG5Nd09obkhzalVkT3kyZ3hDZC1UdVlvQ3BWM1NPaWRnSmktdm9QWnUxSnFSQ1RMT3hnWWxicnBwQ0hoZlRYcDV3aXQtZlNLR2FWWHZ5YXFuVjRaOHNCOHEwV3VveUhadzFWaTlpWm44aUVoX3N5X3BGd3RvdVZnd2RDWnI0R2M4QmIwa0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "suncoke",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      },
+      {
+        "id": "gerdau",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 542,
+    "dup_title": 311,
+    "too_old": 167,
+    "gate1_blocked": 22,
+    "gate2_blocked": 24,
+    "passed": 18,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "VALE S.A. (VALE) Stock Price & News - Syfe",
+      "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+      "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+      "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - The Globe ",
+      "Fortescue Plays It Safe - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為SunCoke Energy、力拓、塔塔鋼鐵相關動態：「Rio Tinto stock edges lower as iron ore worries contrast ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rio Tinto stock edges lower as iron ore worries contrast with strong H1 2026 ...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Jefferies Financial Group Inc. Buys New Stake in SunCoke Energy, Inc. $SXC - ...",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

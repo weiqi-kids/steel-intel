@@ -1,0 +1,16 @@
+{
+  "total_raw": 542,
+  "dup_title": 311,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 22,
+  "gate2_fail": 24,
+  "passed": 18,
+  "gate2_samples": [
+    "VALE S.A. (VALE) Stock Price & News - Syfe",
+    "Rio Tinto celebrates 60 years in Western Australia - Yahoo Finance",
+    "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+    "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - The Globe ",
+    "Fortescue Plays It Safe - marketscreener.com"
+  ]
+}
