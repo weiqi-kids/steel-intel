@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:25:58.775948Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bids tipped to start rolling in for Rio’s $300m lithium operation - The Australian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNWNLY0tLVllYNTFwaFhmbzMxU04xVWppai1lUm83Rk5ZVzZwQUV2MTV5c2ljTHFNOVlURXhBbjJ3ZUV2ZzVYM0ViOWlRUE96RWtkdGxVOG1mX1VzNi1xc0o5Z1FDSk01ekEtd2g1WExoLV93aS1EZlRPWFhKcHAxS1A0MkRhUzgtN0JQME1tMl9FYm5nOHprWkZPWmdQSnZNY20ybmRBam1Pdm1OV2UxeER1ZjRmR25JeXpFR1NxNXVmamRHSE1nRUtzc1lyRHZIenNKd0xlX1I1ZDlVUndHaWtpc0VNSUdsMHpHNjZvWXBJN21pZ2dpMmRyMzJiSnlwNXdsUTZwTdIBjAJBVV95cUxNRkQyT3MxNFlnb1czY0ZnZUZQWU9va0FRZ20zTmRYQTV2MjJBb1AwbTFhbVI3eWo3bzhXcXhxbkQyejczc1NNN2JMcFI1dlgyaFdoamFic2VnYkZiOEtOQlUwVTUtQ0QwSHJTb1VJVF9lQWFYSWR0RHF1V0FWeVdrNGRadWU2N1VWOEYyR2tSc294b0VXcTR4NUdZT0VDQWljV0prZUx4S09USW1vRXZHUDVJYWpxd2IwbFRaWFdGLVBweklEYnctUnJQNFVyTTVJRkl3cGlWNllndTZycHEtY3hsY0pGVVZXaWlGaUtNRnhQNWhhWjNQdXMxenJmVEIwM0E1Sk0wd3ZxZWIx?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cleveland_cliffs-2026-08-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cleveland-Cliffs (CLF) Secures DOE Support For Middletown Works Investment - Yahoo Finance UK",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHlORzV6NGhrUC02bWRVa0JkSGxfQ3JrbkpOX01hX1pXcm91NlNuYlRhMm4wM3N5SUVhZUhfUkZwZWlNT0lCUFNmUXh2LVFkRThVejQxZURWRFVOU29UOUJUWXh3M3ZXVmxfdDNZR2pPVTZYZEVuYWR6SDBTeUlFZmtiekZSMGY4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals - CNBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general",
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkczaThjMDgwN2t0TGpkZzBIOWVlNGF6ZHJWYjRKcTl0ZDhiSFNxNVNETEJuY0FtUnVHR19RbGlQdXowZUd2T1E3TUVIMVptdFNkR2s0eGdvLWZERG1sUjQxaGFmek9hVi1vREMwU294R3N5dzFLakgxVHUyYU9zRGRMSThBcVRGaFZsZDRsc1dZQW9HOTQwYkt30gGfAUFVX3lxTFA5b21UZDdNQUtCOUw1Q3AtclpxZ0g1NVNrckdQMEF6eHNGYXNGTkhxa0IyTzg1SlhHekFrTjh4VE1paUNrZ3Z0d1RLelh1dEtVZGwyTWpwQXFscFpHU3FESE5KTDN2dFY2MWVoYlk0Z1I2alpIOUpzTHpXUTRnMFREV1BqY3EzYllfVnR4MktjaXJoMG9DMkRkZE5iNHpUMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cleveland_cliffs",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 544,
+    "dup_title": 305,
+    "too_old": 182,
+    "gate1_blocked": 19,
+    "gate2_blocked": 22,
+    "passed": 16,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "VALE S.A. (VALE) Stock Price & News - Syfe",
+      "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+      "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - The Globe ",
+      "Fortescue Plays It Safe - marketscreener.com",
+      "Should Value Investors Buy SunCoke Energy (SXC) Stock? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Cleveland-Cliffs相關動態：「Bids tipped to start rolling in for Rio’s $300m lithium o...」。主要關注主題為鋼鐵產業通用、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bids tipped to start rolling in for Rio’s $300m lithium operation - The Austr...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cleveland-Cliffs (CLF) Secures DOE Support For Middletown Works Investment - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
