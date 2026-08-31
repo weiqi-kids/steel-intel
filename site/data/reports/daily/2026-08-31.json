@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:41:35.632645Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cleveland_cliffs-2026-08-31-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Steelworkers and Cleveland-Cliffs and U.S. Steel agree on contract extension - WDIO.com",
+      "companies": [
+        "cleveland_cliffs",
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1ZlMzBta19YWHdOT2JDd0NWdXVXa0NwMlpXa00xeUhTVFlwN3JJSkpjQWo4elpfOGVHQXBSRmI1QWdBZjloUUxqYVdRTzZpNEFOb1dySzZpTThsRERzLWo0RnFidDZJVG52VXJLdHZrQUl3SGZmRDlwTFpXV3NYeUxURFI0Ti13ek9fRmxFVWdVdUhhb2FIeTVuSVF5SEtNNm0xWU1ERnN6V0tpU1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-08-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could BHP Group (ASX:BHP) Sustain Its Momentum as Commodity Trends Shift? - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFNQLURJYlJVVTRheHBUQ3UxWktaLWhvVUdkOTRmenZJU2dTVlh3V0Y1MWhJYVNxR0ZvRnRiX1k4ZXl2UDlqRGhoTS05MkVkZHFJX0NtcHJEdWxyU1VJM3RVLWw3MVZ0OVlYQU1yX2s5eTJmSXprSUNpdjVuTEdBQmFpVTkwX1FXX0tlOXp5UWFyclRpSEE3NGxNV052azU1WS1HUWxMaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-08-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock slips as lithium asset sale talk meets softer iron ore demand - AD HOC NEWS",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmJpYnNfd1M0Y05ZWG9rQ192TnNpandRUzhNbTVET1RmQ3dzZmhDLVY2aDN3MDRIU2xWOV9ScEZNNk9BUmkyakpseFhDdnNvU2ljRUpCdmRUNkJGSkVreWNUMWI4UWx4MF9BVHJueVczZXVqMnNCMVJsTEpMQ0V3d00wY0Y5NnN3cXpmcUtjTW9BNnlJazRIazVSMnRrMnBXdHRXTmpDbGFaelZfTkExN2otcG5GQjdleDN5QlBIQUExZFBDdzhqZTdSbmF4dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fortescue-2026-08-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue grants open to fund more Pilbara ideas - Fortescue",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnF3ZE5sbkgzd2hKM0tLQmtVXzlXcUpaUUtCQ2tDc3ZSc0RpT3ZPMlVZOUpjSlRPZUYweWxfZjVCVm4zY3JPVkNwMHJpQnk5bk1BbEZaQnFxZ2xjSmw1bHlhTWlEMDNjelBOTlphN0swM0tSeTJ5WWtETDN1SFQxVlRoTlBnOVc2Xzh6Vll0QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fortescue-2026-08-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue (ASX:FMG): Record Iron-Ore Shipments Meet Price Pressure and Green Transition Challenges - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPblpjUjltbXo4bkZQbldha3BSWE1xOWdzZjV5NDhlemZ4czUwUjFfbmJUYTVCWnpJbnNYMEZ3dXctTWhmS0dzR3dnRzl6MEtGcE5nY0VmUTNiamlUOU9ob3dsc1BhNlBuWEdPZk1qdm55dlZWVVRVdV9ndHNoX0lvRU1HTDRlbTlrWFZBc0RmdXg2TVcycnE4VWVoZXkwTjRjaTdZYjFHVVJwanE5U1NVVTZxZkVndWlFdk44QjdzM0RvMUhtMnVyZkpBaTZfWk9BR1V3amZR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 29,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 4
+      },
+      {
+        "id": "fortescue",
+        "count": 3
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 3
+      },
+      {
+        "id": "jfe",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "steel_price",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 537,
+    "dup_title": 275,
+    "too_old": 175,
+    "gate1_blocked": 23,
+    "gate2_blocked": 22,
+    "passed": 42,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+      "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - The Globe ",
+      "9,023,918 Shares in SunCoke Energy, Inc. $SXC Bought by BlackRock Inc. - MarketBeat",
+      "SunCoke Energy Inc (SXC) Stock Up 4.7% but GF Value Says Overval - GuruFocus",
+      "Should Value Investors Buy SunCoke Energy (SXC) Stock? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為塔塔鋼鐵、FMG、Cleveland-Cliffs相關動態：「Steelworkers and Cleveland-Cliffs and U.S. Steel agree on...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Steelworkers and Cleveland-Cliffs and U.S. Steel agree on contract extension ...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Could BHP Group (ASX:BHP) Sustain Its Momentum as Commodity Trends Shift? - K...",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
