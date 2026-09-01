@@ -1,0 +1,16 @@
+{
+  "total_raw": 530,
+  "dup_title": 264,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 21,
+  "gate2_fail": 16,
+  "passed": 60,
+  "gate2_samples": [
+    "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+    "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - The Globe ",
+    "SunCoke Energy Inc (SXC) Stock Up 4.7% but GF Value Says Overval - GuruFocus",
+    "9,023,918 Shares in SunCoke Energy, Inc. $SXC Bought by BlackRock Inc. - MarketBeat",
+    "Ieq Capital LLC Takes Position in SunCoke Energy, Inc. $SXC - MarketBeat"
+  ]
+}

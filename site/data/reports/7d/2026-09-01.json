@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-01",
+  "date_range": {
+    "start": "2026-08-26",
+    "end": "2026-09-01"
+  },
+  "generated_at": "2026-09-01T12:53:57.091917Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arcelormittal-2026-08-26-004",
+      "date": "2026-08-26",
+      "title": "ET NOW’s Ankur Mishra joins ArcelorMittal Nippon Steel India as Sr Lead – Media Relations - Exchange4Media",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 144,
+      "last_week": 62,
+      "week_over_week_change": "+132%",
+      "sentiment_this_week": 0.03
+    },
+    "trade_policy": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 10,
+      "last_week": 1,
+      "week_over_week_change": "+900%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity_utilization": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fortescue": {
+      "event_count": 8,
+      "sentiment_avg": 0.15,
+      "rank": 5
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    },
+    "nippon_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "jfe": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "cleveland_cliffs": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "rio_tinto": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "suncoke": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tata_steel": {
+      "event_count": 27,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hyundai_steel": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 7
+    },
+    "posco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "ta_chen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "feng_hsin": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "bhp": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 246,
+        "last": 277,
+        "change_pct": -11.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-26",
+      "event_count": 33,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 53,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 46,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 59,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 33,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-26 ~ 2026-09-01）共 246 則事件，重點為「ET NOW’s Ankur Mishra joins ArcelorMittal Nippo...」。淡水河谷表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "FMG",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "日本製鐵",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
