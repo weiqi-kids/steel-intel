@@ -1,0 +1,16 @@
+{
+  "total_raw": 522,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 202,
+  "gate1_fail": 19,
+  "gate2_fail": 19,
+  "passed": 52,
+  "gate2_samples": [
+    "Why Is BHP Group Limited (ASX:BHP) in Focus? - Kalkine Media",
+    "The Bull Case For BHP Group (ASX:BHP) Could Change Following New Copper-Water Recovery Pilots - Lear",
+    "Fortescue Mulls Debut Panda Bond Sale Despite China Tensions - Bloomberg.com",
+    "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - theglobean",
+    "Empowered Funds LLC Buys Shares of 483,064 SunCoke Energy, Inc. $SXC - MarketBeat"
+  ]
+}
