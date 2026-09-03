@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 15,
+  "gate2_fail": 9,
+  "passed": 37,
+  "gate2_samples": [
+    "Rio Tinto Group (LSE:RIO) Looks Fully Valued On Its Critical Minerals Narrative - Yahoo Finance",
+    "Fortescue Director Mark Barnaba Increases Direct Shareholding via Salary Sacrifice Plan - The Globe ",
+    "Ieq Capital LLC Takes Position in SunCoke Energy, Inc. $SXC - MarketBeat",
+    "Nucor (NUE) Files Shelf Registration To Keep Future Funding Options Open - Yahoo Finance",
+    "Cleveland-Cliffs (CLF) Is Up 7.6% After DOE-Backed $1B Middletown Modernization Plan - Has The Bull "
+  ]
+}
