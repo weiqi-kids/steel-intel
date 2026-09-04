@@ -1,0 +1,16 @@
+{
+  "total_raw": 521,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 17,
+  "gate2_fail": 14,
+  "passed": 72,
+  "gate2_samples": [
+    "VALE S.A. (VALE) Stock Price & News - Syfe",
+    "Rio Tinto Group (LSE:RIO) Looks Fully Valued On Its Critical Minerals Narrative - Yahoo Finance",
+    "How Is Fortescue (ASX:FMG) Shaping Up? - Kalkine Media",
+    "What Does Fortescue (ASX:FMG)'s Key Chart Support Test Mean for Market participants? - Kalkine Media",
+    "SunCoke Energy (NYSE:SXC) Shares Down 4.4% - Should You Sell? - MarketBeat"
+  ]
+}
