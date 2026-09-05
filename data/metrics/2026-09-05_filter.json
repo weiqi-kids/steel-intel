@@ -1,0 +1,16 @@
+{
+  "total_raw": 525,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 217,
+  "gate1_fail": 22,
+  "gate2_fail": 12,
+  "passed": 54,
+  "gate2_samples": [
+    "Rio Tinto Group (LSE:RIO) Looks Fully Valued On Its Critical Minerals Narrative - finance.yahoo.com",
+    "SunCoke Energy (NYSE:SXC) Shares Down 4.4% - Should You Sell? - MarketBeat",
+    "Empowered Funds LLC Buys Shares of 483,064 SunCoke Energy, Inc. $SXC - MarketBeat",
+    "9,023,918 Shares in SunCoke Energy, Inc. $SXC Bought by BlackRock Inc. - MarketBeat",
+    "ArcelorMittal will invest nearly US$1 billion in Brazil - BNamericas"
+  ]
+}

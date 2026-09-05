@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:30:17.177522Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_steel-2026-09-05-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hyundai Steel, POSCO Break Ground on $5.8B U.S. Steel Plant - chosun.com",
+      "companies": [
+        "hyundai_steel",
+        "us_steel",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai_steel"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMG84YUQ1WkVXbnFjVFJ3bEVxdXF5UkFDSjJNTnJLTXRPSmdIWTNQQzRsQkJzeFdaMVAxWTBpUERyQ3FPQWVXakVvUWUwTUE0d0pWYkF3YVpaMjhidXFnTXpxTjNiTlA5RVgxcDBZc1QwOTFQVWhVVEpOaFFDeWJwVXNWQ0Y1VUoy?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "us_steel-2026-09-05-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hyundai-POSCO eyes U.S. steel supply chain beyond cars to robots, rockets - Aju Press",
+      "companies": [
+        "us_steel",
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91V00wNkxJVlZadGtqWk5ZX2ZLSUVFZHRZUTBFckhJUnpsTmRKbng4eGdqNnhuWXRpSlRyVC10S2NxZnBRUTBMQWJRa3RnMTVwUWFLc1ZpM2MzMzDSAVdBVV95cUxPWGw5ZTQ2OWFRVERqU3EtNTZvZm9KbG1nUWt4Z0p5ZEp5VG8xRHZQYXJJUy14LXVLRlZBWFVwRV9nWHlIS1hJWm16eWlST3FCZ3pJcFE4akE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "warrior_met-2026-09-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Warrior Met Coal HCC stock gains after strong Q2 2026 results - AD HOC NEWS",
+      "companies": [
+        "warrior_met"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVmdiUHlxNEF5bXlsdkFZQmhyMnRUUkdMYnpfSGlyMVRrS3RBMy05MmN3NUNuZDdWTFhwNlZKWG9URDNncHh4dkM4WDlZUHA3YmRCdjZWTk1VcGxKSTZrS3h2M1pzX2FrdzVnRERoR19JMTQ2YzdEQWZlY1NTc2o0b3hJN1MteVhMVFBnMWtDc1hyRTByZTE2RnVKYUIzUUpLUU55UGxlV3ZyNG9lVWdwMkhmWERfRUlZN0xrag?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "steel_dynamics-2026-09-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Steel Dynamics Stock And The Onshore Low Carbon Steel Shift - simplywall.st",
+      "companies": [
+        "steel_dynamics"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQXl1UWRFSU45dFFYY2JPeGQwRGEyWVo0Mk5TNm9LbUNUY2phWm56M3lVS1ZwVVlobmcwaE1VcVFSZVJ2bU05SnhOdXBjV3BYU2Y3dzd5azVLTEctazgzRW1zc1lEeENoeUQ1Smd1UFRMLW1wbnZQNUwtb2U3ekNYeW1nTnVmY25EZVl2OEtHUjlVMjVlWk5nZ3lETkNlNGxyZmRnTzNJanpDSW1IMkRDWnQyWjg0MmhpX3A2Q1IydUNmNkI5dHE1QmFLcHVKQdIB0wFBVV95cUxPdE4wdXg2UzRXS3EtMlBYYU9HcHozeXNBTjBiWng2LTFKU05rOW4yd0U0dUhEb05rbWc2dng3RWNuSHpHcXl3OUpmR1dpRTRVZkdQTExWU3NwQnhIVkl5UzJ6bmFpcVdVTFNZZE9tUUpoUkN4UEY5UWFOSTNzYmlKXzM3V0FON1JrQWFtVU8wUEZpT1JneTMzQ1lkcHE2NWtudEtEVW96MG40SElrZElvR2JLckJHWGt5bFNMS3hEOG12UzBzQ0hNMWJkV05UMU5DWlBB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai_steel-2026-09-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Steel kicks off $5.8b Louisiana steel mill - The Korea Herald",
+      "companies": [
+        "hyundai_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVSDNhcUlaaFZUbG1MZVFJMVVtamJFWENZQ1dOaXU2VDdlcFRYU1c5RjFfR1lqY2dBQTB6a0VrUGtZR2lRc2x6LWF4MmYwWFdRR1V4dmZHRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "posco",
+      "to": "us_steel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai_steel",
+        "count": 7
+      },
+      {
+        "id": "posco",
+        "count": 3
+      },
+      {
+        "id": "us_steel",
+        "count": 2
+      },
+      {
+        "id": "warrior_met",
+        "count": 1
+      },
+      {
+        "id": "steel_dynamics",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 525,
+    "dup_title": 220,
+    "too_old": 217,
+    "gate1_blocked": 22,
+    "gate2_blocked": 12,
+    "passed": 54,
+    "pass_rate": "17.7%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Rio Tinto Group (LSE:RIO) Looks Fully Valued On Its Critical Minerals Narrative - finance.yahoo.com",
+      "SunCoke Energy (NYSE:SXC) Shares Down 4.4% - Should You Sell? - MarketBeat",
+      "Empowered Funds LLC Buys Shares of 483,064 SunCoke Energy, Inc. $SXC - MarketBeat",
+      "9,023,918 Shares in SunCoke Energy, Inc. $SXC Bought by BlackRock Inc. - MarketBeat",
+      "ArcelorMittal will invest nearly US$1 billion in Brazil - BNamericas"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為現代製鐵、浦項製鐵、U.S. Steel相關動態：「Hyundai Steel, POSCO Break Ground on $5.8B U.S. Steel Pla...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Steel, POSCO Break Ground on $5.8B U.S. Steel Plant - chosun.com（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hyundai-POSCO eyes U.S. steel supply chain beyond cars to robots, rockets - A...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

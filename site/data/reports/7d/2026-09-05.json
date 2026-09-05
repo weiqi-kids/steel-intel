@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-05",
+  "date_range": {
+    "start": "2026-08-30",
+    "end": "2026-09-05"
+  },
+  "generated_at": "2026-09-05T11:30:17.286375Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cleveland_cliffs-2026-08-31-016",
+      "date": "2026-08-31",
+      "title": "Steelworkers and Cleveland-Cliffs and U.S. Steel agree on contract extension - WDIO.com",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "posco",
+      "company_b": "us_steel",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 136,
+      "last_week": 114,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.01
+    },
+    "trade_policy": {
+      "this_week": 8,
+      "last_week": 12,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.09
+    },
+    "coking_coal_scrap": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "cleveland_cliffs": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "bhp": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "rio_tinto": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fortescue": {
+      "event_count": 9,
+      "sentiment_avg": 0.14,
+      "rank": 5
+    },
+    "suncoke": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "jfe": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "tata_steel": {
+      "event_count": 12,
+      "sentiment_avg": -0.04,
+      "rank": 3
+    },
+    "nucor": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "us_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "hyundai_steel": {
+      "event_count": 15,
+      "sentiment_avg": -0.1,
+      "rank": 2
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 14
+    },
+    "posco": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "reliance": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 302,
+        "last": 271,
+        "change_pct": 11.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-30",
+      "event_count": 10,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 72,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 51,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 57,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 43,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 55,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-30 ~ 2026-09-05）共 302 則事件，重點為「Steelworkers and Cleveland-Cliffs and U.S. Stee...」。安賽樂米塔爾、日本製鐵表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Cleveland-Cliffs",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
