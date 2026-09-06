@@ -1,0 +1,16 @@
+{
+  "total_raw": 521,
+  "dup_title": 264,
+  "no_date": 0,
+  "too_old": 199,
+  "gate1_fail": 15,
+  "gate2_fail": 14,
+  "passed": 29,
+  "gate2_samples": [
+    "BHP Group Limited (LSE:BHP) Reframes the Current Market Story - Kalkine Media",
+    "Rio Tinto Group (LSE:RIO) Looks Fully Valued On Its Critical Minerals Narrative - Yahoo Finance",
+    "SunCoke Energy (NYSE:SXC) Shares Down 4.4% - Should You Sell? - MarketBeat",
+    "Empowered Funds LLC Buys Shares of 483,064 SunCoke Energy, Inc. $SXC - MarketBeat",
+    "9,023,918 Shares in SunCoke Energy, Inc. $SXC Bought by BlackRock Inc. - MarketBeat"
+  ]
+}
