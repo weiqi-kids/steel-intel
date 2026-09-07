@@ -1,0 +1,16 @@
+{
+  "total_raw": 532,
+  "dup_title": 260,
+  "no_date": 0,
+  "too_old": 189,
+  "gate1_fail": 12,
+  "gate2_fail": 21,
+  "passed": 50,
+  "gate2_samples": [
+    "Supplying a new era of growth - Rio Tinto",
+    "Rio Tinto Group (LSE:RIO) Looks Fully Valued On Its Critical Minerals Narrative - Yahoo Finance",
+    "Fortescue Ltd Discloses Lapse of 3.38 Million Performance Rights - Kalkine",
+    "Fortescue Ltd Issues 61,758 Performance Rights to Key Management Personnel - Kalkine",
+    "Fortescue Ltd Converts 1.88 Million Performance Rights and SIP Vested Rights to Ordinary Shares - Ka"
+  ]
+}
