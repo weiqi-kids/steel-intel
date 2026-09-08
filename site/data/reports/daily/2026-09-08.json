@@ -1,0 +1,248 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:25:51.434257Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-09-08-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP (ASX:BHP): Can Record Iron Ore Output Keep Delivering for Investors? - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVEdnaGRqSk1IT1Q3R3F3NWVsVzFFa19GVDdIclRUY0xjemJGV1YzQ3VrazBCZmlIM0o5ZklrVWlEb2VKWUpPcUx1WVcyUGdPRTNGRDN4Nm9RZVhpNkNqeVdnRldTbHkxWHk1dU5RSDZfdnpqYjdtQ3ZYcHc1cXc2cnUxSzRoUGhkdXJTcGFYUTdsNkVaem9SOF9fVG5yUUZqbDk4TWxPRzM4bG1UbTdQbWRB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fortescue-2026-09-08-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why Is Fortescue (ASX:FMG) Back in Focus After Record Iron Ore Shipments? - Kalkine Media",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFlxWFdLXzZWM2Z5WlFZSUM2SzU1Y3F5UnJ1bmtiTFJvcnRRVk1nSUF6X2hLTjZrSlktaFNDc1ZESW53VktocVFvRF9ZeGlNMWZRUVpjTW9ITm5sTEw5SXVleklEeEpROE5tVzZnclplR0thM1lNcDY0SXZnRVozZE5NZnZ6MzEtWXc3cVg1Q3JlaEJjMkROSVZCTExfRWUtaFZ2bWNsZnNVYml5V0tOZkF4REJpcThEQkdZM1Vn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-08-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global iron ore exports remained stable in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gmk.center/en/news/global-iron-ore-exports-remained-stable-in-august/"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-09-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP, union talks for Port Hedland iron ore workers to stretch into next week - Reuters",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUMyOEtRTC00OVpQZnk3MzBYZFNXV0RnenNaV2lFWHdEcXZhOE9oSFF0M0RFY2d0cEV3Skl2dVE4TVBSNkJFM21wN0pqQ2pkYnNaTEM1MVVmY1VaYjVMS2g5YnZqZVNkNEdmVzNKU3V3ckdvS2lQODctMmQ3bURwMlZmZzFSY0FFSjkwbG96dzN4TTJ2bktwRHJabmhwTHBxYnFpYWM5anJJdjdIWFZsLUJLTkNCUWRSTjA4QkI4U2NqWklPS1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bhp-2026-09-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP, union talks for Port Hedland iron ore workers to stretch on into next week - The Lufkin Daily News",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbjNtNWZQWHA0S1c2UWpmWXZ0T1Naal9ETmhLejVlM3RZbFBtN1g1RTIydWVyLWxiVTVvbWhUcUlhLTZsdTBIWjNjaEc2dGpSa1NmZzhlTTdnWFdtdThkXzNndDNiNlVmQi1ScFpMY292RGEtWWpJdThPVFlEOGNKc2hYTlA3bXJ1NnRJb2xhN0FHTjFXYVVlcVNZWnc1SEhwdWxsVzhwNTVfdG5MOTQtQ0lKT1BLSkd5Wk16MWowMDAzakZpY1dlT3FOTkVqYXlMb1h6SnBCZm9fTmpmTHRoYWxBYWpEcUxNWFJGRG94emVvQWhtRUhlWkh2NUtaYUhrM3NNbTRiQ3NhQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 39,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 12
+      },
+      {
+        "id": "fortescue",
+        "count": 4
+      },
+      {
+        "id": "bhp",
+        "count": 3
+      },
+      {
+        "id": "nippon_steel",
+        "count": 3
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "trade_policy",
+        "count": 6
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 537,
+    "dup_title": 256,
+    "too_old": 193,
+    "gate1_blocked": 14,
+    "gate2_blocked": 17,
+    "passed": 57,
+    "pass_rate": "20.3%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "BHP Group (NYSE:BHP): What Could Shake the Stock After Labor Day? - Kalkine Media",
+      "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - ca.finance.yah",
+      "Rio Tinto Group to Acquire Queensland Bauxite Project - marketscreener.com",
+      "Supplying a new era of growth - Rio Tinto",
+      "Rio Tinto Moves To Buy A Bauxite Project In Queensland - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為力拓、FMG、必和必拓相關動態：「BHP (ASX:BHP): Can Record Iron Ore Output Keep Delivering...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BHP (ASX:BHP): Can Record Iron Ore Output Keep Delivering for Investors? - Ka...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Why Is Fortescue (ASX:FMG) Back in Focus After Record Iron Ore Shipments? - K...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 193,
+  "gate1_fail": 14,
+  "gate2_fail": 17,
+  "passed": 57,
+  "gate2_samples": [
+    "BHP Group (NYSE:BHP): What Could Shake the Stock After Labor Day? - Kalkine Media",
+    "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - ca.finance.yah",
+    "Rio Tinto Group to Acquire Queensland Bauxite Project - marketscreener.com",
+    "Supplying a new era of growth - Rio Tinto",
+    "Rio Tinto Moves To Buy A Bauxite Project In Queensland - Finimize"
+  ]
+}
