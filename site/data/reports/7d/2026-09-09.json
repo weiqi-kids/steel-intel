@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-09",
+  "date_range": {
+    "start": "2026-09-03",
+    "end": "2026-09-09"
+  },
+  "generated_at": "2026-09-09T12:35:48.212748Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arcelormittal-2026-09-03-025",
+      "date": "2026-09-03",
+      "title": "ArcelorMittal Nippon Steel India, IARI sign MoU for research on sustainable use of iron ore tailings in agriculture - BusinessLine",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "posco",
+      "company_b": "us_steel",
+      "co_mention_count": 6,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hyundai_steel",
+      "company_b": "us_steel",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 149,
+      "last_week": 155,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_policy": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.07
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 10,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 21,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "us_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    },
+    "bhp": {
+      "event_count": 17,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "fortescue": {
+      "event_count": 8,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "tata_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hyundai_steel": {
+      "event_count": 21,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "posco": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 286,
+        "last": 328,
+        "change_pct": -12.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-03",
+      "event_count": 47,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 62,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 25,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 41,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 70,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 24,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-03 ~ 2026-09-09）共 286 則事件，重點為「ArcelorMittal Nippon Steel India, IARI sign MoU...」。FMG表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 21 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "U.S. Steel",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

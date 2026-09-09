@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 208,
+  "gate1_fail": 25,
+  "gate2_fail": 17,
+  "passed": 52,
+  "gate2_samples": [
+    "Echecopar adds ex-Rio Tinto legal head in Peru as partner - Latin Lawyer",
+    "Rio Tinto to take over Queensland’s Aurukun Bauxite Project - Yahoo Finance",
+    "Supplying a new era of growth - Rio Tinto",
+    "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - Business Wire",
+    "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - New Castle New"
+  ]
+}

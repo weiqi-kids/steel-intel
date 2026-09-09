@@ -1,0 +1,246 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:35:48.078434Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-09-09-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hyundai Steel POSCO Louisiana mill — $5.8B US Green Steel Bet - The Korea Daily",
+      "companies": [
+        "posco",
+        "hyundai_steel"
+      ],
+      "related": {
+        "customers": [
+          "hyundai_steel"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84V1gtS1hVbEttYUQwNjRNaWFrNWRiQm1FUllNSFJxMTR6T2ZmU2JUenVYNzN1TWEzSk41UF96dmk2UVYxb2EtcURORVotSllUc05yalh1MmsyV2JITjg3VDRpSi1pbXFOVnAxRXhB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-09-09-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hyundai Steel-POSCO U.S. Mill Hosts Community Event in Louisiana - Seoul Economic Daily",
+      "companies": [
+        "posco",
+        "hyundai_steel"
+      ],
+      "related": {
+        "customers": [
+          "hyundai_steel"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTdrSUVud0tlZkVqVXNUTGhtUWNWWkZWMjVNSllhRlBYQkdJenI3ZVdXbDBnWHM4NEU1d3FWVjB2aHZMempXQjhhTVI1dkFxNUlXQXIzTU1pWTJYRjl6X19YMWJZWDVMUjdzYVBHZ2xPRmhqc0lzUEtKblhIY1E2T1VyTWI0SGRsNUVqRGIyemxmeFA4dzM2VGNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's CMRG Suspends Rio Tinto Ore Purchases: Impact on Iron Ore Market - News and Statistics - indexbox.io",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFRzdjhKOGN5WTRNSDltcG1jaTZuenNoRk01NkFwY0p5andESWJhNkxENGYxbzV0RkF3QWtta2xORXRvMWNZTXRBLXNwV1lZZ1BYZzB5R0h3Z0ZndHM2RTVkenJVSFV5cWE3ZV85UzBTaWY3R2txUkl1QXFoYU01bWFGdVc0a3FnWk9KLUZmZVRnZ0lQc3luSm1CT0ZwN085WlJuYVd1aTVPZFR1MnlBcmt3QXlQYU0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-09-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group Updates the Iron Ore Pathway Path (ASX:BHP) - Kalkine Media",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2JIdGlrRmNHR0hfUFFtNGRaOFNyejF1bnduYk5RaF9aa3ZHVXV4cnY4bk94UXowSnBSRThWS2JfRFBKOEJLNExjVThNSGktSmtRaU9BQUM2LWV5LTc4UlBOUmVIV0hEM1dZWlVMc1NOOExwMVlrbGFxdl94dzh2bmJJYlF3Um9YM09mSUxOemdCOFd5MV9MZnRSRFhJUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China has called on steelworks to suspend purchases of iron ore from Rio Tinto - gmk.center",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnR4NXBFSG90RTdydV9QSFlpaTBzLXNUTVNWR1BGN3gtckh0MW1iUlJIWjRYZExOWU9QQVVmcnJRREgzQ3pTNHlKWDNoYnNZYm1HYjEwTmhiUHZyU0N6bHpHa1ZlQjh1QU43SWtNalhiQmpKWWdjc3dBek9UOEZ1RmtJXzN0THVGaDBrZTZsOGNPVjhfaXBsNTRhODFlUnpkOHBYUFhvTy13UdIBrwFBVV95cUxOSklUczU4VzZJOVViQi1MZGZZMG1qRTlYOXRmSTBIOC1BVU54cUxyWFd0bzZwVFFiMU1JWk9XVlAzMHk2b3c4S0p0WFhhX1p0M2REaVdDY2FwZFl6eFpkcnhuOWl0aU5aU005bVVid1J3NFotMGNWZ29NZDU5a04xOFBPbW5xOExzUENYamFJLUltdFBydENaZXZkWEtoZEtFMkRBUExpUHVTSmlld2U0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai_steel",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 4
+      },
+      {
+        "id": "posco",
+        "count": 4
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 3
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 237,
+    "too_old": 208,
+    "gate1_blocked": 25,
+    "gate2_blocked": 17,
+    "passed": 52,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Echecopar adds ex-Rio Tinto legal head in Peru as partner - Latin Lawyer",
+      "Rio Tinto to take over Queensland’s Aurukun Bauxite Project - Yahoo Finance",
+      "Supplying a new era of growth - Rio Tinto",
+      "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - Business Wire",
+      "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - New Castle New"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為力拓、浦項製鐵、Nucor相關動態：「Hyundai Steel POSCO Louisiana mill — $5.8B US Green Steel...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Steel POSCO Louisiana mill — $5.8B US Green Steel Bet - The Korea Daily（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hyundai Steel-POSCO U.S. Mill Hosts Community Event in Louisiana - Seoul Econ...（鋼鐵產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
