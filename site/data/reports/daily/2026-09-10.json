@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:31:36.514243Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-09-10-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Zacks Industry Outlook Highlights ArcelorMittal, Nucor, Steel Dynamics and L.B. Foster - Yahoo Finance",
+      "companies": [
+        "nucor",
+        "arcelormittal",
+        "steel_dynamics"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdU1OaXo2SkNZVlZyWUZyS3N0dmN3RklKelM5WmM3ZXNVYU5DWUFXMnRsQjRXYlRweFM3MGh0U3Y5eXVBUVI2SFYyQVFCWTFOQVZwVHBwamJBUF92U2E1UDU1ZVRBUzEzWl84clAyM1M1dm55bXB3SnVuaThCUU9NSHF6a01ZbF9vdVd3Z2p4RkVPYVFmZnNBanNjdy10WWFIMnQ0cU9HbTdJUVMyQTJBVzJ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fortescue-2026-09-10-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fortescue Share Price Eases Despite Record Iron Ore Shipments - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmRyT1E3R25pM2ZxTHkwaDQ2S3Q2dmZYbU5ueE5PMHg1TzNlWlh5QUNfREdWa3ZwVEZkOVh5SzlZeUw3VW9xTXZKeERONE1HbnlWUnZGVC1DMWQyV2tLNG5lMlllcm9IZkcyZk41OHlmRmxWaDlkcDV3TUFPZEtVNVdtVFJUOFU2SFVudTM2ZEUzUkk0U2JQeXFBWWI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-10-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US Steel Shipments Decline in July 2026: AISI Report - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41Mll3Z3NJaHZDUDZCU2tHeEh5YlIxRDFHZXhDVWk5VTBtckZrc2ZwSUd0THdvOW1yb1VobnRTVHZDSTZlVXR2a0NldXZNV2dzVDJkdWgzdVA2VXJETXdEOE9nZUhkQmtqWGRZYkppVmFIT0M0THpiNg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-09-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Rio Tinto stock sliding today? - Investing.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUNBeFh4V3cxWWNsc1JKM0VGSlY0WlVUTVU0ZEtSaG00UDZEUkQxYVJON0FTYmtrYmVPMGk0Y2J6c0J3ZE9zRkhBVmxsNjd1ZmQydGJwUXhsQkt2d0JRT2tRSmNfdTFnajVscVA3b25ZVS1MMGZnTU1US20wR191LVUxb250ZF9qcTAwYlM2aklVRjJVOXIwVWNldm12ZkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto secures Aboriginal cooperation on newest copper project Winu - Mining Weekly",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUJSX1dvVDRQMUpsZmhNYWo4OE5ZMHNBSnh5YmpKVnVCUUM1ei1mTXlfNGJaaEVqU3cyLWtraGRDM2ZIcV9tV2ZKVmZRaDlSOGtJYlczMm5iVUVXdTNhWUFyLVI5ZmVGUTdhenB1ZDlDTlpNRE1fZ1lPeVZfV2hnY29VcloyYlp1Rm9BcFJlWC16cDRyQ0dPR2NvbzVtUUlCQ2NoSG0yNHlSRkctd2VuZEt6cUZ1VDlrSkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai_steel",
+        "count": 5
+      },
+      {
+        "id": "rio_tinto",
+        "count": 4
+      },
+      {
+        "id": "tata_steel",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 250,
+    "too_old": 195,
+    "gate1_blocked": 26,
+    "gate2_blocked": 19,
+    "passed": 49,
+    "pass_rate": "17.0%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "BHP Stock And 2 Commodity Producers With Cash Flow Levers - simplywall.st",
+      "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+      "Rio Tinto to take over Queensland’s Aurukun Bauxite Project - Yahoo Finance",
+      "Supplying a new era of growth - Rio Tinto",
+      "Echecopar adds ex-Rio Tinto legal head in Peru as partner - Latin Lawyer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為現代製鐵、力拓、塔塔鋼鐵相關動態：「Zacks Industry Outlook Highlights ArcelorMittal, Nucor, S...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights ArcelorMittal, Nucor, Steel Dynamics and L....（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Fortescue Share Price Eases Despite Record Iron Ore Shipments - Kalkine（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
