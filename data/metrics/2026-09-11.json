@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-11",
+  "total_events": 21,
+  "by_company": {
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "fortescue": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "baosteel": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": 0.06
+    },
+    "capacity_utilization": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

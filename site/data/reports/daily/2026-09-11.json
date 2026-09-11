@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:28:05.670425Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-09-11-001",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "BHP, Rio Tinto weigh on miners as copper retreats from record - Capital Brief",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRHl0SlZxOXpnbHJVS2RHZ3R2X3lCeFpCeUtBSnFnMEp3alhkSExManJpbGJmbno2LUVZbXJQQjlkNElLSnlHdTNXZzMtVXFzMnNOU3Vob3BDTFdqTWY4LVY3UHo1a3g4a0RCaUt5alpFekNsbzI2WFFpYm1aRHI4cW5EZEtXR3Mya3RpaUc1QktWUE5yTGRpMjI2VzFTV0xaeW52LVdxd1UtbWoxZnRhTDJ0ekVGOV9VakxBUVQxSTdlY0xIY0JqZmpVVjAwZmhZWXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fortescue-2026-09-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue Ltd Discloses Dividend Reinvestment Plan Allocation Price of AUD 17.4581 - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZDgwOWVMck9mdHpPTW9fQ0dBRVQ0Z2xwQnNMNmFHQWJ4c3MtVXdONUN5YW0zWkt2c3hqRFB0ejV4ZEVlRVlVVlh6RklGMHp4S1R5cTY4Qk54Tk5JcVdEY1dZZHF2M0NZWlhrN1M5OERxYnU4bVdfR21ncWQwb0NHUnZwcTVzY1ZrdFJKUHppUDZ0dGhwSjV1QXBFN0ItWV9aeTR3MEQ3dE5hYUE2RzVsUHlpeWxuRWUxc19GbTc2VWE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fortescue-2026-09-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Does Fortescue Limited (ASX:FMG) Matter for ASX Iron Ore Stocks? - kalkinemedia.com",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWJzdzNEVkZYTEVBSnBTQ2tBQkJBV3h0ZWE3YllsY3ZWeFB3dXJxNHpDa1QtemMyUjhzNk9XRy1WdE5EbkI1R0thOFBKLU1Odk5XSXphY1F4Qzl5Ry04Q1VRb1VRN2N6VFg0Rmx1bnJKMERNRUV6ZGthOVdiV2kyWm5QbjFnSEE1Y2lldjhleEpfcElFUUpFTl9vMDZ6WnRiZWxMaThjUGs3eTBCanFIeQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fortescue-2026-09-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fortescue Sets Dividend Reinvestment Plan Allocation Price at $17.4581 for 2026 Final Dividend - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMnhjTmpkQ1NWbEtfa0UyNk4zTUZaZnZZZXdwaGVmS3pFSWF2NTg4ZVFkdDBndXJFRmluRUUwUkpvc0xqS2Y1dWRna2l4bHpCNnNiVng4N3VWUnBPMTZMWUR1ZkUzZ19Mc2puNkpaNW82MkRVQWR6VmZXVFZCY1h1NUdBMGtiSGZzeXdDbnVZblZUaGxPRUQwa2d2dkVjM3hkek1JNWdoOTF1bElkSm5pcHcwUWRHTXlVNF9FSGZicWQxUV8tWWp5S255d00wVE0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-09-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Moeve and ArcelorMittal will launch a joint innovation platform for industrial decarbonization - WebWire",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yYnQweXpxeEs5c1RjZzZ0Ujg5Yy1UYk5zVGFfdG9JSi01aUIyWTdGRGdqVVluaGRiMGV3b1ltZDNfajVwOU56Y2hYc19YbW11RnhmOVhTZktXY3N5VlNDdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 6
+      },
+      {
+        "id": "arcelormittal",
+        "count": 4
+      },
+      {
+        "id": "fortescue",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 2
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 248,
+    "too_old": 200,
+    "gate1_blocked": 22,
+    "gate2_blocked": 18,
+    "passed": 51,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "BHP Group (ASX:BHP) September 2026: The Key Story ASX Investors Should Be Watching - Kalkine",
+      "BHP Group Ltd Stock (BHP) Moved Down by 5.79% on Sep 10: What Signal Does It Send? - TradingKey",
+      "Rio Tinto falls Thursday, underperforms market - marketwatch.com",
+      "Rio Tinto secures aboriginal consent for Winu copper project in Australia (RIO:NYSE) - Seeking Alpha",
+      "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為塔塔鋼鐵、安賽樂米塔爾、FMG相關動態：「BHP, Rio Tinto weigh on miners as copper retreats from re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BHP, Rio Tinto weigh on miners as copper retreats from record - Capital Brief",
+        "level": "yellow"
+      },
+      {
+        "text": "Fortescue Ltd Discloses Dividend Reinvestment Plan Allocation Price of AUD 17...",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

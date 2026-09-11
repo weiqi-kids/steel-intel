@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 248,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 22,
+  "gate2_fail": 18,
+  "passed": 51,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) September 2026: The Key Story ASX Investors Should Be Watching - Kalkine",
+    "BHP Group Ltd Stock (BHP) Moved Down by 5.79% on Sep 10: What Signal Does It Send? - TradingKey",
+    "Rio Tinto falls Thursday, underperforms market - marketwatch.com",
+    "Rio Tinto secures aboriginal consent for Winu copper project in Australia (RIO:NYSE) - Seeking Alpha",
+    "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -"
+  ]
+}
