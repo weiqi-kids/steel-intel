@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 276,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 24,
+  "gate2_fail": 18,
+  "passed": 35,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Moved Down by 5.79% on Sep 10: What Signal Does It Send? - TradingKey",
+    "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+    "Air quality in Rio Tinto - IQAir",
+    "Rio Tinto secures aboriginal consent for Winu copper project in Australia (RIO:NYSE) - Seeking Alpha",
+    "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - Business Wire"
+  ]
+}

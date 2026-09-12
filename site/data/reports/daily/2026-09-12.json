@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:49:37.589853Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-09-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto, Nokia and Metso: Top 5 Mining Stories This Week - Mining Digital",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFV4S3c3cFFIUERJczl3TnhJbW5fWEdEbVBobUdaUlI5eXBjc3puMVFocERaWW9PZzR2UEU0V3NqaUd6Z3B1eHNzTnNLNGNTOFVaNG45Q1dqTkNsTEdiSE5qWWRKd1luTGJoYXppT3FNQVlMRTBoYm5ybDczOERMYW15eWRTdW5zdXRF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-09-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russian missile strike on ArcelorMittal plant in Kryvyi Rih kills two and injures four - Ukrinform",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQTNaelJHbkRWQmdSeDhpcENvOHZIWHhIVXIxcy1TNDI4VkVlSmVrbTk2NlZ1Tnd1YnVEQlQtZWVQOWxaNzJLdnJHWUhITDFDNXNvVUZFZy1CS3pteXpVbExKa1hIWFJkem1tSlB0WEEyYjJBdVo2eU1QcEIwWmptSmxtYXFWREZmZzVDNkxBNW9jV0ZPN21teUx2WmR0YktRWFN2UWQtalVEYm5nUVQxVFpFOFRxMWx4b1c0Y0RNMzZESUw3TmpQM2lGUHU4ZWpmdnfSAdcBQVVfeXFMUGVBeEhXOG5oX3JxV29Wb21rY2MtcTU4bzZ2Z2VWSGFwWVNHSS0yN0ZSYzVzRVNldzljNzZxZENKQTFvMm1CZTlpSW1FbEprM09LLW0wUWcxUWt2c21NekswNGtlcWU2U3FSQ0R6VGFyYTFkZWtnUXd0YzEybHlFRWY5d085N0szWVRIbUZhaXZYQ050S2FyTl9qLW1ZT0ZHQ3FzcWFUc1l4T1NfajlpN2MtV1pVNkItaENvWU1NR0ZOclRGNHJQNlNCZjBQWEI5bVRNeWRMS3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-09-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Two people killed in Russian missile strike on ArcelorMittal Kryvyi Rih steel plant - Українська правда",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EdUNiMzJTZDVJbm5ibUF3VXBHY01zaXpqYjFVWFZrSGg3elVvZUt2OE1FY2N1ZlIxYThsTXFpbmszVVNzeEl4RFZ0RElZLVF2NV9WUXp3QkZQemI5VWQ0UHlJRnjSAXBBVV95cUxQZGNnRlMtZjZHUk1rS0NqejRyNnlYbnNzX1dlbDZjOV9oaERHOXRCWkhpcGN4dUFsNDdnMEdVajBfY2lPUUJGUm80S3QydGQ1QjZCc21XMFJhdGRZczl2eTNFdXRWTjdHNlhtOFJLZ2Rr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-09-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enemy launched missile strike on \"ArcelorMittal Kryvyi Rih\": two employees were killed and others were injured - Цензор.НЕТ",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelNhR29HcjZwdGU5dFBHWTNOb0RYS3VSLUVWdGc5bmVKYUpFc255UGt0eWpKT3ZJVjM2RGwxcy1pQVVoQTlvVVROUHNDelFjMkFLc0dqb3VHeDNnX2ZZT3E3NHV6bGQtUEEtc21aVHhPU0Q5R3M0WlR5VHFCQ1dIX2RzMDNwTkhjVWc4WnF5Q1U1X0dId04tckM5Qlc3anNOU2xQTXhJX2JBbXpSeFVV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-09-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "russia launched a missile strike on the \"ArcelorMittal Kryvyi Rih\" enterprise: two employees were killed - Українські Національні Новини (УНН)",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1RxMXZrMzFyb1VZRVp3YlJmVkZqY1R2N2x3VzNsWkFzeW9VODdUS3k1Q0xEMTV5TU5SSFRpTlIzS3RvZTVVSTZzUERBUmdUZGpjZ0pzR1RzWS1QVzRVdHJpdGdmM0JfR3NRc0JPWlUzT3hfcUJXUG1rVXRJVkc3eUszQ05SNUZBNUNKeEtmY1BGOUdKNVhrZTlUbzY0V1BKNGlrNldqSVU5MHBud3Zhdk9lV3ZkN0k2WF9OdWp0VUcyQdIBwAFBVV95cUxQMjNUMXBRUzFzM2RKdjlFQU9IWC1NRm9aN2Y3Q1ZKR2dyVmZjTUpaVWJUN3BFbHZaekpmU0NjMXF2dXB4aUFBSF9QLU9uVV9JZEpCakx4VTJOcjlVVHJPeGJaVW03eEtRam51NTlqZG5CZUxCdGpGWXRnQnlla0Y5bTVpMXI0cDRvOFNBeFljT3duMW1fcW5fWG9tdmtnUG13cFBCU0kzeDJtX1BOenBBNHB3VlhSSGM1WXBmdmxKckU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 4
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      },
+      {
+        "id": "us_steel",
+        "count": 1
+      },
+      {
+        "id": "vale",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 536,
+    "dup_title": 276,
+    "too_old": 183,
+    "gate1_blocked": 24,
+    "gate2_blocked": 18,
+    "passed": 35,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "BHP Group Ltd Stock (BHP) Moved Down by 5.79% on Sep 10: What Signal Does It Send? - TradingKey",
+      "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+      "Air quality in Rio Tinto - IQAir",
+      "Rio Tinto secures aboriginal consent for Winu copper project in Australia (RIO:NYSE) - Seeking Alpha",
+      "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - Business Wire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為安賽樂米塔爾、力拓、塔塔鋼鐵相關動態：「Rio Tinto, Nokia and Metso: Top 5 Mining Stories This Wee...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rio Tinto, Nokia and Metso: Top 5 Mining Stories This Week - Mining Digital（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Russian missile strike on ArcelorMittal plant in Kryvyi Rih kills two and inj...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
