@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-13",
+  "date_range": {
+    "start": "2026-09-07",
+    "end": "2026-09-13"
+  },
+  "generated_at": "2026-09-13T12:58:05.433772Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-09-11-001",
+      "date": "2026-09-11",
+      "title": "BHP, Rio Tinto weigh on miners as copper retreats from record - Capital Brief",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 136,
+      "last_week": 142,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.06
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.17
+    },
+    "trade_policy": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 8,
+      "sentiment_avg": 0.37,
+      "rank": 7
+    },
+    "rio_tinto": {
+      "event_count": 26,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "fortescue": {
+      "event_count": 10,
+      "sentiment_avg": 0.3,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "tata_steel": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nucor": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "us_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hyundai_steel": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "posco": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 6
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "baosteel": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 14
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 283,
+        "last": 346,
+        "change_pct": -18.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-07",
+      "event_count": 42,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 81,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 52,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 51,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 42,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-07 ~ 2026-09-13）共 283 則事件，重點為「BHP, Rio Tinto weigh on miners as copper retrea...」。FMG、必和必拓表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

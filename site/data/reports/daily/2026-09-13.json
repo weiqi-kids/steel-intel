@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:58:05.298072Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto said it has secured Indigenous consent for its Winu copper-g - Shanghai Metals Market",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVEN3eGF1ekZ0MmZrUGxrbFR1U3hiZFFmeEVOOUdzVzMwZjJyRGJHYW9nOWlpcVJZLW55STBLb2Q0NEhyZnI2LWhueTVVcDRLajBuRWhWWW4tTEg0Tl84dHo1VVc2QmlLNGZKeGw5ZWNycl9vQXZDNmlMV0pwZE9EamVjWHJNTVluM3hQdVM2QWFBTjNyLUhnYnRXSVlIX0JyZzJZNERfYUNqSXZmR2xlQlJPME9oSU92S1NyckdXVldncXNsLUl0UDBERXM2ZkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sharon Wyatt Obituary (2026) - Rio Tinto, Nevada, NU - Moab Times-Independent - Legacy obituary",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNG9VeDUwZGltTUNOR2pRWms2M01nS0h4YW9tQzFFbklrckN3a0tQU3Ezc3dZTk40OU1IZjVMazRtQmFKb2dsbElfS3hNbmhzWlR4TmFjby1qT2Y2OXRnbXBaTnh6SHVQU1Z1ZWNhQk9ZTkZxSmVEQ0w2Skx4UU0wNlZET1FKX0x6d1ducmh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_steel-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel Harnesses AI to Reinvent Industrial Safety - Indianweb2.com",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlotZ1lpRk1xd2pMZ2JKeHNhZ20zckFGaWdqa2dTRFlaWWtDWFFiNDNMS0VWTmJpRlJsanl5WGR4b2IwX1pMR25wSVk2UEdwUHBhMk9jQ1kwY2llbk5aNTFYNnNVeUJNVXQ1VnBVQ2FlRnBUMTFGZndCSG55Y2RSUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 2
+      },
+      {
+        "id": "tata_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 537,
+    "dup_title": 292,
+    "too_old": 193,
+    "gate1_blocked": 22,
+    "gate2_blocked": 16,
+    "passed": 14,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+      "Rio Tinto air quality map - IQAir",
+      "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - Business Wire",
+      "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - New Castle New",
+      "Supplying a new era of growth - Rio Tinto"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為力拓、塔塔鋼鐵相關動態：「Rio Tinto said it has secured Indigenous consent for its ...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rio Tinto said it has secured Indigenous consent for its Winu copper-g - Shan...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sharon Wyatt Obituary (2026) - Rio Tinto, Nevada, NU - Moab Times-Independent...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
