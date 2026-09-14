@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-14",
+  "total_events": 28,
+  "by_company": {
+    "arcelormittal": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": -0.02
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "steel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity_utilization": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

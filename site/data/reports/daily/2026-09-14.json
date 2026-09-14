@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:35:33.664304Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-14-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Metinvest ended the first half of 2026 with a loss of $202 million",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/metinvest-ended-the-first-half-of-2026-with-a-loss-of-202-million/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Boost to Guinea-China Iron Ore Trade - Port Strategy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDdzeVdEQzhvWjlTV3NneGdKWnJFbERmZ1ZoaEFISnY2cV9tV1RqZ0NqTVIwLXE1NTJ0a0x5UWI1MWJEMFFtMTRUQXFCMndpQUg1UXBNZjNFUkVmaURaS283NHJ2U3ZEZW5GaFV0Z3hMTFZrTXhzc1ZSLUZaOEU5ZWQzZEFPNUNHeEx3T25R?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ArcelorMittal statement regarding missile strike on its Ukraine plant - Yahoo Finance UK",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmZKZlpoVEdzS2NNc294UG1JWjdRNm83N1N2WjBRcWUyZEF6YXJRVGJHUVp6U01WV2hMQmstMEFtZGZnb25LeFdVT1FKLVBCaEVqOFNHODZXc3hQOU9SbFZNWTFpN0JiekE0aXprcFZxR1pDWGNZeU9scHhYVm9ZUHJ0Yi1zVXRucUFXdGY2VnhRVGxSYm9ORHhPQjdwQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-09-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Steelmaking stops after a second missile strike at ArcelorMittal’s Ukraine plant - Stock Titan",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVJacHgwWFBtMllFaENxdW9BQkd5UzRTTVlCb0huZEh6c0N2QzJQZ1F3LWpoQkY4Y0dBSTlEeHdOeWFwcVZ4cy1CWTRyV0tfY29DZmY1LVVLeW82amtKSzR0TlN1czZhczA4QlV2R203WjNqME16OHNKa2ZwTDBtWkNjaWJnQ2pNOWdRUWNTM0tFVExFcloxY0stZVd6YlRwajZHbHNZYllWYzRzcmpLckxCUFVpYTAx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-09-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arvedi bids for Italian auto steel distributor AMCLN after ArcelorMittal withdrawal - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXc2TFVaUDNCa25EVVUwMDlqdVZmeV82ekNkVzhic2lFRVVkdlJhSVhmSnVwZFZUZ3Y0VzkzMWRIV1RzM3hKOUh2VkJmaG9FdUdkU3FZUmFKUjlCLVFQMzhuX205SkJHZm5MdHB4SGc0b0tFT0R2b0JFdmRFSzdnWGhPWG9iZDNvM0o4bkh5VUNaZXZIXzRlWDlFdjJTN1AxYXZjLUIySWdrUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 10
+      },
+      {
+        "id": "tata_steel",
+        "count": 6
+      },
+      {
+        "id": "posco",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 265,
+    "too_old": 195,
+    "gate1_blocked": 22,
+    "gate2_blocked": 16,
+    "passed": 41,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+      "BHP Group, Rio Tinto Shares Drop as Copper Futures Decline - marketscreener.com",
+      "Rio Tinto air quality map - IQAir",
+      "Ngarlawangga Aboriginal Corporation and Rio Tinto sign Interim Modernised Agreement - Business Wire",
+      "What Does Fortescue's (ASX:FMG) Chart Say After Record Cargoes? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為安賽樂米塔爾、塔塔鋼鐵、浦項製鐵相關動態：「Metinvest ended the first half of 2026 with a loss of $20...」。主要關注主題為鋼鐵產業通用、貿易政策、鋼品價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Metinvest ended the first half of 2026 with a loss of $202 million（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Boost to Guinea-China Iron Ore Trade - Port Strategy（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
