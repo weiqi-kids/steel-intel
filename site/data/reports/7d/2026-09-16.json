@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-16",
+  "date_range": {
+    "start": "2026-09-10",
+    "end": "2026-09-16"
+  },
+  "generated_at": "2026-09-16T12:57:42.528222Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-09-11-001",
+      "date": "2026-09-11",
+      "title": "BHP, Rio Tinto weigh on miners as copper retreats from record - Capital Brief",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 127,
+      "last_week": 149,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": -0.0
+    },
+    "capacity_utilization": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 8,
+      "last_week": 3,
+      "week_over_week_change": "+167%",
+      "sentiment_this_week": 0.06
+    },
+    "trade_policy": {
+      "this_week": 3,
+      "last_week": 11,
+      "week_over_week_change": "-73%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 17,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 7
+    },
+    "nucor": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "arcelormittal": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "tata_steel": {
+      "event_count": 23,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hyundai_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "bhp": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "baosteel": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    },
+    "vale": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "posco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 8
+    },
+    "cleveland_cliffs": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "warrior_met": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 269,
+        "last": 331,
+        "change_pct": -18.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-10",
+      "event_count": 56,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 46,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 15,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 52,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 52,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 42,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-10 ~ 2026-09-16）共 269 則事件，重點為「BHP, Rio Tinto weigh on miners as copper retrea...」。寶鋼表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Nucor",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

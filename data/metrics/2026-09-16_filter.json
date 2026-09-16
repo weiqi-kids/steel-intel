@@ -1,0 +1,16 @@
+{
+  "total_raw": 535,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 190,
+  "gate1_fail": 21,
+  "gate2_fail": 20,
+  "passed": 72,
+  "gate2_samples": [
+    "Rio Tinto Group Attracts Private Equity Interest for Potential Infrastructure Sale - marketscreener.",
+    "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+    "Rio Tinto air quality map - IQAir",
+    "Rio Tinto stock heads into the open after a 2.3% New York drop - ad-hoc-news.de",
+    "BHP Group, Rio Tinto Shares Drop as Copper Futures Decline - marketscreener.com"
+  ]
+}

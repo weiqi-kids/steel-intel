@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T12:57:42.393309Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s central bank sounded alarm on ‘unfavourable’ iron ore pricing - AFR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV0pVWkZPc2JwYVdGUnJLa3VwZkJZcGFIZUlSUnpYYXY5R1VzYk1tQ1hLRmMzdGxZdDlidGZ3QkZQV1ZVcHhlNE1uby15eXdjRmkybnJOSUVwYnphSXJKaGlXSUxHU0JyTnpJRURLZjE0eENWMGs1eEJXS1pLdFhOVzljaHhXSTNnTGtHc1FYTHBqMDExbjJqZnFkY1dCUDlySklFbnk4QVNpSkk5elMtQ2Y0VkRLaFN1enJGcA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-09-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is BHP Group (BHP) Moving Into Market Focus? - Kalkine Media",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQjBNQjVSYmoyTjJsVm94ZWJMai1jMFRWakJsYWZkbG10SjVlYzBuMmxRVjZVX2hucGJiZEhuNHlwUmk4dG52SzVKTVpzSTFjZ3oxVHdhbXVQTTh3Zld6eVFreEhTUkNXdWllaFRsQTBPNFJvcmszb096TTZ1OExFRUJxT1YtRlM3Z3FXeVpmMlV2MGNhMzFwNFBxOVF5QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-09-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore, Rio Tinto and South32 unit begins implementation of US$980 million project in Brazil - BNamericas",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTBZVHlQdHdhWks0X0xuV2s3S2U5cXFHbXUzRTl0aXNiTzRMMlhDMlk0RHVtSTNuRVZWRDliWHA1QjZHLTcybFJJMVZRbHdnVTA4NXBndkdQQ3V5YzgyTHhUOXFCZUUzMjIyUjlfNGIzaXNOZDVRUDF0MnRSc01oaUVUbHpiX1hxM0xpdTVNMHJLTG5uQjNuYlU1OHdLZmNWNFRCdlhkR00zd2liaGI3QW5CdzN5bzR0b0g2YWxWZlR3R1B3R1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-09-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mongolia flags higher returns from Rio Tinto deal - Mining.com.au",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kdnp6ekJMSjA1QzdYVThYWUc5VUVZN1JMd2FTTV9HRklYalpSLUdVdHoxa1U2eEUzZ3V5QWFuUVJMb2pkeUlkZFM1S2JXSURDajdlVmNrbFVPLTJsejAtaEo2b2ZMRE1scC1nUEpIdDZ4YUNsemtzRzI3VWg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto expands Perth Wildcats partnership into Pilbara - Australian Mining",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1h3MWJWWm1HeS01YmJFeGtHOS1nVF94cjFvWFRpblA5SkRlYXZ1aHItSVpiT3BGNVU0bmVodDBsTEZXeFJTeG9WbmN4LVMxaU5WV1BLV1ZzeUpfU1pqdnlzZ2FOSVlUUTI3SFJuTWFvTElZZG5iSDAtekFJY3JycEtnUFg4R1ByQ0xOejBkUFhqR0p0dlpXVzd3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 38,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "warrior_met",
+        "count": 7
+      },
+      {
+        "id": "tata_steel",
+        "count": 5
+      },
+      {
+        "id": "nippon_steel",
+        "count": 4
+      },
+      {
+        "id": "rio_tinto",
+        "count": 3
+      },
+      {
+        "id": "suncoke",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 7
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 3
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 535,
+    "dup_title": 232,
+    "too_old": 190,
+    "gate1_blocked": 21,
+    "gate2_blocked": 20,
+    "passed": 72,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Rio Tinto Group Attracts Private Equity Interest for Potential Infrastructure Sale - marketscreener.",
+      "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+      "Rio Tinto air quality map - IQAir",
+      "Rio Tinto stock heads into the open after a 2.3% New York drop - ad-hoc-news.de",
+      "BHP Group, Rio Tinto Shares Drop as Copper Futures Decline - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為Warrior Met Coal、塔塔鋼鐵、日本製鐵相關動態：「China’s central bank sounded alarm on ‘unfavourable’ iron...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China’s central bank sounded alarm on ‘unfavourable’ iron ore pricing - AFR（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Why Is BHP Group (BHP) Moving Into Market Focus? - Kalkine Media",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
