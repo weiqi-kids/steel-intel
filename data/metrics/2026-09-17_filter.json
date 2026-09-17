@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 22,
+  "gate2_fail": 25,
+  "passed": 69,
+  "gate2_samples": [
+    "Investors say BHP emissions surge shows policies not working - afr.com",
+    "Rio Tinto air quality map - IQAir",
+    "Rio Tinto PDMR Ben Wyatt Buys 200 Shares of Rio Tinto Limited at AUD 165.884 Each on 17 September 20",
+    "Nyangumarta Warrarn Aboriginal Corporation and Rio Tinto sign milestone agreement for Winu Project -",
+    "BHP Group, Rio Tinto Shares Drop as Copper Futures Decline - marketscreener.com"
+  ]
+}
