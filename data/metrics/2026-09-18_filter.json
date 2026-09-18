@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 21,
+  "gate2_fail": 20,
+  "passed": 79,
+  "gate2_samples": [
+    "Rio Tinto stock gains as London price crosses 200 day line - AD HOC NEWS",
+    "Rio Tinto (ASX:RIO) Tests Two Paths Toward Electric Mine Haulage - Kalkine",
+    "BHP Group, Rio Tinto Shares Drop as Copper Futures Decline - marketscreener.com",
+    "Fortescue Appeals Federal Court's AU$150 Million Compensation Award to Yindjibarndi People - markets",
+    "Is SunCoke Energy (SXC) a Great Value Stock Right Now? - Yahoo Finance"
+  ]
+}
