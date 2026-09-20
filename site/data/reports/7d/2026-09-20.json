@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-20",
+  "date_range": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "generated_at": "2026-09-20T12:46:44.618018Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-09-15-006",
+      "date": "2026-09-15",
+      "title": "BHP, Rio Tinto Shares Fall 2% as Iron Ore, Copper Prices Decline - marketscreener.com",
+      "importance_score": 0.85
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nippon_steel",
+      "company_b": "us_steel",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 135,
+      "last_week": 136,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": 0.01
+    },
+    "trade_policy": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 10,
+      "last_week": 3,
+      "week_over_week_change": "+233%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "arcelormittal": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "posco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "tata_steel": {
+      "event_count": 23,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "bhp": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "rio_tinto": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "fortescue": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 9
+    },
+    "us_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "nippon_steel": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    },
+    "cleveland_cliffs": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "tung_ho": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 13
+    },
+    "hyundai_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "warrior_met": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "gerdau": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "cmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 387,
+        "last": 304,
+        "change_pct": 27.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-14",
+      "event_count": 59,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 61,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 92,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 68,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 85,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-14 ~ 2026-09-20）共 387 則事件，重點為「BHP, Rio Tinto Shares Fall 2% as Iron Ore, Copp...」。鋼鐵產業通用、焦煤與廢鋼、鋼品價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "浦項製鐵",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 23 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
