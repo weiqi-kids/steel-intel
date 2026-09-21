@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 206,
+  "gate1_fail": 15,
+  "gate2_fail": 23,
+  "passed": 61,
+  "gate2_samples": [
+    "Prysmian, Rio Tinto to supply Amazon data center in Ohio with low-carbon aluminum - Data Center Dyna",
+    "Rio Tinto partners to deliver aluminium cables to Amazon data centre - Aluminium International Today",
+    "Prysmian and Rio Tinto to supply low-carbon cables to an Amazon data center - marketscreener.com",
+    "Two Tasmanian devil specimens came out of Juukan 2, the Pilbara rock shelter Rio Tinto blew up in 20",
+    "Prysmian, Rio Tinto partner to bring low-carbon aluminum to Amazon data center - The Lufkin Daily Ne"
+  ]
+}

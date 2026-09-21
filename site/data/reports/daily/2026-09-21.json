@@ -1,0 +1,274 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:42:34.244532Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-09-21-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP (ASX:BHP), Rio Tinto (ASX:RIO) and Fortescue (ASX:FMG) Face Changing Iron Ore Supply - Kalkine",
+      "companies": [
+        "rio_tinto",
+        "bhp",
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2xVLVYyNEt5ZmthX3d6TkRnYjBUTDRpTTNJZVdybW1rUzJFR1l2OHMtLWI4UEpxamVISUxnZ014YXlVZjlsbTM2Z1N2QWxYVEZCNzVtYWt3UXZDZmliNHZxb1RsZGhncXlRUEtTem9ubzV3MDVmejc3VG9NSGd2dUp0UEcwVHJBTFNmU3Q2QzZuUEVsRzR6aHpxQWlCaU9RQmlpNEJ6V25mOGhUZFo2N2FBbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-09-21-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal Brazil Long Products recognised as Brazil's leading metallurgical company for occupational health and safety - ArcelorMittal",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOc0FSY291RzF0S1pNM29nQW82SGtZSkZpX190WFR4Q1VLQjl3cmJFNE1Hb2VYdmw3WFFCMHhJWWE1RF9RNWVpSDBmUXFnaUxQbGtMNmcyeVo1OVlzbW5oMjZteUQ0VXNLbU5fVGppQ1Z4TUVPdmZLd2hZRDU2cEdtV21xNjlvTUphekVyTFpuX1RYWS1SQ0NDNTNFcEhIWE82T1JvOVpRZkNCdFZYQVlqaW84eDYyLXJ1dXdLMjJPMjN4N2VwRTJGaVFDUW02UERoTW9hVGRwUjdDQVgyMG9EalA4akM3a0o1NlFncE9qNkNOdmx1TW5zd19BZ25ySk1XQW9NeUJ5X1R1dlRwMzYyNk05MlBDSnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-21-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Italy’s steel production fell by 3.5% y/y in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/italy-s-steel-production-fell-by-3-5-y-y-in-august/"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-09-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP, China Baowu extend steel decarbonisation work - Mining.com.au",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lSkZKT2trTVR2b1ljcU1tUUdxNDR0YmduU2VxNXhiZVhidlB6cWxyMjh1Ull5TUpyVGNqQ05Lc1hBb0lFS0RnLTduY3NIWkhzdGtLZVdkbDBEZ1ZvS3lfY1l3SnVnT01TdDhnWDBJa0Riem1HNU91OWtKZng?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto, Prysmian supply ELYSIS cables for Amazon - Mining.com.au",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bDNjcF9KLVhKNDlYU1FiUFY4SnJlZU9yRFBUdVljcEJSOHJoR3hEd1ZYWFM4cDlPb0dreHR5czlPNFltcTA5Rk5vY1AzckdjLXhPSXRuYmEtM0FlbGJlWWYxdXV1OU9CVXVaSmZEdHg1TUVNYXl6eWZWNVhGZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 35,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 10
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "steel_price",
+        "count": 3
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 540,
+    "dup_title": 235,
+    "too_old": 206,
+    "gate1_blocked": 15,
+    "gate2_blocked": 23,
+    "passed": 61,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Prysmian, Rio Tinto to supply Amazon data center in Ohio with low-carbon aluminum - Data Center Dyna",
+      "Rio Tinto partners to deliver aluminium cables to Amazon data centre - Aluminium International Today",
+      "Prysmian and Rio Tinto to supply low-carbon cables to an Amazon data center - marketscreener.com",
+      "Two Tasmanian devil specimens came out of Juukan 2, the Pilbara rock shelter Rio Tinto blew up in 20",
+      "Prysmian, Rio Tinto partner to bring low-carbon aluminum to Amazon data center - The Lufkin Daily Ne"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為塔塔鋼鐵、Nucor、力拓相關動態：「BHP (ASX:BHP), Rio Tinto (ASX:RIO) and Fortescue (ASX:FMG...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "BHP (ASX:BHP), Rio Tinto (ASX:RIO) and Fortescue (ASX:FMG) Face Changing Iron...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ArcelorMittal Brazil Long Products recognised as Brazil's leading metallurgic...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

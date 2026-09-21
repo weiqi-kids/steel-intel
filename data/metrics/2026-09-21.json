@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-21",
+  "total_events": 46,
+  "by_company": {
+    "rio_tinto": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bhp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "jfe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 10,
+      "sentiment_avg": -0.2
+    },
+    "nucor": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 45,
+      "sentiment_avg": -0.03
+    },
+    "capacity_utilization": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "steel_price": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "iron_ore_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
