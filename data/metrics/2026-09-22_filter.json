@@ -1,0 +1,16 @@
+{
+  "total_raw": 529,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 19,
+  "gate2_fail": 28,
+  "passed": 62,
+  "gate2_samples": [
+    "Prysmian, Rio Tinto to supply Amazon data center in Ohio with low-carbon aluminum - Data Center Dyna",
+    "Rio Tinto partners to deliver aluminium cables to Amazon data centre - Aluminium International Today",
+    "Prysmian and Rio Tinto to supply low-carbon cables to an Amazon data center - marketscreener.com",
+    "Prysmian, Rio Tinto partner to bring low-carbon aluminum to Amazon data center By Reuters - Investin",
+    "Prysmian, Rio Tinto partner to bring low-carbon aluminum to Amazon data center - The Lufkin Daily Ne"
+  ]
+}

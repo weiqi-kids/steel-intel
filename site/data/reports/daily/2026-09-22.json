@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:59:44.740232Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-09-22-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nucor and Steel Dynamics Just Pulled Back—The Steel Story Still Looks Strong - MarketBeat",
+      "companies": [
+        "nucor",
+        "steel_dynamics"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkdqX3U4Ri00TjVsVm5NMm1HRW5JclUxdlhKTFJZMUNlRk5Kc1ZBa3Z3dmY1OG9RUEdGSTBFbDVhX3RSZW05RFNhV01CYXphNWplWElGUV9SMGotU1N3VWNHUDNXSjRFN3JYWVhNdVBwUF92eTNncFUwUnR3R0g2UmhlMWdEQVIxN3NDaDJKelI5Tk9RVDBIRGx5QmNVYjZEVDM3YmxoXzBTX04xVklseHdn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "us_steel-2026-09-22-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. Steel project could help reverse decades of manufacturing decline - WVTM",
+      "companies": [
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelR4NTZHQVdqSkM5NFM4bm9XeHpqUTlkUlJiM3dOa2JaV256b3ViNXJFQl9mSkViRktqZGx0OTV2OFpuTm9DMGNJZGFWMHFCNUMzOE1lMXlCSTY3ZHV4b2ZJWjJWWnVySHhELUtUanlIaFBnR1d5SzlJcEY3SEczSFQ0cXdLdFgx?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bhp-2026-09-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Decoding the BHP Group (BHP) Setup Inside Metal and Mining Stocks - Kalkine Media",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVVaU082VWJXNFl1TjYzQ3N5R0dveWoybm9OXzAwc05TS0YydjRqeS1sdGVnbzc4aUlfZVBuUTQxQ2U2NFZVOTdLbTJ4b2Y5YjB5QnU0SUp3eXh5RTliTl9Yd3NIRHI5U212bU9POFRTM2pPTEJzRmxTVnp0ZDZzLU9OQlFOZzIyWDFfQU5Ia0dPWVZBSGxpYlF5NF9fc25rUUhpRy1qaE1NNXU1cjNGcU92QjdCZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-09-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock holds near its yearly high - AD HOC NEWS",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGdNWHBRVGhoU2lsR3U1Rk43ZlEwNWRGZ2pjZGpEV1hUTFBmTnJVaTRRS3ZHTnNtcVo0MWJ5dDg4aEplNElnUDIxNzhXMExVSDhCb0pEVDhFRkl3Z1otcDdTTWRQdXI0MXhVUDlEM1dybjZBY3NZZV9WekFrcTQ4RU1FNzhDNnBRWmluS3JRZ192VDdCTFlsb2ZnSXFFWnhnejdn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto stock holds near yearly high as analysts diverge - AD HOC NEWS",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFU5ZllBZ1hVYTQ2VWZaY1RxOXVDN1podFh2NzRzUWFZYWFtRzhDM3dSODIwM2VqNFpoUHNqbUEyNGtBVFV2MFFIa3hkZ2pOM1NhLTFYR0gzSFlQMnF4WVFmeW9pSEFtLVE3Y1dJVlNoOVhUOW9oNWV3S1FyZmc2TWxyQWlpMnNZWVZidFdnUDhyUE91ZHN5dHBwTXl5YVNIeHVYSGVXZjhZTU5pYk5rNmZ0dkhDMVd6aFprMzF3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 29,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 5
+      },
+      {
+        "id": "arcelormittal",
+        "count": 4
+      },
+      {
+        "id": "us_steel",
+        "count": 4
+      },
+      {
+        "id": "nucor",
+        "count": 4
+      },
+      {
+        "id": "posco",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 4
+      },
+      {
+        "id": "steel_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 529,
+    "dup_title": 247,
+    "too_old": 173,
+    "gate1_blocked": 19,
+    "gate2_blocked": 28,
+    "passed": 62,
+    "pass_rate": "22.0%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Prysmian, Rio Tinto to supply Amazon data center in Ohio with low-carbon aluminum - Data Center Dyna",
+      "Rio Tinto partners to deliver aluminium cables to Amazon data centre - Aluminium International Today",
+      "Prysmian and Rio Tinto to supply low-carbon cables to an Amazon data center - marketscreener.com",
+      "Prysmian, Rio Tinto partner to bring low-carbon aluminum to Amazon data center By Reuters - Investin",
+      "Prysmian, Rio Tinto partner to bring low-carbon aluminum to Amazon data center - The Lufkin Daily Ne"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為塔塔鋼鐵、安賽樂米塔爾、U.S. Steel相關動態：「Nucor and Steel Dynamics Just Pulled Back—The Steel Story...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nucor and Steel Dynamics Just Pulled Back—The Steel Story Still Looks Strong ...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "U.S. Steel project could help reverse decades of manufacturing decline - WVTM（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

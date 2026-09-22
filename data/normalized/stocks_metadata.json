@@ -61,8 +61,8 @@
   },
   "tata_steel": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-21",
-    "count": 6666,
+    "latest": "2026-09-22",
+    "count": 6667,
     "history_complete": true
   },
   "nucor": {
@@ -91,38 +91,38 @@
   },
   "china_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "chung_hung": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "tung_ho": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "feng_hsin": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "baosteel": {
     "earliest": "2000-12-12",
-    "latest": "2026-09-21",
-    "count": 6354,
+    "latest": "2026-09-22",
+    "count": 6355,
     "history_complete": true
   },
   "hyundai_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6679,
+    "latest": "2026-09-22",
+    "count": 6680,
     "history_complete": true
   },
   "reliance": {
@@ -133,14 +133,14 @@
   },
   "ta_chen": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "spring_rain": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "tenaris": {
