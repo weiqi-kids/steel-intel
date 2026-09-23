@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-23",
+  "date_range": {
+    "start": "2026-09-17",
+    "end": "2026-09-23"
+  },
+  "generated_at": "2026-09-23T13:08:57.966144Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "steel_dynamics-2026-09-17-036",
+      "date": "2026-09-17",
+      "title": "Nucor, Steel Dynamics slide after-hours on below-consensus Q3 earnings guidance (NUE:NYSE) - Seeking Alpha",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 149,
+      "last_week": 127,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": -0.01
+    },
+    "coking_coal_scrap": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.1
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 8,
+      "last_week": 4,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.07
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "rio_tinto": {
+      "event_count": 14,
+      "sentiment_avg": -0.04,
+      "rank": 3
+    },
+    "fortescue": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "warrior_met": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "arcelormittal": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 10
+    },
+    "tata_steel": {
+      "event_count": 30,
+      "sentiment_avg": -0.05,
+      "rank": 1
+    },
+    "cleveland_cliffs": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "tung_ho": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "nucor": {
+      "event_count": 18,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "steel_dynamics": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "us_steel": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 7
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 351,
+        "last": 345,
+        "change_pct": 1.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-17",
+      "event_count": 69,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 91,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 73,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 58,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 25,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-17 ~ 2026-09-23）共 351 則事件，重點為「Nucor, Steel Dynamics slide after-hours on belo...」。東和鋼鐵表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
