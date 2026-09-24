@@ -1,0 +1,16 @@
+{
+  "total_raw": 537,
+  "dup_title": 267,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 18,
+  "gate2_fail": 24,
+  "passed": 37,
+  "gate2_samples": [
+    "Rio Tinto stock rises 0.46 percent after the close - AD HOC NEWS",
+    "Rio Tinto Group stock reports 28 percent EBITDA growth - AD HOC NEWS",
+    "BlackRock Group Ceases to Be a Substantial Holder in Fortescue Ltd - kalkine.com.au",
+    "Fortescue Says BlackRock Group Ceases to be Substantial Shareholder - marketscreener.com",
+    "What could Fortescue (ASX:FMG) shares face next? - Kalkine Media"
+  ]
+}

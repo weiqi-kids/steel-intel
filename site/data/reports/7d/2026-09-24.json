@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-24",
+  "date_range": {
+    "start": "2026-09-18",
+    "end": "2026-09-24"
+  },
+  "generated_at": "2026-09-24T13:03:16.078662Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "steel_dynamics-2026-09-18-019",
+      "date": "2026-09-18",
+      "title": "Xenon Pharmaceuticals, Steel Dynamics, Nucor And Other Big Stocks Moving Lower In Friday’s Pre-Market Ses - Benzinga",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cleveland_cliffs",
+      "company_b": "steel_dynamics",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cleveland_cliffs",
+      "company_b": "nucor",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 150,
+      "last_week": 120,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": -0.02
+    },
+    "steel_price": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 9,
+      "last_week": 6,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.05
+    },
+    "trade_policy": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 4,
+      "last_week": 10,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.12
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "rio_tinto": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "fortescue": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "tata_steel": {
+      "event_count": 29,
+      "sentiment_avg": -0.05,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 18,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "steel_dynamics": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "us_steel": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 7
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "hyundai_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 319,
+        "last": 358,
+        "change_pct": -10.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-18",
+      "event_count": 91,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 74,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 63,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 31,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-18 ~ 2026-09-24）共 319 則事件，重點為「Xenon Pharmaceuticals, Steel Dynamics, Nucor An...」。鋼鐵產業通用、鋼品價格、產能利用率為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
