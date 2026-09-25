@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:07:53.372040Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-09-25-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal to Halt Ukraine Plant Operations and Record About $1 Billion Impairment - Yahoo Finance",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlZLaVZOc1FPcGpMZ3VMSUxxMnQ0eU1sMERUdThTdWZOcEJBYzJreFZ4Q3BqLVE4VWNZdzB3UnM2VTk3T0JJV2V1cTJTTm5LSDJHbUZBVG84elZxZkFpU1RfRmdLYzRJU0ppc1FxUkdTZ3lUdjRqdWtoRElmei1UdjF5UTNHd25ORkNteW0xSE1aU25Zal9MQVlFRVN5WUFhTDhHM0NQMEo0aDNC?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vale-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale has acquired a 30% stake in the Brazilian iron ore producer Ligga - gmk.center",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaXZiaEZCeWx3SmFtZkgzRkhFbWs3b1FDMlFaVktUSDRaazVTd3RnaS1Fb0hIVGZUcHN2cGt2TWhNdlVSTzFSam15S01MeWdhN1MyXzBjLXBFeEs5Y0JzM25CZW1oWXlfbHRGVGprS21pRFhPUnBrS0dYT194bklJbUhsa1BTQkFkRE1rbHkxZmxIRkZHazhuV1ZpNVRSbzRMN0hJ0gGjAUFVX3lxTE9pdmJoRkJ5bHdKYW1mSDNGSEVtazdvUUMyUVpWS1RINFprNVN3dGdpLUVvSEhUZlRwc3Zwa3ZNaE12VVJPMVJqbXlLTUx5Z2E3UzJfMGMtcEV4SzljQnMzbkJlbWhZeV9sdEZUamtLbWlEWE9ScGtLR1hPX3huSUltSGxrUFNCQWRETWtseTFmbEhGRkdrOG5XVmk1VFJvNEw3SEk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vale-2026-09-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale Acquires 30% Stake in Ligga for $190M to Secure Iron Ore Supply - News and Statistics - IndexBox",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2dEZ05TUFF6czVjeG1xbFAzM3RvVjhMeGx2d3IwTnFKQ3RiTTJyc1pUaEpRZThBdmdFLXh3Z2xvMnZWcmgyS1o1Y3dNa1NBRDZDUjRUbVdGOUQxenI3S3Z4dmc3NWZOOENZV3lQMUJwZzF4QWJmYUYyODE2TmpCSWZ5SE5NQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-09-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Plans Move into Third-Party Trading, Marking Strategic Shift in Commercial Business - NAI500",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXRGWkM3ejRMVUlqNnVucXFoYVF1TnhEZS0ybU1HamtwUG41R1ZJTUtfQlJ6ZFk1ak93MFZESTlXdE5kakxWUEhWNFY3aWJOaTktMUctNEFOMjVtdm1vMExpWS13blVON2k3UHVFVEhnS0kxWlBCc1NGLTF6cDVfR2JHNURaVV9yM2EwZXlVdDM3aUNES25lTFVfRFlldkdlU0FBWWItTkhwaUgwdTVpdjZJZVl3d0RhUjlaQnBVZHBWWVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto offloads final newcastlemax pair to Yasa - Splash247",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zTUNlOVRVVXFYMHp1TG1kU05oc24yWENRVU8tcFFtYVhSLWF5Vm9mVEhfRjJZR2toYnNhbVZzV3Q4QUpxSjV4WDBORWM2MV9OTndTakRZZ2EyeXFLYnZVVWxjcUJrSnFoSDExaHdrR0FCdWpsYkhaTWhtbGIzZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 36,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 16
+      },
+      {
+        "id": "vale",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 3
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "jfe",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 534,
+    "dup_title": 254,
+    "too_old": 174,
+    "gate1_blocked": 18,
+    "gate2_blocked": 28,
+    "passed": 60,
+    "pass_rate": "21.4%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+      "Rio Tinto: Copper Is Taking Over, But China Adds A New Risk (NYSE:RIO) - Seeking Alpha",
+      "Rio Tinto to Seek Opportunities Beyond Own Operations - Benzinga",
+      "Rio Tinto stock heads into the open after September 24 trading - AD HOC NEWS",
+      "Fortescue Says BlackRock Ceases to Be Substantial Holder - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為安賽樂米塔爾、淡水河谷、力拓相關動態：「ArcelorMittal to Halt Ukraine Plant Operations and Record...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ArcelorMittal to Halt Ukraine Plant Operations and Record About $1 Billion Im...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Vale has acquired a 30% stake in the Brazilian iron ore producer Ligga - gmk....（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

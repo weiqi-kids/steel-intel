@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 18,
+  "gate2_fail": 28,
+  "passed": 60,
+  "gate2_samples": [
+    "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+    "Rio Tinto: Copper Is Taking Over, But China Adds A New Risk (NYSE:RIO) - Seeking Alpha",
+    "Rio Tinto to Seek Opportunities Beyond Own Operations - Benzinga",
+    "Rio Tinto stock heads into the open after September 24 trading - AD HOC NEWS",
+    "Fortescue Says BlackRock Ceases to Be Substantial Holder - marketscreener.com"
+  ]
+}

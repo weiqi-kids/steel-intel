@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-25",
+  "date_range": {
+    "start": "2026-09-19",
+    "end": "2026-09-25"
+  },
+  "generated_at": "2026-09-25T13:07:53.527110Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-09-19-013",
+      "date": "2026-09-19",
+      "title": "Former Vale Base Metals, Rio Tinto executive tapped to lead steel industry lobby - TimminsToday.com",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cleveland_cliffs",
+      "company_b": "steel_dynamics",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cleveland_cliffs",
+      "company_b": "nucor",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 146,
+      "last_week": 131,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": -0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": 0.1
+    },
+    "capacity_utilization": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.05
+    },
+    "steel_price": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 17,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "warrior_met": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "tata_steel": {
+      "event_count": 24,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 17,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "cleveland_cliffs": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "bhp": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fortescue": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 26,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "jfe": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hyundai_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "us_steel": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "vale": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 284,
+        "last": 406,
+        "change_pct": -30.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-19",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 75,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 67,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 32,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 34,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 41,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-19 ~ 2026-09-25）共 284 則事件，重點為「Former Vale Base Metals, Rio Tinto executive ta...」。鋼鐵產業通用、產能利用率、鋼品價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 24 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Nucor",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
