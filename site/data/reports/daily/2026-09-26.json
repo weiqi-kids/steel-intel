@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:35:49.485848Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russian Strikes Force ArcelorMittal Kryvyi Rih To Suspend Production, Killing Five Workers: 15 outlets compared - NewsCord",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRTJCZlFCZU5jNTIyS3RHYmg1TjQ3NWxsUG9uSmd5SnNzX0tFbmpSRkt5TmN4aFI5VFZtR01aOGoxVTVDVHhNWFJuVTg5TEtFN18wUGJnRFlaYlowWEVpTW9hd2xUNWEwZGdqeWV0VEpvNFBub3I4NjNzYUl5WHdvNUFDQVBlYUFaTXBYYm1uWXlrSXN5OTVaUXlEamRFN2QtOHlpWHNuRGZKMmxKS0V6SFhiSjRmcFF2WjcySGdfc1k4VnZob1lZZER4dVQ5X09qMWZ1SG9aUXNNNFF5a3N3WVRtd3dSTTN1ZEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ukraine war briefing: Russian attacks force closure of Ukraine’s largest steelmaker - The Guardian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaE9PR1hsSjJ4YnBYZHdDUHZFdkNWNzRWc2hMTm1hNkRNaWVVMkp2TDJjZk4wZDdsdS1fUjg1WjczdjM2YTVrUDQ4REhYZEl3UnMydmxjSnI1eEV4dGNPcERYZG5BQjZxd0FNZlRCQzVzZmE0R3o0bVVlX1d1Zm1qa3QxcWZ6TTd3VU41Ni00cktQT0doQlZtWGFGZjNJYWdBR0d3TFM3MnByMERONmhpdUxXTzBOSmlYbzExanRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arkansas’ Mississippi County the new capital of steel - The Arkansas Democrat-Gazette",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnA3LVZaMy00b21YdHc4YncyTkllT2EzSzhuOFByLTFwS181VjE2YmgxWlp4ZVd5a2pNS1B3R2tsN1FUMk01TDBnU1NtMFI0ZGp0Z3JnSjNkV3ZfdDNENkhFeC1JSGtJTTVqZ0EyOFQ5SGx6WWp4ZGtPaFhuRmc0ZjFZT28wVi03X0ZVbFpseUV0SlN5NFJReDdWQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_steel-2026-09-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel gets more time on Dutch deal as environmental challenges persist - telegraphindia.com",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbl9DZkM3Qi14dURwYnQzSXg2UmdyWnhRbV9WdmFVRTl4ZXQ0X3lLakFCV3dQSU1wbHpuWGpUOUxrZkRkbElvcGdGN2tiV1BVaUgxSGlzc1hISmRuZ3MxU2M4RnhRWWxSVnBVUGlFZFJNZXdIbmFRM3k2SkotdjZlRFlGWjJJbkJzU3VQREVzc2huVUJVVDQ3ZDBvN3JPNno3eW1EYV9xNmNNZVVkMW8yelFFVkxPdWEtR1JPRjNyR2JMUnZheU1Mb005TTHSAdIBQVVfeXFMUF8xWk1VeUZPU0tBRnJqVjlIT3hMVE5GMl9oOXJrVTA1WkFINDFnS2J2OExyUTNJbmRKUUM5OVB0aVRsbGdvZl9VR1VQcVQzLTdIQ0huTFhlRkFhb0tNN0hOcXg3UEx4VzlZRkR1bG1CdEswY1kxOWdaR3VrWTlGdXBPdmwyZkkteGUyNGtYY3Jwb191VEtHNVJSSjVoOXZGamFtZlVOU1NMbkNuQ2dlOVpxM1dfcFEzbWxyaWhjVGlDVE5ON2N4T0J1OVpLWWU0V3NB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_steel-2026-09-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel Friendship Cup 2026: Media 11 Wins, Odisha CM Honours Hockey Stars - Pragativadi",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzVfcnZicGhKQkhVUWhOMXdsT2VoU0J5SWdsZEdfLUswNC1Hdzdla1JvQ09HSnNPejlwQVdna0NkSVVuZFVUbDR6elZudFE2QWVjV2NrX1g2a0toa0pyd0xmUnhXLUh1OFpWN2tYVHdCWFBRdklrQzNQN0tkaW1fTGM2OThWMS1nMEdmdlg4dlNZcm5oTVI5ZkowaWlJQnVEQWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 533,
+    "dup_title": 276,
+    "too_old": 173,
+    "gate1_blocked": 21,
+    "gate2_blocked": 17,
+    "passed": 46,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+      "Rio Tinto to Seek Opportunities Beyond Own Operations - Benzinga",
+      "Fortescue Says BlackRock Ceases to Be Substantial Holder - marketscreener.com",
+      "BlackRock Group Ends Status as Substantial Holder in Fortescue Ltd (ASX:FMG) - Kalkine Media",
+      "Fortescue : Zero Racing appoints Jim Wright as Team Principal - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為塔塔鋼鐵、安賽樂米塔爾、現代製鐵相關動態：「Russian Strikes Force ArcelorMittal Kryvyi Rih To Suspend...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Russian Strikes Force ArcelorMittal Kryvyi Rih To Suspend Production, Killing...",
+        "level": "green"
+      },
+      {
+        "text": "Ukraine war briefing: Russian attacks force closure of Ukraine’s largest stee...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

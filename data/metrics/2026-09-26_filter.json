@@ -1,0 +1,16 @@
+{
+  "total_raw": 533,
+  "dup_title": 276,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 21,
+  "gate2_fail": 17,
+  "passed": 46,
+  "gate2_samples": [
+    "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+    "Rio Tinto to Seek Opportunities Beyond Own Operations - Benzinga",
+    "Fortescue Says BlackRock Ceases to Be Substantial Holder - marketscreener.com",
+    "BlackRock Group Ends Status as Substantial Holder in Fortescue Ltd (ASX:FMG) - Kalkine Media",
+    "Fortescue : Zero Racing appoints Jim Wright as Team Principal - marketscreener.com"
+  ]
+}
