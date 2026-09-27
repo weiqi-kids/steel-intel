@@ -1,0 +1,16 @@
+{
+  "total_raw": 528,
+  "dup_title": 281,
+  "no_date": 0,
+  "too_old": 186,
+  "gate1_fail": 20,
+  "gate2_fail": 19,
+  "passed": 22,
+  "gate2_samples": [
+    "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+    "Fortescue Says BlackRock Ceases to Be Substantial Holder - marketscreener.com",
+    "Fortescue : Zero Racing appoints Jim Wright as Team Principal - marketscreener.com",
+    "Fortescue Says BlackRock Group Ceases to be Substantial Shareholder - marketscreener.com",
+    "SunCoke Energy (NYSE:SXC) Shares Break Above Two Hundred Day Moving Average - Time to Sell? - Market"
+  ]
+}
