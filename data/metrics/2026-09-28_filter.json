@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 24,
+  "gate2_fail": 20,
+  "passed": 67,
+  "gate2_samples": [
+    "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+    "Amazon Taps Prysmian and Rio Tinto for Low-Carbon Data Center Cables. What Does it Mean for Investor",
+    "Fortescue Says BlackRock Ceases to Be Substantial Holder - marketscreener.com",
+    "Fortescue : Zero Racing appoints Jim Wright as Team Principal - marketscreener.com",
+    "Fortescue Says BlackRock Group Ceases to be Substantial Shareholder - marketscreener.com"
+  ]
+}

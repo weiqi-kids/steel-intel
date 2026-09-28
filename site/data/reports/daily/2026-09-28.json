@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:16:52.704463Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nucor-2026-09-28-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nucor Steel Cycle the Ride fundraiser surpasses $220K goal for cancer support - Yahoo",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXFOdmhJLTYwOWJzdXpXdHljV0Z3WXhKbUFQUExQelB3TVpBZkFKT0dCT1hUbkttRlZBdE1zSU4tSnBQMTJlTVBzX0J6STdPcWZMajE0MzJwTmFFR2J6azNkR2lyRUhlTGZ6SURSbHNqSEVZU2szcjZ6dkdZNUZjRVNNU3lLSldIV3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-28-048",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Steel sales in Germany fell by 17.8% m/m in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/steel-sales-in-germany-fell-by-17-8-m-m-in-august/"
+    },
+    {
+      "rank": 3,
+      "event_id": "bhp-2026-09-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group Heads These 3 Australian Dividend Stocks To Watch - simplywall.st",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0VDbnpqWmtlZGpUdEtvV2pCVTl4aEJWUjBwUmpQVTFtc25UZkstV3ZidDJ5dFNTU0E5enZ1UXdqY2dha3phVW5kOXVzNWctTm9GX2dCWWRBT2szeGNXRzFQWk1lZHVUMGFVa01nQV9QREs1bW1naFB4YllHZDVoUjktSWk1dUdtQVo4b1ZCQmN5WUVud0dqXzV1U1FzWkJEVjYyV0RseDl4UVJEY0hrYjhHcFM5SkgtajB0RUJzS0FzUVZtOUFCaDJ2RXJ4UUpY0gHQAUFVX3lxTE5nRUNuempaa2VkalR0S29XakJVOXhoQlZSMHBSalBVMW1zblRmSy1XdmJ0Mnl0U1NTQTl6dnVRd2pjZ2FremFVbmQ5dXM1Zy1Ob0ZfZ0JZZEFPazN4Y1dHMVBaTWVkdVQwYVVrTWdBX1BESzVtbWdoUHhiWUdkNWhSOS1JaTV1R21BWjhvVkJCY3lZRW53R2pfNXVTUXNaQkRWNjJXRGx4OXhRUkRjSGtiOEdwUzlKSC1qMHRFQnNLQXNRVm05QUJoMnZFcnhRSlg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-09-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - Reuters",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzdSRW8ydkdnemJWSUlFelNZX24zY2lmVjZ2aHZ2ZDBld0ZwSEZJUzFvV1dVZWtWN1BMZXZBX0RPREktb3huckpPYWRaT3pVaEZCeks0UkFBQTl6ck43dVdTVUdDcmlBakpOVXdUVXVhT0d4djlQVl9QbzluQUE3NTNiWDd4X1ZXVHpaSmpxNXVMeHppdnlvdjV1SjNXUll0NzNRM0d4N0dQR2lpX0c0Z0ZSZ19IMEQzVjNfemJqdjRRQUt6c1puSk0wTjJ5SEpvT2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto commissions carbon-capture trial at China’s Shougang steel plant - Mining.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1pNYl81ODVSOXJpZXBMSmZCZFFmTWlGSUxJelRiMXBxZlhldzVfRzg1U1F6d0tzU2d2MVRyTnFWSW95U1lLcE16Si1oSzloT3NWdUF6UG1EMkduR3FUUnZqVHpiZk5rUUcxVy1CWlJOOXBaUzc0VkdhTkpMS1FKOHpDd00zbld3NXFhNW1oMzBCcU43SUxGQmM4N09oWUpUTEFB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 52,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 46,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 9
+      },
+      {
+        "id": "tata_steel",
+        "count": 5
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 4
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 46
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 2
+      },
+      {
+        "id": "steel_price",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 536,
+    "dup_title": 256,
+    "too_old": 169,
+    "gate1_blocked": 24,
+    "gate2_blocked": 20,
+    "passed": 67,
+    "pass_rate": "23.9%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+      "Amazon Taps Prysmian and Rio Tinto for Low-Carbon Data Center Cables. What Does it Mean for Investor",
+      "Fortescue Says BlackRock Ceases to Be Substantial Holder - marketscreener.com",
+      "Fortescue : Zero Racing appoints Jim Wright as Team Principal - marketscreener.com",
+      "Fortescue Says BlackRock Group Ceases to be Substantial Shareholder - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 52 則事件，焦點為力拓、塔塔鋼鐵、Cleveland-Cliffs相關動態：「Nucor Steel Cycle the Ride fundraiser surpasses $220K goa...」。主要關注主題為鋼鐵產業通用、產能利用率、鋼品價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nucor Steel Cycle the Ride fundraiser surpasses $220K goal for cancer support...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Steel sales in Germany fell by 17.8% m/m in August（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
