@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:28:33.211933Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-09-29-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Mining giant Rio Tinto is expanding its internal commercial metals tra - Shanghai Metals Market",
+      "companies": [
+        "rio_tinto",
+        "cmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONmY1aThzZFVYTGUzT0sxNjNNYzJUQ01GdlVTYU50dnJBU1o3SVpJcjhRR0U2Ml9wODA2bmlzNzJqcVhlTlhwWDF0ZnM4Zk5Bc2RnaHc0d3h5djdwLXVTcWtrVzR1N3hFNHpuLS01WUo2Tlc5OE1uR25MekNGT2d5aDZveDJ4VGtacFlBekwxaXJQR1Fuei1JZjh6Snh6Z2ZXUlZOTmRtX055enAycEQzNWlGTHo3TTQzdlloZDRYLUlBTDlhbkdva2l3dTBUaFJFd1JoZ0ZxeTVGS1NYaDBuWGN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "us_steel-2026-09-29-036",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "USW exchanging proposals with both Cleveland-Cliffs and U.S. Steel - nwitimes.com",
+      "companies": [
+        "us_steel",
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUt0TTNQMFQ0TXVFMWlESVZxckFxNmdXT1FWRjBOTENFS3dzVUZlNWtBWWs5MDJ6a0hFYVphaEhRZk1zcnVIaDJwVmhaZ1hTYV83dUVkdWhBWUlsRHNmTnE2NW1ZZnBURk1DY1loN0F5RTI4Wmpuc3dpRXpiblRtN2pYZm1SeWV0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cleveland_cliffs-2026-09-29-048",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cleveland-Cliffs is halting production at its plant in Canada due to US tariffs",
+      "companies": [
+        "cleveland_cliffs"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general",
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/cleveland-cliffs-is-halting-production-at-its-plant-in-canada-due-to-us-tariffs/"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-09-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How copper overtook iron ore as the main earnings engine for S&P/ASX 200 miner BHP Group (ASX: BHP) - kalkine.com.au",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcEFRbEo2SDdLd3dwb2Z4dU9GSmItc0F1akYtU1hzS0hNZldYNkFmWGFjV1VrbzJvV1R1dEVRY2lMZllhTThkdEFpWlZGWDYybVpQcFNmT1VTQndNWFZ1LWFTVUExdjc1MmhJRFhqR0tlcEVvczBUc2tidU15OFdBdnJVYzdLbHFvM3V1VmNxZm1KNUpEVzVLYWh4dk5aSTBOZTRXOGV3bzFFaFV5WHZieFl1dE82YUdNQTZrTzRRdnpPVzdzaGFKSnplanRUeUZ1LU5pczZR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Group (LSE:RIO) Leans On Battery Metals Growth, Is It Still Undervalued? - Yahoo Finance",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFNOcTh3ZFFVRjR0NHhxTC1aTV9hMDNfNVBuZnk4ZnU3b0xhb3FDUzhGWWQ5a3E3YVRLNnhnWVlGdW9WOGlFcjZKcUFpUG52T0RIWjBYcTNjQUhmX0g4SVRUTXlGN0oyRXNHc25KWFB5WGhHQjdvMHJZdUNfS2lNU1AzcU9lMkh4YmdBQ1BfbThfQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 52,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 55,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 12
+      },
+      {
+        "id": "rio_tinto",
+        "count": 9
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 5
+      },
+      {
+        "id": "nucor",
+        "count": 4
+      },
+      {
+        "id": "nippon_steel",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 52
+      },
+      {
+        "id": "trade_policy",
+        "count": 4
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 534,
+    "dup_title": 232,
+    "too_old": 163,
+    "gate1_blocked": 17,
+    "gate2_blocked": 16,
+    "passed": 106,
+    "pass_rate": "35.1%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+      "Rio Tinto (LSE:RIO) Stock Could Be Overvalued On Its 107% Run - Yahoo Finance",
+      "Will Fortescue (ASX:FMG) drawing attention among blue-chip stocks? - Kalkine Media",
+      "Fortescue : Zero Racing appoints Jim Wright as Team Principal - marketscreener.com",
+      "SunCoke Energy (NYSE:SXC) Shares Break Above Two Hundred Day Moving Average - Time to Sell? - Market"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為塔塔鋼鐵、力拓、Cleveland-Cliffs相關動態：「Mining giant Rio Tinto is expanding its internal commerci...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Mining giant Rio Tinto is expanding its internal commercial metals tra - Shan...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "USW exchanging proposals with both Cleveland-Cliffs and U.S. Steel - nwitimes...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

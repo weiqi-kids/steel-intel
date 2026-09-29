@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 17,
+  "gate2_fail": 16,
+  "passed": 106,
+  "gate2_samples": [
+    "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+    "Rio Tinto (LSE:RIO) Stock Could Be Overvalued On Its 107% Run - Yahoo Finance",
+    "Will Fortescue (ASX:FMG) drawing attention among blue-chip stocks? - Kalkine Media",
+    "Fortescue : Zero Racing appoints Jim Wright as Team Principal - marketscreener.com",
+    "SunCoke Energy (NYSE:SXC) Shares Break Above Two Hundred Day Moving Average - Time to Sell? - Market"
+  ]
+}

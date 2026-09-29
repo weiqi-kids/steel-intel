@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-29",
+  "date_range": {
+    "start": "2026-09-23",
+    "end": "2026-09-29"
+  },
+  "generated_at": "2026-09-29T14:28:33.354645Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "bhp-2026-09-23-003",
+      "date": "2026-09-23",
+      "title": "What Sets BHP, Fortescue and Evolution Mining Apart? - Kalkine Media",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 168,
+      "last_week": 163,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.03
+    },
+    "steel_price": {
+      "this_week": 6,
+      "last_week": 8,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "coking_coal_scrap": {
+      "this_week": 6,
+      "last_week": 11,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": 0.08
+    },
+    "capacity_utilization": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "iron_ore_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 30,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "bhp": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fortescue": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "arcelormittal": {
+      "event_count": 24,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "tata_steel": {
+      "event_count": 24,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nucor": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "us_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hyundai_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "vale": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "warrior_met": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "jfe": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "cleveland_cliffs": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 5
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 336,
+        "last": 450,
+        "change_pct": -25.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-23",
+      "event_count": 34,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 39,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 86,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-27",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 86,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 62,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-23 ~ 2026-09-29）共 336 則事件，重點為「What Sets BHP, Fortescue and Evolution Mining A...」。Commercial Metals表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
