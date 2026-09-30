@@ -1,0 +1,16 @@
+{
+  "total_raw": 531,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 16,
+  "gate2_fail": 24,
+  "passed": 82,
+  "gate2_samples": [
+    "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+    "Rio Tinto: Copper's Growing Significance Is A Positive - Seeking Alpha",
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - Reuters",
+    "RevoCast signs agreement with Rio Tinto - Recycling Today",
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - marketscreener.c"
+  ]
+}
