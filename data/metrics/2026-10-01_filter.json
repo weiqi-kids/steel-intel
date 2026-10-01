@@ -1,0 +1,16 @@
+{
+  "total_raw": 532,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 14,
+  "gate2_fail": 28,
+  "passed": 73,
+  "gate2_samples": [
+    "Why Is BHP (ASX:BHP) Eyeing China's Golden Week So Closely? - Kalkine Media",
+    "BHP Group: The Market Finally Caught Up With Its Copper Story (Downgrade) (NYSE:BHP) - Seeking Alpha",
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - Reuters",
+    "Rio Tinto Sells Two Post-Panamax Bulk Carriers for $42.8m - News and Statistics - IndexBox",
+    "Rio Tinto: Copper's Growing Significance Is A Positive - Seeking Alpha"
+  ]
+}
