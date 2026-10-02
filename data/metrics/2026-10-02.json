@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-02",
+  "total_events": 28,
+  "by_company": {
+    "vale": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "tata_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "gerdau": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": -0.07
+    },
+    "capacity_utilization": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "steel_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "trade_policy": {
+      "count": 4,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "gerdau",
+      "to": "nucor",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general",
+        "steel_price"
+      ]
+    }
+  ]
+}
