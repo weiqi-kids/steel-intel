@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 306,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 16,
+  "gate2_fail": 24,
+  "passed": 34,
+  "gate2_samples": [
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - Reuters",
+    "Rio Tinto Soccer Clinic - Real Salt Lake",
+    "Rio Tinto: Copper's Growing Significance Is A Positive - Seeking Alpha",
+    "RevoCast signs agreement with Rio Tinto - Recycling Today",
+    "Rio Tinto Sells Argyle Pink Diamonds Brand to Luxury Jewelry Group - Rapaport"
+  ]
+}
