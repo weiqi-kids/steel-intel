@@ -1,0 +1,16 @@
+{
+  "total_raw": 529,
+  "dup_title": 293,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 16,
+  "gate2_fail": 19,
+  "passed": 28,
+  "gate2_samples": [
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - Reuters",
+    "Rio Tinto Reaches Agreement to Secure Bell Bay Aluminium Smelter Until 2031 - finance.yahoo.com",
+    "Berenberg Expects Investor Focus on Rio Tinto's Simandou Project in H2; Price Target Up - marketscre",
+    "Rio Tinto (LSE:RIO) Stock Could Be Overvalued On Its 107% Run - finance.yahoo.com",
+    "Amazon Taps Prysmian and Rio Tinto for Low-Carbon Data Center Cables. What Does it Mean for Investor"
+  ]
+}
