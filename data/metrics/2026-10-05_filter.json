@@ -1,0 +1,16 @@
+{
+  "total_raw": 526,
+  "dup_title": 250,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 21,
+  "gate2_fail": 20,
+  "passed": 58,
+  "gate2_samples": [
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - Reuters",
+    "Rio Tinto Reaches Agreement to Secure Bell Bay Aluminium Smelter Until 2031 - finance.yahoo.com",
+    "Rio Tinto Sells Argyle Pink Diamonds Brand to Luxury Jewelry Group - Rapaport",
+    "Rio Tinto workers fall ill amid major salmonella outbreak - The West Australian",
+    "Rio Tinto (LSE:RIO) Stock Could Be Overvalued On Its 107% Run - finance.yahoo.com"
+  ]
+}
