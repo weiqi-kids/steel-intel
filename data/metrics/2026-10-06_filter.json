@@ -1,0 +1,16 @@
+{
+  "total_raw": 530,
+  "dup_title": 268,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 17,
+  "gate2_fail": 27,
+  "passed": 57,
+  "gate2_samples": [
+    "RBC ups Rio Tinto; Berenberg says buy Domino's - marketscreener.com",
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - Reuters",
+    "RBC upgrades Rio Tinto to Sector Perform on lit... - Pluang",
+    "Rio Tinto secures Bell Bay aluminum smelter operations till 2031 - Kitco",
+    "Rio Tinto Sells Argyle Pink Diamonds Brand to Luxury Jewelry Group - Rapaport"
+  ]
+}
