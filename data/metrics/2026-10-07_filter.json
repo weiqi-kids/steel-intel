@@ -1,0 +1,16 @@
+{
+  "total_raw": 529,
+  "dup_title": 272,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 20,
+  "gate2_fail": 23,
+  "passed": 67,
+  "gate2_samples": [
+    "VALE|Vale SA|Price:14.080|Chg%:-0.070 - TradingKey",
+    "Rio Tinto Plc Stock 12‑Month Price Target Cut to $99.64, Implies 4% Upside - TradingView",
+    "Madagascar villagers file claim against Rio Tinto over alleged mine contamination - Reuters",
+    "RBC ups Rio Tinto; Berenberg says buy Domino's - marketscreener.com",
+    "Which Way for Fortescue (ASX:FMG) as Golden Week Ends? - Kalkine Media"
+  ]
+}
