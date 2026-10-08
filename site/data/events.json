@@ -1,5 +1,845 @@
 [
   {
+    "id": "fortescue-2026-10-08-001",
+    "date": "2026-10-08",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue says dispute with China’s CMRG hits iron ore sales - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ19vU1VpNWJKcmsydlJDaUFBOUVTVGhwNDd5YlFyQVpEeFIycWFIaHFHSHg4ZjJwWnpnVVEwbXVDVFlsOGpBcEJCMk96aXFjWFVXWDV1VGM4QlYxUmhfUGx0d3JhR2lnOUk0WHV5UH",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ19vU1VpNWJKcmsydlJDaUFBOUVTVGhwNDd5YlFyQVpEeFIycWFIaHFHSHg4ZjJwWnpnVVEwbXVDVFlsOGpBcEJCMk96aXFjWFVXWDV1VGM4QlYxUmhfUGx0d3JhR2lnOUk0WHV5UHNaa1ZOeEVueEN6UlFKMFlSLUxvMXlrQUVrTlFyZHpjSjc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bhp-2026-10-08-002",
+    "date": "2026-10-08",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BHP Group (ASX:BHP): Copper Leads FY26 Earnings as Portfolio Priorities Shift - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWhYUllpOEkwNWVxTHFMYTFQUS1oZFhUOEx4VkpQUEk5b1gzamxDOVMyWnFRM1pLRVFSLUlBQ0ZISlllTXY1MWRlMG5ZMEhMMktZbWo3ejU3Z2JSWDd6SHIza3RZS3N0dk8wTFUzM3",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWhYUllpOEkwNWVxTHFMYTFQUS1oZFhUOEx4VkpQUEk5b1gzamxDOVMyWnFRM1pLRVFSLUlBQ0ZISlllTXY1MWRlMG5ZMEhMMktZbWo3ejU3Z2JSWDd6SHIza3RZS3N0dk8wTFUzM3RORTBQQUJHV01kWWdGZVdOQ0hBRlFKNHp3b2VDaWlqZ2lfWEUwQ0dtRFpqZ1MtOE1ibU1SMlpDV1NEYjRS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-08-003",
+    "date": "2026-10-08",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fieldstone Bio Selected for Rio Tinto and Founders Factory Mining Tech Accelerator - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2hTcEt1UDV4ZUVraEJXaEItcnVrSTA4LUs4YlBIUWx4Q2t3eFBldUhYbWVlRTV6cWwtTEpkbzVrOC1Hb0EwLUxJVU92M1BCemtRYUdBSklsSlhnVWFqWmU4N1V6RFUzdVZLcVB2Qk",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2hTcEt1UDV4ZUVraEJXaEItcnVrSTA4LUs4YlBIUWx4Q2t3eFBldUhYbWVlRTV6cWwtTEpkbzVrOC1Hb0EwLUxJVU92M1BCemtRYUdBSklsSlhnVWFqWmU4N1V6RFUzdVZLcVB2QkhmZmZlQTQyRENnRTRQSmZTYTB1Z3J5TDNrVnVER0hmcXFHYkNLTFFzTUt3UHVtY2J3TDVYQXpzT2R4VXFmWEJsWDNXUzhOWnBxUDBDNFd2cDhadTY1U2Y4TjhpMjYzZVAtZWZneDVCNVJxM2E0ejRMRlZsWUMtUXd2Z0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-08-004",
+    "date": "2026-10-08",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Metro Mining’s concern over Rio Tinto’s Aurukun plans brings 3.1Bt bauxite in focus - AL Circle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOckF6OEdYLUVqOVM5cllWVHhDRExHMVg4OFhhOFhWTUNFcDgzOUNQSWtMZGt2VDdZTE9MeGdYN0wyOTIzV3ZPLXRFZUYtVDRvR3RmQ3BKUHV3dHFrQ2FWTXNqbEpNYjExN2Y4WS1rTV",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckF6OEdYLUVqOVM5cllWVHhDRExHMVg4OFhhOFhWTUNFcDgzOUNQSWtMZGt2VDdZTE9MeGdYN0wyOTIzV3ZPLXRFZUYtVDRvR3RmQ3BKUHV3dHFrQ2FWTXNqbEpNYjExN2Y4WS1rTVNXQWNJX1lXdVRTOWhjRUhqMTV2OE45cTJad3RtV1VQR3VxMFhwTlZ6Smd3cWc4WGpoSDBGaEYtYXRGSU1uZ0FUcjRMM2xjVXlULUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-08-005",
+    "date": "2026-10-08",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue Says Dispute With China’s CMRG Hits Iron Ore Sales - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnM4YWhQVDVlXzFGQ0tEbVRxYXFWSlk4c2plTl9jYzJTcDloRW0zTHNCSzRMT2ZwRjMwckxNRHFyeUtEal9kWC03UUJmUEU2Nnc5Z2NBMnEydDdCWmhwbU1OMy11RVNBcm9TU2J4S2",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnM4YWhQVDVlXzFGQ0tEbVRxYXFWSlk4c2plTl9jYzJTcDloRW0zTHNCSzRMT2ZwRjMwckxNRHFyeUtEal9kWC03UUJmUEU2Nnc5Z2NBMnEydDdCWmhwbU1OMy11RVNBcm9TU2J4S2tIbUtKb1VoOVVQakVBNVhYenZLQjFqMkR1dkdEdTBoZ1pCWm9za3U5cXVxNXFweUdXNXJ1bGd0OVNqUUtscTVFMllvYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-08-006",
+    "date": "2026-10-08",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The dispute with China’s CMRG has had a negative impact on Fortescue’s ore sales - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDByYnF3OFBPWVVpMlhDUGZXeXhtZFRVZFlpMXkwN1NlZ0pjQzJnTlZWWjd0bDdwNDdRRUhfeFNLMUEyWE9rc28zWGx0U3FabkdxbVJUbkZiUXpKSUhKdk5jZkdMMUVxRXJvWUxCQ1",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDByYnF3OFBPWVVpMlhDUGZXeXhtZFRVZFlpMXkwN1NlZ0pjQzJnTlZWWjd0bDdwNDdRRUhfeFNLMUEyWE9rc28zWGx0U3FabkdxbVJUbkZiUXpKSUhKdk5jZkdMMUVxRXJvWUxCQ1RSNmJxTmZ3ekI2ZVFtTFdKTkItcll2ckpVQndaZElORGRSMlpGUWRxZ3VYMWItcVhzT0ZwUDBaMUkyRXhR0gGyAUFVX3lxTFA5eTBnOWNPX1ZCTmZ6ZDIwN3lwSG9Zb2daMm42ajJUSTU0NDZ1NzhfQnNYUTc0NzQzMUNEbG5fa2pvVmNRYjFZY1J5SVFhTkxzMm9QZTdxbGt3VEdmZVBLOWlGYzYtQkNrQ3Z3MUtzZGpzbzFIVVR5LUo4V0lHdzFvVEZFaU9JRTd4WFdDMlBVZFNWVzl3MFpZcTNDQmI3SGpxVXQ0REd4ZFUyMDR4RERiYUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-08-007",
+    "date": "2026-10-08",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue Q3 2026 Iron Ore Sales Fall 6% on CMRG Contract Standoff - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmQ2Wmc4dEtiMGVvM1NBYnE4RU9zSXFsRUtZMHR4MG05Qko2aEZDOFlxdTIwU0tfaFdFeHhsRDJnaV9iRjRLMVNfdkJtWFNxcFlNcmtHUy1VRW9zTnY0a3NydDd5Zl94TERhTm53Vz",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmQ2Wmc4dEtiMGVvM1NBYnE4RU9zSXFsRUtZMHR4MG05Qko2aEZDOFlxdTIwU0tfaFdFeHhsRDJnaV9iRjRLMVNfdkJtWFNxcFlNcmtHUy1VRW9zTnY0a3NydDd5Zl94TERhTm53VzgtZEJ5dzBRYV9yR3dNa1hUQkpBWnZTYXZOaHI1ZGlLZWd5V05xdmszeWs1OVp6RFhnWXZPcVA0SG1yUGcz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-08-008",
+    "date": "2026-10-08",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fortescue stock reports a 6 percent shipment drop in Q1 FY27 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnJ5UFZ5eEk4WHdCbnJoakpoTkN0WGUwb3RfUm1YeUdUZHR4dWs1M290aFlYaWgzWVNwREFrTzZPOTcyWjJvS0htZ2pkYTVkZlR6REJqaXRBUlhkSHo4Zk1rSFFiV2JkMFdYUEdxb1",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnJ5UFZ5eEk4WHdCbnJoakpoTkN0WGUwb3RfUm1YeUdUZHR4dWs1M290aFlYaWgzWVNwREFrTzZPOTcyWjJvS0htZ2pkYTVkZlR6REJqaXRBUlhkSHo4Zk1rSFFiV2JkMFdYUEdxb1h6NHNMVTZpeW5WY1NGN0JaMWMwUnh2OHZLN3pDVGJKdVQ3bEx2bmMyNklIQUN4NUNPLTY0WU5TNmZ2dlQ4WW1rTFJTZENqdV9zZ0dz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-08-009",
+    "date": "2026-10-08",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Australian shares slip on Fortescue-led miner selloff; banks limit losses - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObE43eXM3dDF1dS1iVUVqNVJSQm05S2FjS1BodHhNdTdsTmpoT1NsZmV3ZkFrWTNuUy1Ta2t3T2xacG05VHk4VUVTMG5uZEpySExoWkd0ZGFlUVB0blB3cXRZakQ2TDFsSE9RTWNQWW",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObE43eXM3dDF1dS1iVUVqNVJSQm05S2FjS1BodHhNdTdsTmpoT1NsZmV3ZkFrWTNuUy1Ta2t3T2xacG05VHk4VUVTMG5uZEpySExoWkd0ZGFlUVB0blB3cXRZakQ2TDFsSE9RTWNQWWd2VldadUtXUE0xbl9rMnFTRlVyVWlEQ0w0SjE1MllQeDRkLTA1WXpFN3NYdE1WakVvcUJ2TUxoaGw2anBGUjB3aXVpeU1fak55QlNnSHE0U21zVlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-08-010",
+    "date": "2026-10-08",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal (HCC) Ramps Blue Creek Output, Is The Stock Still Undervalued? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcVFfdEhmTDVqa2xTUHJkeEFXdzdGVy1LMzd4VTZIczlYTkh3cUlQYzRWWGdTcDRNZ3FSR3otVUIzejJxN2hFTG5hdlFQN3lHSWpVNjBvMEtsS2FfeDJjSjBOQXFXd3NrUHRpUlRrM2",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcVFfdEhmTDVqa2xTUHJkeEFXdzdGVy1LMzd4VTZIczlYTkh3cUlQYzRWWGdTcDRNZ3FSR3otVUIzejJxN2hFTG5hdlFQN3lHSWpVNjBvMEtsS2FfeDJjSjBOQXFXd3NrUHRpUlRrM2NuRjVMeS1RQXFWbUlFdjZsZlZnQWdaejU5Z2hvTW5Za2Zzc2pROXRXR2RSWFZuQnNsaE4yc014ZDVLeDY1ZlY3OXdKMk9QUVc5emI1NXZ0QjVsdUZkRzROWGMxNFJpQdIB0wFBVV95cUxPdnlGYTFseEh3SmhEYTdpZjlrVHBjelpmaWVIelFHUU5SN3hFTTd2T2Y4dnBVTmVWN0Z0UERtSXNtRmFQZmNhWUJMQ19udll4WkI5c3QzSWZKMVJfd2tKUFJoZzdhNHdEOXVSNXhvWm10ZWpkWUJkcV81LUVGdnkwc2ZrZTMzOWZyanY1T1BCMWZxMGdGcDR5MEk4STZXckRodDhneUE5LXgySDNCdWlXQ2xjWWgwZ3JrWmtNdFNlZzh3azR2T3NDTkctMXV6RTlLdG80?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-08-011",
+    "date": "2026-10-08",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Blue Creek Central to Warrior Met Coal (NYSE:HCC) in Russell 1000? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkx1M2JEMVJDemtRUWlfTW1ZS0FxSmhMZWRYRkt2ck05cG82aHl5djV1MnJtQTIwUXRUeERXWGJoNnhad2JaaEJXYVd0TFVTaTBMMFBUTFNyTGhrdFdQam5CYUlHUDg5OUxTRkZISW",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkx1M2JEMVJDemtRUWlfTW1ZS0FxSmhMZWRYRkt2ck05cG82aHl5djV1MnJtQTIwUXRUeERXWGJoNnhad2JaaEJXYVd0TFVTaTBMMFBUTFNyTGhrdFdQam5CYUlHUDg5OUxTRkZISW51SDZmY2paakRJRU9QelNPdlVLcnNqOWpuWTJQb2pTYW5pX2xwWGJXb1U5NTRCMkhQLW9IYkpfWmpLbmdzM2pVVnlTMlJSMnRQVEZsZk1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cmc-2026-10-08-012",
+    "date": "2026-10-08",
+    "companies": [
+      "cmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Commercial Metals (CMC) Reports Next Week: Wall Street Expects Earnings Growth - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMl80QlVaWVFTZGFjOUUtOEFnV1RuTmF4VDcyLS1lRW82TjRmSlpvWkdidGFSajNKN1lJeDhqMlFMR0ktdzNOdHRvLWRIQmc2TmVtYWJQN3E4cDBBVlQ5WVA4bEVOUmtnVlVLNkxsel",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMl80QlVaWVFTZGFjOUUtOEFnV1RuTmF4VDcyLS1lRW82TjRmSlpvWkdidGFSajNKN1lJeDhqMlFMR0ktdzNOdHRvLWRIQmc2TmVtYWJQN3E4cDBBVlQ5WVA4bEVOUmtnVlVLNkxselV3VlZIaE9fSTNIWVU2U01BOExteVhPVXBuVUNWdjNRQ1lkVTJrX2VadnlMYTRydXNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-08-013",
+    "date": "2026-10-08",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ArcelorMittal Eisenhüttenstadt restarts BF, long-term future remains uncertain - EUROMETAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2NNRWtlbElvaXd5Qm1VR0RYaTFqWnlaQ21EMGwyc3RIejY5bTJCMm1lb1VKb0NSaTBiWjZpWmJfQmQyUTJnNmdlV0I4UFZOMDBQZW5tbGlVaXB0MHVONG1FS1VfWUpwY1ZXMThWZ0",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2NNRWtlbElvaXd5Qm1VR0RYaTFqWnlaQ21EMGwyc3RIejY5bTJCMm1lb1VKb0NSaTBiWjZpWmJfQmQyUTJnNmdlV0I4UFZOMDBQZW5tbGlVaXB0MHVONG1FS1VfWUpwY1ZXMThWZ05jcDdxN2pmMUlUVTlmZF9RV2VNVFNRWE01alRraFZJb2U1aHg5dnNXQzFfdUVDeUdKd3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-08-014",
+    "date": "2026-10-08",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "capacity_utilization",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ArcelorMittal Eisenhüttenstadt has restarted blast furnace 5A after pr - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDJ4TXU4YmNic1Q4UFVyMGtESTg1R3NhU1FQX29CdDRILW1ndEIwZVZDZzVaR1NkZmo1U3ZDcEZUR2JTSlZMUzJGMFFqNkt3aTI4cTlBWXN0NmFCZGFkZ2FaWHZIckhHTERtTzgySW",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDJ4TXU4YmNic1Q4UFVyMGtESTg1R3NhU1FQX29CdDRILW1ndEIwZVZDZzVaR1NkZmo1U3ZDcEZUR2JTSlZMUzJGMFFqNkt3aTI4cTlBWXN0NmFCZGFkZ2FaWHZIckhHTERtTzgySWQ0RkJZUVk2dWpROVZwMThxeFlpZVdjT0RYT1FCU05VVFpQOTNVQXZTQjBFdDdkRElrZF9VOXgyZFhCeFZkRnZfWlJsRDFhLWxFY29Tc2c4QmdjbG41UlVPZE9mMGNZWmZvdmtzVnNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-08-015",
+    "date": "2026-10-08",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal Poland invests nearly PLN 60 million to upgrade dedusting systems at Dąbrowa Górnicza sinter plant - Yieh Corp.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGh4eUQtTUdnNlVHYTB1dGh6UkdXM012dlROQk1KRTVHc1JtV0NhQS1rMEFRVGhReGVnRkt2VVpnLUh3SUVFWHpXaFo4RmQwejE5QVpyd1ZzZTFXRGJJVE16cUg4OVBtTk1wUmQwM3",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGh4eUQtTUdnNlVHYTB1dGh6UkdXM012dlROQk1KRTVHc1JtV0NhQS1rMEFRVGhReGVnRkt2VVpnLUh3SUVFWHpXaFo4RmQwejE5QVpyd1ZzZTFXRGJJVE16cUg4OVBtTk1wUmQwM3VzazdqQnJQT25RWnRrQVVKdTkzQzJiWEgzWWFUbmV2ZkVSUTRMcVpUMDE5ZXlHUVh4bmZ2ZkdHOUxHdUJJa0hycUo5RjlhelgyeHRLbDBOOFg2ekN5NE5fTkEyRWdWX3VfdTNfdlVkMURJTkJD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-08-016",
+    "date": "2026-10-08",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "ArcelorMittal Share: Already Down 20.5% in One Month, Steelmaker Continues to Decline - Ideal Investisseur",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3VkWVdmZC1yQmlCVnhLQjRkMS1ZaE10N08wNWFyMlB0ZmoyaHBpUXlpQUotekNYVk1WVkVtYllGM0QtZEthY3hlMk1jRGFRQjhEaDRlSEtnWmFDbzNaSEZFRmw2dlhKNlR6dTRIaW",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3VkWVdmZC1yQmlCVnhLQjRkMS1ZaE10N08wNWFyMlB0ZmoyaHBpUXlpQUotekNYVk1WVkVtYllGM0QtZEthY3hlMk1jRGFRQjhEaDRlSEtnWmFDbzNaSEZFRmw2dlhKNlR6dTRIaWJ0YVByek9Xejc3MzRobmh1aFluX2U0QVAxU1BaN2dNNnc0LVFaa3dVcWhqY05yaDU0Y0dIRjRPLWZJd21qQm9WWUlkOW5VR2ktMlE3X1dXZDJaWWI3dUxPOU5yem9FZnY1MlBGeHcxREU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-08-017",
+    "date": "2026-10-08",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Bank cut target for ArcelorMittal stock to USD 79.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGZodHMxSUhMNWtMWDZSUmtqOFlTZHNUc21yVnBIaXY2azVTVC1IbjM4bnR3akVTNTNFQ0ZkNG02UXN3eXNHVzl6SENSTFl1RXo1bUtYMVcwa3BzeUJwZ1FybjNyM3NaRi1jdzN4cE",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGZodHMxSUhMNWtMWDZSUmtqOFlTZHNUc21yVnBIaXY2azVTVC1IbjM4bnR3akVTNTNFQ0ZkNG02UXN3eXNHVzl6SENSTFl1RXo1bUtYMVcwa3BzeUJwZ1FybjNyM3NaRi1jdzN4cEl0eGZxVDdvSDAxTjVXOVNtZnhKV0tEUkh5YjZkeHBmRVFOdlAwZV92SGJhZ1pRS2lSOExTNGF1N2ppUjUwSVp6RDNyakRZRWZjUFlreW5wSnl5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-10-08-018",
+    "date": "2026-10-08",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Steel stock falls 1.39 percent on October 8 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEF5X3RQYzAyZWFyUHpJYThDaUdpMG1rSzhMZ3RheEVLMW05ZHJzYmllUllfNHhZcm1QOVFUb0dhTVZUN2w1aklGczVSNTRST0g2SWNaX0cxMjZXYU05NTh6NjhlSjU4ODRqYVVDNV",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEF5X3RQYzAyZWFyUHpJYThDaUdpMG1rSzhMZ3RheEVLMW05ZHJzYmllUllfNHhZcm1QOVFUb0dhTVZUN2w1aklGczVSNTRST0g2SWNaX0cxMjZXYU05NTh6NjhlSjU4ODRqYVVDNVdRQkhnNmVOTUZSTElwR0I5aHVqTTJMODQ4aTlONEVTNk83YUhzeVRSVmJaVzRSOEdxYlVrcEI1d1ZlWWhHWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jfe-2026-10-08-019",
+    "date": "2026-10-08",
+    "companies": [
+      "jfe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JFE Holdings stock falls 2.02 percent in Tokyo trading - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORkFWUUlvUWFkSmdzTV80ZzZDa3lhZmJ5dFVkM18xcjVXR3dnOU5JdkV6LTF3R1lUQUgzTTZJR2FOb0NUcWk3c3NGS0U0eGlFMFpTazhDdG5hQVlYS0VPTl83Z1NWQTFXS21ROUNRVn",
+    "sources": [
+      {
+        "name": "jfe",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkFWUUlvUWFkSmdzTV80ZzZDa3lhZmJ5dFVkM18xcjVXR3dnOU5JdkV6LTF3R1lUQUgzTTZJR2FOb0NUcWk3c3NGS0U0eGlFMFpTazhDdG5hQVlYS0VPTl83Z1NWQTFXS21ROUNRVnEyR2ktYUVhb1M0OGw2dG1xLVJjazR5dTIxLTIxbVFVTXFlaWhwcHQ4ejlZX3hiaDNYV0dzRkgxcWVMM0REUlN2eXAzMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-08-020",
+    "date": "2026-10-08",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel’s India Mills Had A Strong Quarter - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE43bVJ5ZktUcUcwNlFZSWFJaXc1cWxTMWJnMy1MTEluUEtlSHRTanVPZXJYbHV6Mm1zeE1sWWg0a3NiNXlORDZId1pqc2Z1MEFYRmZ5Yk9iZWFyQS1RbFhTQ3ZYbmVpUjRleFZScHBzek",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43bVJ5ZktUcUcwNlFZSWFJaXc1cWxTMWJnMy1MTEluUEtlSHRTanVPZXJYbHV6Mm1zeE1sWWg0a3NiNXlORDZId1pqc2Z1MEFYRmZ5Yk9iZWFyQS1RbFhTQ3ZYbmVpUjRleFZScHBzekZKdnMyNjJuTWNPWDRSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-08-021",
+    "date": "2026-10-08",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tata Steel CEO expects 8-10% domestic steel demand growth in H2 - Yieh Corp.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORWYtbzhKc3hxdUlPblJLNzZlVWUtblZHcFRNNEE4WDFLTlpIZklfRGpHZWF0RzNYYkt1Qm9zVHFIOVM3YmNaNXQxQmVHM1NyT3Rfdll2c1NBa0UxV0VGeWt4cGptX1VFS3hoQ3BHUX",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWYtbzhKc3hxdUlPblJLNzZlVWUtblZHcFRNNEE4WDFLTlpIZklfRGpHZWF0RzNYYkt1Qm9zVHFIOVM3YmNaNXQxQmVHM1NyT3Rfdll2c1NBa0UxV0VGeWt4cGptX1VFS3hoQ3BHUXMtcjJpNkVyYmJJbWRiZGVKdWdiSzR6SmVIeDVjNXpjZ08yQ0FnWlp5aldR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-08-022",
+    "date": "2026-10-08",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel Brings Sustainability to Life in Phase 2 of #WeAlsoMakeTomorrow - TheWire.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3hEYlIybjk5QTlsWUhTZldiSWxxYUs1RFEtX24wV05zTUdJb1Bkd3R1d0xsMDBwU3BpbXA2TFplNmZITDNqS2U1c09GMGZHT192WUNrYTZzenl1REpTN2c1dGdlSExNUkRLRmFDTG",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3hEYlIybjk5QTlsWUhTZldiSWxxYUs1RFEtX24wV05zTUdJb1Bkd3R1d0xsMDBwU3BpbXA2TFplNmZITDNqS2U1c09GMGZHT192WUNrYTZzenl1REpTN2c1dGdlSExNUkRLRmFDTG4zSG1pUWpJVlZFT1N4UGZlSTdqVUNXc3RPQzI1dlVndjMyWkZhVjNEbHZwNERtZ3I2bG01ZXVmOW85ZXgtOEJyUDFn0gG3AUFVX3lxTE1adjhLZE5wODIwQWRLbFN4WGJ6ZGlrT0ZwNFFWNm9UUWZfbWx3cW1KZnJfNGNrWllVeFpxVU5mMkRLS3ZqNmhMMm1maWJTazdYcHFGa2V6TE9RV2xlYVZId19WRjViWnJNQTUyMzBXWDdudmNWVHFnd0RmanpucjZ4QmFRVi05ejdZR1FERXVNelpuNnc3d0xvMl9aanFkMFRLNHQwb2ROd1UyLXFWelAzMmRRcGVIbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-08-023",
+    "date": "2026-10-08",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel Q2 FY27 Crude Steel Production Rises 10% YoY To 6.21 Million Tons - Sahi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRWTlBQOGI4N0M3eEVwOWEtS1NGUFZfelRkWnlZS0RXNHJPb2JOUHZLbWF6TkdmWlZLRU9OWFY2di1XRHl4SEg4NDhGcUFDMVJPYkdzVzdWVGFGLVpUT2ZzbEYxc3NTSDF5WHU4Vz",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRWTlBQOGI4N0M3eEVwOWEtS1NGUFZfelRkWnlZS0RXNHJPb2JOUHZLbWF6TkdmWlZLRU9OWFY2di1XRHl4SEg4NDhGcUFDMVJPYkdzVzdWVGFGLVpUT2ZzbEYxc3NTSDF5WHU4VzRRNHhTbnYwRkVCYjBZLWNiakl3WEtQMXc5SzNKVVQwaDJVMGIt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-08-024",
+    "date": "2026-10-08",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RBA, Black Box, Tata Steel: Jatin Gedia shares 3 stock ideas for today - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnpkUWRBMERxdVFVb1RJRDRpckJURWloZUhveV9oLTh2alBvM0VXUFNzOTBLWFRBR3RhcTEybTV1Zmo2TkpwcnJZd18tSTFHRjRMU2R3aTI0ZzRYLVUzUXBMZGlNa1F6ejZnNHRBTk",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnpkUWRBMERxdVFVb1RJRDRpckJURWloZUhveV9oLTh2alBvM0VXUFNzOTBLWFRBR3RhcTEybTV1Zmo2TkpwcnJZd18tSTFHRjRMU2R3aTI0ZzRYLVUzUXBMZGlNa1F6ejZnNHRBTkhva0xRMFJXa3cyV3hHOFlVLUZtY2ZEQ2NqZEFSOUdWWWNGc2l1ejZXSDBXM1QyQnU1SVQ4UXA0V0FZM19JcktUOHAwendWZlNFSTFkX1p2dmF0VXhYV0lhX2k1TktsN0XSAdQBQVVfeXFMT1YwM1YxdWRiODJkVzNBWTRfRVBUN0JKNEhrZkpfYy1SNkxuMDFkQXYtRFczdHlaZUZ5b0NzY21TYk1rNUNBdUFzQ1JDck5JcVljNzNuV1NRWGtaZm9LQWdrMXpRWjRkaXlsQThtc0dBeUpKVURIeEs4dnE3LWJUTkl3U0NGVnoxb2k4V2MyZ0lacXU4VzBlVjJaN1pBSXZjVzc3aTNKeU9rNVMxeTUwUTFMaHhmYWR4clhhUHdrMF9lZWVzcjNQQ25PRTRvOHhRbzJhdlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-08-025",
+    "date": "2026-10-08",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stocks to watch today: Polycab, Tata Power, Tata Steel, Airtel, Ola Electric - BusinessLine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ3Zkb1U5V1djZnFfY2NZODgzTGxSUzhzbEhjZXRBMHlfcDFNajRvemxQRnNpb09ySEpMWFZ0a1NyTWMyVUJpRXRtRGhsalUxRVdteFBRNjYzMjgwV3dIQ2dPUy1FOHctUFdrMUs4dW",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ3Zkb1U5V1djZnFfY2NZODgzTGxSUzhzbEhjZXRBMHlfcDFNajRvemxQRnNpb09ySEpMWFZ0a1NyTWMyVUJpRXRtRGhsalUxRVdteFBRNjYzMjgwV3dIQ2dPUy1FOHctUFdrMUs4dWlndlRSRm5vZnppRjJHaUFWZ3QwTjJ4WFRTVHo0bjZ3M3p3WGhoM3NyS1lZcnZ1eVYyWkJMVkNNWS1IYkxUVEc2eHZGTVRhWWVNei1UZGVuUjFUQnl2Xy03NFcwM2FidGhoS21Cd1BMMVdfN0lEcXfSAeQBQVVfeXFMT0NfZVZvRDNCUGtwaFljdFdZSWtFWGZoX3pnT3RiLS1MTVR5LTh4U1pWRGotZ1F5Q3NfU1lLXzlScjdnb1RHMHRZY1JwOTY5T2V4LUJBYm5Hc1VvbnJFYVJBbHhjMnpOa2xmQUh3Z3RTeUV0N3NjcC1jVGVmd3pGZmI2TkNNVGY1c0w4aGsxR2tKeVk4NmJwSEpyaUw4OW94aTdrRHE3em5MeUQ4LTJaN0hoMThuTkNPUjRfMWhTazlHUWxya1NaRVg4QktHMFVxS3h5Sko1eVA2Qk4wdkxmYWRuRkRY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-08-026",
+    "date": "2026-10-08",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stocks to watch: TCS, Paytm, Tata Power, Ola, Tata Steel, Varun Bev - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXZTUHdDaXhIcmdxYlNoVFNzUFVPZVhUX1BkeVkydWUyTTMtVnRxZjM5VE5fWmh6NmNndEtLcW9ESmx5NG9DUWJRZV9NTDBzV3JNM2Z3SnFzMGxHa3R1cVBpX2t2c3lkVDB3ZGZ1bl",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXZTUHdDaXhIcmdxYlNoVFNzUFVPZVhUX1BkeVkydWUyTTMtVnRxZjM5VE5fWmh6NmNndEtLcW9ESmx5NG9DUWJRZV9NTDBzV3JNM2Z3SnFzMGxHa3R1cVBpX2t2c3lkVDB3ZGZ1blB1ZHA2cXd3NFdOVzZXNXhzdVdkR3dOMHFXMl9WWGJGcmRIX1lnQmkxdDNRSDFZVkFvMlZLZlZxVVg3LVNGM3ZOWGJYVjh4cVRfejNsb2hDV3ZwSmtKMm1KbHhkTHpmNmRVemRzRk1ERm95UkHSAeABQVVfeXFMUEpCbjh2N2twbFZ5Zmw4Ym12eFJwWTh0Vllsd1hTR285VjhQYmRTRS1VWkQxcWstMTBaRVYzUGJmTnd5MnBBSlo4VDV0RlBWcGR3Mk9PNV9KWm9OS3FSSm93Q0ZSTk1sMTNaOFB0TzdVYm9XbHZWS2lBb3dPVkljME13TW9JMHRRZWZud1dNRU1PWE0tNlUxcExacjF3bjFCU0VwcW5NQ3JCTktBcERiekJGWVdMdlRJcDBlWUVzTUFKeEdFQzRaT0dhV2ZvbVZMcm04Z051QmFrTkIyRGF2QnQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-08-027",
+    "date": "2026-10-08",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Nucor to Expand Utility Towers & Structures Facility in Indiana - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTVsdi1tUFlDNWNoelN2djg1TzVGeVJ5RF9NUENvM2M4NXFzaHM3cEE5Wmw2dkJHRlVsNWJjbmlDX2o5VjVYYVNvLUp6TmlpV2xWc0I1R2lmUlZuajZKaFc5SlZLckJseVRtRHdQdz",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTVsdi1tUFlDNWNoelN2djg1TzVGeVJ5RF9NUENvM2M4NXFzaHM3cEE5Wmw2dkJHRlVsNWJjbmlDX2o5VjVYYVNvLUp6TmlpV2xWc0I1R2lmUlZuajZKaFc5SlZLckJseVRtRHdQdzBwQ2lxc1RjYlhsSGl0aUlseEZVTjhVLUttTjRtMW5HSy1jV1dqemgyZ2dVSFNrYVJmTkdzbDF4UjYyUktfNEZWYnFIQkh2cUJGcVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-08-028",
+    "date": "2026-10-08",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor Corporation chooses additional expansion in Crawfordsville - www.giant.fm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMW93RV9fUUd3aGhSNGZ6X2dEOEg0MXhld1VHMUhxOENnSXNFRndESFJxY29JUGdFcDRXR1ZFSmJRY3JuVWlGem5pWGxrbDJPT01rY0lfMHpKRkJwcHBPWDRJMmVKa0daN2djVlVpMm",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMW93RV9fUUd3aGhSNGZ6X2dEOEg0MXhld1VHMUhxOENnSXNFRndESFJxY29JUGdFcDRXR1ZFSmJRY3JuVWlGem5pWGxrbDJPT01rY0lfMHpKRkJwcHBPWDRJMmVKa0daN2djVlVpMmNwZ3JEeV9QUHdOaEdqak9jVEdEWklXcm1tWE1Od0xPYnN4VDh5dW5OQ3ZnMjhCcWNlWm5XWFZ4QnNrMERoYlpGOFZ6QzU1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-08-029",
+    "date": "2026-10-08",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor announces $105 million Indiana expansion, plans up to 100 new jobs - wowo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2htaTFFVmRxXzVOdFdJREFfWHVJZ3N3eE9xRjFtLUpfWkVVeDlHb3B2cTNNSkFOVXVxUGdXczJOYXJzamRmX3cxSExURTBKX3VfcEIyZ1ZZWW1nN0hVc3FsMWF4dy1RTHVTY2VvRG",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2htaTFFVmRxXzVOdFdJREFfWHVJZ3N3eE9xRjFtLUpfWkVVeDlHb3B2cTNNSkFOVXVxUGdXczJOYXJzamRmX3cxSExURTBKX3VfcEIyZ1ZZWW1nN0hVc3FsMWF4dy1RTHVTY2VvRGgxZzg1Z1hOSnE4c1V0czhERk1QajYzZFJ4MEdYOW1XODlyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-08-030",
+    "date": "2026-10-08",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KeyBanc cuts target for Nucor Corp stock to USD 286 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObWdPaXN2UWhETEs2YzVfeGU3cldGaVMzdE1JWmtfdERRYmNHRVNFTlVpZWMwU1N1RWFIYWZRYXQtNnUtRkc5M3AzTVZTZS15LWpJOWhQYUM2MFR4RnAwQ3VIS3FfWlJDMzkzT2lsb0",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWdPaXN2UWhETEs2YzVfeGU3cldGaVMzdE1JWmtfdERRYmNHRVNFTlVpZWMwU1N1RWFIYWZRYXQtNnUtRkc5M3AzTVZTZS15LWpJOWhQYUM2MFR4RnAwQ3VIS3FfWlJDMzkzT2lsb0s3Ry1PdmFweWI2RjA5RXVfNVNxOElvaGp2LUdUUGRGTml3UGxpSFZLRVdKbDZOS0xQYlRPNTBwNWgxbDB0QXhNMTlkRVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-10-08-031",
+    "date": "2026-10-08",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Why Is Cleveland-Cliffs (NYSE:CLF) Easing as Steel Names Come Under Pressure? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUVZeTBmYmVpanhoUWxua2ZnZmp5X21xWlMxMFVsb1R1WDhSNnItdGZDbTYzdGZ3emdwZU1PNGZNd1BTSG1sWWxTYXJVbmplTzFfcGhUY0p2aW13QVNNOG9QNkFGaTRBNUVjbC1UaE",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUVZeTBmYmVpanhoUWxua2ZnZmp5X21xWlMxMFVsb1R1WDhSNnItdGZDbTYzdGZ3emdwZU1PNGZNd1BTSG1sWWxTYXJVbmplTzFfcGhUY0p2aW13QVNNOG9QNkFGaTRBNUVjbC1UaEw1TF9kRjhOZDNiN3pUVTVDbnNLbnVVYWpqcEdDRl9Wd29DdWJJS1lNTVlnMF9adXE3S2pvLXNqNTlKTExISVpyRk1sZlBJeEpxMG1RZlZ3OFJvSDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-032",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US holds Westinghouse golden share, South Korean lawmaker’s office says - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9DLVpmZHRBRS16RzdVVnBselNMR3BXbVdPZDZ3U3M4bU40S1ZpWlpuWUtjbU1fdWMzaC1KZVZ4LThrci0wcGF4U0hOYVdCT3hPd043UkV5bFBJRDl1TUlOazBfSl9ucnJQRHZ0UW1vQk",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DLVpmZHRBRS16RzdVVnBselNMR3BXbVdPZDZ3U3M4bU40S1ZpWlpuWUtjbU1fdWMzaC1KZVZ4LThrci0wcGF4U0hOYVdCT3hPd043UkV5bFBJRDl1TUlOazBfSl9ucnJQRHZ0UW1vQkwtZlREU2hj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chung_hung-2026-10-08-033",
+    "date": "2026-10-08",
+    "companies": [
+      "chung_hung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chung Hung Steel & CSC Steel Malaysia sign MoU for low-carbon steel cooperation - Yieh Corp.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWY0cm82QmF6SmJIVzRzdkF3SS1zTWtpTVVtamk5Rk4xem9YWllrcUUwMVR5aU9IS081enczTnJNOWNMcWZEOVRjMnZxNzlnZEZvWXRaQ1E3N2hhaUdYSEdqM0dWX2lkdm5mcVIxMG",
+    "sources": [
+      {
+        "name": "chung_hung",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWY0cm82QmF6SmJIVzRzdkF3SS1zTWtpTVVtamk5Rk4xem9YWllrcUUwMVR5aU9IS081enczTnJNOWNMcWZEOVRjMnZxNzlnZEZvWXRaQ1E3N2hhaUdYSEdqM0dWX2lkdm5mcVIxMG1YdzRNRmdUeFY3RGV6MS00RGxES0JsRjRhc1BCbzNaVzJ5RzJ5WUlMY01jQkVNR0J5ZmZPcW50LXJwaHItd0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-034",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "The German Government has revised its economic growth forecasts for 2026–2027 upwards",
+    "summary": "<p>The German Government has revised its economic growth forecasts upwards for this year and 2027. This was announced by the country’s Ministry of Economy. The government expects GDP to grow by 1.3% i",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/the-german-government-has-revised-its-economic-growth-forecasts-for-2026-2027-upwards/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-035",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Celsa’s shareholders are considering selling the company now that it has turned a profit",
+    "summary": "<p>In the first half of 2026, the Catalan steel group Celsa’s net profit reached €50.7 million (including €18 million in the first quarter), signalling a strong recovery following a loss of €107 milli",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/celsa-s-shareholders-are-considering-selling-the-company-now-that-it-has-turned-a-profit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-08-036",
+    "date": "2026-10-08",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "The dispute with China’s CMRG has had a negative impact on Fortescue’s ore sales",
+    "summary": "<p>One of the world’s largest mining giants, the Australian company Fortescue Ltd., has reported a decline in iron ore sales volumes and prices for the third quarter (July–September). This was reporte",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/the-dispute-with-china-s-cmrg-has-had-a-negative-impact-on-fortescue-s-ore-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-037",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A halt to steel production will hit the economies of industrial towns — Metinvest",
+    "summary": "<p>A shutdown of steelworks would deal a significant blow to the economies of the cities where they are located. Yuriy Ryzhenkov, CEO of the Metinvest Group, said this in a video interview with Jacopo",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/a-halt-to-steel-production-will-hit-the-economies-of-industrial-towns-metinvest/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-038",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "South Korea has unveiled a $747 billion energy transition plan running until 2035",
+    "summary": "<p>The South Korean government has unveiled a national strategy for green transformation and decarbonisation (K-GX / Korea-Green Transformation) worth 1,000 trillion won ($747 billion), running until ",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/south-korea-has-unveiled-a-747-billion-energy-transition-plan-running-until-2035/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-039",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "A tariff blow to the iron and steel sector: Ukrainian Railways wants to raise freight rates again",
+    "summary": "<p>Following the blockage of maritime exports via Black Sea ports, the railway has become the main route for the delivery of products from the Ukrainian iron and steel sector. In 2026, the sector’s ex",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/posts/a-tariff-blow-to-the-iron-and-steel-sector-ukrainian-railways-wants-to-raise-freight-rates-again/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-040",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Brazil’s iron ore exports fell by 8% m/m in September",
+    "summary": "<p>In September, Brazilian iron ore exports (excluding pellets) totalled 31.7 million tonnes. This is almost 8% less than the August figure of 34.4 million tonnes. This was reported by SteelOrbis, cit",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/brazil-s-iron-ore-exports-fell-by-8-m-m-in-september/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-041",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prices for square billets in Turkey rose by $30/t in September",
+    "summary": "<p>Mixed price trends were observed in regional square billets markets in September. In the Gulf states and China, prices fell by the end of the month. Prices for Russian square billets in the Black S",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/prices-for-square-billets-in-turkey-rose-by-30-t-in-september/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-042",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea announces huge funding to decarbonise heavy industry",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/south-korea-flag-fabric.jpg\" /></p><p><strong>South Korea:</strong> The government has announced US$474bn of funding over the period from 2026 to 2035 ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21335-south-korea-announces-huge-funding-to-decarbonise-heavy-industry",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-043",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oceanic Iron Ore CEO Chris Batalha Talks About The Demand for Green Steel - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdU54M0J3cHdPYlZxb0s4SFAtdDlzXzFBM19pN1c1LUwwWXl3dlU1M0FYWGpVai14NDZsRDJoczh3SWJhSzBKSWY2cWkwSy1BODFiMkRrNHFyeU9pbUpBVlBkd04xdkxPdlhZbzI0bm",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdU54M0J3cHdPYlZxb0s4SFAtdDlzXzFBM19pN1c1LUwwWXl3dlU1M0FYWGpVai14NDZsRDJoczh3SWJhSzBKSWY2cWkwSy1BODFiMkRrNHFyeU9pbUpBVlBkd04xdkxPdlhZbzI0bmtJQ0FPSWthb29ab0N6cWNHZFlFUzNFWlFmdmZxbzVLX3gzeE1QTDJfaWd2TnI2Vi15cGw4TDlaUDUyb2VQTmluZkExVlRKQzdBNVVWWWNGdlUzZXNZN2FzclZDdTF1TE5SWEY2RUxiTVZNYXktRk9sYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-044",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oceanic Iron Ore CEO Highlights High-Grade Hopes Advance Project as Green Steel Demand Accelerates - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUV1a3VwdWhsRnJqSERaS3JNYnhTQ1BIS2JDNXlOWG5iMExacFdzN09LUml4dkt2WWd5YVhYTDZ5V2hVYnkxck9Nd2l6bXE3c184VDI2QldNTGY2MDdpanJ0WWRXUENPakt6ZXlPYn",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUV1a3VwdWhsRnJqSERaS3JNYnhTQ1BIS2JDNXlOWG5iMExacFdzN09LUml4dkt2WWd5YVhYTDZ5V2hVYnkxck9Nd2l6bXE3c184VDI2QldNTGY2MDdpanJ0WWRXUENPakt6ZXlPYnRBUzJpU1dxUWZkbGFCQUVyeDNZMTlrMnIwNlVnV3BOWGVrN01KVjVqdy1jMExRel9tT3hvZWsxZUZYY2J2ZWthSFNCd3QybG8tbGRPcmZpZm9lLS1UcXF5akhldC1HVHhWN3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rio_tinto-2026-10-07-001",
     "date": "2026-10-07",
     "companies": [
@@ -713,6 +1553,320 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalVWQVB3VEpHTnF2WVBNMk9fWmhnRmRkcWJrLXVSMlhYaFNqOEE0bHI1dDQ1emNwUkJFLXRuUTdtV2k5aEFDYUp1RC1fdGprX0t2cTNINGNfZHN5NGxCNWZOazFKaWRTX2tIY0tkbmY5Tk9pSlFzYkxLTS1ISGtwaThhX0RrYjBUdWgwZzl6QXlCSGJld0tsSU1RWEFNNi1BXzJCN3FvMU01ZXRGM2RPc0lWQVVaVXVqaXBOYi1sMkVETHJOdno3U1BNejMzb1g5cUR3UjVXeGM3YzDSAe4BQVVfeXFMT1BFelJ1S1dnNDVSZGs1R1JGX01pc25ha3lRa25HZ2lqZFBfLUdQeGtQUDRZVkd6ZXB4b2tVcnFjekkycHJFVm44cjAxZU16OHlNcTlKTUtPUWE0b0ZpYjBHV0llaVo1MFR1LTJ0SFhGdmtwT2lJdjVGMzJlekdQck84NTFmd2xlR3VhbFVzN0xmUHVBYkVEUVNyTDlLRDRNOFBidG5sT1dIM0tNMjhpZ0ZTbUlTSmRlZ0ZjdjFaQ0lWeDNTaFBJcld0LVR6aFBsSFhvdEExaFY0bnBXNXFYWGdNX2dTSjVpWGxjZ1ZMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-07-039",
+    "date": "2026-10-07",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "Rio Tinto Lobbies on Critical Minerals and Section 232 - Legis1",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5RU0ZHZjQzcDI1RXYxS3ZsQUJlM2I1TTVZTnhqdW5BeHhuSzFGNUNmSGtRSzNQRWNydUFRaFFCQXV6N1k2Vks5aDZCMFlqMkc4OS0tSjdsTmk1aDdUbTE0SnoyVEdKVWMzd3RKblVQd2",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RU0ZHZjQzcDI1RXYxS3ZsQUJlM2I1TTVZTnhqdW5BeHhuSzFGNUNmSGtRSzNQRWNydUFRaFFCQXV6N1k2Vks5aDZCMFlqMkc4OS0tSjdsTmk1aDdUbTE0SnoyVEdKVWMzd3RKblVQd21oWkxRMHZlRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-07-040",
+    "date": "2026-10-07",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASX Preview: Australian Shares to Fall as US Fed Minutes Signal More Rate Hikes, Oil Prices Ease; Fortescue Reports Lower September Quarter Iron Ore Shipments - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlRGUDFGaE9qa1hxMWRkbGtkcUk5ZzlmVThHMEtta3NqbEJWLUw3dkJJaURiRHd0NHZKMjZyaERlaUxBeWJBR1RqUnlEdFNPSjdyUFRJTjZ0bUFjaXNlRldlc2o4RURyQ3VJZWl1c1",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlRGUDFGaE9qa1hxMWRkbGtkcUk5ZzlmVThHMEtta3NqbEJWLUw3dkJJaURiRHd0NHZKMjZyaERlaUxBeWJBR1RqUnlEdFNPSjdyUFRJTjZ0bUFjaXNlRldlc2o4RURyQ3VJZWl1c18yTThkaXBIWWVDb1lJd29sblM0a3FnODUyVGxqSjJtTlZNd1BOWHJwVUxtaWliRTJt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-07-041",
+    "date": "2026-10-07",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue iron ore shipments fall 6% in September quarter - grafa.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0hPWHRRaTkxX1g2ajhybmVYb1ZXZnVpbmx4ajZJX1NOb3ZrZXJoYTBvYUUxaVFzaVVxV2tDNXdYai1CWVZRcWlTQTFpNW5iVHVKbWlZaVRmdGlFMzhBeUdUMjFzNTczRHJTVktXeV",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0hPWHRRaTkxX1g2ajhybmVYb1ZXZnVpbmx4ajZJX1NOb3ZrZXJoYTBvYUUxaVFzaVVxV2tDNXdYai1CWVZRcWlTQTFpNW5iVHVKbWlZaVRmdGlFMzhBeUdUMjFzNTczRHJTVktXeVcxdVhnMEhPLUw1dl8tMTJidXVwaUxRR0hscGxfOWtHejVZM1c3UnRV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-07-042",
+    "date": "2026-10-07",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Fortescue Ltd (ASX:FMG): Record Shipments Meet a Higher Cost and Capital Test - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzFLRUc0dk1Dc3ZkQXJFeDMzeU9pU3NXVXVLd2ZMWFEzaVBfRm1UZEgzcnYtTzl4UjI0aVRyd0tFRTdOeU96RVFqdEJyR0FSWkFSYUZEYjR2aWRzVUVPSmVlVTZjQ1Z4MTVoLS1Qdl",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzFLRUc0dk1Dc3ZkQXJFeDMzeU9pU3NXVXVLd2ZMWFEzaVBfRm1UZEgzcnYtTzl4UjI0aVRyd0tFRTdOeU96RVFqdEJyR0FSWkFSYUZEYjR2aWRzVUVPSmVlVTZjQ1Z4MTVoLS1QdlVZMVBrbnAyREM0UUd2dHFVRkpXMy1xeEpGMXh2R2lsMFA0V0Z5Ri1hV00yRjNZUzZTWkZHcTl6cXFFN1RI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-07-043",
+    "date": "2026-10-07",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "negative",
+    "title": "A Look at Warrior Met Coal Inc (HCC) After 3.1% Decline -- GF Va - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZE15VXBwVjBsUDJZd2gyR1c3ekowaWlOOXJ4YzJqWFBHM0xYSURXX0pjWTdUelUxOFVWM0NjYmY4OFNJQmI1VkhTWGtOQnowU05kM1diU0RDTGd5ekJTcy1uTEpKVy1PYzFzaE5TdT",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZE15VXBwVjBsUDJZd2gyR1c3ekowaWlOOXJ4YzJqWFBHM0xYSURXX0pjWTdUelUxOFVWM0NjYmY4OFNJQmI1VkhTWGtOQnowU05kM1diU0RDTGd5ekJTcy1uTEpKVy1PYzFzaE5TdTZUSFBVeVRBdUh2aDFINUtVMHFqOUZOS3FxZUdFcTc4azZnWFRZcGxVNXBkeUp3ek51b0VsWjN2aU84cHlwc2ItODlfMkFRNmhBRGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-07-044",
+    "date": "2026-10-07",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal stock falls 3.08 percent on October 7 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmRzbG12Q2g1Tjd0RnlvZHQycGtlV1NSYnlFZl9RdDcxTmJHSHQzM29mMHJUSlQwNjZEeTJZdDg0VjZTcjMxZU1nbmJUNDc3UV95Ui1XbldWbmZQRENSSDdLbnA1NXlXRVV5aHd2eW",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmRzbG12Q2g1Tjd0RnlvZHQycGtlV1NSYnlFZl9RdDcxTmJHSHQzM29mMHJUSlQwNjZEeTJZdDg0VjZTcjMxZU1nbmJUNDc3UV95Ui1XbldWbmZQRENSSDdLbnA1NXlXRVV5aHd2eWxQX2FlbHpzaHhldXRuUGtaTVp6YnJnYmZkSkZzS2FJOGE2d2Z6VDE0UVN2QmxZU2U2Sk1XTWtPdTlsSENkLUttZWY1Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-07-045",
+    "date": "2026-10-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Is CRS Set to Gain From Growth in Its Specialty Alloys Operations? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1dWWGVzVVVNSXdFekZ3c0xPNVQwaWJEX09tLTJyY2pvN0RlOXM1ZmV0Tm5QRjdwQ1k0YXh0b1VUcDFIQTBMcVo1YjFCT2ZmU0xBNWw1SnhXVWF4TEprNXF3N1pOenR3enVlVVJwTl",
+    "sources": [
+      {
+        "name": "cmc",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1dWWGVzVVVNSXdFekZ3c0xPNVQwaWJEX09tLTJyY2pvN0RlOXM1ZmV0Tm5QRjdwQ1k0YXh0b1VUcDFIQTBMcVo1YjFCT2ZmU0xBNWw1SnhXVWF4TEprNXF3N1pOenR3enVlVVJwTlRtSGhOb0k3MHdHUTBNQWdpdGJ6eEl3a1hRSGstZjFGT2stQktvY1hoWHJLYi1qcHRpOTljeThxVUJqZVkweXVoeDZKRnBlQmQxMGJnMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-07-046",
+    "date": "2026-10-07",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ArcelorMittal SA (MT) Shares Fall 4.4% -- What GF Score of 69 Te - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUExMy14bE5LZUdmakkxTjNscDhoWTZKQ1ZfY1ZpM0JCLU1GZkhaTUxlRVRYZ05zMUptekFRRmxFQnhLdGRUNW5MRG1MeEo2V1FXdXU1eFpaSVl6RWRNX1FGaFQ1U0FZbkw0VmlfRE",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUExMy14bE5LZUdmakkxTjNscDhoWTZKQ1ZfY1ZpM0JCLU1GZkhaTUxlRVRYZ05zMUptekFRRmxFQnhLdGRUNW5MRG1MeEo2V1FXdXU1eFpaSVl6RWRNX1FGaFQ1U0FZbkw0VmlfRERwUmZfc2FBcGNYazNPbm9fR1BqdFM1enItWTljSHBla0xybmZVakRjcm1YdUtZTG5iNnFHVkJRdld1aVRqUGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-07-047",
+    "date": "2026-10-07",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ArcelorMittal Poland to modernize dedusting system at Dąbrowa Górnicza sinter plant - Steel Orbis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2xlZGcwcTlQbXlzOE1UR2poNktkUWFNRWZmY2lZUW1TRlFTLUxMcFhsSVo1RVpReFYzb3RzdE9KSXNSaDR1NUxkVFljS2RXWmViTy1ITWp0cHdQcXk4bFJMa1B0ZVpqYlFRZE1XR1",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2xlZGcwcTlQbXlzOE1UR2poNktkUWFNRWZmY2lZUW1TRlFTLUxMcFhsSVo1RVpReFYzb3RzdE9KSXNSaDR1NUxkVFljS2RXWmViTy1ITWp0cHdQcXk4bFJMa1B0ZVpqYlFRZE1XR1JYMnhrSjJrTnh5dWFQd2k5N3JPUGJmVlViWGRQVmFmeDU0YUxHWWdxOGsxVGVXamlKdnlCUzJfaG9rTy1fMWRhN1N1V1JyczVCTDh0ZFFtTE81Y0V6bG41SXJQMFFTdENOMFlxMWZFOVBBNjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "posco-2026-10-07-048",
+    "date": "2026-10-07",
+    "companies": [
+      "posco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Posco Group joins government green transition drive, pledges to lead steel decarbonization - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE40V2xRN2o2UXRsU2M2YTZSMURDampnbEozRHptOWR2bDB3bHZHeDRtOHlITVROVm0wU3k5ZC15UGx2VGdobEczbDdOOVZhcDA4YWJOOTZCNA?oc=5\" target=\"_blank\">Posco Gro",
+    "sources": [
+      {
+        "name": "posco",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40V2xRN2o2UXRsU2M2YTZSMURDampnbEozRHptOWR2bDB3bHZHeDRtOHlITVROVm0wU3k5ZC15UGx2VGdobEczbDdOOVZhcDA4YWJOOTZCNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-07-049",
+    "date": "2026-10-07",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel has developed fire-resistant structural steel - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHRnS2F2UWZVdFhYdEQ5bXJWZlgtb1NtUW9hSXhIelFaTHJ1M1ZIZHpEaUpMSE9uZjNRdjV0WmRjOHJqVWtOT1dKcnpoM3ZzVFVnamw5NEhCS2lSVHA4UnVzZTVWdzE2SnpEb1gzWm",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHRnS2F2UWZVdFhYdEQ5bXJWZlgtb1NtUW9hSXhIelFaTHJ1M1ZIZHpEaUpMSE9uZjNRdjV0WmRjOHJqVWtOT1dKcnpoM3ZzVFVnamw5NEhCS2lSVHA4UnVzZTVWdzE2SnpEb1gzWm4tbnFHUUNGa1I3eWRlbHpmcjQzazV4WGYtbHVlN9IBkgFBVV95cUxQMzN5MGJZQTFGa1NZR0JDSzYwU0t1TGQ3OXNDWVVtMjlpWHFvTy1icVB2c2Vwd1V0TmVUVWQ2RWRLNEt0Skltal9fVS00SUtPaWFsZWhSeVkwaVI1OWlMaUxZU3VJMkxtUm5FVGllRUtlcmtXS25WNWFHSXdSVHp4WkhaZ0JHRlhaT2E0SmtKZE9qdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-07-050",
+    "date": "2026-10-07",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel Crude Steel Production Grows 10% YoY To 6.21 Million Tons - Sahi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWhUSDlBeVVTRy1wd3ZzN083VHM1V3RtUGZyOGZZNHVtVGJsVkN0OHZTbVFkd2pVYUItMFpxVTRWUmpITWNVd18wQ1diaTQ1dlgtQUtneHE2N2F4SGRoVk9pMm9uUF9aMlRFdWZBaF",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWhUSDlBeVVTRy1wd3ZzN083VHM1V3RtUGZyOGZZNHVtVGJsVkN0OHZTbVFkd2pVYUItMFpxVTRWUmpITWNVd18wQ1diaTQ1dlgtQUtneHE2N2F4SGRoVk9pMm9uUF9aMlRFdWZBaFFTN2lvZlZ3OWNQbnpfLXdITHJSdUowbWExeGNGZ19ycEZBb0JQUVNoXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-10-07-051",
+    "date": "2026-10-07",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "Don't support Trump tariffs then blame Stelco job cuts on 'act of God,' minister Joly warns Cleveland-Cliffs - CBC",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmZrdktybUNNeWl6QnpRdF9SeV9Eb0RreTZIUnZYMEZhM2V2RHFjSEpvRXduNDVUcnFrTHVGa0lOb25oNjNRS0o5TEw0MVBGRzMtbDZFNXJ1QVNlR1lKb2Fzekl0U2xYWX",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmZrdktybUNNeWl6QnpRdF9SeV9Eb0RreTZIUnZYMEZhM2V2RHFjSEpvRXduNDVUcnFrTHVGa0lOb25oNjNRS0o5TEw0MVBGRzMtbDZFNXJ1QVNlR1lKb2Fzekl0U2xYWXdpRmlOWUgyaG9CdHJFSFNPblh1RU1yUlR4em1OdHA0NGw1Y1M1WjFZdGFSNDJWRGl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-10-07-052",
+    "date": "2026-10-07",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USW says no deal yet with U.S. Steel or Cliffs - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2VnMlVnMmw5OHA0aTJwTjhlSmNHSUJQcWt6azFtZzd3dDFmNlB3QXVsLUE0MVkzejFiVkdGbk93ZmdjNXJ6OHo3TVhUYW4ydHVjcXRQeXFJX1ZWUVpwZ3RsbVNHa1ZPbTFvN1d5dU",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2VnMlVnMmw5OHA0aTJwTjhlSmNHSUJQcWt6azFtZzd3dDFmNlB3QXVsLUE0MVkzejFiVkdGbk93ZmdjNXJ6OHo3TVhUYW4ydHVjcXRQeXFJX1ZWUVpwZ3RsbVNHa1ZPbTFvN1d5dUhTblZpbWNnN2NITE4wVnpmTFNSMmFQcGFyaXZoNFdGM3I3V2dSaXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gerdau-2026-10-07-053",
+    "date": "2026-10-07",
+    "companies": [
+      "gerdau"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Gerdau is expanding its scrap processing capacity in Mexico - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUW5YTTNha0tWX0V3NW5WTVBzN09zb1NXM2VtakNMampjUXBLZk96UFl5MUJyYTdjaFBIOFlabHdESlZ1ZFhRTmtQRlJfTU5sR296Sm5NMS0xYXM1VzFKWGdwajQxWDJRcU12QWhYWH",
+    "sources": [
+      {
+        "name": "gerdau",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUW5YTTNha0tWX0V3NW5WTVBzN09zb1NXM2VtakNMampjUXBLZk96UFl5MUJyYTdjaFBIOFlabHdESlZ1ZFhRTmtQRlJfTU5sR296Sm5NMS0xYXM1VzFKWGdwajQxWDJRcU12QWhYWHRGejB0QllIMVN5YXJfREpJLWpEUWpJNUxNUTNrV0J4ZUPSAZYBQVVfeXFMTUtORHlKTUxac3BNQU10VVgzRmhZY2xYZ01BdDhBQnBWc19yb1doX0l1OGwyTHVhU2JiY2JTT3ZPd2dqbWQyNmpHalVqNmtFMTBxQjdSd0dwUnBxOUtLMkRxY1FvTVg4QzBxZTNfeWs4MlJrZC1oUDd1ck43SFhiTy04V1YtdE9fYl8ydHVkUzJPQ21UVS1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-07-054",
+    "date": "2026-10-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The American Iron and Steel Institute reported that US domestic raw st - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQclJyUUU0WF9qUkg4ekE1ZVNwWjM4azhjS1ZqeVVucmhzU0FRV1VnblhaOFdDenV6b185VDJzY0plRk9TNU1QN0NBbnI5Q1pkT0dqNzN3dXJyXzVGT2taczRibVZBcTNjLVFleU5jVU",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQclJyUUU0WF9qUkg4ekE1ZVNwWjM4azhjS1ZqeVVucmhzU0FRV1VnblhaOFdDenV6b185VDJzY0plRk9TNU1QN0NBbnI5Q1pkT0dqNzN3dXJyXzVGT2taczRibVZBcTNjLVFleU5jVUhXUnp6TVpPUjJBQ190WFFaaHI0Uzl4ZnFFQS1LWUItRHdTNkxrdEE5WlBaWHFlZlU?oc=5",
         "type": "rss"
       }
     ]
@@ -1839,6 +2993,62 @@
       {
         "name": "us_steel",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGpYVWw4bVdkX3RYbkRWSE8yVm13cURrUFNoZ1pIbmpEZzZUOE9KckJQTUpaT3pQSlBIc0hzZmk0Y1dPQWtEX09ENTBORWZ2NzVrekxnZEFJSXNOUlFzdlpjZ1RRakRrSDh0ODBnbFlJNmxWdjBoTmZ1Vm0xRU5nOFhQYWtwc0tWcFNuU3FuYXMtQS1wbkZZV3BWcHdyT2RPOG5jbjZRcC1wWDVIWVJiV3V3VE9EZUROd1NIVDRCSk1RVUVtTl9uLWxJTkJESHpuel9rRTRkUlU3MXFmaGg4UFVWcU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "suncoke-2026-10-06-059",
+    "date": "2026-10-06",
+    "companies": [
+      "suncoke"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SUNCOKE ENERGY, INC. ANNOUNCES SECOND QUARTER 2023 EARNINGS DATE - Lelezard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVR3Qk1hX3lIYWxMRHk5Y0o5VENLZTBrd0hTY0JqYl9GUmhJRnctMUVRUmg4Zm9FN29sdVI1dFZnRENheHBISkdEcFZ4ZG92M014SFRGaHJaa3d5cHg3dHc2OGo3N2FVLU82ZThEc0",
+    "sources": [
+      {
+        "name": "suncoke",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVR3Qk1hX3lIYWxMRHk5Y0o5VENLZTBrd0hTY0JqYl9GUmhJRnctMUVRUmg4Zm9FN29sdVI1dFZnRENheHBISkdEcFZ4ZG92M014SFRGaHJaa3d5cHg3dHc2OGo3N2FVLU82ZThEc0tWV2tyZlNNNHJFUlQ5end2VjVqMGpvMDNxYWNLRDVsTjh6NGVqTnFLNzNoTDJPMzRLR3VXeHRUV3dFclNfOGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-06-060",
+    "date": "2026-10-06",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel’s Chero Archers Return for Archery Premier League Season 2 - Tata Steel",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWtJb19mbGhBLWR6UkZaTUhmdEdZbjI5NGktbFQ5OW4yNUIxcHhQam9Vcmo1aXlZWk0zVnFZR2tRUkdtMHhRaDFDT1AtM0xLb1ExRmZJbWI4M09MM1hxNlloUlkwZ3Y5NVYwc2d0b1",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWtJb19mbGhBLWR6UkZaTUhmdEdZbjI5NGktbFQ5OW4yNUIxcHhQam9Vcmo1aXlZWk0zVnFZR2tRUkdtMHhRaDFDT1AtM0xLb1ExRmZJbWI4M09MM1hxNlloUlkwZ3Y5NVYwc2d0b1gxZHRlTC05UUFOcGg1ZEtVcTVmc2F4ZjRpaFVtY0VQay0xamlNOVhfZ1RpT2IyZnFYT2FrcWxuRG1zaWZmZDZDbnhGY3ZhV2RXMXRuWFRyV2dQX3hOREhGeXRXVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-06-061",
+    "date": "2026-10-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mesabi Metallics to build $15B steel mill in Iowa - American Recycler",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblNuVzFlWF9Cb1dxRlVsazdJVHVuSkk1UVZkcTRrVXVBa1JiSXJPVUNkQ1ptMEhRemdnZXdpUWJiUWF0OW1oR1Q0eTFHa1FqbWJWT3ExUlAxSWZNM21qN1Rha1p5U0x6Ykc4bjhTcU",
+    "sources": [
+      {
+        "name": "google_steel_industry",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblNuVzFlWF9Cb1dxRlVsazdJVHVuSkk1UVZkcTRrVXVBa1JiSXJPVUNkQ1ptMEhRemdnZXdpUWJiUWF0OW1oR1Q0eTFHa1FqbWJWT3ExUlAxSWZNM21qN1Rha1p5U0x6Ykc4bjhTcUwwVmpvU0k2QnpsVkVWQXRvaHNRdmxmYlRp?oc=5",
         "type": "rss"
       }
     ]
@@ -3140,6 +4350,44 @@
       {
         "name": "cleveland_cliffs",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wdC1jbVBoMTJLUUloSjZVSTk0d3BIWWxCaFM3Z19jMW8yb0FOQXNMcEpkN1Z3ZXU5a2VRY0c5MW1XNFVJdThUMURtV2tIYVMtbWh5eGRGYUt3amQwdjROMG9jMTRLQXNrQl80elc5WEJBQmJjMkktbU1QMWI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-05-068",
+    "date": "2026-10-05",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India’s steel consumption to grow 7-8% in coming years, says Tata Steel CEO - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFRsdTN4MTcwMDdKVUZiOHN5T3Z4SDJJRzdNSjh0YWNVWWxmbjVWQTBENzBVZmZMaklFTlJzNGlKWDlYUElXWDhCTGRjSzFzem41dGs5aVFtd0xEeUM0am5BM3FtYlB2cmtzQmZIbH",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFRsdTN4MTcwMDdKVUZiOHN5T3Z4SDJJRzdNSjh0YWNVWWxmbjVWQTBENzBVZmZMaklFTlJzNGlKWDlYUElXWDhCTGRjSzFzem41dGs5aVFtd0xEeUM0am5BM3FtYlB2cmtzQmZIbHoyTDQ2TWt6QWEwV3kzXzBsb19JOWdaNldQSldFZ2hTblpLLWRvSU03dmpHd1E1VWE0d2UwRDdBUTNwQVJGdGdJclFvQzVsVFdKbVRWTVRpcDBmVHRGS1ZFVE9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-05-069",
+    "date": "2026-10-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Biggest Steel Plant in US History Is Coming; Some Hawkeyes Don’t See It That Way - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQankwRTRaSU5QenFMYVkxX2U2dFMwaDI3WWVzYWdtLTZEaVFqUDRyQ3Eyb3VYdDJuZlYtVFptdHlvcXQ5Zk5RcDhKQmd3dFgtZTkwT0JxQmpQYzRGOU94R0I3MXpnNzFoTTRLR1pWa2",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQankwRTRaSU5QenFMYVkxX2U2dFMwaDI3WWVzYWdtLTZEaVFqUDRyQ3Eyb3VYdDJuZlYtVFptdHlvcXQ5Zk5RcDhKQmd3dFgtZTkwT0JxQmpQYzRGOU94R0I3MXpnNzFoTTRLR1pWa25zYnF6OUF6MjVwODdyN1BvQ1pocFcwcXAtNnM5SFo0Q2xmQTlxbnFJaUpHTQ?oc=5",
         "type": "rss"
       }
     ]

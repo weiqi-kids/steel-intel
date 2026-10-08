@@ -1,0 +1,16 @@
+{
+  "total_raw": 535,
+  "dup_title": 272,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 18,
+  "gate2_fail": 30,
+  "passed": 65,
+  "gate2_samples": [
+    "Rio Tinto plc : UBS reaffirms its Neutral rating - marketscreener.com",
+    "Fieldstone Bio joins Rio Tinto accelerator to a... - Pluang",
+    "Rio Tinto Plc Stock 12‑Month Price Target Cut to $99.64, Implies 4% Upside - TradingView",
+    "RBC ups Rio Tinto; Berenberg says buy Domino's - marketscreener.com",
+    "Miners drag Australian shares lower as Fortescue slides on CMRG uncertainty - marketscreener.com"
+  ]
+}
