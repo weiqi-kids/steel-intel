@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-09",
+  "total_events": 23,
+  "by_company": {
+    "rio_tinto": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "fortescue": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 4,
+      "sentiment_avg": 0.38
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.11
+    },
+    "steel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
