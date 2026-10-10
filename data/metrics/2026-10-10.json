@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-10",
+  "total_events": 4,
+  "by_company": {
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

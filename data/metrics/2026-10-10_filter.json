@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 311,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 15,
+  "gate2_fail": 26,
+  "passed": 24,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Exits Kambalda Nickel Concentrator】【”】【 - Yahoo Finance Australia",
+    "RBC ups Rio Tinto; Berenberg says buy Domino's - marketscreener.com",
+    "Rio Tinto Plc Stock 12‑Month Price Target Cut to $99.64, Implies 4% Upside - TradingView",
+    "Fortescue Price Target Cut 0.6% to A$16.40/Share by UBS - Moomoo",
+    "Morgans Financial Downgrades Fortescue to Trim from Hold; Price Target is AU$15.40 - www.marketscree"
+  ]
+}
