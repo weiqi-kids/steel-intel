@@ -1,0 +1,16 @@
+{
+  "total_raw": 535,
+  "dup_title": 316,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 17,
+  "gate2_fail": 23,
+  "passed": 19,
+  "gate2_samples": [
+    "Morgans Financial Downgrades Fortescue to Trim From Hold; Price Target Is AU$15.40 - Moomoo",
+    "Morgans Financial Downgrades Fortescue to Trim from Hold; Price Target is AU$15.40 - www.marketscree",
+    "Miners drag Australian shares lower as Fortescue slides on CMRG uncertainty - marketscreener.com",
+    "Australia's Fortescue cash drops over 37% amid China buying curbs - marketscreener.com",
+    "SunCoke Energy (NYSE:SXC) Stock Bumped Up to Buy by Wall Street Zen - MarketBeat"
+  ]
+}

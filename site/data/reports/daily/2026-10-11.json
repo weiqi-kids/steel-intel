@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:31:11.032000Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_steel-2026-10-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Steel Colors Introduces Colorcoat® Pre-Painted Steel In India. - TRIPURA STAR NEWS",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZkhfY2tEVXRfTGJjQmZiaktEQU1LeHZGS1U3ZE5ZTlRTejN6V2JOYnVqaWNfRDVPcnBrMXZ6d3d6dHZFQVpyMWJUcGdkRktBZ0JSSG5SbDljT3NLSmJKaERSZjlWQmFsM1dfU2NsSmI1dTdPc1dpNW5NQ2JfckNnaGFiZ2UzbzdkYXk4c0Vhdl8yb2l6ZkQ0TC04STYzdkk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sejong Sportstoto Advances to W Korea Cup Final with 2-1 Semifinal Win - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdV9PbDVYbm5NZzctZkpNcnc1VVJjWGx4VzZib0pQWk8wenpBV0FmLTdReUhneDBHUzc1TUpIX3AzM1BGOUp2cFJrbkpYbWdieVMwT0RDSGNwOW0tMUlPX0F1NkFxVmpUby1fRHZvdUJ3VUwxNHZzeERsN1Q4dTlFQXhCekQwdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Average scrap prices in Turkey rose by $28 per tonne in September",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "coking_coal_scrap",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gmk.center/en/news/average-scrap-prices-in-turkey-rose-by-28-per-tonne-in-september/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 535,
+    "dup_title": 316,
+    "too_old": 160,
+    "gate1_blocked": 17,
+    "gate2_blocked": 23,
+    "passed": 19,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Morgans Financial Downgrades Fortescue to Trim From Hold; Price Target Is AU$15.40 - Moomoo",
+      "Morgans Financial Downgrades Fortescue to Trim from Hold; Price Target is AU$15.40 - www.marketscree",
+      "Miners drag Australian shares lower as Fortescue slides on CMRG uncertainty - marketscreener.com",
+      "Australia's Fortescue cash drops over 37% amid China buying curbs - marketscreener.com",
+      "SunCoke Energy (NYSE:SXC) Stock Bumped Up to Buy by Wall Street Zen - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為塔塔鋼鐵相關動態：「Tata Steel Colors Introduces Colorcoat® Pre-Painted Steel...」。主要關注主題為鋼鐵產業通用、焦煤與廢鋼，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tata Steel Colors Introduces Colorcoat® Pre-Painted Steel In India. - TRIPURA...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sejong Sportstoto Advances to W Korea Cup Final with 2-1 Semifinal Win - 조선일보（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
