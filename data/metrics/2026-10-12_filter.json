@@ -1,0 +1,16 @@
+{
+  "total_raw": 538,
+  "dup_title": 274,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 21,
+  "gate2_fail": 26,
+  "passed": 60,
+  "gate2_samples": [
+    "Rio Tinto Stock Technicals: Gains 1.48% on Friday, Momentum Gains - JournalArta",
+    "Morgans Financial Downgrades Fortescue to Trim from Hold; Price Target is AU$15.40 - www.marketscree",
+    "Miners drag Australian shares lower as Fortescue slides on CMRG uncertainty - marketscreener.com",
+    "Australia's Fortescue cash drops over 37% amid China buying curbs - marketscreener.com",
+    "SunCoke Energy (SXC) names director Wendell L. Carter in an initial ownership statement. - Stock Tit"
+  ]
+}
