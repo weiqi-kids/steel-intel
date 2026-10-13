@@ -1,0 +1,16 @@
+{
+  "total_raw": 527,
+  "dup_title": 269,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 24,
+  "gate2_fail": 30,
+  "passed": 58,
+  "gate2_samples": [
+    "Rio Tinto Stock Technicals: Gains 1.48% on Friday, Momentum Gains - JournalArta",
+    "Rio Tinto stock pre-market at EUR 83.38 - ad-hoc-news.de",
+    "Fortescue Target Price Cut 3.0% to A$15.90/Share by UBS>FMG.AU - Moomoo",
+    "Morgans Financial Downgrades Fortescue to Trim from Hold; Price Target is AU$15.40 - www.marketscree",
+    "Fortescue Ltd Discloses Lapse of 59,636 FMGAK Performance Rights on 25 September 2026 - Kalkine"
+  ]
+}
