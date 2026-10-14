@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 281,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 20,
+  "gate2_fail": 25,
+  "passed": 62,
+  "gate2_samples": [
+    "Rio Tinto says oil price shock advantages Australian miners - AFR",
+    "Rio Tinto plc : JP Morgan sticks Neutral - marketscreener.com",
+    "Rio Tinto plc : Jefferies is Neutral - www.marketscreener.com",
+    "Morgans Financial Downgrades Fortescue to Trim from Hold; Price Target is AU$15.40 - www.marketscree",
+    "BlackRock Ceases to Be Substantial Shareholder in Fortescue as of 14 October 2026 - Kalkine"
+  ]
+}

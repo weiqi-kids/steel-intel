@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:12:08.668075Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "baosteel-2026-10-14-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nippon Steel sues Baosteel as Baosteel stock faces patent claim - ad-hoc-news.de",
+      "companies": [
+        "baosteel",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWlZcFFDRjMyVTRmVGpFRDYyNzh2XzFiUmRUUk5FaTJJM0lsOVUyeTUzWGVYZV80RzFyQldUcXQ2SjZ1MjRVT0tKal96ZU90LXVlcV9ka2h5SGNNS0NkYkRpQ3lHZU4zWF8wYzd6bFQ1cHNXV2dOOE1GVU5YVmJ4OTFLYXdpTVdZWFNJN3ZkVXRtczh5YndlQXNGLWlMQk5nMGdwVkdIdHRnWEdwNkFUWWpnTzdLWlJ4RHVaS2tEUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-10-14-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rio Tinto reports slight decline in aluminium production - Aluminium International Today",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEdSdXVJcUNIQkZrYkNseUFUWXhFTVREZFpNUXVGMVlnaFF1c0U3bHBuX3o2cDREWS04ZHVIQVlOZUpNaFppOEFvR0NtTHRVWlZkVlM5Uk1sNTBoTHZmcHlpNVJxM293dnB1V3VlVjNmMmJPVnZaNWIxVXhLaE9rUmNwdHk0UTNRd29NXzc4NVJwUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-14-038",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ferrexpo’s output fell by 54% y/y over the first nine months",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/ferrexpo-s-output-fell-by-54-y-y-over-the-first-nine-months/"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP to cut 300 jobs at Australian iron ore mines - Bloomberg - marketscreener.com",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUJYSFJ5QkNiZmFzblB4R2htUDJvZUhKc0Jtcm5tRlkxUFkxYTUwVm0xUlJVRWQ4Ry1HcXJTMWdQaUZwODk2RzkzZ0kzajNaVFVQbU5tYWpSWWdFdmdFdkY5YXVTSEJ1d0FsNGRkSm1hMy1nYVJvb2RBXzZmVGtqa1R1VEZkSWtRT1lRVFdMZmMxQVlLeGkzYnlNLUo4WDVKenFQMWZGTFRZM2FTNzJBWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bhp-2026-10-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP cuts jobs across Pilbara iron ore mines - Mining.com.au",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSaHdjcHNQeFlpbGNWWUp6M2Y1MVdyWHc3TzVna1JzdF9ydnFOLWZIa0h2bGpGTWZMMEpGRTV0dlIxdFJyVWZzcmt6bFJnRnh2bndZNE1nX2xqQy0xMmkzdDdEcWlMOGF1WDJ1S2o3TVpWcm1s?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 36,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 15
+      },
+      {
+        "id": "bhp",
+        "count": 5
+      },
+      {
+        "id": "tata_steel",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 4
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 281,
+    "too_old": 151,
+    "gate1_blocked": 20,
+    "gate2_blocked": 25,
+    "passed": 62,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Rio Tinto says oil price shock advantages Australian miners - AFR",
+      "Rio Tinto plc : JP Morgan sticks Neutral - marketscreener.com",
+      "Rio Tinto plc : Jefferies is Neutral - www.marketscreener.com",
+      "Morgans Financial Downgrades Fortescue to Trim from Hold; Price Target is AU$15.40 - www.marketscree",
+      "BlackRock Ceases to Be Substantial Shareholder in Fortescue as of 14 October 2026 - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為力拓、必和必拓、塔塔鋼鐵相關動態：「Nippon Steel sues Baosteel as Baosteel stock faces patent...」。主要關注主題為鋼鐵產業通用、鐵礦砂價格、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nippon Steel sues Baosteel as Baosteel stock faces patent claim - ad-hoc-news.de（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rio Tinto reports slight decline in aluminium production - Aluminium Internat...",
+        "level": "green"
+      },
+      {
+        "text": "鐵礦砂價格話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
