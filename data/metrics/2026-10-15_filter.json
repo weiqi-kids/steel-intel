@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 21,
+  "gate2_fail": 29,
+  "passed": 77,
+  "gate2_samples": [
+    "Rio Tinto plc : Berenberg maintains a Buy rating - marketscreener.com",
+    "Rio Tinto plc Stock 12‑Month Price Target Cut to GBX 7651.87, Implies 9% Upside - TradingView",
+    "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date - Yahoo Finance",
+    "Rio Tinto sees lithium output impacted by Argentina rainfall - Buenos Aires Times",
+    "Rio Tinto says oil price shock advantages Australian miners - AFR"
+  ]
+}
