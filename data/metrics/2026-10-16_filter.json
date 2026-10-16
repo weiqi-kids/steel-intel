@@ -1,0 +1,16 @@
+{
+  "total_raw": 542,
+  "dup_title": 281,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 21,
+  "gate2_fail": 26,
+  "passed": 68,
+  "gate2_samples": [
+    "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date - Yahoo Finance",
+    "Rio Tinto says oil price shock advantages Australian miners - AFR",
+    "Rio Tinto sees lithium output impacted by Argentina rainfall - Buenos Aires Times",
+    "Rio Tinto slips Tuesday, underperforms market - MarketWatch",
+    "Rio Tinto plc Stock 12‑Month Price Target Cut to GBX 7651.87, Implies 9% Upside - TradingView"
+  ]
+}
