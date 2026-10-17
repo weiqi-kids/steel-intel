@@ -1,0 +1,16 @@
+{
+  "total_raw": 547,
+  "dup_title": 306,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 24,
+  "gate2_fail": 29,
+  "passed": 34,
+  "gate2_samples": [
+    "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date - Yahoo Finance",
+    "Rio Tinto says oil price shock advantages Australian miners - AFR",
+    "Rio Tinto plc Stock 12‑Month Price Target Cut to GBX 7651.87, Implies 9% Upside - TradingView",
+    "Fortescue Price Target Cut 6% to A$14.55/Share by Morgan Stanley - Moomoo",
+    "CITIWARRANTS 5.6805 FMG 10-FEB-33 INSTAL MINI (ASX:FMGJON) - www.intelligentinvestor.com.au"
+  ]
+}
