@@ -1,0 +1,16 @@
+{
+  "total_raw": 548,
+  "dup_title": 321,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 20,
+  "gate2_fail": 27,
+  "passed": 19,
+  "gate2_samples": [
+    "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date - Yahoo Finance",
+    "Rio Tinto sees lithium output impacted by Argentina rainfall - Buenos Aires Times",
+    "Rio Tinto says oil price shock advantages Australian miners - AFR",
+    "Fortescue Price Target Cut 6% to A$14.55/Share by Morgan Stanley - Moomoo",
+    "Why Did Fortescue Ltd (ASX:FMG) Report Higher Net Debt for the September 2026 Quarter? - Kalkine"
+  ]
+}
