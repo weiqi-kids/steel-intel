@@ -1,0 +1,16 @@
+{
+  "total_raw": 550,
+  "dup_title": 297,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 17,
+  "gate2_fail": 23,
+  "passed": 55,
+  "gate2_samples": [
+    "What Rio Tinto Group Shareholders Got Right - Simply Wall Street",
+    "Should you buy shares in Rio Tinto? - The Times",
+    "Update: Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date - Yahoo Finance",
+    "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date - Yahoo Finance",
+    "Rio Tinto says oil price shock advantages Australian miners - AFR"
+  ]
+}
