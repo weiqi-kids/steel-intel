@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-20",
+  "total_events": 30,
+  "by_company": {
+    "bhp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rio_tinto": {
+      "count": 7,
+      "sentiment_avg": 0.07
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "suncoke": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "cleveland_cliffs": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "vale": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": 0.16
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "steel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
