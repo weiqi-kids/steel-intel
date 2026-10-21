@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-21",
+  "total_events": 36,
+  "by_company": {
+    "bhp": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "rio_tinto": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 8,
+      "sentiment_avg": 0.38
+    },
+    "nucor": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "cleveland_cliffs": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 30,
+      "sentiment_avg": 0.13
+    },
+    "capacity_utilization": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "coking_coal_scrap": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

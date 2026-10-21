@@ -1,0 +1,16 @@
+{
+  "total_raw": 549,
+  "dup_title": 274,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 16,
+  "gate2_fail": 21,
+  "passed": 76,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+    "Rondo Energy and Rio Tinto begin design work on Australia’s largest thermal energy storage project -",
+    "Should you buy shares in Rio Tinto? - The Times",
+    "Rondo Energy and Rio Tinto Advance Australia's Largest Thermal Energy Storage Project - Morningstar",
+    "Rondo, Rio Tinto start design of 360-MWh heat battery with ARENA backing - Renewables Now"
+  ]
+}

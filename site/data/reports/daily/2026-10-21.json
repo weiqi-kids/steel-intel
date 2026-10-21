@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:20:36.234430Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fortescue-2026-10-21-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fortescue (ASX:FMG) Reports Record Iron Ore Shipments and Advances Energy Projects - Kalkine",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzNZQWliSFdVVzBvWmloMFE3YnJESVNXVVBXc1JHV2ZkOVdqYi1yd25mQ3pJZUhEOFpoYkFvVjVscGpkTElZREdISmxDNzZSVVhfRFJHRjRkQlhNMXNhZFBZdXUxRnVueV9zbXJJOEVaREh4ZmZZN21ySUF6bDFIU1hlR1BRZUFnLVNXOHRkUFhpVlVQYS1FV1E1MUtPdmdMc1RIRHpPZlRldEhJS25aOEdhVm0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-21-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Import dependency: how the shutdown of steelworks is changing Ukraine’s steel market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/posts/import-dependency-how-the-shutdown-of-steelworks-is-changing-ukraine-s-steel-market/"
+    },
+    {
+      "rank": 3,
+      "event_id": "bhp-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group (ASX:BHP): Copper Operations, Iron Ore Output and Jansen Progress - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm1adUU2aEduUlBQNGFFUjNseDllc3VGZU93Q3lpS0FUQm52bnZNbEpSa0VMZDREQ2d6ekNqQUN3NFdjTFJmQm55VFc1Ulh4eEFSb0JGeHY4YnR3MTRudHo3Z051Y0g4andJblVydS1RU0hmajZlVFQtVGdJek90Q1dZb0Z5OTdHdTlRSTh3TzFYbHJfRjhBTGdPODZ1VHFJVXFYOWRsaS0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto, Rondo Energy assess large-scale heat battery integration at Yarwun refinery - Mining Weekly",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTV9aS3ZFY1dRY2RIQjg0YmFST3NUZ2N2Q01YSGNwbHZqMkpOZ3RMdkQ2RHpsWklBbkhVb19zeXdIRFZ2WFdKRmR4MjhUTllSV1drZnNfSG5Fc29IeUNCOEdHVmhsVEpZRDU2U2dCNlppS1d0amJEellNM3g2NFJxb1FSQ1NVSmxGZXp5ZWZ5bG9Wa2g4cGtSVmxYT0VHT0NBdzBPbkVsUlBQa2dYNThOM3lRbkJORERhSzhjT2ZReExlN2c1eEVEZ0dBVHpOQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fortescue-2026-10-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australian miner Fortescue fires senior executive after sexual harassment probe - Reuters",
+      "companies": [
+        "fortescue"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNclZOaTBGWWs2RXVXa3Q3djFOdVh6RmxlMEthbVNFQ1dQTHZ0Mk5uUnhMcVVreDJxSzFyVkQ0Ym5zOEZGdUJnbC1iT1hGRnRLV3Y5SFBicUJQemh3S0VMWVhFTFJsR29yQ2Ftc1NCMjNPWVgtdUd0QXVNQl9uT2dyZ2RWdXZkWmlnRlN4cllrMk0zajMtMkt1VjNRSlI0UEo3bDdZemtsOV95c1RrZ3BsNVlheS1JRjhnQUdHdXRuOHhvbFNLYlN3R1JtNVJxRzB2U1VrMXVwSGdObHV6WGJ2bjRZQXR3ZXVPZXY0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 24,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 8
+      },
+      {
+        "id": "fortescue",
+        "count": 4
+      },
+      {
+        "id": "nucor",
+        "count": 3
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 2
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 549,
+    "dup_title": 274,
+    "too_old": 162,
+    "gate1_blocked": 16,
+    "gate2_blocked": 21,
+    "passed": 76,
+    "pass_rate": "27.6%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+      "Rondo Energy and Rio Tinto begin design work on Australia’s largest thermal energy storage project -",
+      "Should you buy shares in Rio Tinto? - The Times",
+      "Rondo Energy and Rio Tinto Advance Australia's Largest Thermal Energy Storage Project - Morningstar",
+      "Rondo, Rio Tinto start design of 360-MWh heat battery with ARENA backing - Renewables Now"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為塔塔鋼鐵、FMG、Nucor相關動態：「Fortescue (ASX:FMG) Reports Record Iron Ore Shipments and...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Fortescue (ASX:FMG) Reports Record Iron Ore Shipments and Advances Energy Pro...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Import dependency: how the shutdown of steelworks is changing Ukraine’s steel...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

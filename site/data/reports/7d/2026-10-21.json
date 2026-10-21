@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-21",
+  "date_range": {
+    "start": "2026-10-15",
+    "end": "2026-10-21"
+  },
+  "generated_at": "2026-10-21T13:20:36.396992Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nucor-2026-10-20-049",
+      "date": "2026-10-20",
+      "title": "Cleveland-Cliffs Declines 6% as Profit Taking Follows Strongest Quarter in Three Years; Critical Metals Slips 2%, Nucor Holds Steady - 24/7 Wall St.",
+      "importance_score": 0.85
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cleveland_cliffs",
+      "company_b": "nucor",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cleveland_cliffs",
+      "company_b": "steel_dynamics",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 173,
+      "last_week": 170,
+      "week_over_week_change": "+2%",
+      "sentiment_this_week": 0.05
+    },
+    "coking_coal_scrap": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 5,
+      "last_week": 10,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.1
+    },
+    "trade_policy": {
+      "this_week": 12,
+      "last_week": 8,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 20,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "fortescue": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 7
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cmc": {
+      "event_count": 20,
+      "sentiment_avg": -0.01,
+      "rank": 3
+    },
+    "arcelormittal": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nucor": {
+      "event_count": 10,
+      "sentiment_avg": 0.15,
+      "rank": 5
+    },
+    "cleveland_cliffs": {
+      "event_count": 25,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "us_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "hyundai_steel": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "vale": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 14
+    },
+    "bhp": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 9
+    },
+    "tata_steel": {
+      "event_count": 13,
+      "sentiment_avg": 0.23,
+      "rank": 4
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    },
+    "reliance": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 11
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 355,
+        "last": 333,
+        "change_pct": 6.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-15",
+      "event_count": 100,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 51,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 81,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 61,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 36,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-15 ~ 2026-10-21）共 355 則事件，重點為「Cleveland-Cliffs Declines 6% as Profit Taking F...」。塔塔鋼鐵、必和必拓表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Commercial Metals",
+        "reason": "本週出現 20 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
