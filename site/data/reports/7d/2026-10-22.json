@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-22",
+  "date_range": {
+    "start": "2026-10-16",
+    "end": "2026-10-22"
+  },
+  "generated_at": "2026-10-22T13:19:38.934120Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nucor-2026-10-20-049",
+      "date": "2026-10-20",
+      "title": "Cleveland-Cliffs Declines 6% as Profit Taking Follows Strongest Quarter in Three Years; Critical Metals Slips 2%, Nucor Holds Steady - 24/7 Wall St.",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 151,
+      "last_week": 185,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.04
+    },
+    "steel_price": {
+      "this_week": 4,
+      "last_week": 11,
+      "week_over_week_change": "-64%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 15,
+      "last_week": 8,
+      "week_over_week_change": "+88%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.3
+    },
+    "coking_coal_scrap": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "vale": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 12
+    },
+    "bhp": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 6
+    },
+    "rio_tinto": {
+      "event_count": 20,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "cmc": {
+      "event_count": 8,
+      "sentiment_avg": -0.03,
+      "rank": 7
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tata_steel": {
+      "event_count": 14,
+      "sentiment_avg": 0.22,
+      "rank": 3
+    },
+    "nucor": {
+      "event_count": 11,
+      "sentiment_avg": 0.18,
+      "rank": 5
+    },
+    "cleveland_cliffs": {
+      "event_count": 25,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "us_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "gerdau": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    },
+    "reliance": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 9
+    },
+    "hyundai_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "fortescue": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 338,
+        "last": 361,
+        "change_pct": -6.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-16",
+      "event_count": 51,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 85,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 65,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 72,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 37,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-16 ~ 2026-10-22）共 338 則事件，重點為「Cleveland-Cliffs Declines 6% as Profit Taking F...」。塔塔鋼鐵、淡水河谷表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Commercial Metals",
+        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

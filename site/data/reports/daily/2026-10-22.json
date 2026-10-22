@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:19:38.775029Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-10-22-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP, Rio Tinto bet on India as next iron ore demand engine - Yieh Corp.",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0E5RmpzX3BSYmFWUWZUU1NVYXJSY25UMGVGdS1kZ092aTg2Ym9WRkN6LUhTRmpFTXd6LTdlaU1hNFcwZXNZejhZMzNpbHpNZUNWQUppQTZNSldOYmlTUGpMcUxoc2NsUnJqRkt2QU1qSnFVSDUzY2lQaFpOVUNzdEZQYUZKT2VpMjBsekFwU3I1TlU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-22-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Anglo American’s iron ore production fell by 4% y/y in Q3",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_utilization",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/anglo-american-s-iron-ore-production-fell-by-4-y-y-in-q3/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China iron ore stoush puts Australian mines in the firing line - SMH.com.au",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnZmZ1phNC1aQUZGT2lEbFZxTVM1WVpRYmxLX0hnZXpjN3NPbVZ4clFXZ1d2a1FYR3ZoVE5GbU43ZFJBb1hRdFJnZkVCcVY1UmJsR3pWLXdoRTZtdGhIdExxUHJFV1pRZEFaQUpsVjNHZkJpekN0QUFiWUtTdDN2enNqYkxfVmpMUVNwbEZUZlBvWjJRcWc4ZWZSWEM4VmR0cmhKdUZJdEhQMTE2S3ZybUlSOTI5djlSWUZ2LUJXOWxaa00?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-10-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group (ASX:BHP): Broker Ratings and Share Price Targets in Focus - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTg0SC1BTzhaYVJvMjNBTmlSRlFMSlFuNEZPTjFrc3VBbzhGdVVYeU9aQTBSS3NfVDI0bXEyT0U2NGhRS2RvQjg4b2xQakJCRklCQ0hORjhKQ0preFRPSVhFVDNrMGNPbm1jQ01jSHNiWHdiTmFka21XVndrSGxkZVQzUVMyRU5ZXzY4dVYyUjU3SFZ1SVR4VFVTM3cwTm50?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-10-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Studies 360 MWh Heat Battery at Yarwun - Technology Org",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjdmNGVzOEsxaUowODl1Snh3SFU1eWtjUEFPMFdhX0JmZFNseENsMTlsUGRUWnFBa2hELVZVdzZpQ2FYYklLN04tYjFGdkF5cnZaTlFKa1FUZEJhcm5GRGh0YlBmd3YyUlk0N0pENlI4eC1WTkxSVHRHOHJSQlFzUVI2RHJWcTBkaXpXTmtZV1djc3dJaXdjTUxocnZoNzhH?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "fortescue",
+        "count": 7
+      },
+      {
+        "id": "rio_tinto",
+        "count": 5
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 3
+      },
+      {
+        "id": "bhp",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "trade_policy",
+        "count": 4
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 550,
+    "dup_title": 283,
+    "too_old": 148,
+    "gate1_blocked": 13,
+    "gate2_blocked": 23,
+    "passed": 83,
+    "pass_rate": "31.1%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+      "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use - Electrek",
+      "Rio Tinto plans 360 MWh thermal battery for Australian alumina refinery - pv magazine Global",
+      "Should you buy shares in Rio Tinto? - The Times",
+      "Rondo Energy and Rio Tinto begin design work on Australia’s largest thermal energy storage project -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為FMG、力拓、Cleveland-Cliffs相關動態：「BHP, Rio Tinto bet on India as next iron ore demand engin...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "BHP, Rio Tinto bet on India as next iron ore demand engine - Yieh Corp.（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Anglo American’s iron ore production fell by 4% y/y in Q3（產能利用率、鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

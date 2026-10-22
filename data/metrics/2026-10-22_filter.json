@@ -1,0 +1,16 @@
+{
+  "total_raw": 550,
+  "dup_title": 283,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 13,
+  "gate2_fail": 23,
+  "passed": 83,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+    "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use - Electrek",
+    "Rio Tinto plans 360 MWh thermal battery for Australian alumina refinery - pv magazine Global",
+    "Should you buy shares in Rio Tinto? - The Times",
+    "Rondo Energy and Rio Tinto begin design work on Australia’s largest thermal energy storage project -"
+  ]
+}
