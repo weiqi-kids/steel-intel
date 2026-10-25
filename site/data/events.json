@@ -1,5 +1,61 @@
 [
   {
+    "id": "arcelormittal-2026-10-25-001",
+    "date": "2026-10-25",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is ArcelorMittal (ENXTAM:MT) Reasonable On Cash Flow After 166% Gains? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUhpLWlJVm9GV1NKRHNRYURSajNxSEdXY3BYNW9TcWtqbGkzTDVVS0RlaERvSmhXTGVVbkZTVHQ3ZmZFYXBWSGRGZUxKQlMzSmprYkFoX1BJMy1PaFZtUUtveGgzNTF5YVpHWFpKQX",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUhpLWlJVm9GV1NKRHNRYURSajNxSEdXY3BYNW9TcWtqbGkzTDVVS0RlaERvSmhXTGVVbkZTVHQ3ZmZFYXBWSGRGZUxKQlMzSmprYkFoX1BJMy1PaFZtUUtveGgzNTF5YVpHWFpKQXFYdUQ2MXU3VDJEbEozMVRvNmE1am9FS2VLOEhfbXdJQUo0QW1JMVJuTjBmeTRfbmdKZEZLYVpCYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-10-25-002",
+    "date": "2026-10-25",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel Approves $3 Billion Pennsylvania Mill Expansion - MyChesCo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVJHeGMtSDZkRDlBMkVEc2ZnRm45cnBqYXRfNXZXalZvOU91aUQxRGxWenAtRHdOdlpHRkdHQXV1MExNd3dIUk1FTEZMbkNaeGd2WFBXX2NPMFd0OWV5SmYzejVpTU1XTTlneXJiaF",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVJHeGMtSDZkRDlBMkVEc2ZnRm45cnBqYXRfNXZXalZvOU91aUQxRGxWenAtRHdOdlpHRkdHQXV1MExNd3dIUk1FTEZMbkNaeGd2WFBXX2NPMFd0OWV5SmYzejVpTU1XTTlneXJiaFkycWFXVTBzTElKR2ZQY24ybmtOZnVvYXQtdE8taHJ5aFNEVk92UDZLb3ZiR2pObWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-003",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Global HRC market dynamics vary by region in October",
+    "summary": "<p>In October, global hot-rolled coil (HRC) markets showed divergent trends. In the US, the shortage of spot supply intensified, affecting not only end users but also service centres. European produce",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/global-hrc-market-dynamics-vary-by-region-in-october/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rio_tinto-2026-10-24-001",
     "date": "2026-10-24",
     "companies": [
@@ -126,6 +182,42 @@
       {
         "name": "gmk_center",
         "url": "https://gmk.center/en/news/ieefa-calls-for-support-to-decarbonise-india-s-secondary-steel-sector/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-24-008",
+    "date": "2026-10-24",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "What Rio Tinto Group Holders Got Right - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjVyc241MWZ2bHZ4NUhTSFJYbmR5Z29RUnVpTzNwZnF5TlAwWjBtRURnM2RoNVk3ajBsdXcwYVpKTUlxd1Nqc2xOWW81Yk53bEEtSThHajlCRVZrTkY4S1dnb3ZybjA3MEpVdG90WG",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjVyc241MWZ2bHZ4NUhTSFJYbmR5Z29RUnVpTzNwZnF5TlAwWjBtRURnM2RoNVk3ajBsdXcwYVpKTUlxd1Nqc2xOWW81Yk53bEEtSThHajlCRVZrTkY4S1dnb3ZybjA3MEpVdG90WG0weGNXV25pemVfcFpMcUh0Nm1tUWRLbWRQWE51Tlhzb0lRclJQejUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-24-009",
+    "date": "2026-10-24",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Africa's IDC Nears $610 Million Deal to Take Over ArcelorMittal's Struggling Unit - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9QajNDM05HTUJkZmxvQ3ZLRUlMay1GRG1leDJHZ3ZBMnhYMW5VUmJHTHJfRDBaNnpDZDFCelRuTXU3Y0lFLXR2R0tyUVpZaUVrZ2tuNnNYUHAxTi1NczZ4am9sd3c3bWpCRWdkTWNFdU",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QajNDM05HTUJkZmxvQ3ZLRUlMay1GRG1leDJHZ3ZBMnhYMW5VUmJHTHJfRDBaNnpDZDFCelRuTXU3Y0lFLXR2R0tyUVpZaUVrZ2tuNnNYUHAxTi1NczZ4am9sd3c3bWpCRWdkTWNFdU5XR3BJYlE?oc=5",
         "type": "rss"
       }
     ]
@@ -1219,6 +1311,84 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV2NZN2Q1eTR4eXdkZWFxLS04VFJOQUhDV3dSVGNTdk9PWTFoQ3B2WG9KRWhkWl96YXQ4a1IwYV9qQjZOWFBZNWFpVTRZb1U4RkU3RVh6dEhFQVA0el9YTFRQOW5CUmtLallwSWZMWWUyeEZxUUdpak1BV1NWRkVxcDF4U2lvemdKZGpBVjVlamlOSU9NaWhSbnRldWpFUkNnM0xHQ3FUVXVESnlhTzNIRnE4TzZRTHlrTEltbU5oX1psRDBMOUpyVWxNV0NEZ3dmUGVIQm90LTZ2NG9Ud1ZyZ3FGcE5xZjRSRF9ESktJYmVHWXBNcmpIaG1ZUXNQTDRBRGVOYXV1VS1jLVVieTB0bFZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-23-058",
+    "date": "2026-10-23",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Did Fortescue's (ASX:FMG) Iron Ore Shipments Soften This Quarter? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1AtNzhwMFB5YUdnUEJkN1NsaVpVWEM3R0locUh3ZDVQRFlpQWZ4UjVMYnRRS1dTdWdNTGNMbDdpMUdIVnc4dWJJcHZ4Wm9Qc2hKbHNObzVvTEFhZ0N2Z0RBdDdHcUZCLTdnR3BHQT",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1AtNzhwMFB5YUdnUEJkN1NsaVpVWEM3R0locUh3ZDVQRFlpQWZ4UjVMYnRRS1dTdWdNTGNMbDdpMUdIVnc4dWJJcHZ4Wm9Qc2hKbHNObzVvTEFhZ0N2Z0RBdDdHcUZCLTdnR3BHQTNJSlZ1SEFQSHBLSTR6YzNLNDhZb3ZJYUprZkVtZEJBOFd4cWhHQVlqRU5kS0V5NlJXSHBWWXhTMkZSbGIwQmtfRUFLYU1ZeDdTdWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-23-059",
+    "date": "2026-10-23",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jeroen van den Berg to hand over directorship of the Tata Steel Chess Tournament to Erwin l'Ami - Chess News | ChessBase",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4xdkczU0xSNU5NZHpSbTh3LUVhTHExUTJydnJPdjBDV1NhalA3LXBHR1UzVzgxVkUxTmJLLXB1V3hBN0pTZ1hVNkpmQW84em9kOHNpMTlsLVExRE9vSnVXUWZ3RFFUck5mVGFSaWZRQm",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xdkczU0xSNU5NZHpSbTh3LUVhTHExUTJydnJPdjBDV1NhalA3LXBHR1UzVzgxVkUxTmJLLXB1V3hBN0pTZ1hVNkpmQW84em9kOHNpMTlsLVExRE9vSnVXUWZ3RFFUck5mVGFSaWZRQm5zTXlsV0hhaGl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-060",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Steel to invest nearly $3B in hot strip mill near Pittsburgh - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdmFZeFlTSktWcVNwMjhmWGEyUFVxd180N00wZHpRemtKUGxPY1hDdUttOVdGTmFYYWl4Rk5ySlZnT1pTb2tKOHlwUmItN19wU0xNOXk2V2pDQ0pjd3RiTzl3TGEyd0xjUUhFYklybF",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdmFZeFlTSktWcVNwMjhmWGEyUFVxd180N00wZHpRemtKUGxPY1hDdUttOVdGTmFYYWl4Rk5ySlZnT1pTb2tKOHlwUmItN19wU0xNOXk2V2pDQ0pjd3RiTzl3TGEyd0xjUUhFYklybF9rZ1hzeGMwZU1tcGt2OXh0dUVpTjJIVlFWSGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-10-23-061",
+    "date": "2026-10-23",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reliance says caution around foreign buys makes import flood unlikely - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUS1XOFBVQmlkYnFaYTlteXNualVmV1JuOTJsUmp1UGpBVEhoZVlvT2dBNkY4dVhVMkZhaXZtdUFlaHVkYXJ2RFZRamhCSGpwQ2RtYXktVnVlN0xQT0FqUnZzWWpBRHVZcEloM1FQaF",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUS1XOFBVQmlkYnFaYTlteXNualVmV1JuOTJsUmp1UGpBVEhoZVlvT2dBNkY4dVhVMkZhaXZtdUFlaHVkYXJ2RFZRamhCSGpwQ2RtYXktVnVlN0xQT0FqUnZzWWpBRHVZcEloM1FQaFhDQVRtZldlLUZhZnBOT1B1ZXFOUUNMa0FGbzlHai1GZHN4YlZHM0Y3amx2RXZEdDQwdGJHY3BWNnJNSkRHdWRZakdDdjF5dw?oc=5",
         "type": "rss"
       }
     ]
@@ -2638,6 +2808,118 @@
       {
         "name": "google_steel_industry",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0pRSVdINlo5ZEZUZnp3MThMVHdQTUJhOXF5SjVSdDdtUUs0a2hEc281dmJVcUFlMlB4SDY3anliRFhEajVhcURFa2RlZzcyYzgzcF9hdEk3aTJQeVVxYkRDOEhITEh3bW94RWxrMTZoSFYyOHFtak9RVkZfQnRENmQ5N3Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-075",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Minister gives Stelco owner 15 days to reverse layoffs before turning to the courts - CBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLeHFZWkJUY1B2Rjh6WUVkcEVaRkN4d1dWWXZJOEd2dFA3TDNoTTlZVTBodFV4Q0tySkhqU2JnVS0tWXVLVWlKTTR6TkpENmdVU3R5cFVlNi1HVV9Cc2JqRXhCNEJ0NmpGMTUwNUFMYU",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLeHFZWkJUY1B2Rjh6WUVkcEVaRkN4d1dWWXZJOEd2dFA3TDNoTTlZVTBodFV4Q0tySkhqU2JnVS0tWXVLVWlKTTR6TkpENmdVU3R5cFVlNi1HVV9Cc2JqRXhCNEJ0NmpGMTUwNUFMYUM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-10-22-076",
+    "date": "2026-10-22",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Opinion: Cleveland-Cliffs CEO’s Stelco stance is rife with contradictions - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWhEZmJ6ODN6ZXIxVUYtYUMxM3pHcXlGSXUtVzdSb1E0SFVBNDRfN0FkRlA0bHRPQUFEd2dEdGMtazk2dHhNUzIyMnpFT3J4Z3lXN1NXc29yS05sLWo4NkdfU3QweHhabDlLWUlBS2",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWhEZmJ6ODN6ZXIxVUYtYUMxM3pHcXlGSXUtVzdSb1E0SFVBNDRfN0FkRlA0bHRPQUFEd2dEdGMtazk2dHhNUzIyMnpFT3J4Z3lXN1NXc29yS05sLWo4NkdfU3QweHhabDlLWUlBS2RPRy1TU1pDU2EwMXU5MG03VlZWMXVkd3lseUVEdkloazE1ZFZZSU40UUNORFZMT2wweDJFbVVfUUt6Rl9KSWV2TkE3bmVBeEhNMmdrWG9kSVJ6QkNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-10-22-077",
+    "date": "2026-10-22",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada Gives Cleveland-Cliffs 15 Days to Rehire Steel Workers or Justify Layoffs - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQSVBSUVlHTDFQS0MyUko1WEplci15U29fQXhDcGpCbk9NOXBNYjJLbWZCa3FlWUI2Y0FHRmhVYzVqck9hTHNnYW1FRXgyb0xFVGdBM3JfYzRNc3liY2dBMzdBTUVsbzg0UTQwYm1UV0",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSVBSUVlHTDFQS0MyUko1WEplci15U29fQXhDcGpCbk9NOXBNYjJLbWZCa3FlWUI2Y0FHRmhVYzVqck9hTHNnYW1FRXgyb0xFVGdBM3JfYzRNc3liY2dBMzdBTUVsbzg0UTQwYm1UV0xCM3R4TEc2NHM0T3NkV1luQ2xEa1B5Sl9EbjF2Mk11YUEtMTN4NnZlMjVHVWo3RXlqWWRBdG9VcjE4YTNLZFBNTE5FaGg0VTVsVzVPdGVFYlA3Q2tQWmtoRGl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-10-22-078",
+    "date": "2026-10-22",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canada gives Cleveland-Cliffs 15 days to rehire workers at Ontario plant - Crain's Cleveland Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3U4RldCeWplZEhzc2RJamp1SUNIeGl6R2l1RFcxTUM2elQzRUZmbjdlMWMwT2ZWbVMweDUtWW90cVc0VGN3cjgyRnFWbkVsbGZpX0VZXzQ5ODVnZVhQQXd5enVCNG5La1FIMkhSSU",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3U4RldCeWplZEhzc2RJamp1SUNIeGl6R2l1RFcxTUM2elQzRUZmbjdlMWMwT2ZWbVMweDUtWW90cVc0VGN3cjgyRnFWbkVsbGZpX0VZXzQ5ODVnZVhQQXd5enVCNG5La1FIMkhSSU9OMzF4YnkyNnBOeUcwcHVzUHlTOElITC1FNDNaT2djVGNuWDhWSTdHNzBFekNtUms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-10-22-079",
+    "date": "2026-10-22",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reliance posts big Q3 profit on high prices, border-wall demand - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZER2ellTUG1qVE1lT05DUXdYQjFrTG9ET1NuU1p3T0hsT0c1RFNWWmFRMzE0cmtzakstNzZzSUFxX2Itdy15SlJVTENpb0FpdGNZQU1wdDY2a0RvMUlPam0xNjBmRWNMSHJFNmR1MW",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZER2ellTUG1qVE1lT05DUXdYQjFrTG9ET1NuU1p3T0hsT0c1RFNWWmFRMzE0cmtzakstNzZzSUFxX2Itdy15SlJVTENpb0FpdGNZQU1wdDY2a0RvMUlPam0xNjBmRWNMSHJFNmR1MWVwQVJ1ek5SaTJUdWFEMVJ3eTNmOTloSEdBdGo4VFpudHZld2o4M3V6WlI0U29oYVJRXzJyV1NaaVdjUk1Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-10-22-080",
+    "date": "2026-10-22",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Earnings call transcript: Reliance tops Q3 2026 estimates on record sales - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXEzTjlHN0NEX0FtdUZIaWNfMVBiblBEdGc2Z3ZGSVhRVnhlUmN2dTF1YTYxQUptR3d6MWJMOFJVVEt2QTIzOUVUQ1ZUTnVtYkVmay1TOVZZQlR4LUkxczdWeUVRLVVDNjdKYlA5OH",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXEzTjlHN0NEX0FtdUZIaWNfMVBiblBEdGc2Z3ZGSVhRVnhlUmN2dTF1YTYxQUptR3d6MWJMOFJVVEt2QTIzOUVUQ1ZUTnVtYkVmay1TOVZZQlR4LUkxczdWeUVRLVVDNjdKYlA5OHRiVWxzOXdOSjlSaTJXTkdNdFFyRGRZUWEyUjBlYVczZllxZHdjVjI2MWt6MGhPV1VjZFA4WVpHZVRaX1BlblVTbXR1SURhUkZneXY4cDBxY1FkS2F3aWNzZ29vWkZtZw?oc=5",
         "type": "rss"
       }
     ]
@@ -4204,6 +4486,42 @@
       {
         "name": "reliance",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUdMT2FXMmFzdXM1all2RmRQajlxVmREam5HMmdhS1NJRy1hS1JDbHFKQjFqU1hGMDFVN0M1MDFFMURNQTNFY2UzTENGVlFmRWFVaXVHUC1mS1FJQ0Nvb3lRQXZjODRROUg3Y1RRQkNxd0VjQzk0cF9Bb08ySEJGQlhLVktiWDlXSWpTYzM3azduMEZCMWtPQTVTV054cTJIX0RiVVBETWxPWHNQdG1NUVgxZmlJR2ltaHZqOUpiRGdMdzk4b3c2R2pCZzA2TVFKOGZldDViXzVtemR2QUN2NlNvcU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-21-084",
+    "date": "2026-10-21",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "IDC Nears $610 Million Deal for ArcelorMittal South Africa - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVFuajNmbFQ2T0pLMG5uTHdaaTNNcDZYZXFTSFFwVEZtaVBzMVJQVnVXbEc5TG9ndzZ1QTBJcXdrM0NkbTNtbks0M2NpNzk2RlZBYkVkLTFuVGs0Yk55NzZzNDlVd2ZVU1NFQnVGM1",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVFuajNmbFQ2T0pLMG5uTHdaaTNNcDZYZXFTSFFwVEZtaVBzMVJQVnVXbEc5TG9ndzZ1QTBJcXdrM0NkbTNtbks0M2NpNzk2RlZBYkVkLTFuVGs0Yk55NzZzNDlVd2ZVU1NFQnVGM1dEUllaUkRzRXFBOVZhTDVGcFJOSjRuLXZtd2w5VTI2MFc1d0dOY2p5WDhaNW5PSTM0aVhoU29vNXBLd19NTEpnS0pDeUdaVkFMb2xhZzRLMHdnMFhLRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-10-21-085",
+    "date": "2026-10-21",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Reliance: Q3 Earnings Snapshot - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMTlVUFhaaVRBckh3SGxzbk5MZkNhTEpyM3NDZjVCQ1hJZEdPZ1NHdHAwNzdPZEkwWm5ZX3dVcG1JSVBCNHdMUVhHRk9RQTJIb3lqOWVzQ0tvUVU3aVpaMm5aV0RLdG94cWJaZ1pGU2",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMTlVUFhaaVRBckh3SGxzbk5MZkNhTEpyM3NDZjVCQ1hJZEdPZ1NHdHAwNzdPZEkwWm5ZX3dVcG1JSVBCNHdMUVhHRk9RQTJIb3lqOWVzQ0tvUVU3aVpaMm5aV0RLdG94cWJaZ1pGU253WGZReE95cVdJZDd0T3hCNHZwNF9xTEpyN2V3d3lCNUlOTDVueXlWb1FR?oc=5",
         "type": "rss"
       }
     ]

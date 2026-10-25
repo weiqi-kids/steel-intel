@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 333,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 16,
+  "gate2_fail": 24,
+  "passed": 17,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+    "BHP, Rio Tinto and Fortescue hit multi-month lows as miners come under pressure - Yahoo Finance UK",
+    "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use - Electrek",
+    "“Hot bricks” heat battery to electrify Rio Tinto aluminium refinery in world-first project - Renew E",
+    "Rio Tinto commits to develop $1.9B Kangwinan bauxite project in Australia (RIO:NYSE) - Seeking Alpha"
+  ]
+}
