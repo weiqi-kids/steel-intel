@@ -1,0 +1,16 @@
+{
+  "total_raw": 547,
+  "dup_title": 320,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 17,
+  "gate2_fail": 25,
+  "passed": 42,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+    "Rio Tinto, LCL agree farm-in on PNG’s Liamu copper-gold project - Yahoo Finance",
+    "BHP, Rio Tinto Fail To Halt Women's Class Actions - Law360",
+    "Rio Tinto commits to develop $1.9B Kangwinan bauxite project in Australia (RIO:NYSE) - Seeking Alpha",
+    "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use - Electrek"
+  ]
+}

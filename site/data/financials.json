@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T12:52:38.499809Z",
-  "quarter": "2026-03-31, 2026-05-31, 2026-06-30",
+  "updated_at": "2026-10-26T14:42:34.291311Z",
+  "quarter": "2026-03-31, 2026-06-30, 2026-08-31",
   "companies": [
     {
       "id": "arcelormittal",
@@ -92,34 +92,34 @@
       "name": "Cleveland-Cliffs",
       "ticker": "CLF",
       "currency": "USD",
-      "ar": 2044000000,
-      "ar_prev": 1882000000,
-      "ar_qoq": "+9%",
+      "ar": 2159000000,
+      "ar_prev": 2044000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 4525000000,
-      "inv_prev": 4591000000,
-      "inv_qoq": "-1%",
+      "inventory": 4694000000,
+      "inv_prev": 4525000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "cmc",
       "name": "Commercial Metals",
       "ticker": "CMC",
       "currency": "USD",
-      "ar": 1391195000,
-      "ar_prev": 1278653000,
-      "ar_qoq": "+9%",
+      "ar": 1440260000,
+      "ar_prev": 1391195000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 1172564000,
-      "inv_prev": 1143640000,
-      "inv_qoq": "+3%",
+      "inventory": 1104719000,
+      "inv_prev": 1172564000,
+      "inv_qoq": "-6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-05-31"
+      "quarter_date": "2026-08-31"
     },
     {
       "id": "feng_hsin",
