@@ -1,0 +1,16 @@
+{
+  "total_raw": 533,
+  "dup_title": 253,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 12,
+  "gate2_fail": 42,
+  "passed": 66,
+  "gate2_samples": [
+    "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+    "Freedom Broker cuts BHP target price - Freedom Broker",
+    "Is Rio Tinto PLC (RIO) Overvalued After 0.4% Rally? GF Value Say - GuruFocus",
+    "Mhlanga’s brief Rio Tinto stay - Herald.co.zw",
+    "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use - Electrek"
+  ]
+}
