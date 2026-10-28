@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 15,
+  "gate2_fail": 36,
+  "passed": 91,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use - Electrek",
+    "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push - Splash247",
+    "“Hot bricks” heat battery to electrify Rio Tinto aluminium refinery in world-first project - Renew E"
+  ]
+}

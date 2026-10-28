@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:47:10.830375Z",
+  "updated_at": "2026-10-28T14:42:59.127423Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-08-31",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "寶鋼",
       "ticker": "600019.SS",
       "currency": "CNY",
-      "ar": 14376348878,
-      "ar_prev": 14465776463,
-      "ar_qoq": "-1%",
+      "ar": 15329072540,
+      "ar_prev": 14376348878,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 40393580581,
-      "inv_prev": 40868776730,
-      "inv_qoq": "-1%",
+      "inventory": 42217275460,
+      "inv_prev": 40393580581,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "bhp",
@@ -143,17 +143,17 @@
       "name": "Gerdau",
       "ticker": "GGB",
       "currency": "USD",
-      "ar": 5862552000,
-      "ar_prev": 4810640000,
-      "ar_qoq": "+22%",
+      "ar": 6227263000,
+      "ar_prev": 5862552000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 15190355000,
-      "inv_prev": 14731081000,
-      "inv_qoq": "+3%",
+      "inventory": 16490132000,
+      "inv_prev": 15190355000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "hyundai_steel",

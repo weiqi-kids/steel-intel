@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-28",
+  "total_events": 55,
+  "by_company": {
+    "bhp": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "rio_tinto": {
+      "count": 12,
+      "sentiment_avg": 0.12
+    },
+    "fortescue": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "suncoke": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nucor": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "cleveland_cliffs": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gerdau": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "reliance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 30,
+      "sentiment_avg": 0.0
+    },
+    "steel_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

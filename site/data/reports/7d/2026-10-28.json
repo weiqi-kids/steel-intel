@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-28",
+  "date_range": {
+    "start": "2026-10-22",
+    "end": "2026-10-28"
+  },
+  "generated_at": "2026-10-28T14:43:04.678786Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rio_tinto-2026-10-22-001",
+      "date": "2026-10-22",
+      "title": "BHP, Rio Tinto bet on India as next iron ore demand engine - Yieh Corp.",
+      "importance_score": 0.7
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "reliance",
+      "subject_type": "company",
+      "this_week_sentiment": 0.35,
+      "last_week_sentiment": -0.17,
+      "delta": 0.52,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nippon_steel",
+      "company_b": "us_steel",
+      "co_mention_count": 11,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 141,
+      "last_week": 173,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": -0.01
+    },
+    "capacity_utilization": {
+      "this_week": 8,
+      "last_week": 2,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.12
+    },
+    "trade_policy": {
+      "this_week": 14,
+      "last_week": 12,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": -0.07
+    },
+    "coking_coal_scrap": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "iron_ore_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 32,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "bhp": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fortescue": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "tata_steel": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nucor": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "cleveland_cliffs": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 8
+    },
+    "reliance": {
+      "event_count": 5,
+      "sentiment_avg": 0.35,
+      "rank": 11
+    },
+    "nippon_steel": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "us_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "ta_chen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "suncoke": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 351,
+        "last": 427,
+        "change_pct": -17.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-22",
+      "event_count": 88,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 64,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 59,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 67,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 55,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-22 ~ 2026-10-28）共 351 則事件，重點為「BHP, Rio Tinto bet on India as next iron ore de...」。Reliance Inc表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 32 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
