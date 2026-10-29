@@ -1,5 +1,865 @@
 [
   {
+    "id": "bhp-2026-10-29-001",
+    "date": "2026-10-29",
+    "companies": [
+      "bhp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP Group (ASX:BHP): How Are Copper Output, Iron Ore Volumes and Jansen Shaping FY27? - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFc4Z0JkZllFWFJpYW1aRjlQV0R1MHpiY1lORGE4U3FrY0ZTVUgyN3p6X1BOMU5CT29CQ0d6YTYyZUQ1LS1NMV95MVpBOUx5bVVyTXhHMUREZFB1UEh6eUhHMHFjM21qWHg5V2dTXz",
+    "sources": [
+      {
+        "name": "bhp",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFc4Z0JkZllFWFJpYW1aRjlQV0R1MHpiY1lORGE4U3FrY0ZTVUgyN3p6X1BOMU5CT29CQ0d6YTYyZUQ1LS1NMV95MVpBOUx5bVVyTXhHMUREZFB1UEh6eUhHMHFjM21qWHg5V2dTXzRSQWl4Q0pOUXRNUkNOd3BiZUR6TTMyalFyWnpiM2RrbWViNFRCc1k2R3ZUcmRES1ZWZDJlcGk5UnBta3U4MWsyMUNNbGU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-29-002",
+    "date": "2026-10-29",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto assesses new lithium plant in Argentina, copper opportunities - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkhrQ0QzcHJxUlBfOXNZcThOeDE2UjEyelJFVk9kc3ZFbUxRTjU5czNkTjFwdzNaaHdDOHZwZHZvejZMb0wxMnN0Y2pnTUNCTHNGMEZic0xhMkVEOUQteHMxSVVTazNTUVpOWHlUbD",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkhrQ0QzcHJxUlBfOXNZcThOeDE2UjEyelJFVk9kc3ZFbUxRTjU5czNkTjFwdzNaaHdDOHZwZHZvejZMb0wxMnN0Y2pnTUNCTHNGMEZic0xhMkVEOUQteHMxSVVTazNTUVpOWHlUbDk1UlphNGVyNWcwU3Y2VWdVZHJpNG5YOWlXdzc4bTJkdGZXQUhCRWhjdU56al95QWUyNTZPd3FuT2FjSkJtM1FSTldB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-29-003",
+    "date": "2026-10-29",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mining Talent Competition Intensifies as Rio Tinto Proposes Raising CEO Target Pay to £9.8 Million - NAI500",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLURVSk5oeWZ6RXRMb0l5cXZxYzRERVg4TnNjZlZTYTdUN2JydnlhaUdKUk5UVG1pNXBGcXdYeFlka202NlA0ZnVoSmtzLXI0YkJGZndRMUJfcjFaWDljS2VIeE9mU3RRMDZZMUROMD",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLURVSk5oeWZ6RXRMb0l5cXZxYzRERVg4TnNjZlZTYTdUN2JydnlhaUdKUk5UVG1pNXBGcXdYeFlka202NlA0ZnVoSmtzLXI0YkJGZndRMUJfcjFaWDljS2VIeE9mU3RRMDZZMUROMDBsTDliMUp0MHJ6UHUtRzdZb1pxdVpoMS1QcXNiZzRYb3RfSjlnSXZrc1hoVEQ4Vi1QcVhYREF6NU13eG13M2VWbWwtN01mMmxCSzVlVlB6X0hmQVVxWHg0Mmt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-29-004",
+    "date": "2026-10-29",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rio Tinto celebrates opening of US$1.4 billion lithium projects in Argentina - Global Mining Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQjBkb1R5dmtVclNjZFAwTUdndkxXYUdOOVl6Q05EUEJJcG92aXo5bnFyQ2JqTHJ4bEFLUkx1MlVlY3JfUFZTRHdKb3JmanZVcGltT1IyWUp2ZlBJQm9ISkRtRXdIN1lFVkljQ205Nz",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQjBkb1R5dmtVclNjZFAwTUdndkxXYUdOOVl6Q05EUEJJcG92aXo5bnFyQ2JqTHJ4bEFLUkx1MlVlY3JfUFZTRHdKb3JmanZVcGltT1IyWUp2ZlBJQm9ISkRtRXdIN1lFVkljQ205NzRGZlRfQ1FtZHR5QldsOVl1cXAxQlo3TnZhYWtJUHJDQ3RtQmRoNDVmTFltUXVCQXdDT0JrTEZyaFdCbXBPdUpoeWtORG9lQl9sTHNMZFhwSUU1WTda?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-29-005",
+    "date": "2026-10-29",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rio Tinto celebrates opening of $1.4 billion lithium projects in Argentina - International Mining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1VTREFobjdhcTBoVUc3VUdFc1FVSGR3OElzYlJmWEYzRkR1ZHhIVEZPdWRDNjV3RndWcThkdlVOMkFjR21DZ2NqWUh4TVBZRDUxVDRhamp0TjVDWkp0MFczc2I2NmNiT0paZjBTZ1",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1VTREFobjdhcTBoVUc3VUdFc1FVSGR3OElzYlJmWEYzRkR1ZHhIVEZPdWRDNjV3RndWcThkdlVOMkFjR21DZ2NqWUh4TVBZRDUxVDRhamp0TjVDWkp0MFczc2I2NmNiT0paZjBTZ1V1MEFjSnczV1o2cS1ZXzhTbjRxSGxlQWctMTA2dEF3dHZwSlNERVVsR2p5aGF6SWVqV0RXTnRBTTJEalk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-29-006",
+    "date": "2026-10-29",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The last miner standing: Fortescue faces CMRG alone as Rio T - Kpler",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZktpLTJvc3RNQWhlSDRXQWJaVzA3VUptYVpfX1VhVkRJM0tSekYxMXhJa0h3RkVOYzh5cmlsNkxHWGJkSTBKbGppeDQzQmtqTXFRMkwtZ0xESnJvYmtfSGMxRHdTNlZhcmVIc0pKcU",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZktpLTJvc3RNQWhlSDRXQWJaVzA3VUptYVpfX1VhVkRJM0tSekYxMXhJa0h3RkVOYzh5cmlsNkxHWGJkSTBKbGppeDQzQmtqTXFRMkwtZ0xESnJvYmtfSGMxRHdTNlZhcmVIc0pKcUFGbWxyVmh4VHFJUGU0S2xHZVgybDFETFJEaFFza29tQ0hzR05GNndhdlczTm40S2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-29-007",
+    "date": "2026-10-29",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto Eyes A $1 Billion Lithium Expansion In Argentina - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWk01VG8tUWg5TG9aUEVwY1JIMEdXa0RoejZ1N194VEZmV3FXWG1KaFlpY0J1Z1BncHhlU1U3T3h3OXdMeDdsM1dyTVczUjI2MWNYcG4wSnpndkpUZE00aktERDB2RUcyY3JoT3E4b3",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWk01VG8tUWg5TG9aUEVwY1JIMEdXa0RoejZ1N194VEZmV3FXWG1KaFlpY0J1Z1BncHhlU1U3T3h3OXdMeDdsM1dyTVczUjI2MWNYcG4wSnpndkpUZE00aktERDB2RUcyY3JoT3E4b3M1N2VPaTNoTjBwajNaV2RLeWNjbWdqdnNvMXVITWw5VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-29-008",
+    "date": "2026-10-29",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto doubles down in Argentina with new lithium plants - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGZDdlMwUDhxbnNTc0llZ0U3Y0tmaExyMGdKUV9pd1JDc0hrbVFGeDFXbEhvakNWdEhmVmVoSTM1ZjJkWV9XQ3gybjluZ1JRa1lMZllPc0x5NGRGclBUcmdNNFNuT3JxWFdBSEozQ3",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGZDdlMwUDhxbnNTc0llZ0U3Y0tmaExyMGdKUV9pd1JDc0hrbVFGeDFXbEhvakNWdEhmVmVoSTM1ZjJkWV9XQ3gybjluZ1JRa1lMZllPc0x5NGRGclBUcmdNNFNuT3JxWFdBSEozQ3R6UVRabENOLWk3dldoQWNmWVBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-29-009",
+    "date": "2026-10-29",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fortescue Ltd (ASX:FMG): Battery-Electric Locomotives Enter Pilbara Rail Service - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlU0ZjBiM0NOR25QZ0Q2bWtXMTlOcDZJUU8tZHp0cnMyT0J0OGwtdUFJVTJ4dWZqQnpLT0c0cl80dTBMZFlITElvQVlmNFM0aHgyc0o0bmpLSXRQZkRXNFRPbVBSRjV6dV94YjkyMj",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlU0ZjBiM0NOR25QZ0Q2bWtXMTlOcDZJUU8tZHp0cnMyT0J0OGwtdUFJVTJ4dWZqQnpLT0c0cl80dTBMZFlITElvQVlmNFM0aHgyc0o0bmpLSXRQZkRXNFRPbVBSRjV6dV94YjkyMjNvaTctZElFT2VDUXh5eTBlekRGSEljZEJqNE5uWEVqSXk3WWVkdXVhSG1wdEJqbkx5UDhCemhLeTc3T0dGMEdaRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-29-010",
+    "date": "2026-10-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal Declares Special Cash Dividend Of $2 Per Share Payable Nov 20, 2026 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaU56VF9RUlo0Y25QTThsZHpOaENtOE5iNDkxQlhaVTc2bTFSTl9TZjhIU1BhRGxzcXJvVlJQUWZncTEyamZyLUdLdWYtTFpPZ0FRR3o3XzR4Y2FPek1zTVhFSl81cWV2R2dEMHduTX",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaU56VF9RUlo0Y25QTThsZHpOaENtOE5iNDkxQlhaVTc2bTFSTl9TZjhIU1BhRGxzcXJvVlJQUWZncTEyamZyLUdLdWYtTFpPZ0FRR3o3XzR4Y2FPek1zTVhFSl81cWV2R2dEMHduTXVFZVdiRXRLemlCSm1fNk8zTm5HSk5oczhMOE5OREU3TUV6bm5UXzRfQVgwc2NubjdTUTlTUDI2RGRYM3NFcjZxc0hBYWZrQ3pJRWtGbVM3MHVEc0p3eUVmTXNNNk91MHFzWmhVcXZZRmgtbHVQcG5TcklfQ1NBZU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-29-011",
+    "date": "2026-10-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal declares $2 special dividend per share - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnA5b1h4UnVNZmVGTHg5d3BaOVp0aG1TQkNvY0RSWXBHRkI2VWtaT3ZsN1VSaUI0ckZnSVl6aFYwanZxQnRtNGRNM2N6eEhMMS1pdk9hblBOLVF5SEgwTXc0aXNaZ1NyUlpDX2hxeU",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnA5b1h4UnVNZmVGTHg5d3BaOVp0aG1TQkNvY0RSWXBHRkI2VWtaT3ZsN1VSaUI0ckZnSVl6aFYwanZxQnRtNGRNM2N6eEhMMS1pdk9hblBOLVF5SEgwTXc0aXNaZ1NyUlpDX2hxeUJrUVREeHFZdDdtc3pRSHd2cTVMTHUtZDdZQWZGTnhxVHB4N0pvT0hPNzFRQnFBY3FnckJFeE9BV2dxVzFEVTRhVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-29-012",
+    "date": "2026-10-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal Declares Special Cash Dividend - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlVqR1pPV0tOd2hJaHdzZTlrM1dXY19pT21CMWVFSnhTekQzNDcxamZjQUZIZW1pYlhWckdUTGdSUFNDYWhyRXM5SmZIck5Vc2xZVlVYdnNRcHVHaEJ0ZTBBdkFseW1zZnZCSlNTRS",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlVqR1pPV0tOd2hJaHdzZTlrM1dXY19pT21CMWVFSnhTekQzNDcxamZjQUZIZW1pYlhWckdUTGdSUFNDYWhyRXM5SmZIck5Vc2xZVlVYdnNRcHVHaEJ0ZTBBdkFseW1zZnZCSlNTRS1hNUloOTFuUlFzckJtZXVVSXpPQVdNdE1LU2tLd3E3X3Jrc1lDbFFqdnoycUZORjNLeUZKRXItbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-29-013",
+    "date": "2026-10-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal (HCC) Declares $2.00 Special Dividend; 2.4% Yield - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmt4bjN4aFJKX0U5Z3dGUlZZWkFNOHpucjhPazhSaG0yZUN2eVMyMFhxbDNBelNpRGgwVEFrWmIwdTM3VDFCM3lIeWMwdDQzOU9PU29MRlZhaDlMNmRYYloyZjNNYkkxUjRGb3JTbj",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmt4bjN4aFJKX0U5Z3dGUlZZWkFNOHpucjhPazhSaG0yZUN2eVMyMFhxbDNBelNpRGgwVEFrWmIwdTM3VDFCM3lIeWMwdDQzOU9PU29MRlZhaDlMNmRYYloyZjNNYkkxUjRGb3JTbjFXeFJxc2JmME1kZ2YwSEt3SDNuS0xZcmFyaVFpVGpjelNJd2dqX2FjeUlJQzI3cWhUYmtONnlRY0R4SXlIY1U0ZEtac29URHlaVTd5d05LZmRkeTlHaFBBallR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-29-014",
+    "date": "2026-10-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal (HCC) Dividend Keeps Valuation In Focus As Blue Creek Narrative Builds - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOSDhGbVhKMWZ3R3Q1dU1kZjcyS09SX3IwZGV1WkgyVlRhQ0hQaUxMdkM3bVptdV9NLWFzYWxsSEhlQ3dPSUFJUFJ0dVVUZ2QyeHdKM25QUUhGNDZNYlR5WmcxRTVtYkNVenhlZkh6Q2",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSDhGbVhKMWZ3R3Q1dU1kZjcyS09SX3IwZGV1WkgyVlRhQ0hQaUxMdkM3bVptdV9NLWFzYWxsSEhlQ3dPSUFJUFJ0dVVUZ2QyeHdKM25QUUhGNDZNYlR5WmcxRTVtYkNVenhlZkh6Q2JCSnFzWjNvdEZqc1VHbEQtM29KT2lobElqWmtZdkNvWW1vQ2hMejRGM1gwTnlZdktMZHd1elJGZVZ4M1RuVmoycDBkdEdhM3AyUjBXM2pNc0t1Rk5fUzJQcUkxa1F5UdIB0wFBVV95cUxNMTRPM1h2NFlIV1U0OVg5SGM2OFRnZUt2WDZLc3NWNzBMa2Zla0hkc1Zsd3RNeGh4T1FMVmdkeFdrVm44R2x2Z2lDZ1hoeG5lTmZqZ2VmV2RMekZ0QzdpdlZrTEljRzE1OUdrSFh2SFlReHlmT3p5dXBXWllnOTcwVVN2dUE2MkZZTVc1YnFYVGZGenZjVGVuNXBJUk5wRFJFNE4wbFdaOFlyX0Q4cVA4Z0ZJSWp3bWlpSjY1eDZMNEhMRkNBLUN5OEs5d21wUkxvX0Jr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-29-015",
+    "date": "2026-10-29",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal declares $2 special dividend per share By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXBoUFo2VXVBUFFYcDlOQTd5a1U1ai1GY2l0OWgtRi0yYkRjY0FjWkZzLU9kR1VtLXJjcHNrZ1dIT003T24tR01WUGo3QTRIeWJrUDRJYWIxZXlueUVWenZBdFgtc09TWGV5bi1VMH",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXBoUFo2VXVBUFFYcDlOQTd5a1U1ai1GY2l0OWgtRi0yYkRjY0FjWkZzLU9kR1VtLXJjcHNrZ1dIT003T24tR01WUGo3QTRIeWJrUDRJYWIxZXlueUVWenZBdFgtc09TWGV5bi1VMHVyZEpXMXJhSWd0T0lVWHNabF8xUk1rX05qN0xEMHRHOUR1M1BMYlFtS3ZlSjNPOFVLVDdjYTRwVHI1azdOQ3NiRWZzc0ZzZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-29-016",
+    "date": "2026-10-29",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ArcelorMittal Steps Up Amsterdam Share Buybacks for Cancellation - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFlJQUpqSzZmVUN5aGJrUUJtOE9GUFczeXJ6cFE4YjJiUmhvekhxTzhqUXdKUl9iaVR6Q0sxc0xfZFl5UzVkV0hCUDFwdUwtNFk5RTl4cE1pOFkyeHpQaHpWbVFHLXNvTlZpTGpCZ0",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFlJQUpqSzZmVUN5aGJrUUJtOE9GUFczeXJ6cFE4YjJiUmhvekhxTzhqUXdKUl9iaVR6Q0sxc0xfZFl5UzVkV0hCUDFwdUwtNFk5RTl4cE1pOFkyeHpQaHpWbVFHLXNvTlZpTGpCZ0puZVRXUDNSYkwzbkhLNlZvNDFISHR2VW1pa2EzZFdFcDU1WWdJNVo3Mjc2ZFMzTzJfU2lqMHM4MWNubHZwWGE3elJpTVQyRlZkd2ZFazZCMGVuQm5wYWlRbnVWOTZ6anNCRnpPbnJuQW9feEpJd1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-29-017",
+    "date": "2026-10-29",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tata Steel foundation launches ‘Sabal-Sanket’ sign language drive - The Avenue Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNHMtLW1PTVlrTGY1UjhuLTViMXJmSDRkNkRYcGpvcTQtRHBPWFRpOGktVUtoVzI3NFFjLVluamNXT0dJRnRlNUR1RmpNWFpSd1ZGNXM5MzY0QmhLN0RuMzljaUYtZFVMcjhTeGlacm",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNHMtLW1PTVlrTGY1UjhuLTViMXJmSDRkNkRYcGpvcTQtRHBPWFRpOGktVUtoVzI3NFFjLVluamNXT0dJRnRlNUR1RmpNWFpSd1ZGNXM5MzY0QmhLN0RuMzljaUYtZFVMcjhTeGlacmxhamlYYXNEWXdVZGRIV3VCTEFUVUV6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-29-018",
+    "date": "2026-10-29",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jharkhand pollution board issues notices to Tata Steel, 11 others over generator emissions - The Avenue Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjc2THBmSDV6M0VQRW04VThoakhOb0praHhOdEpFb2VaUnZJVUpyR2ZHVGROSWYyeEU5SVprUzItal9WNXRLVmtXdzV4aXVzNmtzTTBmeHdpc2prdDl3REl5bHlhTU52LW91WmFucl",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjc2THBmSDV6M0VQRW04VThoakhOb0praHhOdEpFb2VaUnZJVUpyR2ZHVGROSWYyeEU5SVprUzItal9WNXRLVmtXdzV4aXVzNmtzTTBmeHdpc2prdDl3REl5bHlhTU52LW91WmFucldQWXdnWUxsNThFQlE4XzNTTlVzRVVKQTBNZW1GZm1hZXVzUXpaQllSdEJpMTBDazNtQ20yWXlmVDJrczFZUEp1MTRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_steel-2026-10-29-019",
+    "date": "2026-10-29",
+    "companies": [
+      "tata_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Diwali Stock Picks: SBI Securities bets on these 11 names from Tata Steel to Sky Gold - CNBC TV18",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWpKOUFTQkRmcmV0MVRCZHQzZDZKR1duVEhPNFBtcS1DOUwtOUVOeVp5dWRqVnNNUnRMakRPaUxmOTRqSUF0Ti1WUlFhRlhpaUQtS0xXenNZdTRNSXZiM0dPVFQ4N0Uyc2dEcll6UU",
+    "sources": [
+      {
+        "name": "tata_steel",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWpKOUFTQkRmcmV0MVRCZHQzZDZKR1duVEhPNFBtcS1DOUwtOUVOeVp5dWRqVnNNUnRMakRPaUxmOTRqSUF0Ti1WUlFhRlhpaUQtS0xXenNZdTRNSXZiM0dPVFQ4N0Uyc2dEcll6UUlSYVg3UWhiV1BDYVpIQzd5ZEFmOTdRSWYxT3BPLTM3MmRGNEpOMkRkZjEwdW9yYWtQZDdOT1lYUDdFa0NxV0FVQ005YkZESzJLMlphODhRbm4xMzFZdkNFYTVRX0pXVVJHQVpEOTd0YjBaMG9veG91UXBnZmF6UE14UE84ZzFVMmRIQVVQYnZGRDNaVdIBgAJBVV95cUxPbmpyaEpTMjc0aDAydHVzZ1BhZ1MzS2lweEM1elZJYXJrQ0ZkUm9FY1hEczcxQTRUSkFreGlUME5yVE12dHV0Ync3X0lxLV9IV2t5MzNEVnhoWWNvZWR0bmkwdUxWNzFyVWtvZnBLZGxiMlF3Y1JlVzdwYm9mUjBBSkkzbWdhaV8zT0Y4YWZPWHJVbkJmNmFxV1p1bmtVdl94YjdwaTY3ek14ejNXaDV4RkdYb1NaaHZYaS1aM1gtY3RSN2xBZm15SHd1UGZkMURYQ3pZWDFPSng3ZVdnQUtVZWRPZmZlcW1UWVdQQ3dRc3RLSEJ3YjBicVZmenNrcFlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-29-020",
+    "date": "2026-10-29",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nucor’s CEO Says He’s Seeing the Strongest Steel Demand in His 31 Years at the Company - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlhSWF9PN2N6UjQ3WHUzTklXWU5GYWJlSlM4S2xBT1VfYXliWFQ3THpXd3Bmb1hrYnhSU1VzYlBfRzFOTERjQk5nNVVVODZpaW1fbjJrTUppMzdFWXN2a09wZlFHYTByejJXUXZTRz",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlhSWF9PN2N6UjQ3WHUzTklXWU5GYWJlSlM4S2xBT1VfYXliWFQ3THpXd3Bmb1hrYnhSU1VzYlBfRzFOTERjQk5nNVVVODZpaW1fbjJrTUppMzdFWXN2a09wZlFHYTByejJXUXZTRzBxTVFaOTlpVExpNjNhclVpcV83TTJOaTFEbjh5RWxGZnR6RTBTTTlVLWt6UFg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-29-021",
+    "date": "2026-10-29",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'Tip of the spear': Nucor Steel WV plans fall completion; driven by GM, data centers - Charleston Gazette-Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWmV3aV9JQmt0VFpUMEJvMFQwYUN1Qk85ZEYyQVdJTmg4dk9TZW5CU0tuWFY1Rk5pc0VQdHh6VW1VcTkxakRtc2ZNX1Nxd0JlQ3VNbXZ1MXd6ODhpZkRTZTdmRWpXNEpadWJxWDNFZ3",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWmV3aV9JQmt0VFpUMEJvMFQwYUN1Qk85ZEYyQVdJTmg4dk9TZW5CU0tuWFY1Rk5pc0VQdHh6VW1VcTkxakRtc2ZNX1Nxd0JlQ3VNbXZ1MXd6ODhpZkRTZTdmRWpXNEpadWJxWDNFZ3l2M1dnaUtycnJza1BubkhORUhsa0xHMUFtcWtxVUswT1h6bDlEQlRFWVNJbGpkTXgzWFR3dVdvdGZzbk9FanVXLUs0b29lcVZSQkkwNXNzaEZIa1drcW5PdzFoN3RtT2hDeDFhZXhYVDRPa0lWc1RmbkI2UWtscVZOLWh1SkphbDliREF2STFScm9PUlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-29-022",
+    "date": "2026-10-29",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "Nucor: Tariff Tailwinds And New Capacity Set Up A Stronger 2027 (NYSE:NUE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOX2dfU3NtQXphamswYXZjWWZ2dk5mYVdzdFZZbXh2ME1NZ2JUSnRHdGJES3VzaGJOdHZqQ2hIRzZHM0YxUjVXeXhnS0U3NXRmLUV1b2NacjZqY3FQWlZhUWdZQkVOWlZKSHFrbDRsMF",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2dfU3NtQXphamswYXZjWWZ2dk5mYVdzdFZZbXh2ME1NZ2JUSnRHdGJES3VzaGJOdHZqQ2hIRzZHM0YxUjVXeXhnS0U3NXRmLUV1b2NacjZqY3FQWlZhUWdZQkVOWlZKSHFrbDRsMFRndHRqelhlZ2RHSmVQMlB4a1c0aU5HbndEUDNTZW5kRGktYkxSR19ySzUwUzU5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-29-023",
+    "date": "2026-10-29",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nucor's CEO Says He's Seeing the Strongest Steel Demand in His 31 Years at the Company - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVFRmQ3N1dVU1TVpFM0RzcGtCRm85aEhyOVVKVWZvZ2F1dHI3Qm9YVHF2OWRpb3I2NmpvdTJucVBfdjh5T1dOU1ZkVzRjelFLTGZOajFmcks4endFbnhRdE5xdmZEaUpQRENuZFI2NC",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVFRmQ3N1dVU1TVpFM0RzcGtCRm85aEhyOVVKVWZvZ2F1dHI3Qm9YVHF2OWRpb3I2NmpvdTJucVBfdjh5T1dOU1ZkVzRjelFLTGZOajFmcks4endFbnhRdE5xdmZEaUpQRENuZFI2NC1zVEVEeF9JSFZpdzBaTGliUEJIQXJROEVRblZJaDlodkhOdEpDeV9OYTd0bVZ4MTZtVWZFWlBNdjRxcWI3blFIVURLdy1SV2JtejhfNldlRFYtUW1CeDhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-29-024",
+    "date": "2026-10-29",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor West Virginia mill nears completion as production ramp approaches - WV News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdkpVVHNSOTRyUXpucFdTVlJCQnAtSURWOE9YazB5OWc1NzJjQXRKeXRwZ0VJcHpQLWhtOWlUYXNtT1pMNFozWEhhRjZUbDR5OC1nREU0WlJzbHRJdmRIS0Z6MjJ4ZWc2MG1xMnQxWn",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdkpVVHNSOTRyUXpucFdTVlJCQnAtSURWOE9YazB5OWc1NzJjQXRKeXRwZ0VJcHpQLWhtOWlUYXNtT1pMNFozWEhhRjZUbDR5OC1nREU0WlJzbHRJdmRIS0Z6MjJ4ZWc2MG1xMnQxWnpPODFNWVlwNkRUczJXLUcxMnB2dk1qN0FROERaOUdtU2FpZi0xNUJfdEtkU004anN4UTVaQzgwcTdBTnNmQ1MzN3ptZVJGSS1remN1c0dqZ3ZfcmxpNmpaUEwteFZoZWdsOVdscWJfekE1djdHMGFOeGVxXzJWOTdUTkRwdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-10-29-025",
+    "date": "2026-10-29",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mélanie Joly gives Cleveland-Cliffs 15 days to reverse up to 500 Stelco layoffs or face forced sale, penalties - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2dlTzgxZEVsRG1TT0xWemlteE56N20ySV9aRGlmMlRDWmVTVWpqa1BJa293QkZNeE1EaUl2dnV4S0NyTUFaUGtEN2MteEtVTmVJWmlDTWFPVk5qYWFrcjNYdktjaFRxNm9nLXpGel",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2dlTzgxZEVsRG1TT0xWemlteE56N20ySV9aRGlmMlRDWmVTVWpqa1BJa293QkZNeE1EaUl2dnV4S0NyTUFaUGtEN2MteEtVTmVJWmlDTWFPVk5qYWFrcjNYdktjaFRxNm9nLXpGelRxS0tPVVJ6b2Q1TzVXWm4ySXpJaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-10-29-026",
+    "date": "2026-10-29",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mon Valley towns, schools tighten budgets after novel tax pact with U.S. Steel - Mon Valley Independent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3M4Q29WYnowOHpTYVN5QW9Rajg3LUxQSWhvTkJtT0lUUFQ4VVhWX2FpRExoaTIxMzJkSmpGQlVPcWg4S0s2SVBEb1g2TlBrOUlkZ0FXZjFRSXNjM0hUQ2tzeHZDN1VOWW93cG1lVn",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3M4Q29WYnowOHpTYVN5QW9Rajg3LUxQSWhvTkJtT0lUUFQ4VVhWX2FpRExoaTIxMzJkSmpGQlVPcWg4S0s2SVBEb1g2TlBrOUlkZ0FXZjFRSXNjM0hUQ2tzeHZDN1VOWW93cG1lVnBCU2ZmaFlPbUx1Vlg5bkR2eGRTa2NXdmRVWWUyZ1YwUUhOY215VnNrald6QkJOS0NObHZHZmVlX3MyRllBeG5DQzZWaFRsWnI4eXYtNHlERVJLODlRREVrSE1SNklzbms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-10-29-027",
+    "date": "2026-10-29",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USW waiting on U.S. Steel contract proposal response - Mesabi Tribune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWxvbWlmNWI5ZGRNLV9faVhoNVBFNElhcjVDNjhwemh6Ty1MZEZMNFRXT0hKQTJGaE0wSUtsNnZ6Q1pqaVpNTVFCUTUwMkNsRWkyRzRQMUU2R1hiX1J6SmRNcFZiTFA5c3NqXzM5Wj",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWxvbWlmNWI5ZGRNLV9faVhoNVBFNElhcjVDNjhwemh6Ty1MZEZMNFRXT0hKQTJGaE0wSUtsNnZ6Q1pqaVpNTVFCUTUwMkNsRWkyRzRQMUU2R1hiX1J6SmRNcFZiTFA5c3NqXzM5WjhSMlF4eXpCRW5qSFhMRjVnQXlmTFo4MnJleVFUVC12aVpfMktfSng0WTdwZzhnY2M0S055ZHFyUEd6UjIzTnoxM3hXOG1LeGViV3lubVJrelhCUWJUTk1aZ3VRZUUtYTMzejhDOUV2WjJuQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "posco-2026-10-29-028",
+    "date": "2026-10-29",
+    "companies": [
+      "posco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai-POSCO Louisiana Steel receives air permit for steel mill - Gonzales Weekly Citizen",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUjVBT2ZHQVFFNU1lOFA2Ui13bTlURkhBTVVHMXJKZDF2ZHV3a19VRmN3UWZ1QVctVnIybnhWMGlkWWR3c28wb3p0Y0tVM0czblhZeTEyd2FTdmRTZnVpUkxDdlVFdDZ3QzVNWTkwMm",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUjVBT2ZHQVFFNU1lOFA2Ui13bTlURkhBTVVHMXJKZDF2ZHV3a19VRmN3UWZ1QVctVnIybnhWMGlkWWR3c28wb3p0Y0tVM0czblhZeTEyd2FTdmRTZnVpUkxDdlVFdDZ3QzVNWTkwMm5BRm00YWdVSFRCa29fQlRsNm5QVXM0bmpCaG5WOFZ6R1QyR1JiaDRpSzY4N1BPM3h1YU94bnJza1o5cFVER2pyQ0lhT21VOFZmTWdBcWRYdlhUTEplX09vbDA3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_steel-2026-10-29-029",
+    "date": "2026-10-29",
+    "companies": [
+      "hyundai_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Approves KRW13.7 Billion Brand Royalty Deal With Hyundai Steel - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXAxYTZvVUdQV0h5TllkMldXQ0pRSi1zRlRNM3FxQUY1NTlKVjdkeHFZUkhTb1Q0d2VGSmtWTDYzQnBCRjlFZnQ5N3VQQ1dSeUUweUNXSjZ4LWplRnEwVy1kbm8wcTZQV0kzQXlVV1",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXAxYTZvVUdQV0h5TllkMldXQ0pRSi1zRlRNM3FxQUY1NTlKVjdkeHFZUkhTb1Q0d2VGSmtWTDYzQnBCRjlFZnQ5N3VQQ1dSeUUweUNXSjZ4LWplRnEwVy1kbm8wcTZQV0kzQXlVV1ZjUzFhenFMdk1Oc19QWWViUWJYZFRhRmZnbFRscGREbVVMdHlrcks0NGJ4UTBzczZ0cWx2a0hZdWJrdHJmY0VrR0JsMERGeDNnTHpCNjlRUHJDTFJZR2wybg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_steel-2026-10-29-030",
+    "date": "2026-10-29",
+    "companies": [
+      "hyundai_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Steel Company Unveils Brand Film Featuring WRC and 70 Years of Steel History - 파이낸셜뉴스",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOdmRndE9UMDJwVVp0S1hxa3V4SVhHMXJCTVJUV2pmdnNsZ0QxV2R6TmttNFJ0Ul9jM0JfZm5SVkJ5R0xXLU5WZWowTFFjcGVJNHM1T3dpVG4?oc=5\" target=\"_blank\">Hyundai ",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOdmRndE9UMDJwVVp0S1hxa3V4SVhHMXJCTVJUV2pmdnNsZ0QxV2R6TmttNFJ0Ul9jM0JfZm5SVkJ5R0xXLU5WZWowTFFjcGVJNHM1T3dpVG4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_steel-2026-10-29-031",
+    "date": "2026-10-29",
+    "companies": [
+      "hyundai_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "\"The Rally May End, but Steel Lasts Forever\"... Hyundai Steel Unveils Video on 70 Years of Challenges - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Y0ZCbVBaRTVIQ2Z3NXY2blNPRC1UdF8yWTUydkJrY2lLVUh1MzRtcjBCTVBaZVlYZFdHZ1hrY01iMUFmQUdueG5hNU9BWjM2aDRKOHlERXd0RnVwU09jMzRTRkM?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Y0ZCbVBaRTVIQ2Z3NXY2blNPRC1UdF8yWTUydkJrY2lLVUh1MzRtcjBCTVBaZVlYZFdHZ1hrY01iMUFmQUdueG5hNU9BWjM2aDRKOHlERXd0RnVwU09jMzRTRkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-10-29-032",
+    "date": "2026-10-29",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Is Reliance (NYSE:RS) in Focus After Its Quarterly Report and Earnings Call? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnQzU250LVhjLVdCSHpTeFl1bkZXUXQ4cVpnWW1pR0pZQ0lkYUhyUlNRQlE2VDJEUVFnd1o3dW40OUswcHhFQUV5VEthR1p1dExTSVZ5MnRtVWFZd1dHajZiVFlUUkhENE5DSkotNl",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnQzU250LVhjLVdCSHpTeFl1bkZXUXQ4cVpnWW1pR0pZQ0lkYUhyUlNRQlE2VDJEUVFnd1o3dW40OUswcHhFQUV5VEthR1p1dExTSVZ5MnRtVWFZd1dHajZiVFlUUkhENE5DSkotNlZDRjFmc3dVQWhjejhsd3ZNbXBVYlNGMUx1LTNFWUdMc09SVEs4ZE9GTEVsX2RZeHpGQzY4WElMdmZoSEVQNjY3ZUhMZXFPU0JWODBrU1N4cXE2bGU5ZnBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-033",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CRH Reports Third Quarter 2026 Results",
+    "summary": "<p>Resilient Q3 performance despite a challenging cost environment and subdued residential activity Expect FY26 Net Income of $3.1B-$3.3B and Adjusted EBITDA* of $7.8B-$8.0B Announcing new share buyba",
+    "sources": [
+      {
+        "name": "crh_news",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-reports-third-quarter-2026-results/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-034",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK Steel criticises lack of energy price support in the budget",
+    "summary": "<p>The British industry association UK Steel has expressed deep disappointment that the new state budget does not address the critically high electricity prices faced by domestic steelmakers. The gove",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/uk-steel-criticises-lack-of-energy-price-support-in-the-budget/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-035",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp prepares steel division for spin-off – CEO",
+    "summary": "<p>German industrial group Thyssenkrupp is currently preparing its steel division as the next candidate for a spin-off through a possible stock market listing. This was stated by the company’s CEO Mig",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/thyssenkrupp-prepares-steel-division-for-spin-off-ceo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-036",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The National Bank of Ukraine has raised its base rate to 16.5%",
+    "summary": "<p>The National Bank of Ukraine (NBU) has raised its base rate to 16.5% in view of a significant increase in price pressure and a deterioration in inflation expectations. This is stated in a statement",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/the-national-bank-of-ukraine-has-raised-its-base-rate-to-16-5/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-037",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "steel_price",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SSAB posts higher quarterly profit on rising steel prices",
+    "summary": "<p>Swedish steelmaker SSAB has published its financial results for the third quarter of 2026. The company’s operating profit rose to SEK 2.157 billion ($217.2 million), compared to SEK 1.869 billion a",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/ssab-posts-higher-quarterly-profit-on-rising-steel-prices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-038",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "4,600 railcars with iron ore are queuing at the border with Slovakia",
+    "summary": "<p>Over the 27 days of October, about 676,000 tonnes of cargo were handed over across the Ukrainian-Slovak border. Of this volume, 637,000 tonnes went for export, while only 39,000 tonnes were receive",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/4-600-railcars-with-iron-ore-are-queuing-at-the-border-with-slovakia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-29-039",
+    "date": "2026-10-29",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Kryvyi Rih urges ArcelorMittal to reconsider its decision to shut down its Ukrainian asset",
+    "summary": "<p>Acting Mayor of Kryvyi Rih and Secretary of the City Council Yurii Vilkul has sent an open letter to Lakshmi Mittal, Executive Chairman of the Board of Directors of ArcelorMittal, asking him to rec",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/kryvyi-rih-urges-arcelormittal-to-reconsider-its-decision-to-shut-down-its-ukrainian-asset/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-040",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine reduced metallurgical coke imports by 6% y/y in January-September",
+    "summary": "<p>In January-September 2026, Ukrainian steel enterprises reduced imports of coke and semi-coke (HS 2704) by 6% compared to the same period in 2025, to 461 thousand tons. This is evidenced by GMK Cent",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/ukraine-reduced-metallurgical-coke-imports-by-6-y-y-in-january-september/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-041",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "iron_ore_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Iron ore prices remained under pressure in the second half of October",
+    "summary": "<p>In the second half of October, iron ore prices remained under pressure, and since mid-month they have already fallen below $90/t. In particular, on October 15, iron ore futures on the Singapore Exc",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/iron-ore-prices-remained-under-pressure-in-the-second-half-of-october/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-042",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "There are no market grounds for lifting the zero quota on scrap exports – Oleksandr Kalenkov",
+    "summary": "<p>Currently, there are no economic preconditions in Ukraine for lifting the existing zero quota on steel scrap exports or allowing duty-free exports of the raw material. This was stated by the Presid",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/news/there-are-no-market-grounds-for-lifting-the-zero-quota-on-scrap-exports-oleksandr-kalenkov/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-043",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Market across the ocean: how North America can help Ukrainian steel get back on track",
+    "summary": "<p>As GMK Center wrote earlier, access to the EU market is key to restoring the operations of Ukraine’s steel plants. At the same time, expanding the geography of exports also remains a crucial elemen",
+    "sources": [
+      {
+        "name": "gmk_center",
+        "url": "https://gmk.center/en/posts/market-across-the-ocean-how-north-america-can-help-ukrainian-steel-get-back-on-track/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-044",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "capacity_utilization",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JSW Cement commissions two capacity expansion projects",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/india-mumbai-construction-worker_c_gsk919.jpg\" /></p><p><strong>India:</strong> JSW Cement has approved two capacity expansion projects involving ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21427-jsw-cement-commissions-two-capacity-expansion-projects",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-045",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Amrize releases financial results for the third quarter of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/amrize-1500.jpg\" /></p><p><strong>US: </strong>Amrize has released its financial results for the third quarter of 2026, which ended on 30 Septembe",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21426-amrize-releases-financial-results-for-the-third-quarter-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bhp-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -1024,6 +1884,405 @@
       {
         "name": "google_steel_price",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3FXdWtCcVl3YWY1MWVjYlYtXzRUR1NTTl9HZDdOTHktRGF3UWIySHlIVV9xNFcxaFJGUkV5NHpTTXItcVZyQUtKRjZKQndTQ1BpZlJCbjBZQ3VHSlBrcW9UaGZsaWR5R19oY1BkTkNuQTRrRnVuQ21HQ2V1ajlqSWxRMzc0V09tczBaMExYeXVoQkQxMG9jUGVfU2tNRjU1QllLMWlBRlVUUmhYVzBuX1AxbmVUWWdBcXBXUXZISHk0X1VDa1VSbGx6d2RKNUkzbnl3T3doYy1RaXQ3eE5Tb0FR0gHnAUFVX3lxTE8xb19ueFQ3OW9RNGN0Q0tiYmg4NW4xWlZOeTlvUG9OWjloQTFVUTY5bURCeW9Fa2hid3JNQS1sM3dXVUQxM1cxdmN3MWlacXFQQUFjLVVZbzQ3Wkdxa1hRci1faVVNbnI0SDZGS2lnS0c5aW5kX1Z5ZFBXenFoaHVNQmNLVFhJN3VCc3M0dUY2cUpQTGc5bXNXYUFrWUFwRUlMTFFDbXZydS1rSlJlN182OURzbnk4Y3ZOLTZ5ZzEyWHZxelVrN0VldXZoeXNxS0JUaWVTZTMwRnFRVXFJN0pYMEFmNWdKVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-28-056",
+    "date": "2026-10-28",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto opens two new lithium plants in Argentina after $1.4B investment (RIO:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0E5VFhxR2kyeFNnTFFOSlVKZDFhZGVfcm9JVzBGLVpoTXVZaDBUOUdkZG52Z0hWQ0FDdE1wSDZZU3Q1QmZ5MTNzYlNqbmVfdGI3a2pEUlFyX1d0RTY1VWVnMmQzZHlDY1QybnpfOT",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0E5VFhxR2kyeFNnTFFOSlVKZDFhZGVfcm9JVzBGLVpoTXVZaDBUOUdkZG52Z0hWQ0FDdE1wSDZZU3Q1QmZ5MTNzYlNqbmVfdGI3a2pEUlFyX1d0RTY1VWVnMmQzZHlDY1QybnpfOTM5QmxoY1RIckdQRWtzV0FzZFp3ckU3Q1BEdlZjY3JTU05yejJTdjF5clBZMlBvVEFHSVRXbjVwbVVTUzEzb1B4Tk9RSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-057",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World's fourth-largest mining giant opens $1.4 billion lithium plants in South America as it commits $6.7 billion to projects in Guinea and South Africa - Business Insider Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFFnU2lVYUd0X3BQcTBOdlBWMHQ1S2x1R3dQT2poNDNna3BraXpvQ1lTX1dyWGRHdTg0NW1wa0xRZ0xoWFN5RjBrc1NsZ2VaeWlxVXFBa3RCaGs0dWNoWVotYktXelJfcVhyWVBqYk",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFFnU2lVYUd0X3BQcTBOdlBWMHQ1S2x1R3dQT2poNDNna3BraXpvQ1lTX1dyWGRHdTg0NW1wa0xRZ0xoWFN5RjBrc1NsZ2VaeWlxVXFBa3RCaGs0dWNoWVotYktXelJfcVhyWVBqYkJtUWxTNGN3ZUd3SmtEX0xneTRWVGpEV1pWb2ZRUGpEdDdWV3gweXpfNElrMW1MREVaLW1Bemh6THluZGt4WTBNYnBwMXpJREUwbWY0dXhRczB1U3ZfRUx1Q29TaUs0MDJwcDV0Sw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-28-058",
+    "date": "2026-10-28",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto Doubles Down in Argentina With New Lithium Plants - U.S. News - Money",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JNNFQ2WG5IZmhUMGJDSmVIb3VKMmFqZEY5X2Q5aFBJNlhVQ3VvMFdpTmJGN053b3JOaUtaaWRQUm9ZWDBoUEpSeFRLUl8xQWttMEt5UXZZZUJxUVd5WGhjRHpQWFVsZjJLVG1rd1",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JNNFQ2WG5IZmhUMGJDSmVIb3VKMmFqZEY5X2Q5aFBJNlhVQ3VvMFdpTmJGN053b3JOaUtaaWRQUm9ZWDBoUEpSeFRLUl8xQWttMEt5UXZZZUJxUVd5WGhjRHpQWFVsZjJLVG1rd1hlWXNyM21OdFlKSE40WG5SUUJvTmkyQldrbG53OXZkUjJva0NrdGpQRXB6dUQxMVpiQlV2bVYxNkxHcU1wS3Rsa1ZmaW1FYjVGbGhj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rio_tinto-2026-10-28-059",
+    "date": "2026-10-28",
+    "companies": [
+      "rio_tinto"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rio Tinto opens $1.4 billion lithium expansion in Argentina - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzRlMl84ZGxUY2dGMi12c2RQMF9kTGNEck9DaUpwcWp4QVM1b2FudDRjRWJ5cVBVMXJmTjZSRU84STdaOHVrNnZTMzJPaWxZbnBhYXdpSVdVLV9LNEtPYW0tdkpjZHNfTUU2aU9pZW",
+    "sources": [
+      {
+        "name": "rio_tinto",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzRlMl84ZGxUY2dGMi12c2RQMF9kTGNEck9DaUpwcWp4QVM1b2FudDRjRWJ5cVBVMXJmTjZSRU84STdaOHVrNnZTMzJPaWxZbnBhYXdpSVdVLV9LNEtPYW0tdkpjZHNfTUU2aU9pZWxYMFc0YnlKUEJzdnBrN01XVEl1SkNDc1Z5WHZpVGNsNF9nSVAzbjdlcThGYUtxTXVPUE1rQnFhT0tGcnlUc3RsQlNZY0s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-28-060",
+    "date": "2026-10-28",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue says iron ore deal with China must protect Australia - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzhvWUFPcGVLMWJZdThKdVA3WF9IMUppUVZOU3J5VmIwM3BqbWdLUF8tTkhuaE45b0N5b2lzbzUxUDEtM3pDNG5Od1J1bTdtdTNJbDBRRnJUMUFISW53RmFtU0x6SlFnMU1fR0liQT",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzhvWUFPcGVLMWJZdThKdVA3WF9IMUppUVZOU3J5VmIwM3BqbWdLUF8tTkhuaE45b0N5b2lzbzUxUDEtM3pDNG5Od1J1bTdtdTNJbDBRRnJUMUFISW53RmFtU0x6SlFnMU1fR0liQTdUWFIxWEFMUlFoRHdKb29uUU5xWi02d1NodnlRUmhmTVZmaHRf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-28-061",
+    "date": "2026-10-28",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "FMG: Record shipments and returns underpin an ambitious shift to green energy and electrified mining - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQWWZEVEhJS3dtaGdwN05ZOTZQcTNlLUlGNUhIR0VRanliUmRPcHpweWVzQnQ0eTByX04tRGFzdmE4UXNuQ0VzeUtsQkJaamNrNVJTY2Nkamxoaklzd19zdnFvTWNfYUNBUHQwQ2doOG",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWWZEVEhJS3dtaGdwN05ZOTZQcTNlLUlGNUhIR0VRanliUmRPcHpweWVzQnQ0eTByX04tRGFzdmE4UXNuQ0VzeUtsQkJaamNrNVJTY2Nkamxoaklzd19zdnFvTWNfYUNBUHQwQ2doOG1FdTdfQlpmdXlFalU3S3lsTDh0T2I5ZDhFQXBLRXFYdTZGMkhEdFBsV2h3VjRlX2ZJUnp3RVplb2Iya2VQRXNQOWZxc3J0Y3UtZmFiSUd3cUpjV2luOGdhRWV2UmpJNk12RVhrcm9sSDZjWW5iLVk3bGNEQ3ZJV2lzRUtkLVpTcU4yUTI5a1hnc0xmSUxJeThfRjZoYlExanVPLVZRRXVRV1J5emI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-28-062",
+    "date": "2026-10-28",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal (HCC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXVMbDNtQW1YaE9JSW10R01raUVfTG1YYjFvSkUtYXFRNk5hQVpQYm9NY0NHSkMwRWRkZmNnQmVNY2xJTjlkcVlMOUpDZWFMemg0TDEzMm5BMDhJdEVXUjZMRHVJdVpydk5Nd18tST",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXVMbDNtQW1YaE9JSW10R01raUVfTG1YYjFvSkUtYXFRNk5hQVpQYm9NY0NHSkMwRWRkZmNnQmVNY2xJTjlkcVlMOUpDZWFMemg0TDEzMm5BMDhJdEVXUjZMRHVJdVpydk5Nd18tSTFfZ3l2R05EX1lwY2JjMUpWYlVGZHp6NjNZTTdjemdnRFFLck5CZU5VM1ln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "suncoke-2026-10-28-063",
+    "date": "2026-10-28",
+    "companies": [
+      "suncoke"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SunCoke Energy, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2xFZVU1bVRERFFvNkJUQUdDek9uNWU0cWR2WjB0Wmg1NEhLVVprRU1sWjk0V1o2ekkyMjhFR25TdE1DUEI5aWZlTDY3RmJ6ZmxZZnRFLUVKUGlyVmlLYjFSWXZQTUhDemdWSHN4WH",
+    "sources": [
+      {
+        "name": "suncoke",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2xFZVU1bVRERFFvNkJUQUdDek9uNWU0cWR2WjB0Wmg1NEhLVVprRU1sWjk0V1o2ekkyMjhFR25TdE1DUEI5aWZlTDY3RmJ6ZmxZZnRFLUVKUGlyVmlLYjFSWXZQTUhDemdWSHN4WHNMc0tUSHRVQVp1QzhiTk82QVk0WmdveTFiNTAzNDdPR3pTeW9mcUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "suncoke-2026-10-28-064",
+    "date": "2026-10-28",
+    "companies": [
+      "suncoke"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "StoneX raises SunCoke Energy stock price target on strong earnings - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjFqeWI3WHVHOVhCUjQzNnpCZlJKcUptNUNhcGtfNzdXajgxQmhqZDZTMHNmTGFTQlB1RmJXZG5naWx2MW1GcE1ZVkVPWWNKVXR6bjhSaHN6RHZNWDJHNkpIOTN0V2J6TVphR1JWaX",
+    "sources": [
+      {
+        "name": "suncoke",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjFqeWI3WHVHOVhCUjQzNnpCZlJKcUptNUNhcGtfNzdXajgxQmhqZDZTMHNmTGFTQlB1RmJXZG5naWx2MW1GcE1ZVkVPWWNKVXR6bjhSaHN6RHZNWDJHNkpIOTN0V2J6TVphR1JWaXpiYVo4ajkyQVI4alhQdmU4clZDVnhwM3U3M1oyLVFRb21MV1NTVml0Q2ZUNk9QX0JWdElSWlNTQU5Rem1JWnZ1S0FHNWJYbGhDcXhDZVowOHR0czA4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-28-065",
+    "date": "2026-10-28",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "steel_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JPM puts ArcelorMittal on Positive Catalyst Watch on steel price gains - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmc0ZXQ1SXpMb09MQzczZ2RYcHM1WnNFX3NINGNIYWpfRDc0emJVaFB0ZHEtZV9qc2YyMmVKXzBTYVk2WmxEX2hpaTE3VjAzdU8xU3puOG1Iajd6VUdHeXBVVW5Lemh0V2t4S3dCc1",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmc0ZXQ1SXpMb09MQzczZ2RYcHM1WnNFX3NINGNIYWpfRDc0emJVaFB0ZHEtZV9qc2YyMmVKXzBTYVk2WmxEX2hpaTE3VjAzdU8xU3puOG1Iajd6VUdHeXBVVW5Lemh0V2t4S3dCc1JsUnlaNlFBN2xpbmdPMXFsOHpMZzdxdDNpSEs0dlBmZXpzUDBkcTBoak42MVF5dGRMSi1PVHh0VmE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-28-066",
+    "date": "2026-10-28",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor Q3 Earnings Call Highlights Strong Demand and 2027 Growth - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVVhRlNzV0NzclZnT2xuaUZqV2hfckFxQzBiZGZqQVZRS25wMW5kRkgwSm5QdjFvY1hHNEp6WWp5OXRCbVgwWkJqU1NPUDF4Mm16QnJ0UmxPYTBubWZqZ2luUTh4LThBWWxmLVc0Mn",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVVhRlNzV0NzclZnT2xuaUZqV2hfckFxQzBiZGZqQVZRS25wMW5kRkgwSm5QdjFvY1hHNEp6WWp5OXRCbVgwWkJqU1NPUDF4Mm16QnJ0UmxPYTBubWZqZ2luUTh4LThBWWxmLVc0Mno4QWM4a0hMampBanExYXoyRWFCRHJqand5WHNhQ1hUZ1RKWmY5d3EwQ2RlbjFLUkZhRnNvbnhCZGJIenlwMUxzMExsQ0QtWTQ3eUlN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-067",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cliffs could recall laid-off Stelco workers by Christmas depending on Canadian steel demand, CEO says - The Globe and Mail",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFxRzdVd3RPaE5oTGFzZERTMTFuRGhJYmhiMXYzdXRIeVhHaXg0TmxPa3ZNYm9YR0p3ZThXdHphODVTdjVsRnRIWmpoSXROY25TelZJSUdnWVAzenJtanpLV0hzeU1Gdz",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFxRzdVd3RPaE5oTGFzZERTMTFuRGhJYmhiMXYzdXRIeVhHaXg0TmxPa3ZNYm9YR0p3ZThXdHphODVTdjVsRnRIWmpoSXROY25TelZJSUdnWVAzenJtanpLV0hzeU1GdzFLNk8wR1VZcDhSenk5ZmxDaDJuWV9HbEV3cU4tRE5UTl8zTzNYTTg5akJmM000TjdqbS1SOHBWbXpTc3lnTzVpc1NSZGN2NExYMnktTmU3ZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cleveland_cliffs-2026-10-28-068",
+    "date": "2026-10-28",
+    "companies": [
+      "cleveland_cliffs"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs (CLF) Clears 34 Canada Commitments And Pushes Hamilton Job Return - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUs1TkpGMzJuczRLWmJPdVFwSnA1aVdhN2lPSy1sLUZKLVVkNm5QRVkyb1NrX25ZTzVxdlJZcmRkWW00c2o2aGVjV0tPcjF5cmtOQkJvSXpfcEp5VVh6dDhnLS1VV19oMkFhckJfWm",
+    "sources": [
+      {
+        "name": "cleveland_cliffs",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUs1TkpGMzJuczRLWmJPdVFwSnA1aVdhN2lPSy1sLUZKLVVkNm5QRVkyb1NrX25ZTzVxdlJZcmRkWW00c2o2aGVjV0tPcjF5cmtOQkJvSXpfcEp5VVh6dDhnLS1VV19oMkFhckJfWmtCaUtGNkx3cDRrNkUwUUgtdzI1Vllfb0xwYlR1STBRakotRWxCaGxRc25SQ0prMjVxVXJuc2JWZmxHcm94aU5HM2hQWTNDYTZ5QUx4cVcyMjlRWW5fWkpQdVRBWkMwZ9IB0wFBVV95cUxPMzhtc0pRUEJRS2FuTGpVa2xqZlBiWkw1OTFzLWRjVzRseXRKRExXbF9tdzFnT2lVRnB0LWtUZW1TbWNlQVpxN2xXWmNWYTlHRjlPanR4VFBmMVhXS2dhOVQ0aHY4dFM0V1BHSnBnUVRiSVRTRzZYb0Q1WUhxYmhEYWRuenFjUWhtcHZ2MmNkTnZyc09CSVBUSjFfTnptTThfQ3FaNUlrTEpxLVpNUjR6em1yYThkMGV2dHJKd2EwallHemg0eEtub2k4UTNvQVRWSENr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-069",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The US saw a 2.9% m/m decrease in steel imports in September - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONTNKYnNub3hmTDhxV2thUm1SZEs5Mk9mOTFnN2I5LTFtZHhuYTU0aUNDVWQxRmw4S25HdEhJUjBGUjVPa1ZyUmdkeFdyNUZBa2xnSXBQdWRwNEtadXZBTTIzcTVvdFZmalhJdTRQRT",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTNKYnNub3hmTDhxV2thUm1SZEs5Mk9mOTFnN2I5LTFtZHhuYTU0aUNDVWQxRmw4S25HdEhJUjBGUjVPa1ZyUmdkeFdyNUZBa2xnSXBQdWRwNEtadXZBTTIzcTVvdFZmalhJdTRQRTZaUE1DMFZ1eEFxamVzS2FocTBmTzdNLW1VLS1kSFI4d2zSAZYBQVVfeXFMTTZGU2M4dlcxODFTcWFoN0ZzM2gtZ0N3QWlKM0tNUHNjUm96aVk2dFk0TlpNOVZ5UUdPTmNzeE5kYzFrSGdpd3dhenFoZE96M0swdlZidm1NNTFpWDhOemRfNzJ5RDFLTTc0NFB1bWd0dVVEMXdKMjZESGRCOTF1RURpNWtyVEZRTWltYTBlWUNvdjd6bWV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-10-28-070",
+    "date": "2026-10-28",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Government called its lawyers after U.S. steel CEO's 'confessions' over why he bought Stelco, Joly says - CBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzJxWEh5d2phYTFHTXFsWk9yQ0R3SE5TSTV5U1dZYWZPVHRGbzhzeXhGY2NqNDRac1REWFc5MXNRZzdnTFBHY3RMMm5KM3lZUkkxeDMzYkt4d0YtNWNkSnNmNUg4SDJiNjZIaFhrR1",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzJxWEh5d2phYTFHTXFsWk9yQ0R3SE5TSTV5U1dZYWZPVHRGbzhzeXhGY2NqNDRac1REWFc5MXNRZzdnTFBHY3RMMm5KM3lZUkkxeDMzYkt4d0YtNWNkSnNmNUg4SDJiNjZIaFhrR1BFSXRvSWxlRWtqQXlVdWJvTktJbkFjOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "us_steel-2026-10-28-071",
+    "date": "2026-10-28",
+    "companies": [
+      "us_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel to break ground on DRI project this Friday - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXJubnEwdVhTd3kxRHJLQXo0R09URzdOcUMxNWN0WVRDemctUEVxSFFBdFh0bWkxY2VlZnc2YVBXc3JtTXl1VVBMcTZJRVNZVFJnZk5SZmNwcGlUNGdIdGRiUC05WFhwVnZJR3FoYW",
+    "sources": [
+      {
+        "name": "us_steel",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXJubnEwdVhTd3kxRHJLQXo0R09URzdOcUMxNWN0WVRDemctUEVxSFFBdFh0bWkxY2VlZnc2YVBXc3JtTXl1VVBMcTZJRVNZVFJnZk5SZmNwcGlUNGdIdGRiUC05WFhwVnZJR3FoYWkzN0lzeVJJeUc1aXBDdVhsY0YwOXV3bjZkQzUwbDV5SWJEa0dVTDgzU3I4dEpTYUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gerdau-2026-10-28-072",
+    "date": "2026-10-28",
+    "companies": [
+      "gerdau"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gerdau's N. American ops log higher profits, shipments - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxORHpRYlZTRTRDc3BnTXVoVnFUMnRhajRVX0lYTnI1WlhSM3NYRWVfdWhEZUR0eEg4MnpSVmp1enhQZDAzVHdDM2lJVGFPa3lxOGpYTnZJaTVJelR6SXVXeUNsa0dxRHZteXJPaHJfUn",
+    "sources": [
+      {
+        "name": "gerdau",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHpRYlZTRTRDc3BnTXVoVnFUMnRhajRVX0lYTnI1WlhSM3NYRWVfdWhEZUR0eEg4MnpSVmp1enhQZDAzVHdDM2lJVGFPa3lxOGpYTnZJaTVJelR6SXVXeUNsa0dxRHZteXJPaHJfUnd0V3pRbHA3Sy01MEhFRTFPelZvWUNkaHNETm5IYVlPdmNmSU5ZamI3dWs1QzBadw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-073",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GGB Stock Slides Toward Support As Steel Demand Softens - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0ybGJQMjVVVk5yUUlGclVKZUZDRlFjR0ZCVkktZDFNN2ZHeTR2R25Fa3REMWMzT2ZJOVdXdUxhczBQS1cxQzR2SlJTU3huTVExTVdjel8yU3NEWjJEWFphN25aU0ZRM3NZaWpibmdR?o",
+    "sources": [
+      {
+        "name": "gerdau",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ybGJQMjVVVk5yUUlGclVKZUZDRlFjR0ZCVkktZDFNN2ZHeTR2R25Fa3REMWMzT2ZJOVdXdUxhczBQS1cxQzR2SlJTU3huTVExTVdjel8yU3NEWjJEWFphN25aU0ZRM3NZaWpibmdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "feng_hsin-2026-10-28-074",
+    "date": "2026-10-28",
+    "companies": [
+      "feng_hsin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Feng Hsin Steel Co., Ltd. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSWpRX1hhd3BrclpiZWJUMU5YNzh5LWx1aVJZQTdIUVJEbW1Lc0NZb2h0S2pfaFV3dTYzQW5uX0FqZ0U3dlVfTTJxOEZVZVRZRFlaMS1QeGg3MGFIMHhmaEJxbS1JOENYZXhUX3lDOW",
+    "sources": [
+      {
+        "name": "feng_hsin",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSWpRX1hhd3BrclpiZWJUMU5YNzh5LWx1aVJZQTdIUVJEbW1Lc0NZb2h0S2pfaFV3dTYzQW5uX0FqZ0U3dlVfTTJxOEZVZVRZRFlaMS1QeGg3MGFIMHhmaEJxbS1JOENYZXhUX3lDOWhrN1habkxsRC1ma2JkQi1tOGM1MU53T2ZvRThVYnloTy15RkdDcWlnS3hnb25tT1E2enhiMDlpbUdYeUJZZnBoUTNZTXJaQjJvcDFrdzFiNWx5RUhBSndWbUY0MGFiOF9VZlRrMjV1WlVnWHJoRnVPQ1dVRWI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_steel-2026-10-28-075",
+    "date": "2026-10-28",
+    "companies": [
+      "hyundai_steel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility - CleanTechnica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1V2SWhTMVAwQnRNb1d1SThPZ1hpbWRWTzhkUnRubmRvMVRTMFpkR3NVUEhEVS1qUUJ1dTRtNEtON1ZvRFp0WFB1ay1BWjRrV2RUMmI0QUV0Y0JPV0hoNERZU09yaDk0R1M0czhTNE",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1V2SWhTMVAwQnRNb1d1SThPZ1hpbWRWTzhkUnRubmRvMVRTMFpkR3NVUEhEVS1qUUJ1dTRtNEtON1ZvRFp0WFB1ay1BWjRrV2RUMmI0QUV0Y0JPV0hoNERZU09yaDk0R1M0czhTNE1hdFVzcFg3UWdjRDRILVJzdmwyWTBaQjN6Q0hFNW10RUlCbnhQZVJBSXQ0ZXpWUjhZUnZWdlBYRjR6dUpZNnhIQ1QtcWJGU2F1V1ppZnNFdUJTSW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "posco-2026-10-28-076",
+    "date": "2026-10-28",
+    "companies": [
+      "posco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai-POSCO gets air permit for $5.8 billion Ascension Parish steel mill - WBRZ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXlCMnNIUWx2QVZNTmV1ZGhsMkcyV20zUlg0Vm1BWUIzOThkTzVDUnVNbHAzQ1JQRURNaUVoNWVxcy1PRFRzTDFPUWt2TFpreHg3cjRTZzlNNFhEb043Z1RSVm5KVEt0UktuZnlUMl",
+    "sources": [
+      {
+        "name": "hyundai_steel",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXlCMnNIUWx2QVZNTmV1ZGhsMkcyV20zUlg0Vm1BWUIzOThkTzVDUnVNbHAzQ1JQRURNaUVoNWVxcy1PRFRzTDFPUWt2TFpreHg3cjRTZzlNNFhEb043Z1RSVm5KVEt0UktuZnlUMlhuX19EZnYxVmgwajRkek9naHNSQXVQWUJXNTE0b0NwbWRib3lPRFI0bmIzM1RsU1d1d0E?oc=5",
         "type": "rss"
       }
     ]
@@ -2273,6 +3532,139 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21416-vicem-publishes-financial-results-for-the-first-nine-months-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-27-068",
+    "date": "2026-10-27",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pilbara Minerals signs 20-year power deal with Fortescue - grafa.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVpDLUZxNWI3Z0FjSEtjS0tUZGpaVjZfbTdQZ0xYRm1ZVFBBekpKY3JDb3ZSM3ZIV1lNRjFRZ0k2NDFTYWRpUExlWlhwOUlqT0ZldGlMMjRNVkxCLXQ4U0hqZm8zM01XWEZaWHNLM3",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVpDLUZxNWI3Z0FjSEtjS0tUZGpaVjZfbTdQZ0xYRm1ZVFBBekpKY3JDb3ZSM3ZIV1lNRjFRZ0k2NDFTYWRpUExlWlhwOUlqT0ZldGlMMjRNVkxCLXQ4U0hqZm8zM01XWEZaWHNLM3MxaFJoTjNUcUd6M0FCRnVPZU5Vb3FlMFBwT0Z0TWxEd1MzUXZCMXgw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fortescue-2026-10-27-069",
+    "date": "2026-10-27",
+    "companies": [
+      "fortescue"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PLS Group Signs 20-Year Power Deal With Fortescue - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUpzZXZqOGVvVjlTTmJ6X0dTSTdfUXV0VXhOeHFsNHZ1bFhFRTJwbHdGYTExWmRXcWpQVFhYalFBV3Y3YThaREFiWEdDQ0FHOEdwN2cxTGRRRms3czRHSG9PQWJWYnlBN0xJdnN1Zz",
+    "sources": [
+      {
+        "name": "fortescue",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUpzZXZqOGVvVjlTTmJ6X0dTSTdfUXV0VXhOeHFsNHZ1bFhFRTJwbHdGYTExWmRXcWpQVFhYalFBV3Y3YThaREFiWEdDQ0FHOEdwN2cxTGRRRms3czRHSG9PQWJWYnlBN0xJdnN1ZzJkaGJqUHdhSHlvOFhOVG5mZTZSS2pLUGNvblFfbzVsRTlVQ2syRWZaZGsweXBXanVjUzk0eA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-27-070",
+    "date": "2026-10-27",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal, Inc. (HCC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DbFQ3MGVwelU4ZEdHU3hHZmxKelNnUGYtSkxObEhMQ0psTmZXZjlHeDd5R2cwc3l1ZWV0VG1kMl8yMDJ6bGs5bURmMW92Mjcz?oc=5\" target=\"_blank\">Warrior Met Coal, I",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DbFQ3MGVwelU4ZEdHU3hHZmxKelNnUGYtSkxObEhMQ0psTmZXZjlHeDd5R2cwc3l1ZWV0VG1kMl8yMDJ6bGs5bURmMW92Mjcz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "warrior_met-2026-10-27-071",
+    "date": "2026-10-27",
+    "companies": [
+      "warrior_met"
+    ],
+    "topics": [
+      "coking_coal_scrap"
+    ],
+    "impact": "neutral",
+    "title": "Warrior Met Coal declares $0.08 quarterly dividend By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmoxT1RKbGlNaVVKLWRCMjJrSW9GM3Z5RlFuLUhxX0JBSFNLSU10cGtLeTJlLVF5SkI1Qnk1dTBDSXlLdFdlRFFrb1JzUjM0ajVJemJaRlZ6d1dXbUplaHhVZ0NhR3BtdlpJWl8wOU",
+    "sources": [
+      {
+        "name": "warrior_met",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmoxT1RKbGlNaVVKLWRCMjJrSW9GM3Z5RlFuLUhxX0JBSFNLSU10cGtLeTJlLVF5SkI1Qnk1dTBDSXlLdFdlRFFrb1JzUjM0ajVJemJaRlZ6d1dXbUplaHhVZ0NhR3BtdlpJWl8wOUlaUnBiTVV3ZjdabGpSM181UExsXzZ3NGw5bkdiUzRpN2tvMzBjRTFsX2ZBemhQRk1RMkdINWwtUnNkX3UwYXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-27-072",
+    "date": "2026-10-27",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [
+      "steel_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nucor’s profit beat forecasts thanks to rising steel prices - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3lRUWV1T19ZN3gzeHhqZTlZc196a2xBVGg2QlhaWlh4c3dLNmJqUHZHdnZHNElpaklINGZxMEhXVFBiTWpySWdvZkh0VkIxY3NkQkRCMHltTzRFUmZCbDlELUd0Z21CYTJvWDNrR3",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3lRUWV1T19ZN3gzeHhqZTlZc196a2xBVGg2QlhaWlh4c3dLNmJqUHZHdnZHNElpaklINGZxMEhXVFBiTWpySWdvZkh0VkIxY3NkQkRCMHltTzRFUmZCbDlELUd0Z21CYTJvWDNrR3NocUM5V2l2M256TGl5VXotWXNmUk5LeTZMTENYUnFBaGbSAZYBQVVfeXFMTkpUN1JQcVBXV0dfalJlZzhZUGNwV01DU2ZPd2VHT1RFMGt3ZFpsM3NZTWFFVmdrRW1OWUQwYm91MjMtanpKR3FEbTFPRzBMT3h0TlRZeTJWSE1EU29sTXpfd09wV0lBTXhnZ3hTd0lkVWpaS09ObkV5VmFXWXgxTG8weV9vV3VCdXp6YkZBZkp2T1FWclFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nucor-2026-10-27-073",
+    "date": "2026-10-27",
+    "companies": [
+      "nucor"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nucor Corporation Q3 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVUzcS14dTk5U21QTks3TDdlVDJxSlI3aVlnU3oycGxmeGFPVEZYQ25ab3E5b08xZjFDVVZJT0NSYjZUMmtybl9TbVJLRFVQMXZ2TXh5cDBPV1Q3bkJaZnR0MnBfQ1Q4azR4bmJHeV",
+    "sources": [
+      {
+        "name": "nucor",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVUzcS14dTk5U21QTks3TDdlVDJxSlI3aVlnU3oycGxmeGFPVEZYQ25ab3E5b08xZjFDVVZJT0NSYjZUMmtybl9TbVJLRFVQMXZ2TXh5cDBPV1Q3bkJaZnR0MnBfQ1Q4azR4bmJHeVRfOHRCRU4tMm9wV0h4a2Vwa3QxMXk4bkQ5RWZraFdWdTJjSnp3NHZDZEZsQWFyczk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "reliance-2026-10-27-074",
+    "date": "2026-10-27",
+    "companies": [
+      "reliance"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Reliance, Inc. Reports Q3 2026 Net Sales of $5.21 Billion with Strong Earnings Growth - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDVENWVCYlFLMzU5RHdMSGRfUVhnWXd6ZUpZS0diVDF2ZTBock9jVDFSeUZkalhGV3drUl9WNmZDc3hpeWFGVTAxTmhYVU5peDMxNlJFaG83TG04N0liQmFWVnF6bERHcXluMnlHS3",
+    "sources": [
+      {
+        "name": "reliance",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDVENWVCYlFLMzU5RHdMSGRfUVhnWXd6ZUpZS0diVDF2ZTBock9jVDFSeUZkalhGV3drUl9WNmZDc3hpeWFGVTAxTmhYVU5peDMxNlJFaG83TG04N0liQmFWVnF6bERHcXluMnlHS3M5a2pnM19TTktWdUVkanBHNC1pY1ZQdHJlTFI5ejNXRFBzc01BdHgtbWxzMHJyWjFOYzJ2MlNjdDUyV1ZlWDZySHZUcWdKNkNBME1IN0dJR3JVa2trUmlV?oc=5",
         "type": "rss"
       }
     ]

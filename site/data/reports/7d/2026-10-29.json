@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-29",
+  "date_range": {
+    "start": "2026-10-23",
+    "end": "2026-10-29"
+  },
+  "generated_at": "2026-10-29T14:47:52.618008Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-10-23-009",
+      "date": "2026-10-23",
+      "title": "Nippon Steel to invest $3 billion in new U.S. Steel hot-strip mill - The Japan Times",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 145,
+      "last_week": 151,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.09
+    },
+    "coking_coal_scrap": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_policy": {
+      "this_week": 11,
+      "last_week": 15,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": -0.09
+    },
+    "steel_price": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.08
+    },
+    "iron_ore_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "rio_tinto": {
+      "event_count": 33,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "fortescue": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "us_steel": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "tata_steel": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nucor": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "cleveland_cliffs": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "reliance": {
+      "event_count": 4,
+      "sentiment_avg": 0.44,
+      "rank": 12
+    },
+    "feng_hsin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "arcelormittal": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "ta_chen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "suncoke": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "warrior_met": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "hyundai_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 336,
+        "last": 415,
+        "change_pct": -19.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-23",
+      "event_count": 64,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 59,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 74,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 76,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 45,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-23 ~ 2026-10-29）共 336 則事件，重點為「Nippon Steel to invest $3 billion in new U.S. S...」。Reliance Inc表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 33 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

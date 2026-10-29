@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:42:59.127423Z",
+  "updated_at": "2026-10-29T14:47:46.635265Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-08-31",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "Reliance Inc",
       "ticker": "RS",
       "currency": "USD",
-      "ar": 2210400000,
-      "ar_prev": 1953500000,
-      "ar_qoq": "+13%",
+      "ar": 2477200000,
+      "ar_prev": 2210400000,
+      "ar_qoq": "+12%",
       "ar_period": "QoQ",
-      "inventory": 2325400000,
-      "inv_prev": 2234900000,
-      "inv_qoq": "+4%",
+      "inventory": 2482500000,
+      "inv_prev": 2325400000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "rio_tinto",
@@ -313,17 +313,17 @@
       "name": "SunCoke Energy",
       "ticker": "SXC",
       "currency": "USD",
-      "ar": 209300000,
-      "ar_prev": 115200000,
-      "ar_qoq": "+82%",
+      "ar": 208900000,
+      "ar_prev": 209300000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 186100000,
-      "inv_prev": 184500000,
-      "inv_qoq": "+1%",
+      "inventory": 180600000,
+      "inv_prev": 186100000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ta_chen",

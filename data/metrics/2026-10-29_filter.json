@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 263,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 24,
+  "gate2_fail": 26,
+  "passed": 73,
+  "gate2_samples": [
+    "Rio Tinto Opens $1.4 Billion Lithium Projects in Argentina - marketscreener.com",
+    "Australia's PLS signs 20-year power pact with Fortescue unit for Pilgangoora mine - Reuters",
+    "Fortescue shareholders back board and pay at 2026 AGM - TipRanks",
+    "Fortescue Price Target Cut 9.3% to A$13.20/Share by Morgan Stanley - Moomoo",
+    "Fortescue Says Risk to Full-Year Sales as China Dispute Drags on - Bloomberg"
+  ]
+}
