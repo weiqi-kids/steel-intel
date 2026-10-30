@@ -1,0 +1,16 @@
+{
+  "total_raw": 548,
+  "dup_title": 267,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 23,
+  "gate2_fail": 40,
+  "passed": 65,
+  "gate2_samples": [
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Rio Tinto Opens Two Argentine Lithium Projects Worth US$1.4 Billion - Investing News Network",
+    "Rio Tinto confirms Oyu Tolgoi operations paused after 'seismic event' (RIO:NYSE) - Seeking Alpha",
+    "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push - Splash247"
+  ]
+}

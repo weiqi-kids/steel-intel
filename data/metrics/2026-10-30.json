@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-30",
+  "total_events": 33,
+  "by_company": {
+    "vale": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "rio_tinto": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "suncoke": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "bhp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "nucor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cleveland_cliffs": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tung_ho": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "baosteel": {
+      "count": 1,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": 0.07
+    },
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "steel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity_utilization": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "arcelormittal",
+      "to": "bhp",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "capacity_utilization",
+        "industry_general"
+      ]
+    }
+  ]
+}

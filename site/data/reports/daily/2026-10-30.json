@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:43:22.785272Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-10-30-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ArcelorMittal, MHI, BHP and Mitsubishi Development Complete First Phase of Steel Carbon Capture Trial - Machine Maker",
+      "companies": [
+        "arcelormittal",
+        "bhp"
+      ],
+      "related": {
+        "customers": [
+          "arcelormittal"
+        ],
+        "suppliers": [
+          "bhp"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWHMtZzFUbWdBWkE2YWgzcWRUbWtaWGNiX0xJWEZPcml4ODVuYmtmWHRWa014bURGaGcyTGpXaXNVek1ndUg0bnEzSnN2RFhFWXVuWldhanJjazF5WlBQbUcxOUZwUlVJRTJxNmREcGdkZUYtYVFzWVk1YjJmZ1kwU3FVcGQ3U3hyeGk4VGZaQmJsY1BPeWdyS1Z1bHdLa1JmalNMNm1GVUVSY2lHTzBYTGpURnhYdThRZzU0ZXo1MzhmbFZyTF9CUEl4SklvZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-10-30-026",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ArcelorMittal successfully tests carbon capture technologies at its Ghent plant",
+      "companies": [
+        "arcelormittal",
+        "bhp"
+      ],
+      "related": {
+        "customers": [
+          "arcelormittal"
+        ],
+        "suppliers": [
+          "bhp"
+        ]
+      },
+      "topics": [
+        "capacity_utilization",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gmk.center/en/news/arcelormittal-successfully-tests-carbon-capture-technologies-at-its-ghent-plant/"
+    },
+    {
+      "rank": 3,
+      "event_id": "vale-2026-10-30-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vale cut iron ore production by 6% y/y in July-September",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gmk.center/en/news/vale-cut-iron-ore-production-by-6-y-y-in-july-september/"
+    },
+    {
+      "rank": 4,
+      "event_id": "vale-2026-10-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale: Buying Before The Cycle Turns Despite A Weak Q3 (NYSE:VALE) - Seeking Alpha",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFZqVm1HcXJrbFhRXzFrdkZtWC0zUmFCemxqRjllQ0VRcjBVUEZSbm5jX0dxX183RnJmSzBKMUZvU2liNUZDZlVqdzVidlB4YVE5N0RfektKdE5XLUtvWk9LQXdWN2xNSnBjVHhYYXVua180UEVNQnFnUDJXd1g3ZE9wcVFiNXIzejBVS1F3Y0JENmFuS3QtMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-10-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto inaugurates $985m Argentine lithium operations - Yahoo Finance",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYWZmYk43cFp2THlwbDdHeGFUeXc4RTBuTWtLUWQyQ25MbV8tTzJ4UWlrVFdZeHdoVW1OcHRrajN4ZVBkbVJUMnVldjVkWG9zWlRGR3pVX0Y4Q0NRaWRHUW9qRmJkVmNEcjJTaFNXOXJTbGV0cHU5cVhqeFdRTVJCRTQyeFRDUFAxdHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "arcelormittal",
+      "to": "bhp",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "capacity_utilization",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 29,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai_steel",
+        "count": 6
+      },
+      {
+        "id": "rio_tinto",
+        "count": 5
+      },
+      {
+        "id": "arcelormittal",
+        "count": 4
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 3
+      },
+      {
+        "id": "vale",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 2
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 548,
+    "dup_title": 267,
+    "too_old": 153,
+    "gate1_blocked": 23,
+    "gate2_blocked": 40,
+    "passed": 65,
+    "pass_rate": "23.1%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+      "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Rio Tinto Opens Two Argentine Lithium Projects Worth US$1.4 Billion - Investing News Network",
+      "Rio Tinto confirms Oyu Tolgoi operations paused after 'seismic event' (RIO:NYSE) - Seeking Alpha",
+      "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push - Splash247"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為現代製鐵、力拓、安賽樂米塔爾相關動態：「ArcelorMittal, MHI, BHP and Mitsubishi Development Comple...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ArcelorMittal, MHI, BHP and Mitsubishi Development Complete First Phase of St...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ArcelorMittal successfully tests carbon capture technologies at its Ghent plant（產能利用率、鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
