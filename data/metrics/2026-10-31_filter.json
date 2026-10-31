@@ -1,0 +1,16 @@
+{
+  "total_raw": 535,
+  "dup_title": 296,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 20,
+  "gate2_fail": 29,
+  "passed": 44,
+  "gate2_samples": [
+    "Rio Tinto: Commodity Risks Keep Us Neutral (NYSE:RIO) - Seeking Alpha",
+    "Rio Tinto Opens Two Argentine Lithium Projects Worth US$1.4 Billion - Investing News Network",
+    "Rio Tinto plc : RBC is Neutral - marketscreener.com",
+    "Rio Tinto, Aluminerie Alouette receive $193.3M in federal funding - constructconnect.com",
+    "Australia's PLS signs 20-year power pact with Fortescue unit for Pilgangoora mine - Reuters"
+  ]
+}
