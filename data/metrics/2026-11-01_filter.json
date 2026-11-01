@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 312,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 22,
+  "gate2_fail": 30,
+  "passed": 23,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Rio Tinto Opens Two Argentine Lithium Projects Worth US$1.4 Billion - Investing News Network",
+    "Rio Tinto to invest $1.9 billion in Australian bauxite project - Aluminium International Today",
+    "Rio Tinto Drops Nearly 5% in One Session, Shedding About $5 Billion - 24/7 Wall St."
+  ]
+}
