@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 296,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 18,
+  "gate2_fail": 32,
+  "passed": 75,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Rio Tinto Appoints Additional Company Secretary - TipRanks",
+    "REG - Rio Tinto - Issue of Shares - TradingView",
+    "Rio Tinto Opens Two Argentine Lithium Projects Worth US$1.4 Billion - Investing News Network"
+  ]
+}
