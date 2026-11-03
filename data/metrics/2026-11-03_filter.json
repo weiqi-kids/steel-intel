@@ -1,0 +1,16 @@
+{
+  "total_raw": 521,
+  "dup_title": 288,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 13,
+  "gate2_fail": 30,
+  "passed": 70,
+  "gate2_samples": [
+    "Rio Tinto joins fight to stop killer toad march across Australia - BBC",
+    "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times",
+    "Rio Tinto Opens $1.4B Lithium Projects in Argentina - Fuel Cells Works",
+    "REG - Rio Tinto - Issue of Shares - TradingView",
+    "If I invest $20,000 in Fortescue shares, how much passive income will I receive in 2027? - The Motle"
+  ]
+}
