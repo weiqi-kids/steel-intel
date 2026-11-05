@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 252,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 17,
+  "gate2_fail": 46,
+  "passed": 86,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times",
+    "Rio Tinto backs $20M effort to stop killer toad march across Australia (RIO:NYSE) - Seeking Alpha",
+    "Rio Tinto to invest $1.9 billion to develop the Kangwinan bauxite project in Western Cape York, Quee",
+    "Fortescue Ltd (FMG.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}

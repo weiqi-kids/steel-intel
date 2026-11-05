@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:57:03.104020Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "reliance-2026-11-05-045",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for Samvat 2083; brokerages see up to 38% upside- Moneycontrol.com - LinkedIn",
+      "companies": [
+        "reliance",
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [
+          "reliance"
+        ],
+        "suppliers": [
+          "tata_steel"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVdsbUFRTURBN3lIVHRJMHZFM3FRNkpyWWJzTVlLLXJuQzF2UFJteXZfbldJX3I4MGtibEI0bXlPaDhVQU1IS2tmajJVeE81VnhjX0txSjNxRjQtQWRkRTlCeVFtTkhIdDdsSFAtTjlvajN1S0l3R2RRSG1CNW9fb1J3THc3MFFZN0JWWWFKQXZ3LXdBNzV4M0EtYlZOYWJVTzczaTlRZWhzRmk3T3dzdmlodFpDLWtsY25RSndn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "reliance-2026-11-05-046",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for... - Moneycontrol.com",
+      "companies": [
+        "reliance",
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [
+          "reliance"
+        ],
+        "suppliers": [
+          "tata_steel"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREswVEtSYXZ6UFRZbWxPc3NFT2IwRUJDaXBzWGZwOXRNeTJfeC1NSXREY05CMWVTUnlBakhsc1ExcThSTFBpZDA0SGJWWUZVRVI4WDFFcGdQVThlaW1VaFhLZDJQVHhWNm12c0piMHA0eWhGT2huQXlhOGU5NElXVG9HTDhpY1NyRjZUU3J3U21IY1NlSWU4cU1UYlFWMmptd2lDMmpleF9PWVlUZVVFVjV2SlBvTEs3VV9WRVJrWGlGV0RMSVB4Xzh3SkNldWhFcEtzSmdwTDlYdkZjYWZBOWtZZ0ZINTJfalBpbEpMWlg0Wll4NkdDc0xNN0k2dUtqZGZscGhucmo4NW9GZjNMX2dOaVk2M0tISjZhQ1RRLTRLcHZNZHM0UkcyOXByblF0b3fSAbcCQVVfeXFMTUNuaXd2MHRzbEJpSTRnUEZSVEpkbG13TjBjSWVoc0ZITEI2WUJLM2phbzIxTFpnV09mbTJrbWhqa2Nvb0ZDUldyQy11Uzl3bmo2TXRudkVvN2oyXzlTWk5ZbGhxTnBMZjRtWlFrWDJ3eTRDa0xlQ2h1Y09LNjZMT3JHNGdQbjV3bXh6TV9UdGVXMlkyd1VPZUxnc3hhSGlrc3JuMnpuWmRSMlU1NURRWG5WZEM1WEV1enFocnRYc2lxQ05XSkh2U0FwOHF3LThaWHBfUVFVajFkVkpGZmJQc0ZFQU50blRNZF9GM1N3MkcwUFNoeC1DYmdRRGR4czE1ZWdXNXVPQW03MnlpTjVnYmhFMklVbmlEbVFsbGRyWHpfZ1lMaE5sX0prcEZSZ2Jad05PeTlsOTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-11-05-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "How Are BHP (ASX:BHP), Rio Tinto (ASX:RIO), and Fortescue (ASX:FMG) Riding the Iron Ore Rally on Thursday? - Kalkine",
+      "companies": [
+        "rio_tinto",
+        "fortescue",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdFh5VU5WTXFVZ1gzR05yZkkxYmtPS2VxSHB6MTUyNGZXUEo3S2syYlhZU3pGUXVGY3hNb3dEWk94VkhZSTI0V2Q1MThIQU84eGtRZm01OEdLZXljZVcyVHY1TkNFT1dKNWVldUhLLVlZak1GRkVIODNpMS0yQnZtMVBSblUxRldFcmJ6VjBFRFZ1VGRJZ0IyUlcyLWJsWHFmSHRWaWZUejcyb2ZXZEl2c2p1NnNxRTBEMW4wYlduckhYVndwTGhRZXItVHgwMUtSdFpqR2Jn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-11-05-040",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nippon Steel Raises FY2027 Net Profit Forecast to ¥440 Billion as U.S. Steel Becomes Earnings Driver - BigGo Finance",
+      "companies": [
+        "nippon_steel",
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1OGUwT2IwcXM5QjFCUXZSRnE4QTE5OHVES0NDenRpMjBYTTRfV2ZJSXRYOWQ2anhFUU5udmlvc1g5Z0o4YVNQYVE2M1BnSkphN05VbFM4ZkJWcUR0YjNWVmFnTjNiQnlpUFJYaXowNVhEZkxCLXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-11-05-042",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nippon Steel Raises Full-Year Forecast, U.S. Steel Business Profit Contribution Seen Topping ¥230 Billion - BigGo Finance",
+      "companies": [
+        "nippon_steel",
+        "us_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjV3BQMnpMcURlOW1oQlVPbjJXWjlvNTNTSEh4dzl1QTBNQ3NKMFJGNld2TlNXWVZVVUQwQ2xBU1VWdHFNeHR6cG1zQUlZXzBFeUNJQ0xjTGxGZUNEOGRzUThHXzFQU2ZEN3dEb1Y1em1ONllmOFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nippon_steel",
+      "to": "us_steel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "reliance",
+      "to": "tata_steel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 65,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 56,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 14
+      },
+      {
+        "id": "arcelormittal",
+        "count": 12
+      },
+      {
+        "id": "rio_tinto",
+        "count": 11
+      },
+      {
+        "id": "fortescue",
+        "count": 5
+      },
+      {
+        "id": "warrior_met",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 46
+      },
+      {
+        "id": "trade_policy",
+        "count": 4
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 3
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 540,
+    "dup_title": 252,
+    "too_old": 139,
+    "gate1_blocked": 17,
+    "gate2_blocked": 46,
+    "passed": 86,
+    "pass_rate": "29.9%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times",
+      "Rio Tinto backs $20M effort to stop killer toad march across Australia (RIO:NYSE) - Seeking Alpha",
+      "Rio Tinto to invest $1.9 billion to develop the Kangwinan bauxite project in Western Cape York, Quee",
+      "Fortescue Ltd (FMG.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 65 則事件，焦點為日本製鐵、安賽樂米塔爾、力拓相關動態：「Diwali stock picks 2026: Reliance Industries, ICICI Bank,...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal...（鋼鐵產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal...（鋼鐵產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
