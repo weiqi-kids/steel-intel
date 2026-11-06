@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 280,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 20,
+  "gate2_fail": 46,
+  "passed": 47,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "How Is BHP Group Ltd (ASX:BHP) Shifting Towards Copper After Its FY26 Result? - Kalkine",
+    "Rio Tinto approves $144m for copper project in Arizona, US - Yahoo Finance",
+    "Watch Rio Tinto Backs Major Copper Project - Bloomberg.com",
+    "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times"
+  ]
+}

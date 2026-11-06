@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:56:57.209159Z",
+  "updated_at": "2026-11-06T15:29:15.354597Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-08-31",
   "companies": [
     {
@@ -228,17 +228,17 @@
       "name": "浦項製鐵",
       "ticker": "PKX",
       "currency": "USD",
-      "ar": 12402069000000,
-      "ar_prev": 11205569000000,
-      "ar_qoq": "+11%",
+      "ar": 12285000000000,
+      "ar_prev": 12402069000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 13967774000000,
-      "inv_prev": 14144103000000,
-      "inv_qoq": "-1%",
+      "inventory": 13642000000000,
+      "inv_prev": 13967774000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "reliance",
@@ -364,17 +364,17 @@
       "name": "Tenaris",
       "ticker": "TS",
       "currency": "USD",
-      "ar": 2096183000,
-      "ar_prev": 2185828000,
-      "ar_qoq": "-4%",
+      "ar": 2059505000,
+      "ar_prev": 2096183000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 3716159000,
-      "inv_prev": 3606922000,
-      "inv_qoq": "+3%",
+      "inventory": 3939555000,
+      "inv_prev": 3716159000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "tung_ho",
@@ -415,17 +415,17 @@
       "name": "Warrior Met Coal",
       "ticker": "HCC",
       "currency": "USD",
-      "ar": 263415000,
-      "ar_prev": 296148000,
-      "ar_qoq": "-11%",
+      "ar": 246206000,
+      "ar_prev": 263415000,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 264884000,
-      "inv_prev": 251538000,
-      "inv_qoq": "+5%",
+      "inventory": 214582000,
+      "inv_prev": 264884000,
+      "inv_qoq": "-19%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }
