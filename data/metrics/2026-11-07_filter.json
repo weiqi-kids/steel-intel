@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 287,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 15,
+  "gate2_fail": 32,
+  "passed": 53,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times",
+    "Watch Rio Tinto Backs Major Copper Project - Bloomberg.com",
+    "Rio Tinto injects $144M into Resolution Copper after Arizona land battle win - The Northern Miner",
+    "Fortescue Ltd (FMG.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}

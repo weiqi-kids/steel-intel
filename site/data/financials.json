@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:29:15.354597Z",
+  "updated_at": "2026-11-07T14:31:35.273869Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-08-31",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "安賽樂米塔爾",
       "ticker": "MT",
       "currency": "USD",
-      "ar": 4508000000,
-      "ar_prev": 4130000000,
-      "ar_qoq": "+9%",
+      "ar": 4632000000,
+      "ar_prev": 4508000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 19283000000,
-      "inv_prev": 18705000000,
+      "inventory": 19956000000,
+      "inv_prev": 19283000000,
       "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "baosteel",
