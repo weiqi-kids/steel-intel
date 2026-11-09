@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 282,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 15,
+  "gate2_fail": 31,
+  "passed": 47,
+  "gate2_samples": [
+    "$Rio Tinto (RIO.US)$ going to bounce! - Moomoo",
+    "Rio Tinto approves $144m for copper project in Arizona, US - Yahoo Finance",
+    "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times",
+    "Rio Tinto to invest $1.9 billion to develop the Kangwinan bauxite project in Western Cape York, Quee",
+    "Rio Tinto Backs Major Copper Project - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:59:48.465003Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_steel-2026-11-09-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tata Steel Ltd (STU:HWHG) (Q2 2027) Earnings Call Highlights: Record India Performance and ... - Yahoo Finance",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV3RzX01RYkJUdk5ZdzJVYzB0LTlEMC1ITGdwalBYaDRrbjJSUmU0UTdqcW9jc1hFRGF3VXZOMjh4N2ZXOXZnanBrZnhIV1N6UkZpaXZScFZhMWRGTFUxR2hsZkxxVncwa19icGFlZm1PQko0cm9SUGgyWlVHTm9kMTRuckQ4WXQ4NF96STVWdl9Cdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-09-037",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CAP stock faces deeper losses as iron ore pressures weigh - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWFUSWJKeWR2NDNIN3I0M1NRdjdtU19HOWRfTlBINWdWMlZOUm9lcktGZF81bldfOElFdERRcFp0Q0VQWUMxa0xtZEw0X0tPLVBNNzMtSzhmMGpzZF9uVEVQX0d0N1FZTTVSNGRFamkzYktNOW8tT3BTMXdjVlYtSFE3OEdCVGFoSnlrdU9aNHA4blZvTGJDZlBYUWZkX194Z19JclVMekpWM09xNXlsTE1UbkRZSzQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-11-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto approves US$144 million investment to advance Resolution Copper project - Global Mining Review",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2NoakVaTERNbjRGNnlSUFN0cjZwR2oyX2JOOVdENTNNN1lyVFo4TGM4dUR2RGtselVzZ05ITHA0X3N0UGFIelFJSkNFT3g5U0h1M1lDVkdGMXdVWW5jOHc0YnhaR3AxTGJtUEN0cXRaX1Vhb2VWT1VCQUxpYkl0RVNfWHVfMU5ueXpLX3VfM3JLaF9QSTBUUHFDTjNCck1lRHZLYXM0ekp2dkZubVM2TDRKUnI3MEY1M0FJVTRkQkg5aTdwTE9qRU5rQnE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-11-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Approves US$144 Million to Advance Arizona’s Resolution Copper Project - Shanghai Metals Market",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmp2b3dRMDRWUUE4b0xVTThfNGJ2ZTQ2RzJYZGQ1S3pkakljYkFiT2lTaGFZMk5fN1FWRG12cXFQMUZzU0xWYVJzVlN0cmh6VGhZOEI0dGp3eUYyb1lMQThxNUVKMGxLNEtpVGVadVRCQkxmSnU1TGpIbFlwaWtKak5MMHBGUXd4cWt6UllJNFFxRS1zNXlUOVh4am1lckNFbjhVYy1pbUFObERUaUZZbVp2ckFGWEpVc241b0dhQ1p6NVFpSWZBMlJyTkVPVDlpS1NIUXZSdld3SzI1UjNxY2dhUFphRVRV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-11-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto wants to work with 'all of China's mining ecosystem' - Mining Magazine",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzdsV1UyNE1VcjM1ZUF6VTNMMEp0V0VMeFluT0ZnRWdRT0p0bzlCRS0tU0l6cEFEX0lkVGZjam16bGs5bngwNURsOTRtMVFzMHZ2SC1WVTJEU1FNQ2FSNmRsT2lGNV93YjFpc0FoVGtwekpQTHI1X2VVRVBmN21sLUJhdm9LQ3lIdlBzd2tNajNlTzkz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 29,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 14
+      },
+      {
+        "id": "rio_tinto",
+        "count": 6
+      },
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      },
+      {
+        "id": "nucor",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "steel_price",
+        "count": 3
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 282,
+    "too_old": 164,
+    "gate1_blocked": 15,
+    "gate2_blocked": 31,
+    "passed": 47,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "$Rio Tinto (RIO.US)$ going to bounce! - Moomoo",
+      "Rio Tinto approves $144m for copper project in Arizona, US - Yahoo Finance",
+      "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times",
+      "Rio Tinto to invest $1.9 billion to develop the Kangwinan bauxite project in Western Cape York, Quee",
+      "Rio Tinto Backs Major Copper Project - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為塔塔鋼鐵、力拓、日本製鐵相關動態：「Tata Steel Ltd (STU:HWHG) (Q2 2027) Earnings Call Highlig...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tata Steel Ltd (STU:HWHG) (Q2 2027) Earnings Call Highlights: Record India Pe...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CAP stock faces deeper losses as iron ore pressures weigh - ad-hoc-news.de（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
