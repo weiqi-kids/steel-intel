@@ -1,0 +1,16 @@
+{
+  "total_raw": 542,
+  "dup_title": 283,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 14,
+  "gate2_fail": 30,
+  "passed": 44,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.72% on Nov 9: What Investors Need To Know - TradingKey",
+    "Where Is Rio Tinto’s (RIO) Copper Growth Coming From? - Yahoo Finance",
+    "Rio Tinto creates ‘kill zone’ to halt cane toad invasion - Financial Times",
+    "How Is Rio Tinto's Copper Ramp-Up and Asset Sales Shaping Its Outlook? - Kalkine Media"
+  ]
+}
