@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:57:14.897463Z",
+  "updated_at": "2026-11-11T15:43:29.114393Z",
   "quarter": "2026-06-30, 2026-08-31, 2026-09-30",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "春雨工程",
       "ticker": "2012.TW",
       "currency": "TWD",
-      "ar": 1290239000,
-      "ar_prev": 1337818000,
-      "ar_qoq": "-4%",
+      "ar": 1220522000,
+      "ar_prev": 1290239000,
+      "ar_qoq": "-5%",
       "ar_period": "QoQ",
-      "inventory": 3754692000,
-      "inv_prev": 3733735000,
-      "inv_qoq": "+1%",
+      "inventory": 3832465000,
+      "inv_prev": 3754692000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "steel_dynamics",
@@ -381,17 +381,17 @@
       "name": "東和鋼鐵",
       "ticker": "2006.TW",
       "currency": "TWD",
-      "ar": 3056743000,
-      "ar_prev": 3122264000,
+      "ar": 3007257000,
+      "ar_prev": 3056743000,
       "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 15493107000,
-      "inv_prev": 14833244000,
-      "inv_qoq": "+4%",
+      "inventory": 16497730000,
+      "inv_prev": 15493107000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "vale",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 542,
+  "dup_title": 271,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 15,
+  "gate2_fail": 32,
+  "passed": 63,
+  "gate2_samples": [
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.72% on Nov 9: What Investors Need To Know - TradingKey",
+    "BHP Group (ASX:BHP): Copper Disruptions and Potash Construction in FY27 Opening Quarter - Kalkine",
+    "REG - Rio Tinto - Holding(s) in Company - TradingView",
+    "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene",
+    "Rio Tinto approves $144 million for next phase of Resolution Copper project in Arizona - ChemEngOnli"
+  ]
+}

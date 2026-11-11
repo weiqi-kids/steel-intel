@@ -1,0 +1,259 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:43:36.393546Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-11-11-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BHP Group Limited (ASX:BHP) and the 2026 WA Iron Ore Records and Copper Development Update - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajJ0TDZLc1hacjBEMi1IaGg2Sm9SLVJ0VWJvcnF1dnlMRjNSN0d5NUNjU2lXQVVJQ09WTEhTZFBVaW9Kd3RlamZhQURRZnY0SjRBaGYtVUFDbC1leTdyc1VVYnROa2t6djJCUGpGcGNRR0lNQnBBN1IzWlFBeWlvaG50cXlMYmh3N3hlcDFwcHZjd1lMQUU1WmhmQ2dYejMyYUZDYXdIdVIwWUczYnRJZ1k1YlRDa0o3c0VFamdCOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-11-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Scrap prices in Germany fell by €10/t in early November due to rising energy costs – bvse",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_utilization",
+        "coking_coal_scrap",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://gmk.center/en/news/scrap-prices-in-germany-fell-by-e10-t-in-early-november-due-to-rising-energy-costs-bvse/"
+    },
+    {
+      "rank": 3,
+      "event_id": "vale-2026-11-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale stock faces fresh iron-ore demand risk as China curbs mills - ad-hoc-news.de",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjZ2Wm1hWENhLXhQWURDeV85S3ZTZXMwS1pCNHE4RDRUWURrZ3lNLTFFb0JzalhUUENWVDZ1OWVUekEzdW5GMHVHMHg0QTZyY21TdnZoQ0tvTzVsOWJGUU5CQ2d0Y1RTNVk3d2FXWVNzUDhTS3BiUW9iWnNpeG9SSkZNWXBVN2ZqSjlTQlZaaFN1cVpSMUhYMWhfX1hIMVJqX1dTazJWVGZmV0F0RnVzdFVSR0s3Vzk2Qkg4dFhZOHBTRWF6Wnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s Iron Ore Buying Clout Makes Each Deal a Market Event - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUtWQmpzTnAwUG5zbjNmb3V1c3dXeFJEUWgwbW9mMlVlT2lKZ1pJRm1vaFU5SUE5aktzcmhYVHh3YjJJU1p2Qk83LW92TDg1Ty0tY3g2bFVMLVFIVm1OZkRmQTRvVHF4Skp5RnRfc1pLNEtlR19JaW9qalVTRGZBVFZ6Y0hZejZZUE5ndDNlNTl6ME9GVGc4OUloTUxjSHM3Z0k0XzN6OW13UGE2LWFENQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Firm Steel Prices, Softer Aluminum and New Copper Spending Mark a Busy Stretch for Metals - Quantisnow",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkNfTWRRZ0szcFAyV1ZHZUMyWW9HOEtnc282VDQySGRHMm91ZnFPcFMyTV9kQVdTUXJqLVFjakNYdnFXQ0h1VmNfNE1Ed1RlMVRoeUlJWkpIUFZsLTlEUno0WTBUVlNPLTNTVzZjcTJtaDZ6d3lsbm5EX1k3MDQxZGRBNjQ2a3RJYzJCZGY4QkJDSnpEZzdBb1M3d0xGNTlEX2U4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 50,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 45,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 9
+      },
+      {
+        "id": "us_steel",
+        "count": 5
+      },
+      {
+        "id": "fortescue",
+        "count": 4
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      },
+      {
+        "id": "steel_price",
+        "count": 3
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 3
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 542,
+    "dup_title": 271,
+    "too_old": 161,
+    "gate1_blocked": 15,
+    "gate2_blocked": 32,
+    "passed": 63,
+    "pass_rate": "23.2%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "BHP Group Ltd Stock (BHP) Closed Up by 3.72% on Nov 9: What Investors Need To Know - TradingKey",
+      "BHP Group (ASX:BHP): Copper Disruptions and Potash Construction in FY27 Opening Quarter - Kalkine",
+      "REG - Rio Tinto - Holding(s) in Company - TradingView",
+      "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene",
+      "Rio Tinto approves $144 million for next phase of Resolution Copper project in Arizona - ChemEngOnli"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 50 則事件，焦點為塔塔鋼鐵、U.S. Steel、FMG相關動態：「BHP Group Limited (ASX:BHP) and the 2026 WA Iron Ore Reco...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BHP Group Limited (ASX:BHP) and the 2026 WA Iron Ore Records and Copper Devel...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Scrap prices in Germany fell by €10/t in early November due to rising energy ...（產能利用率、焦煤與廢鋼、鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
