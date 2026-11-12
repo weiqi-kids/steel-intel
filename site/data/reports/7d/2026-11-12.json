@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-12",
+  "date_range": {
+    "start": "2026-11-06",
+    "end": "2026-11-12"
+  },
+  "generated_at": "2026-11-12T16:28:04.740128Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-11-12-010",
+      "date": "2026-11-12",
+      "title": "Full-Year Forecasts for 3 Blast-Furnace Steelmakers: Nippon Steel and Kobe Steel Raise Guidance on Higher U.S. Steel Prices and Inventory Valuation Gains - BigGo Finance",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 200,
+      "last_week": 198,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity_utilization": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.19
+    },
+    "trade_policy": {
+      "this_week": 4,
+      "last_week": 10,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "steel_price": {
+      "this_week": 16,
+      "last_week": 8,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.06
+    },
+    "coking_coal_scrap": {
+      "this_week": 6,
+      "last_week": 9,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.04
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "arcelormittal": {
+      "event_count": 12,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "nippon_steel": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 7
+    },
+    "jfe": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 9
+    },
+    "tata_steel": {
+      "event_count": 56,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "cleveland_cliffs": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "vale": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "warrior_met": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "cmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "us_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hyundai_steel": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "bhp": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "fortescue": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 312,
+        "last": 392,
+        "change_pct": -20.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-06",
+      "event_count": 54,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 29,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 25,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 54,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 40,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 64,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 46,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-06 ~ 2026-11-12）共 312 則事件，重點為「Full-Year Forecasts for 3 Blast-Furnace Steelma...」。鋼鐵產業通用、鋼品價格、焦煤與廢鋼為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "日本製鐵",
+        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

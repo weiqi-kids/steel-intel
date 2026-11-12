@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-12",
+  "total_events": 46,
+  "by_company": {
+    "bhp": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "rio_tinto": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "suncoke": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "jfe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "nucor": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "cleveland_cliffs": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "chung_hung": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tung_ho": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_steel": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "reliance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "steel_dynamics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 38,
+      "sentiment_avg": 0.04
+    },
+    "steel_price": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "coking_coal_scrap": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

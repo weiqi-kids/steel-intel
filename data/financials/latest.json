@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:43:29.114393Z",
+  "updated_at": "2026-11-12T16:27:59.203807Z",
   "quarter": "2026-06-30, 2026-08-31, 2026-09-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "中鴻鋼鐵",
       "ticker": "2014.TW",
       "currency": "TWD",
-      "ar": 429543000,
-      "ar_prev": 327962000,
-      "ar_qoq": "+31%",
+      "ar": 404794000,
+      "ar_prev": 429543000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 3501190000,
-      "inv_prev": 3228782000,
-      "inv_qoq": "+8%",
+      "inventory": 4936210000,
+      "inv_prev": 3501190000,
+      "inv_qoq": "+41%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "cleveland_cliffs",
@@ -211,17 +211,17 @@
       "name": "Nucor",
       "ticker": "NUE",
       "currency": "USD",
-      "ar": 4045000000,
-      "ar_prev": 3567000000,
-      "ar_qoq": "+13%",
+      "ar": 4296000000,
+      "ar_prev": 4045000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
       "inventory": 6020000000,
-      "inv_prev": 5644000000,
-      "inv_qoq": "+7%",
+      "inv_prev": 6020000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "posco",
