@@ -1,0 +1,16 @@
+{
+  "total_raw": 540,
+  "dup_title": 285,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 22,
+  "gate2_fail": 20,
+  "passed": 43,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "BHP Group Ltd Stock (BHP) Closed Up by 3.72% on Nov 9: What Investors Need To Know - TradingKey",
+    "Meet the final bidders vying for Rio Tinto’s $7b infrastructure assets - AFR",
+    "REG - Rio Tinto - Holding(s) in Company - TradingView",
+    "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene"
+  ]
+}
