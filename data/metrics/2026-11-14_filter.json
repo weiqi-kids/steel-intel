@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 288,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 26,
+  "gate2_fail": 16,
+  "passed": 40,
+  "gate2_samples": [
+    "Meet the final bidders vying for Rio Tinto’s $7b infrastructure assets - AFR",
+    "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene",
+    "Rio Tinto assures community it is committed to smelter - ABC News & Headlines – Australian Broadcast",
+    "How Does a Stronger Greenback Affect Fortescue (ASX:FMG)? - Kalkine Media",
+    "Which Way Does Fortescue's (ASX:FMG) Yuan-Swapped Bond Point? - Kalkine Media"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-14",
+  "total_events": 12,
+  "by_company": {
+    "fortescue": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "warrior_met": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "suncoke": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tata_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "us_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "coking_coal_scrap": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": -0.06
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
