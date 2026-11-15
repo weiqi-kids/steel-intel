@@ -1,0 +1,16 @@
+{
+  "total_raw": 534,
+  "dup_title": 291,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 25,
+  "gate2_fail": 16,
+  "passed": 22,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Meet the final bidders vying for Rio Tinto’s $7b infrastructure assets - AFR",
+    "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene",
+    "Why is Rio Tinto (ASX:RIO) cutting jobs at its Nemaska lithium project in Québec? - Kalkine",
+    "Rio Tinto Group (LSE:RIO) Pushes Copper And Lithium Growth On An Undervalued Narrative - Simply Wall"
+  ]
+}
