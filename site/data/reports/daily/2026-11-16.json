@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:41:37.477638Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-16-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China cut steel production by 3.8% m/m in October",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_utilization",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/china-cut-steel-production-by-3-8-m-m-in-october/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-16-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Acciaierie Beltrame halts production until year-end due to high energy prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/acciaierie-beltrame-halts-production-until-year-end-due-to-high-energy-prices/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-16-045",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "South Korean cement demand to stay below 40Mt/yr in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21492-south-korean-cement-demand-to-stay-below-40mt-yr-in-2027"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-16-046",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iron Ore Plunges to Two-Year Low on Weak Demand and Rising Supply - Vocal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR01HSjlrcFp5WVJ5WTNuUFV4SE1adDlWZ0tmVjJKX1RtM0lmSWMyaklLVktHc3JYc25QM0lSSnlWNE54YmtBcGlYMEJ3VElGVTJSdDJBcFNkaTJCRDFQcHFNRXZsQWNXUkhVTE1iV3A3MjdfbUVaUWtkUXpYdURZVkN0WWFXS3VMR3RHQ1VSVUd4aEFVZlhEVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-16-048",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "South Africa's SEIFSA urges immediate action to prevent further steel industry decline - SteelOrbis",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT2Mxb1ZCbUNXcERBamtjOHBTSVkybTJveEI2eW5BN0QxQTNVT2dEdWFaSnRmUHhaY2RTOTY5bTg4MmVzVVh6dFNSaWR1eWJPWGdVaGc4THV1bG9KWkYxTGQ5NVBITm5YaThkc3FrajZ6b2xfYXA3emVsVUFNMnR5MEV6WF9UMkNLenMtUEJ1YjZ4ZjdkeTB1VXNIcVI4VW5zYUp2bUwwdkNYTWhsQ0xQekJJUUhybVVpQkVwb2hfdEFMdkZhYjBkaGN2a3dTZlBFdTVyeXljMUtER0JTN3dhWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 40,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 10
+      },
+      {
+        "id": "rio_tinto",
+        "count": 8
+      },
+      {
+        "id": "cleveland_cliffs",
+        "count": 2
+      },
+      {
+        "id": "us_steel",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "trade_policy",
+        "count": 5
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 530,
+    "dup_title": 267,
+    "too_old": 168,
+    "gate1_blocked": 21,
+    "gate2_blocked": 17,
+    "passed": 57,
+    "pass_rate": "21.7%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Rio Tinto to Contribute $250 Million to Fund Addressing Panguna Mine Legacy Impacts - marketscreener",
+      "Rio Tinto to contribute $250 million to fund addressing Bougainville mine legacy impacts - TradingVi",
+      "Rio Tinto’s Kangwinan bauxite project: design and haulage notes for mine engineers - Geomechanics.io",
+      "Meet the final bidders vying for Rio Tinto’s $7b infrastructure assets - AFR",
+      "Fortescue Ltd (FMG.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為塔塔鋼鐵、力拓、Cleveland-Cliffs相關動態：「China cut steel production by 3.8% m/m in October」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "China cut steel production by 3.8% m/m in October（產能利用率、鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Acciaierie Beltrame halts production until year-end due to high energy prices（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
