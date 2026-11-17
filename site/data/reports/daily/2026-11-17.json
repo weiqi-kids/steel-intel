@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:13:45.487965Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-11-17-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP, Rio Tinto Chiefs to Meet Li Qiang as China's Iron Ore Buying Bloc Pressures Australian Miners - BigGo Finance",
+      "companies": [
+        "bhp",
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zLVYxUGxteGdYZDRFbktlNEpjNjNqa184Xy1jWGhtSDJwdkxsLW9FZVZBLXdnSmkzVGNyN01FMVFmUUMwc3Y4LTBFN0JxQWV1cXlZT1ktd1pJdV9PZGdWZ3gxTV80NE44R1ZybkxQbDdDcTBDc3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-11-17-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Arcelormittal Nippon Steel India Exec Says Need Incentives To Maximise Iron Ore Production - TradingView",
+      "companies": [
+        "arcelormittal",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ2VoMjZZOUIwLXJ6bDJhVDFab0RuYm5zWFlydGNEdWZncUNHcElZWjhReVNiczV2R2xDLVhITVJwRmhCU2xsTVYwbnhJdGMtelhXREpSXzZyd2NJWkhWTW4wcURzdlRkMGdOTHlJVG1idWQxVlJnTU1JT0t5b210eGNNUk9SWWI5NmwxUGtlOE1MZ0tRcGd2MjNLN0tFNUlHdG40cVlPWHVuUDFWbG1rS1ktZ18xOGN4aUlCMTUzbzNndmJHeEpxNFR4ak4tYnN3c0p3RndnTnlySWU0b2F3S3VZdGN2SHlBc1hYeC1CWm14UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-17-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ukraine cut rail exports of steel to Poland by 27% y/y in 10 months",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/ukraine-cut-rail-exports-of-steel-to-poland-by-27-y-y-in-10-months/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-17-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Exporters divert cement to UK following new EU carbon border rules",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21499-exporters-divert-cement-to-uk-following-new-eu-carbon-border-rules"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto CEO flags historic minerals demand, urges supply-chain integration - South China Morning Post",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa3Voc1NDQnR4QTF2bmxHSzRLN3luQk5BdnQ1MlFodUpFM29UclBfTkdwTmFES0E5Z1cyQmZMZjI3ZkNIZmRnRklWY2FTQW11R0NZZzEyWjdxc1g0QjVJMFktYkJCNW1BUmhBcEZPT0V3QWFfTlB5WkI1SEU3LWJJTEZ0VnpsMk9QSnFrS19ISUE1ZW4zdmR4dWtaVHA2clI2NlMxdkVpTlJ1TkNRQjZDdWh4Wll6WnhrWWJWZlNrVGJfYzh4clBMeFp1SFdOLTZmMnRoc3QtbVDSAdgBQVVfeXFMTjd4Q0dzLWRNa2E2R3JiS3lpNnF0TDVSQVA4MEc0Yl9rOFI5NmpQVHRIa2FwQlAyNk1VWEhvVUlPa0tfM3dXODJEUE96ZXNtd1RMM0JFd0tzNVhFQ3NvRDBQUEJoSFc1bFQ2bk9ad0JZLTl4UWZKbUNkb21KUy1XQmg0UmRqclFzNmxlTWJZMldqa2lGWDV0TGREQWNYNHpqLTJKLUtaNTdjWUpJVm10Ql9IbVppNEJOODB2UGxPU1dQMzh4NC0zSXdKMWNRbTJDWW5XR3l0STRw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 42,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "rio_tinto",
+        "count": 7
+      },
+      {
+        "id": "tata_steel",
+        "count": 7
+      },
+      {
+        "id": "arcelormittal",
+        "count": 6
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "nucor",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "trade_policy",
+        "count": 5
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 2
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 522,
+    "dup_title": 243,
+    "too_old": 169,
+    "gate1_blocked": 20,
+    "gate2_blocked": 21,
+    "passed": 69,
+    "pass_rate": "24.7%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+      "Rio Tinto to restart Tiwai Point Line 4 in New Zealand - Yahoo Finance",
+      "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene",
+      "REG - Rio Tinto - Holding(s) in Company - TradingView",
+      "Panguna mine to receive $250 million in funding from Rio Tinto - Inspenet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為力拓、塔塔鋼鐵、安賽樂米塔爾相關動態：「BHP, Rio Tinto Chiefs to Meet Li Qiang as China's Iron Or...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "BHP, Rio Tinto Chiefs to Meet Li Qiang as China's Iron Ore Buying Bloc Pressu...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Arcelormittal Nippon Steel India Exec Says Need Incentives To Maximise Iron O...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "焦煤與廢鋼話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 522,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 20,
+  "gate2_fail": 21,
+  "passed": 69,
+  "gate2_samples": [
+    "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+    "Rio Tinto to restart Tiwai Point Line 4 in New Zealand - Yahoo Finance",
+    "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene",
+    "REG - Rio Tinto - Holding(s) in Company - TradingView",
+    "Panguna mine to receive $250 million in funding from Rio Tinto - Inspenet"
+  ]
+}
