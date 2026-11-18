@@ -1,0 +1,16 @@
+{
+  "total_raw": 529,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 18,
+  "gate2_fail": 23,
+  "passed": 72,
+  "gate2_samples": [
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+    "Coal power offers “no chance to compete,” says Rio Tinto, as smelters go all-in on renewables - Rene",
+    "Rio Tinto breaks ground on Australian bauxite project - Aluminium International Today",
+    "Rio Tinto PLC Stock (RIO) Moved Down by 4.38% on Nov 18: A Full Analysis - TradingKey"
+  ]
+}

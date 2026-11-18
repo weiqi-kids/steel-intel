@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-18",
+  "date_range": {
+    "start": "2026-11-12",
+    "end": "2026-11-18"
+  },
+  "generated_at": "2026-11-18T16:50:31.803938Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "reliance-2026-11-12-055",
+      "date": "2026-11-12",
+      "title": "Steel producers Cleveland-Cliffs, Reliance upgraded at Barclays as selloff presents opportunities - Seeking Alpha",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "bhp",
+      "subject_type": "company",
+      "this_week_sentiment": -0.14,
+      "last_week_sentiment": 0.67,
+      "delta": -0.81,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 207,
+      "last_week": 208,
+      "week_over_week_change": "-0%",
+      "sentiment_this_week": -0.01
+    },
+    "steel_price": {
+      "this_week": 12,
+      "last_week": 7,
+      "week_over_week_change": "+71%",
+      "sentiment_this_week": 0.12
+    },
+    "trade_policy": {
+      "this_week": 15,
+      "last_week": 7,
+      "week_over_week_change": "+114%",
+      "sentiment_this_week": 0.1
+    },
+    "coking_coal_scrap": {
+      "this_week": 11,
+      "last_week": 7,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": -0.05
+    },
+    "iron_ore_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "capacity_utilization": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "bhp": {
+      "event_count": 14,
+      "sentiment_avg": -0.14,
+      "rank": 3
+    },
+    "rio_tinto": {
+      "event_count": 30,
+      "sentiment_avg": -0.1,
+      "rank": 2
+    },
+    "fortescue": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 11
+    },
+    "suncoke": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 10
+    },
+    "us_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "jfe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "tata_steel": {
+      "event_count": 47,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 6
+    },
+    "cleveland_cliffs": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "chung_hung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "tung_ho": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "hyundai_steel": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "reliance": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "arcelormittal": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "warrior_met": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "ta_chen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 332,
+        "last": 376,
+        "change_pct": -11.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-12",
+      "event_count": 63,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 57,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 11,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 69,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 54,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 63,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-12 ~ 2026-11-18）共 332 則事件，重點為「Steel producers Cleveland-Cliffs, Reliance upgr...」。鋼鐵產業通用、貿易政策、鋼品價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "必和必拓",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "力拓",
+        "reason": "本週出現 30 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "FMG",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
