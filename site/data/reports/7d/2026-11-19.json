@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-19",
+  "date_range": {
+    "start": "2026-11-13",
+    "end": "2026-11-19"
+  },
+  "generated_at": "2026-11-19T16:57:24.071568Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "bhp-2026-11-17-007",
+      "date": "2026-11-17",
+      "title": "BHP, Rio Tinto Chiefs to Meet Li Qiang as China's Iron Ore Buying Bloc Pressures Australian Miners - BigGo Finance",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "bhp",
+      "company_b": "rio_tinto",
+      "co_mention_count": 10,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "arcelormittal",
+      "company_b": "nippon_steel",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 199,
+      "last_week": 200,
+      "week_over_week_change": "-0%",
+      "sentiment_this_week": -0.01
+    },
+    "steel_price": {
+      "this_week": 3,
+      "last_week": 16,
+      "week_over_week_change": "-81%",
+      "sentiment_this_week": 0.5
+    },
+    "iron_ore_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "trade_policy": {
+      "this_week": 15,
+      "last_week": 4,
+      "week_over_week_change": "+275%",
+      "sentiment_this_week": 0.1
+    },
+    "coking_coal_scrap": {
+      "this_week": 10,
+      "last_week": 6,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_utilization": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "rio_tinto": {
+      "event_count": 33,
+      "sentiment_avg": -0.14,
+      "rank": 2
+    },
+    "arcelormittal": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "tata_steel": {
+      "event_count": 49,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "nucor": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 7
+    },
+    "cleveland_cliffs": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "bhp": {
+      "event_count": 11,
+      "sentiment_avg": -0.18,
+      "rank": 5
+    },
+    "fortescue": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 9
+    },
+    "warrior_met": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "suncoke": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "cmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "us_steel": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 10
+    },
+    "gerdau": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "reliance": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "hyundai_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "ta_chen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "steel_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 328,
+        "last": 346,
+        "change_pct": -5.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-13",
+      "event_count": 57,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 11,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 72,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 57,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 80,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 36,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-13 ~ 2026-11-19）共 328 則事件，重點為「BHP, Rio Tinto Chiefs to Meet Li Qiang as China...」。鋼鐵產業通用、貿易政策、焦煤與廢鋼為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "力拓",
+        "reason": "本週出現 33 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "塔塔鋼鐵",
+        "reason": "本週出現 49 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

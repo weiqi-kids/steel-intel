@@ -1,0 +1,16 @@
+{
+  "total_raw": 533,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 12,
+  "gate2_fail": 25,
+  "passed": 59,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+    "REG - Rio Tinto - Director Declaration - TradingView",
+    "Weekly Update 18 November | Confronting a toxic legacy: Rio Tinto pledges USD250m for mine cleanup -"
+  ]
+}
