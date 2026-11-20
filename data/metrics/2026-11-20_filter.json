@@ -1,0 +1,16 @@
+{
+  "total_raw": 538,
+  "dup_title": 263,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 18,
+  "gate2_fail": 26,
+  "passed": 67,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge - ABC News & Headlines – Australia",
+    "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+    "Rio Tinto Group (LSE:RIO) Commits $250 Million To Panguna Mine Remediation - Yahoo Finance"
+  ]
+}

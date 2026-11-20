@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:30:57.286365Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-11-20-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BHP & Rio Tinto prepare for talks in China amid iron ore pricing tensions - Yieh Corp.",
+      "companies": [
+        "rio_tinto",
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWFdxT0VfZDVkYXppVlkxV0tZSktxYkUzaVgzWWlURkQ1clNBZWhndG12MzhuR0g5cFk3MF9YX1ZUR0ZwcXByQXNqbUdjdkwzU2lYaUg5bjVtcHhNUlAySnlMODRxZUNoWkptQXF3aVE5LWxWMXRaQ2NxTU5LSDVzT0NtejEtVDV3b2Exa1ZkcDdHQWVvVy1qZmg0NUxzWkVxdVJRMHd3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-20-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China cut iron ore production by 11.7% y/y in 10 months",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/china-cut-iron-ore-production-by-11-7-y-y-in-10-months/"
+    },
+    {
+      "rank": 3,
+      "event_id": "vale-2026-11-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale S.A. (VALE US) Q3 FY26: Color on The Iron Ore Market As Simandou Ramps Up - Smartkarma",
+      "companies": [
+        "vale"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakoybnpOeFBlUWlfMDFfYm9iUnJzRURERWNSOGxPQXhpSmNUYWdRcVNvUVhuYUg5T3l0ZE83eFh4clcwbWs4YkNvYy10QnBFRkZxckZ6eUpLajYyeHRwam1nTVVacVVhTXVUUWNLeTVRU01OR05Qbll1dmlDd1U0c3lMbzRzTlA5OWpFc0xjNnpqeV91bGIwbE9MeFZncGN4Q2h6SEZveXUzUXR4ZDVaQWpucHV6S21XYnE0Q3pvUURoWkhMY3JUX1VkTnB4RGNKR2M5UDFYTVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bhp-2026-11-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group (ASX:BHP): What Do September-Quarter Copper and Iron Ore Updates Show? - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVFRdnphbGM0VWVfYUMyLWZQd2cwdENRSDN0dGlLNlgxNlJkR1lTUUd1MWRNWFBDWWFWM1F2bWwycmlsNWpPcEhlVXo2NzZMQy03UnVLUWRmRjVlOU0tRlR0TVZQc0tub1ppazN2eDhuT0ZGWGxTcWlySVVKOUhjbkNuVV9feGlCcVlQSkpKYWNJRTFTS1ltZjB5RnFTMnRWbWJlbGllWkZKVV9vNTB3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bhp-2026-11-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP (ASX:BHP) Shares Could Be 15% Overvalued On Iron Ore Pricing Threat - Simply Wall St",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdXgxWUg3dlNYcWdHRjctNk9RVHNFblVuZ28yMjRYd1I4T0draENYb0hmWmFSWEVrM0xfdk8zRnNsdlV0eU9zc0NNN1NPUzFlRE5xbHkzamlLa0J3NG5SRGU2N2cyeG9PaXdVYnBhZE1oNE52Y2RnRENfaXE0RlJadXBnTmk4QUdLVEU4NFZXQ2lMZWpfYm1mUWRQTTdiTmtXVWpVZEVWZ2ZQRU5oVFJja2VZXzZNanpwOEdad0tfSHM5WUdMWXVZOWlLU03SAdIBQVVfeXFMUFF6MzhLck4zSDF4LW5TcC1PMVVVOXI4X1JhNlhlYVktU25hUWNTNVVfa0FUZ2djX2lCQmZ4c0QtMjdKaXBHR3BoVDlKc21IYnh3NGhvOHl4VkRURm5aUnk3Z0UyaFl6UFptUzZlRV9YeDdVX2R4N0w5RE4za3RxTlNScEdFTWFrTk9KSGFSRnhNV1pPeWFQQ2dmclMwbHNQSUR3UzdPcGxpZDR0TTJaRXZvU2FrV3VwQjRYMWtwM28xV0wzSGQ2aTJrUEZUVEtldDRB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 43,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 15
+      },
+      {
+        "id": "us_steel",
+        "count": 6
+      },
+      {
+        "id": "bhp",
+        "count": 3
+      },
+      {
+        "id": "rio_tinto",
+        "count": 3
+      },
+      {
+        "id": "nippon_steel",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "steel_price",
+        "count": 1
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 1
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 538,
+    "dup_title": 263,
+    "too_old": 164,
+    "gate1_blocked": 18,
+    "gate2_blocked": 26,
+    "passed": 67,
+    "pass_rate": "24.4%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+      "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge - ABC News & Headlines – Australia",
+      "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+      "Rio Tinto Group (LSE:RIO) Commits $250 Million To Panguna Mine Remediation - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為塔塔鋼鐵、U.S. Steel、必和必拓相關動態：「BHP & Rio Tinto prepare for talks in China amid iron ore ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "BHP & Rio Tinto prepare for talks in China amid iron ore pricing tensions - Y...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "China cut iron ore production by 11.7% y/y in 10 months（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
