@@ -1,0 +1,16 @@
+{
+  "total_raw": 536,
+  "dup_title": 293,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 13,
+  "gate2_fail": 31,
+  "passed": 32,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+    "Why Is Copper in Focus After an 11.76% Weekly Slide at BHP Group (ASX:BHP)? - Kalkine",
+    "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+    "Weekly Update 18 November | Confronting a toxic legacy: Rio Tinto pledges USD250m for mine cleanup -"
+  ]
+}

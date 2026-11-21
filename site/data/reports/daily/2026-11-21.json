@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:47:47.253607Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-11-21-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tata Steel closes in on APL Apollo buyout; ArcelorMittal also in fray - ET Manufacturing",
+      "companies": [
+        "arcelormittal",
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNDBkcDk4T1B2ZDFWM0JQcTMxVkJGMXhtQzJNZ1gzanNPQ3lXRjFTbEJJVFloMUR3a3VYTUh4eFhPcHZmWGliUjFpeVhwWEFNVU9CUmgzVjdLbHhHdE9CM0xUZUN4b0J0NDJtUTdyR1Rrc3BYVkM1TlZub2NWb2drZm9kaDlhYkt4NGFHMVBXSTMwelRIOG1UNDB5TkdKb2cycFlVNVRYbGtieTBLRDgwMW5qWEVHa2gwY3hZOFA0VnlaRnRiVzNZWElNLWgzSWJQbjAxM2NPMXZQUknSAd8BQVVfeXFMTmRiaVpqNXpvY1pkNGpwb0xSbXN3N1dSZXlSRVU4SHV3cnNTQjc4a2h6YUQyQU5ubUQ4YWt2eWR2UDhDVFFQVDdWZXFsa0ZqZUJSWnY0RnZCOGlhTTgwbFdmV01TSEpfSUJCY0U1NW5TT1MwRUFsOU1zN1NmaEpQdm5IWGRfZWJIczU0QnNVTUdFWW11RkZGSVF2NUQ0VFBIT1Y3Y2s2T2dZeGQtSjQ3RmFuWGdzQXF3WXlOWkVVY1VIQUE0VnlGekJ4QkwxSS1FUGV2MnAwTU8wZTlDeVZnNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-11-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Did Rio Tinto (ASX:RIO) Trade After Its Third-Quarter Production Update? - Kalkine",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUhZNmNEaHBmMzB3WEpHYUpKeVd5N3M0VGFJLUlSSGpPdVJSTkctM1FYV0F6b0s4NGJUcDNkTVN2M3N2R0hzZ3lLcVUzTlhHeVdPUGg4VkkxcEhNM3lZUWZuOWp4T3Q5dkZkTHJDd01CT05SWjRCS3VYYzhPT09SeVdJNkRnb2xwSDlMRWxsTGpkNDJaTi1OT2pVRU9oa2wxZ0FFMWpxZHpqUkU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-11-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zelenskyy called on Modi to respond to Russian strikes on ArcelorMittal Kryvyi Rih - UA.NEWS",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHdjVnREUmRtUE5tYTZMX1FnVTZqZnFwa2prVFp5NXVYb0FNSDdNZTd3M2N3ZGQyeDhJSUdGMjkyYWItR093WlpxZVU1blA3eXJkakVRdVR1aHlhRXY0N1VERThQb0h4Q3RESHBESnhoTDk4b1Bsd3pKM0RWckFqWHlTN3BTUXpiWUFzWGt2UW5fbW5lbllVVmJ0VFF3T2dJYkFPVGYxWXlYcUp5S1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_steel-2026-11-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Indian sports wrap, November 21: Tata Steel World 25K Kolkata set for 11th edition on December 20 - Sportstar",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1NueUstRi1LYUstQ3VGU05tNzN1VGRVeU9xcENRNFZlN3JZV1lzZmtEZGcwcGZFSUwzOXNGNWxyUUh6REo5M256Mld6Sk8zYllYdUZxMFFsNVRNTENUcjBRN1JUOE9xQnQyaFptX1FfbTZ6QnpVX0FlYk1pQkZRVGtYZ3hZVzFlVTVXNUR2bVAtekgtVWxsbjFjOWxMeXEzUmZOQ0ZDQXpiS3RuaE9FZzJNNEt2alZNNUFqcGpqTndxenRsUnBJRWJGdnRpdmFmSW9KUHoyN3jSAd8BQVVfeXFMTnh1WDBnNUdyTXlOdVhUbktNZFBPcjBZRFV5MllIcmNkSEJCd1pqT2E2WXk3Y0ZacG9rTmtxSWJYVkRlcTNvU25BZUQzQjg1dkZDQ0tudGNxcERhbGZkQ0NXNTk2YklMdFk3T2tGVHktZERrYThob3dNMmhkQXJJWDI4ZVRMYXVfVVllWUg4T1Aza2hTRDNpRmdta19lSGNpNDZ0TXdpSGpja2w1NnBlRzQxV1oyOU9tazB6WGdUT1RXQUlOaFM1cURsYVF3VE9xTUJBREFIN2tGa1kxNVZBOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_steel-2026-11-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Tata Steel World 25K Kolkata’ set for 11th edition - The Avenue Mail",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV09mM3JmYjVibUZCblAycHNPWmR1TkhCR3pNOWhTSUtFenZIVTc3RjFVSTlwQy0zLTluc0g4eHVaVVEwbnh6NU9BZjJ5OTJQT2g5Qjl3d0RaR0NrVE16VDdnTEY0UHNxRjZfdjJ6LTl6elJoNkdINlluVUVyM05OcA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 3
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 2
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "reliance",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 536,
+    "dup_title": 293,
+    "too_old": 167,
+    "gate1_blocked": 13,
+    "gate2_blocked": 31,
+    "passed": 32,
+    "pass_rate": "13.2%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+      "Why Is Copper in Focus After an 11.76% Weekly Slide at BHP Group (ASX:BHP)? - Kalkine",
+      "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+      "Weekly Update 18 November | Confronting a toxic legacy: Rio Tinto pledges USD250m for mine cleanup -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為塔塔鋼鐵、安賽樂米塔爾、現代製鐵相關動態：「Tata Steel closes in on APL Apollo buyout; ArcelorMittal ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tata Steel closes in on APL Apollo buyout; ArcelorMittal also in fray - ET Ma...（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Did Rio Tinto (ASX:RIO) Trade After Its Third-Quarter Production Update? ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
