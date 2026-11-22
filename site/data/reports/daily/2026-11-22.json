@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:47:41.766302Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-11-22-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tata Steel closes in on APL Apollo buyout; ArcelorMittal also in fray - ET Infra",
+      "companies": [
+        "arcelormittal",
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVBsb3EzaEoxM0xUQUhNU2lMYWRtbmlvS3ItT2pRbHhxNV9ial9tN25NQm5uTjRtQkhZUWJ2T0VpdWJQME5PLVpuaFlodEJneFlKLVZHbXJtajM4c3BwMmtFcjVQWGdFTmxIOXBwWVk4ZV9tOFhOSEdEQjFZYkdSQmdLRlN1aGhwUEw4RFJFY2dyanRtRVhyQWNHX2k0bFE3dGJaOHFhc0NhVC1GMFVvOHVIVkxGXzc0QU9BNEN2ZlJmQWR5dFdFN3Z5b1NOQ0hYN3d4R2hR0gHaAUFVX3lxTE96MnNuM1h0cTNNUU9zSkxKelBKUjA1Z2E4U25OcFA1V2UxdUF0a1d3RmVFcURjNFJGRzVuU1VZQkwyZHZITUdueUU4dzdQbHpqX0dXWGs2bW4xR0JqNklVUUlZZklWTGpFREdTM0FnbGwtNVg5UXFpMVVpaDJsS0NrU2pFTVpGby10bWFyT1N5VVBEOXJXRXk1cE5XUG5NaXkxb2FTckt0X3ZXVGlucTA0SHJZUi1pOERYc1dQQ1R2VzBlcnh2T3BZTGJ2ZE5RemZ3R29raGRBUzFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rio_tinto-2026-11-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UK Market Correction Puts Lloyds (LSE: LLOY), Rio Tinto (LSE: RIO) and Natwest (LSE: NWG) Under The Spotlight - Foreign Policy Journal",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYVVsVXROVTZ4ZnRJSVFaZDZyMHR6MWdVR1ZqdWFBa2ZiMlFJV2YxemoyRkxHRHcxX2ZtZ0JrZk5jaGQ2WTFUMDdDN20xWklVcmttX0tLX3lUUDdpY0Nsd0VwaHNFV1dWV0x5YTJKVTNpR0IyaGVnWHZlcEFabjRvUEhMLVZ0UjFyUFRWT25vMEtBT2xHVERnamlfbWY4djEwM1MzRVc4c3k1OHllR3ZQNzU5U1ZFWFRsRnB2eVZYLXViQ3BJVE9hXzdUNFQwN2wwRjlLNDhNVm04WGZfZFJJQ1VR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASX 200 Mining Shares Face Heavy Pressure: What Happened? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnp5eGRXRU9zTEItS0tfVS10TlA2d3pfdWpxYTFhUGx5WHVhcC13bktZU3JBVE1VNnJDNDNZUVlXVk51TVM4UmR2UFhJdXNZbzNRTl9FakxqcXZldWxhZG5xMDNJZ2tyckVSWVhHNFdQOXJJUDJmNzMyVTZNd2dFVFlNZ2gtTjdZdlNRcUpVVGNqSnpjM2VJTkVXSHhYd2M4OUFFaFczSTV4azg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_steel-2026-11-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mukesh Agarwal Starts New Role as Chief Learning & Development and Chief Wellness Officer at Tata Steel - https://hrtoday.in/",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlNDZEhxYTBicjNMVzJScnRlS3FNbGdUWnJRZ1IyNnM4ODBqOFVIZ19UQVZIbVBqcDJCZnhiOG9ka1dPWElpbEtqNEtzRnJOZklrUlpIVXJhcGtYYnMyY0ZiQlJuTV9ncVhTcHR1eWJLLS1Ua3NsZnhPY0JxUGVmNXhjdk5lLW54NERoazQ1eVRpYnB3YlBadTFwMHN0MWZMTm5YVDNzanpreDNtdklidDU5Z1NSTEY4TWhyRFVB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_steel-2026-11-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APL Apollo to buy Tata Steel units for $1.76B in cash - Dealroom",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0RoZ0pUVFlFUGx6X2JUeF9naEk3dXB3N05vaXd3Y2ltcHhKUWRBX1YyTU9LQU41S3hpQ0E5QnBKZ3JvYklnUDQyYk1meU9jN0tmYmZjUUZ0QTF4cnNpLWlTUVliaHNsRGNXbWJ1WkVnNGF0M1RqNlBZRjRBN1dOZmpOVTRUSGZERTlqbUt6NA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 7
+      },
+      {
+        "id": "rio_tinto",
+        "count": 1
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 534,
+    "dup_title": 307,
+    "too_old": 174,
+    "gate1_blocked": 13,
+    "gate2_blocked": 24,
+    "passed": 16,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia",
+      "Why Is Copper in Focus After an 11.76% Weekly Slide at BHP Group (ASX:BHP)? - Kalkine",
+      "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+      "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge - ABC News & Headlines – Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為塔塔鋼鐵、力拓、安賽樂米塔爾相關動態：「Tata Steel closes in on APL Apollo buyout; ArcelorMittal ...」。主要關注主題為鋼鐵產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tata Steel closes in on APL Apollo buyout; ArcelorMittal also in fray - ET Infra（鋼鐵產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "UK Market Correction Puts Lloyds (LSE: LLOY), Rio Tinto (LSE: RIO) and Natwes...（鋼鐵產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
