@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-23",
+  "total_events": 56,
+  "by_company": {
+    "rio_tinto": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "bhp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fortescue": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "tata_steel": {
+      "count": 19,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 48,
+      "sentiment_avg": -0.02
+    },
+    "steel_price": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "capacity_utilization": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "trade_policy": {
+      "count": 3,
+      "sentiment_avg": -0.25
+    },
+    "iron_ore_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:40:19.537920Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bhp-2026-11-23-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rio Tinto, Strategic Resources and BHP – China increases the pressure | 2026-11-22 | Investing News - Stockhouse",
+      "companies": [
+        "bhp",
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHpQNTVXb1BsRG1BaWxRMUwzM1JCUTRvM2JlOEM1UVRMaWN5cGo2OW5ZbUNKX2Z3M0NFYl9URkJqS3JqVU5LX2FGUHVERVNHOE5USEFsQV9zbWRoR1RsdWdVWG1wbTJvV0d3bDBFMEdyc1BvUkFSemxFTUZIWVZNQ2Y5VXdJRzZIMG5lV2pIcHR6ZXFFTUpXbTRSZHE4UGJKbGs3UWhzcGJzaEJqOXN5VTlKMFNhVlRq?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-23-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global steel overcapacity to exceed 700 million tonnes in 2026 – OECD",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gmk.center/en/news/global-steel-overcapacity-to-exceed-700-million-tonnes-in-2026-oecd/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-23-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Untimely protection: why Ukraine is delaying anti-dumping duties on Turkish pipes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://gmk.center/en/posts/untimely-protection-why-ukraine-is-delaying-anti-dumping-duties-on-turkish-pipes/"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto accused of sacking female staff over ‘skills and lifestyle’ in Federal Court lawsuit - AFR",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0tTR1ZQSFMzOUp5TWEtYmFMMVQwRE9DQWRPaW9WMzFxR1VzOW92NzdUdkJoRWljcUsyUVZsdkhDRVhHdElxQUdNaENPVzVjZ3lWcXFZU0E4aGs3RnA2ZWhUVURYQnpCemRXZ1VYcW5xaURxcV9oZ0tVVHJrRXhuYng1RUVOd0Rwczc1TzNsNmQ5NnNkRmV6bUNpUHFsVlRxWUkwMV8tdEFlNlplQ0JKTmtrMlRRSEIyeWFFVw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can new discrimination lawsuit pressure Rio Tinto stock? - Traders Union",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1ZkT1pkM1dYeVhqc1VXam1ZY3V0NUJyWjhxTzVtSlh3UnRPVmtBXzFKcDBMYUx6X05jaHhQOW9oWUZhd01kSE9aeS1ENDlmUEpJTnZud1ZreVNFVU03cnRZcnJ1a042QlNlU3BFNmh3VGpUSmR1YnA4ZGJkNG56UGs1YXlHYWJM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 48,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 47,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 19
+      },
+      {
+        "id": "rio_tinto",
+        "count": 6
+      },
+      {
+        "id": "arcelormittal",
+        "count": 6
+      },
+      {
+        "id": "fortescue",
+        "count": 2
+      },
+      {
+        "id": "bhp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 48
+      },
+      {
+        "id": "steel_price",
+        "count": 4
+      },
+      {
+        "id": "trade_policy",
+        "count": 3
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 496,
+    "dup_title": 244,
+    "too_old": 170,
+    "gate1_blocked": 9,
+    "gate2_blocked": 14,
+    "passed": 59,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Rio Tinto Group (RIO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Rio Tinto Plc Stock 12‑Month Price Target Cut to $93.08, Implies 28% Upside - TradingView",
+      "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine - The Guardian",
+      "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge - ABC News & Headlines – Australia",
+      "Rio Tinto plc Stock 12‑Month Price Target Cut to GBX 7,638.62, Implies 35% Upside - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為塔塔鋼鐵、力拓、安賽樂米塔爾相關動態：「Rio Tinto, Strategic Resources and BHP – China increases ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rio Tinto, Strategic Resources and BHP – China increases the pressure | 2026-...",
+        "level": "yellow"
+      },
+      {
+        "text": "Global steel overcapacity to exceed 700 million tonnes in 2026 – OECD（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
