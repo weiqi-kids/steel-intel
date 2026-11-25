@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:17:57.496151Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rio_tinto-2026-11-25-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rio Tinto sees JPMorgan exit: Can RIO avoid further losses? - Traders Union",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGYyTHBydHpPdFR2WVJZSUxlZlJhc3NWQkNCV093Y0RJQm02STRjWUhZMThSeXNlLUpjamlsOC1yYXoxQXpvZlZHc1JOa0V6TmItT2h3Zmd0eTNfUkxDMUJVM0pSYjNwYkVOMWx0S05YUUU3R3pDdjhmd2NrYkxXRGwxOTVLTmVt?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bhp-2026-11-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BHP Group (ASX:BHP): Copper and Iron Ore Operations Shape FY27 Priorities - Kalkine",
+      "companies": [
+        "bhp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmdDbHVqSlFST002VEJLbDBBUEsydFFhMzR2YzhIbGwxX2VicGpWN0pNaEtEZWpSdW9jTHNteXFIcVlhMklVWW1DamFOTzBxaGZnVm1sdWdRdW9oQ1BOQnFnNkRham5VV2hHRTNnc0d1V3QxYXQxRlVwV1ZLTktYOGFadWlqWkExNmdJcWkyVmRDcl9aR2ZzSEQyczkxUlZaSU1NSDBCOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-11-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should Rio Tinto Group (LSE:RIO) Investors Worry About This Discrimination Lawsuit? - Yahoo! Finance Canada",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ga1NsR2pfQ2ZjcUUtWF9YdVU5S0dSeGpCYTdmd2FJZG0yOUFvSFEyNjN1aDhXNW1KYWdoeGhYaGMyWDEzWHhIbk83RWZGUTJvTlVsd2QtSlB6cGpLSUh5WmE1S3d1YVlCR2tlTV9tLWw4UVB6VEhSUVpzQkQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-11-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should Rio Tinto Group (LSE:RIO) Investors Worry About This Discrimination Lawsuit? - Yahoo Finance",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaW0zMkdpOF9aaF9wbXQwOVhRSHd0RURiYXpfQjlaQ0hwcHJ5RVE5cWo1UGp3ck84S0l2Y185ZEZGRWJQU2ZmMjh6LVRnQ0t5ZGxsci04WGtBZHNjQW9FNExHMGlpSEFWYk9tNGVLWTFDakM3bzhSX3p2R3FkMU9SbG04QXhrQlk5b2JURnlwMkswQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-11-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "XCMG is preferred heavy equipment supplier to Rio Tinto for Winu project - International Mining",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGxxOW9feUZHMENxdWNMVVlLV3llVkxwOTRfUzktbnpkSkpGZUFrY2NNRm1BOFdsOFR0VHlhVVhPdjA5dzM3cVF6aTFMX0R4WDVGN292blUyTmtSZi1QdVo0OExqSHVXU3JVOWstTzUwLTZHbURodnF1bWtzcXptWWFCbzhxUTE5ZEhBbHNvbkNSYVlJZVRGLThxUDJDU3pNN3gzX3VEeHdEdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "iron_ore_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 50,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 44,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 12
+      },
+      {
+        "id": "rio_tinto",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "hyundai_steel",
+        "count": 2
+      },
+      {
+        "id": "vale",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "iron_ore_price",
+        "count": 3
+      },
+      {
+        "id": "steel_price",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 540,
+    "dup_title": 279,
+    "too_old": 167,
+    "gate1_blocked": 14,
+    "gate2_blocked": 20,
+    "passed": 60,
+    "pass_rate": "23.0%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "JPMorgan Chase Ceases to Be Substantial Holder of Rio Tinto - TipRanks",
+      "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge - ABC News & Headlines – Australia",
+      "Caring for Murujuga Country - Rio Tinto",
+      "Rio Tinto provides update on New Zealand Aluminium Smelter - Aluminium International Today"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 50 則事件，焦點為塔塔鋼鐵、力拓、安賽樂米塔爾相關動態：「Rio Tinto sees JPMorgan exit: Can RIO avoid further losse...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rio Tinto sees JPMorgan exit: Can RIO avoid further losses? - Traders Union",
+        "level": "green"
+      },
+      {
+        "text": "BHP Group (ASX:BHP): Copper and Iron Ore Operations Shape FY27 Priorities - K...（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
