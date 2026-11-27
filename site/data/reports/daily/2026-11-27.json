@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:44:46.783354Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_steel-2026-11-27-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tata Steel rises Friday, outperforms market - MarketWatch",
+      "companies": [
+        "tata_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmQtX1M4OHA0RmtoalRCNFpObWtXTEtXUHBaNmQ0eW9NdjJNRUw5OGNQeFNCdnVTUjJzaUlQOW9HSXNTUXlnS0Zza2RvNHNyOWh6UmJfbFlmZ25fR3NSVmZzblNIV2YyNEdWcnFDXzhqUVM1SUd5N0ZoOC1PQlFxdXBKdlVCZTAwNHVzMEdpN3NILXlwbk5QQU1sVHQyMFk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nucor-2026-11-27-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How Are High Steel Prices and Tariffs Powering Record Earnings Growth at Nucor (NYSE:NUE)? - Kalkine Media",
+      "companies": [
+        "nucor"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "steel_price",
+        "industry_general",
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLV9tOHhScGtVRWhQdFE2NW9PSTNqZ0NfYUxmRDQ2MnFrbk54a3hhTzRWcm44U1d3alFkMDZlTjhYT2lXcE51MU1UdFJyN2hlN01fYklvT3BFdUM0ZDNRd2hWVGowX0pnZUxiQmV1M20wMTFzSE5JUDdyMW9ucWswd3Z3N0JORzZnVVRGRGNPTmFfSEdCUklEWFd2N3ZFdkVnLUoyanYySnpNZTZYZG5fb3FDbHZWMzVmbDlLb0lWUWl5RkJQaGNWV3haNXJhZ19rX0RQTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rio_tinto-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Ships First Ore From Giant Simandou Mine to Europe - Bloomberg.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDItMFdSbFRNaFItQkY1TERrcEttMkVfV0hhUXBWOWNvblh0VmpjeEdZSjllZWpvQUdrUzVXM2FqdmZrSlVadXhFNjRpN2d4Tzc2VVFiVDlQMWlJMHlqZlJGdGJQVGNjVG5QYzU3TS13Sm85V25DM0FwSV9IV1dwdzYtQ3pxQU1xTnJObU11cnFzOFBDY1FFWkNORkJmUjJHaW5nRnBDVVg2MEswQWNDbA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rio_tinto-2026-11-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto ships first Simandou iron ore cargo to Europe - Mining.com",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOamt0dzU2cFFSakJ1b2pwUHZiZXBSTWxodmxheUExZTBoaThnTmRGajBGWFNlcDFiNTdqWXFwcXpkMnJ4S2llOXpjUUdPa0NuMlJrZDlZODVkdHN1YzJFbFliZ0REYTFlTXQtWFZ3cldXT1AwdnJKaFRTUmhid2p1YjA5bGdhdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rio_tinto-2026-11-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto ships first Simandou iron ore cargo to Europe - The Northern Miner",
+      "companies": [
+        "rio_tinto"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUMxOERVbU5mVlpqYUMwNE1JZXpLZU16YXFvNFUwa3J3dTFHYkcyclNYanFyaUxidk5lNTVhQjN5X1pUMFpMNGRYZVdtWFV0Y0QzWk9TUndNOGFBX2k3bUkySnJxU0xDS1ZBLVZBUUFhQzk3Nlp5U0tFMjJwcFpNUm1mSkdrcmZRVWJJTGkzaEE3dlRKb0NtQ29VelJaSlhKMFVRRg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "steel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "coking_coal_scrap": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity_utilization": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 33,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_steel",
+        "count": 10
+      },
+      {
+        "id": "rio_tinto",
+        "count": 6
+      },
+      {
+        "id": "arcelormittal",
+        "count": 4
+      },
+      {
+        "id": "fortescue",
+        "count": 1
+      },
+      {
+        "id": "posco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "trade_policy",
+        "count": 3
+      },
+      {
+        "id": "steel_price",
+        "count": 2
+      },
+      {
+        "id": "coking_coal_scrap",
+        "count": 2
+      },
+      {
+        "id": "capacity_utilization",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 539,
+    "dup_title": 278,
+    "too_old": 186,
+    "gate1_blocked": 17,
+    "gate2_blocked": 13,
+    "passed": 45,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "BHP Group Ltd Stock (BHP) Opened Up by 3.10% on Nov 27: A Full Analysis - TradingKey",
+      "Posco, Rio Tinto and First Quantum to rehabi... - BNamericas",
+      "Rio Tinto Reportedly to Sell $2 Billion U.S. Boron Assets in Simplification Drive - marketscreener.c",
+      "Yinhawangka People and Rio Tinto celebrate landmark modernised agreement - Rio Tinto"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為塔塔鋼鐵、力拓、安賽樂米塔爾相關動態：「Tata Steel rises Friday, outperforms market - MarketWatch」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tata Steel rises Friday, outperforms market - MarketWatch（鋼鐵產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "How Are High Steel Prices and Tariffs Powering Record Earnings Growth at Nuco...（鋼品價格、鋼鐵產業通用、貿易政策）",
+        "level": "green"
+      },
+      {
+        "text": "鋼品價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

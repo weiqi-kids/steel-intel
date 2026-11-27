@@ -1,0 +1,16 @@
+{
+  "total_raw": 539,
+  "dup_title": 278,
+  "no_date": 0,
+  "too_old": 186,
+  "gate1_fail": 17,
+  "gate2_fail": 13,
+  "passed": 45,
+  "gate2_samples": [
+    "Vale S.A. (VALE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "BHP Group Ltd Stock (BHP) Opened Up by 3.10% on Nov 27: A Full Analysis - TradingKey",
+    "Posco, Rio Tinto and First Quantum to rehabi... - BNamericas",
+    "Rio Tinto Reportedly to Sell $2 Billion U.S. Boron Assets in Simplification Drive - marketscreener.c",
+    "Yinhawangka People and Rio Tinto celebrate landmark modernised agreement - Rio Tinto"
+  ]
+}
